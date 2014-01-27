@@ -1,0 +1,2471 @@
+genusid | speciesid | latinname | namezh
+110891 | 200019566 | Dracocephalum argunense | 光萼青兰
+110891 | 200019567 | Dracocephalum bipinnatum | 羽叶枝子花
+110891 | 200019570 | Dracocephalum breviflorum | 短花枝子花
+110891 | 200019571 | Dracocephalum bullatum | 皱叶毛建草
+110891 | 200019572 | Dracocephalum calophyllum | 美叶青兰
+110891 | 200019573 | Dracocephalum forrestii | 松叶青兰
+110891 | 210000479 | Dracocephalum fruticulosum | 线叶青兰
+110891 | 200019574 | Dracocephalum grandiflorum | 大花毛建草
+110891 | 200019575 | Dracocephalum heterophyllum | 白花枝子花
+110891 | 210000480 | Dracocephalum hoboksarensis | 和布克塞尔青兰
+110891 | 200019576 | Dracocephalum hookeri | 长齿青兰
+110891 | 200019577 | Dracocephalum imberbe | 无髭毛建草
+110891 | 200019578 | Dracocephalum imbricatum | 覆苞毛建草
+110891 | 200019579 | Dracocephalum integrifolium | 全缘叶青兰
+110891 | 200019580 | Dracocephalum isabellae | 白萼青兰
+110891 | 200019581 | Dracocephalum microflorum | 小花毛建草
+110891 | 200019582 | Dracocephalum moldavica | 香青兰
+110891 | 200019583 | Dracocephalum nodulosum | 多节青兰
+110891 | 200019584 | Dracocephalum nutans | 垂花青兰
+110891 | 200019585 | Dracocephalum origanoides | 铺地青兰
+110891 | 200019586 | Dracocephalum palmatoides | 掌叶青兰
+110891 | 200019587 | Dracocephalum paulsenii | 宽齿青兰
+110891 | 200019588 | Dracocephalum peregrinum | 刺齿枝子花
+110891 | 200019589 | Dracocephalum propinquum | 多枝青兰
+110891 | 200019590 | Dracocephalum psammophilum | 沙地青兰
+110891 | 200019591 | Dracocephalum purdomii | 岷山毛建草
+110891 | 200019592 | Dracocephalum rigidulum | 微硬毛建草
+110891 | 200019593 | Dracocephalum rupestre | 毛建草
+110891 | 200019594 | Dracocephalum ruyschiana | 青兰
+110891 | 210000481 | Dracocephalum stamineum | 长蕊青兰
+110891 | 200019595 | Dracocephalum taliense | 大理青兰
+110891 | 200019596 | Dracocephalum tanguticum | 甘青青兰
+110891 | 200019597 | Dracocephalum tanguticum var. cinereum | 灰毛
+110891 | 200019598 | Dracocephalum tanguticum var. nanum | 矮生
+110891 | 210000482 | Dracocephalum tanguticum var. tanguticum | 甘青青兰
+110891 | 200019599 | Dracocephalum truncatum | 截萼毛建草
+110891 | 200019600 | Dracocephalum velutinum | 绒叶毛建草
+110891 | 200019601 | Dracocephalum velutinum var. intermedium | 圆齿
+110891 | 210000483 | Dracocephalum velutinum var. velutinum | 绒叶毛建草
+110891 | 200019602 | Dracocephalum wallichii | 美花毛建草
+110891 | 200019603 | Dracocephalum wallichii var. platyanthum | 宽花
+110891 | 200019604 | Dracocephalum wallichii var. proliferum | 复序
+110891 | 210000484 | Dracocephalum wallichii var. wallichii | 美花毛建草
+111134 | 200019605 | Dysophylla cruciata | 毛茎水蜡烛
+111134 | 200019606 | Dysophylla linearis | 线叶水蜡烛
+111134 | 200019607 | Dysophylla pentagona | 五棱水蜡烛
+111134 | 200019608 | Dysophylla sampsonii | 齿茎水蜡烛
+111134 | 200019609 | Dysophylla stellata | 水虎尾
+111134 | 200019612 | Dysophylla szemaoensis | 思茅水蜡烛
+111134 | 200019613 | Dysophylla yatabeana | 水蜡烛
+111493 | 200019614 | Elsholtzia argyi | 紫花香薷
+111493 | 200019615 | Elsholtzia blanda | 四方蒿
+111493 | 200019616 | Elsholtzia bodinieri | 东紫苏
+111493 | 200019617 | Elsholtzia capituligera | 头花香薷
+111493 | 200019618 | Elsholtzia cephalantha | 小头花香薷
+111493 | 200019619 | Elsholtzia ciliata | 香薷
+111493 | 200019625 | Elsholtzia communis | 吉龙草
+111493 | 210000492 | Elsholtzia cyprianii | 野香草
+111493 | 210000493 | Elsholtzia cyprianii var. cyprianii | 野香草
+111493 | 210000494 | Elsholtzia cyprianii var. longipilosa | 长毛变种
+111493 | 200019629 | Elsholtzia densa | 密花香薷
+111493 | 200019632 | Elsholtzia eriocalyx | 毛萼香薷
+111493 | 210000495 | Elsholtzia eriocalyx var. eriocalyx | 毛萼香薷
+111493 | 200019633 | Elsholtzia eriocalyx var. tomentosa | 绒毛
+111493 | 200019634 | Elsholtzia eriostachya | 毛穗香薷
+111493 | 200019635 | Elsholtzia feddei | 高原香薷
+111493 | 200019636 | Elsholtzia flava | 黄花香薷
+111493 | 200019637 | Elsholtzia fruticosa | 鸡骨柴
+111493 | 210000496 | Elsholtzia fruticosa var. fruticosa | 鸡骨柴
+111493 | 200019638 | Elsholtzia fruticosa var. glabrifolia | 光叶
+111493 | 200019640 | Elsholtzia glabra | 光香薷
+111493 | 210000497 | Elsholtzia heterophylla | 异叶香薷
+111493 | 200019642 | Elsholtzia hunanensis | 湖南香薷
+111493 | 200019643 | Elsholtzia kachinensis | 水香薷
+111493 | 250098017 | Elsholtzia litangensis |  
+111493 | 200019644 | Elsholtzia luteola | 淡黄香狨
+111493 | 200019645 | Elsholtzia luteola var. holostegia | 金苞
+111493 | 210000498 | Elsholtzia luteola var. luteola | 淡黄香薷
+111493 | 200019646 | Elsholtzia myosurus | 鼠尾香薷
+111493 | 200019647 | Elsholtzia ochroleuca | 黄白香薷
+111493 | 210000499 | Elsholtzia oldhamii | 台湾香薷
+111493 | 200019650 | Elsholtzia penduliflora | 大黄药
+111493 | 200019651 | Elsholtzia pilosa | 长毛襄薷
+111493 | 200019652 | Elsholtzia pygmaea | 矮香薷
+111493 | 200019653 | Elsholtzia rugulosa | 野拔子
+111493 | 200019654 | Elsholtzia saxatilis | 岩生香薷
+111493 | 200019655 | Elsholtzia souliei | 川滇香薷
+111493 | 200019656 | Elsholtzia splendens | 海州香薷
+111493 | 200019657 | Elsholtzia stachyodes | 穗状香薷
+111493 | 210000500 | Elsholtzia stauntonii | 木香薷
+111493 | 200019659 | Elsholtzia strobilifera | 球穗香薷
+111493 | 200019661 | Elsholtzia winitiana | 白香薷
+111963 | 210000514 | Eremostachys desertorum | 沙生沙穗
+111963 | 210000515 | Eremostachys fulgens | 光沙穗
+111963 | 200019663 | Eremostachys moluccelloides | 沙穗
+111963 | 210000516 | Eremostachys phlomoides | 糙苏沙穗
+111963 | 200019665 | Eremostachys speciosa var. viridifolia | 绿叶
+112067 | 250090712 | Eriophyton sunhangii |  
+112067 | 200019666 | Eriophyton wallichii | 绵参
+112425 | 200019667 | Eurysolen gracilis | 宽管花
+200133 | 200019669 | Galeobdolon chinense | 小野芝麻
+200133 | 210000567 | Galeobdolon chinensis var. chinense | 小野芝麻
+200133 | 210000568 | Galeobdolon chinensis var. robustum | 粗壮变种
+200133 | 210000569 | Galeobdolon chinensis var. subglabrum | 近无毛变种
+200133 | 200019672 | Galeobdolon kwangtungense | 广东小野芝麻
+200133 | 200019673 | Galeobdolon szechuanense | 四川小野芝麻
+200133 | 200019674 | Galeobdolon tuberiferum | 块根小野芝麻
+200133 | 200019675 | Galeobdolon yangsoense | 阳朔小野芝麻
+113170 | 200019676 | Galeopsis bifida | 鼬瓣花
+113407 | 200019677 | Geniosporum coloratum | 网萼木
+113621 | 200019678 | Glechoma biondiana | 白透骨消
+113621 | 200019679 | Glechoma biondiana var. angustituba | 狭萼
+113621 | 210000661 | Glechoma biondiana var. biondiana | 白透骨消
+113621 | 200019680 | Glechoma biondiana var. glabrescens | 无毛
+113621 | 200019681 | Glechoma grandis | 日本活血丹
+113621 | 200019682 | Glechoma hederacea | 欧活血丹
+113621 | 200019683 | Glechoma longituba | 活血丹
+113621 | 200019684 | Glechoma sinograndis | 大花活血丹
+113841 | 200019685 | Gomphostemma arbusculum | 木锥花
+113841 | 200019686 | Gomphostemma callicarpoides | 紫珠状锥花
+113841 | 200019687 | Gomphostemma chinense | 中华锥花
+113841 | 200019688 | Gomphostemma chinense var. cauliflorum | 茎花
+113841 | 210000668 | Gomphostemma chinense var. chinense | 中华锥花
+113841 | 200019689 | Gomphostemma crinitum | 长毛锥花
+113841 | 200019690 | Gomphostemma deltodon | 三角齿锥花
+113841 | 200019691 | Gomphostemma hainanense | 海南锥花
+113841 | 200019692 | Gomphostemma latifolium | 宽叶锥花
+113841 | 200019693 | Gomphostemma leptodon | 细齿锥花
+113841 | 200019694 | Gomphostemma lucidum | 光泽锥花
+113841 | 200019695 | Gomphostemma lucidum var. intermedium | 中间
+113841 | 210000669 | Gomphostemma lucidum var. lucidum | 光泽锥花
+113841 | 200019696 | Gomphostemma microdon | 小齿锥花
+113841 | 200019697 | Gomphostemma parviflorum | 小花锥花
+113841 | 200019698 | Gomphostemma parviflorum var. farinosum | 被粉
+113841 | 210000670 | Gomphostemma parviflorum var. parviflorum | 小花锥花
+113841 | 200019699 | Gomphostemma pedunculatum | 抽葶锥花
+113841 | 200019700 | Gomphostemma pseudocrinitum | 拟长毛锥花
+113841 | 200019701 | Gomphostemma stellatohirsutum | 硬毛锥花
+113841 | 200019702 | Gomphostemma sulcatum | 槽茎锥花
+114562 | 200019703 | Hanceola cavaleriei | 贵州四轮香
+114562 | 200019704 | Hanceola cordiovata | 心卵四轮香
+114562 | 200019705 | Hanceola exserta | 出蕊四轮香
+114562 | 200019706 | Hanceola flexuosa | 曲折四轮香
+114562 | 200019707 | Hanceola labordei | 高坡四轮香
+114562 | 200019708 | Hanceola mairei | 龙溪四轮香
+114562 | 200019709 | Hanceola sinensis | 四轮香
+114562 | 200019710 | Hanceola tuberifera | 块茎四轮香
+115314 | 200019711 | Heterolamium debile | 异野芝麻
+115314 | 200019712 | Heterolamium debile var. cardiophyllum | 细齿
+115314 | 210000699 | Heterolamium debile var. debile | 异野芝麻
+115314 | 200019713 | Heterolamium debile var. tochauense | 尖齿
+115608 | 200019714 | Holocheila longipedunculata | 全唇花
+116280 | 200019715 | Hyptis brevipes | 短柄吊球草
+116280 | 200019716 | Hyptis rhomboidea | 吊球草
+116280 | 200019717 | Hyptis spicigera | 穗序山香
+116280 | 200019718 | Hyptis suaveolens | 山香
+116284 | 200019719 | Hyssopus cuspidatus | 硬尖神香草
+116284 | 200019721 | Hyssopus latilabiatus | 宽唇神香草
+116284 | 200019722 | Hyssopus officinalis | 神香草
+116577 | 210000748 | Isodon adenanthus | 腺花香茶菜
+116577 | 210000749 | Isodon adenolomus | 腺叶香茶菜
+116577 | 210000750 | Isodon albopilosus | 白柔毛香茶菜
+116577 | 210000751 | Isodon amethystoides | 香茶菜
+116577 | 210000752 | Isodon angustifolius | 狭叶香茶菜
+116577 | 210000753 | Isodon angustifolius var. angustifolius | 狭叶香茶菜
+116577 | 210000754 | Isodon angustifolius var. glabrescens | 无毛变种
+116577 | 210000755 | Isodon barbeyanus | 线齿香茶菜
+116577 | 210000756 | Isodon brevicalcaratus | 短距香茶菜
+116577 | 210000757 | Isodon brevifolius | 短叶香茶菜
+116577 | 210000758 | Isodon bulleyanus | 苍山香茶菜
+116577 | 210000759 | Isodon calcicolus | 灰岩香茶菜
+116577 | 210000760 | Isodon calcicolus var. calcicolus | 灰岩香茶菜
+116577 | 210000761 | Isodon calcicolus var. subcalvus | 近无毛变种
+116577 | 210000762 | Isodon coetsa | 细锥香茶菜
+116577 | 210000763 | Isodon coetsa var. cavaleriei | 多毛变种
+116577 | 210000764 | Isodon coetsa var. coetsa | 细锥香茶菜
+116577 | 210000765 | Isodon dawoensis | 道孚香茶菜
+116577 | 210000766 | Isodon enanderianus | 紫毛香茶菜
+116577 | 210000767 | Isodon eriocalyx | 毛萼香茶菜
+116577 | 210000768 | Isodon excisoides | 拟缺香茶菜
+116577 | 210000769 | Isodon excisus | 尾叶香茶菜
+116577 | 210000770 | Isodon flabelliformis | 扇脉香茶菜
+116577 | 210000771 | Isodon flavidus | 淡黄香茶菜
+116577 | 210000772 | Isodon flexicaulis | 柔茎香茶菜
+116577 | 210000773 | Isodon forrestii | 紫萼香茶菜
+116577 | 210000774 | Isodon gesneroides | 苣苔香茶菜
+116577 | 210000775 | Isodon gibbosus | 囊花香茶菜
+116577 | 210000776 | Isodon glutinosus | 胶粘香茶菜
+116577 | 210000777 | Isodon grandifolius | 大叶香茶菜
+116577 | 210000778 | Isodon grandifolius var. atuntzeensis | 德钦变种
+116577 | 210000779 | Isodon grandifolius var. grandifolius | 大叶香茶菜
+116577 | 210000780 | Isodon grosseserratus | 粗齿香茶菜
+116577 | 210000781 | Isodon henryi | 鄂西香茶菜
+116577 | 210000782 | Isodon hirtellus | 细毛香茶菜
+116577 | 210000783 | Isodon hispidus | 刚毛香茶菜
+116577 | 210000784 | Isodon inflexus | 内折香茶菜
+116577 | 210000785 | Isodon interruptus | 间断香茶菜
+116577 | 210000786 | Isodon irroratus | 露珠香茶菜
+116577 | 210000787 | Isodon japonicus | 毛叶香茶菜
+116577 | 210000788 | Isodon japonicus var. glaucocalyx | 蓝萼变种
+116577 | 210000789 | Isodon japonicus var. japonicus | 毛叶香茶菜
+116577 | 210000790 | Isodon latifolius | 宽叶香茶菜
+116577 | 210000791 | Isodon leucophyllus | 白叶香茶菜
+116577 | 210000792 | Isodon liangshanicus | 凉山香茶菜
+116577 | 210000793 | Isodon lihsienensis | 理县香茶菜
+116577 | 210000794 | Isodon longitubus | 长管香茶菜
+116577 | 210000795 | Isodon lophanthoides | 线纹香茶菜
+116577 | 210000796 | Isodon lophanthoides var. gerardianus | 狭基变种
+116577 | 210000797 | Isodon lophanthoides var. graciliflorus | 细花变种
+116577 | 210000798 | Isodon lophanthoides var. lophanthoides | 线纹香茶菜
+116577 | 210000799 | Isodon lophanthoides var. micranthus | 小花变种
+116577 | 210000800 | Isodon loxothyrsus | 弯锥香茶菜
+116577 | 210000801 | Isodon lungshengensis | 龙胜香茶菜
+116577 | 210000802 | Isodon macrocalyx | 大萼香茶菜
+116577 | 210000803 | Isodon macrophyllus | 岐伞香茶菜
+116577 | 210000804 | Isodon medilungensis | 麦地龙香茶菜
+116577 | 210000805 | Isodon megathyrsus | 大锥香茶菜
+116577 | 210000806 | Isodon megathyrsus var. megathyrsus | 大锥香茶菜
+116577 | 210000807 | Isodon megathyrsus var. strigosissimus | 多毛变种
+116577 | 210000808 | Isodon melissoides | 苞叶香茶菜
+116577 | 210000809 | Isodon mucronatus | 突尖香茶菜
+116577 | 210000810 | Isodon muliensis | 木里香茶菜
+116577 | 210000812 | Isodon nervosus | 显脉香茶菜
+116577 | 210000813 | Isodon oresbius | 山地香茶菜
+116577 | 210000814 | Isodon pantadenius | 全腺香茶菜
+116577 | 210000815 | Isodon parvifolius | 小叶香茶菜
+116577 | 210000816 | Isodon pharicus | 川藏香茶菜
+116577 | 210000817 | Isodon phyllopodus | 叶柄香茶菜
+116577 | 210000818 | Isodon phyllostachys | 叶穗香茶菜
+116577 | 210000819 | Isodon pleiophyllus | 多叶香茶菜
+116577 | 210000820 | Isodon pleiophyllus var. dolichodens | 长齿变种
+116577 | 210000821 | Isodon pleiophyllus var. pleiophyllus | 多叶香茶菜
+116577 | 210000822 | Isodon racemosus | 总序香茶菜
+116577 | 210000823 | Isodon rosthornii | 瘿花香茶菜
+116577 | 210000824 | Isodon rubescens | 碎米桠
+116577 | 210000826 | Isodon rugosiformis | 类皱叶香茶菜
+116577 | 210000827 | Isodon rugosus | 皱叶香茶菜
+116577 | 210000828 | Isodon scoparius | 帚状香茶菜
+116577 | 210000829 | Isodon scrophularioides | 宽花香茶菜
+116577 | 210000830 | Isodon sculponeatus | 黄花香茶菜
+116577 | 210000831 | Isodon secundiflorus | 侧花香茶菜
+116577 | 210000832 | Isodon serra | 溪黄草
+116577 | 210000833 | Isodon setschwanensis | 四川香茶菜
+116577 | 210000834 | Isodon silvaticus | 林生香茶菜
+116577 | 210000835 | Isodon smithianus | 马尔康香茶菜
+116577 | 210000836 | Isodon tenuifolius | 细叶香茶菜
+116577 | 210000837 | Isodon ternifolius | 牛尾草
+116577 | 210000838 | Isodon walkeri | 长叶香茶菜
+116577 | 210000839 | Isodon wardii | 西藏香茶菜
+116577 | 210000840 | Isodon websteri | 辽宁香茶菜
+116577 | 210000841 | Isodon weisiensis | 维西香茶菜
+116577 | 210000842 | Isodon wikstroemioides | 荛花香茶菜
+116577 | 210000843 | Isodon xerophilus | 旱生香茶菜
+116577 | 210000844 | Isodon yuennanensis | 不育红
+117022 | 200019723 | Keiskea australis | 南方香简草
+117022 | 200019724 | Keiskea elsholtzioides | 香薷状香简草
+117022 | 200019725 | Keiskea glandulosa | 腺毛香简草
+117022 | 200019726 | Keiskea sinensis | 中华香简草
+117022 | 200019727 | Keiskea szechuanensis | 香简草
+117116 | 200019728 | Kinostemon alborubrum | 粉红动蕊花
+117116 | 200019729 | Kinostemon ornatum | 动蕊花
+117116 | 210000939 | Kinostemon veronicifolia | 保康动蕊花
+117497 | 210000942 | Lagochilus bungei | 阿尔泰兔唇花
+117497 | 200019733 | Lagochilus diacanthophyllus | 二刺叶兔唇花
+117497 | 200019734 | Lagochilus grandiflorus | 大花兔唇花
+117497 | 200019735 | Lagochilus hirtus | 硬毛兔唇花
+117497 | 200019736 | Lagochilus ilicifolius | 冬青叶兔唇花
+117497 | 200019738 | Lagochilus kaschgaricus | 喀什兔唇花
+117497 | 200019739 | Lagochilus lanatonodus | 毛节兔唇花
+117497 | 210000943 | Lagochilus macrodontus | 大齿兔唇花
+117497 | 200019742 | Lagochilus platyacanthus | 阔刺兔唇花
+117497 | 200019743 | Lagochilus pungens | 锐刺兔唇花
+117497 | 210000944 | Lagochilus xinjiangensis | 新疆兔唇花
+117502 | 200019744 | Lagopsis eriostachys | 毛穗夏至草
+117502 | 200019745 | Lagopsis flava | 黄花夏至草
+117502 | 200019746 | Lagopsis supina | 夏至草
+117521 | 200019747 | Lallemantia royleana | 扁柄草
+117534 | 200019748 | Lamiophlomis rotata | 独一味
+117535 | 200019749 | Lamium album | 短柄野芝麻
+117535 | 200019750 | Lamium amplexicaule | 宝盖草
+117535 | 200019751 | Lamium barbatum | 野芝麻
+117535 | 200019755 | Lamium maculatum | 紫花野芝麻
+117756 | 200019757 | Lavandula angustifolia | 薰衣草
+117756 | 200019758 | Lavandula latifolia | 宽叶薰衣草
+117993 | 200019760 | Leonurus chaituroides | 假鬃尾草
+117993 | 210000971 | Leonurus deminutus | 兴安益母草
+117993 | 200019761 | Leonurus glaucescens | 灰白益母草
+117993 | 210000972 | Leonurus japonicus | 益母草
+117993 | 200019762 | Leonurus macranthus | 大花益母草
+117993 | 200019764 | Leonurus pseudomacranthus | 錾菜
+117993 | 210000973 | Leonurus pseudopanzerioides | 绵毛益母草
+117993 | 200019765 | Leonurus sibiricus | 细叶益母草
+117993 | 200019767 | Leonurus turkestanicus | 突厥益母草
+117993 | 200019768 | Leonurus urticifolius | 荨麻叶益母草
+117993 | 200019769 | Leonurus villosissimus | 柔毛益母草
+117993 | 200019770 | Leonurus wutaishanicus | 五台山益母草
+118356 | 200019771 | Leucas aspera | 蜂巢草
+118356 | 210000976 | Leucas cephalotes | 头序白绒草
+118356 | 200019772 | Leucas chinensis | 滨海白绒草
+118356 | 200019773 | Leucas ciliata | 绣球防风
+118356 | 200019774 | Leucas lavandulifolia | 线叶白绒草
+118356 | 200019775 | Leucas martinicensis | 卵叶白绒草
+118356 | 200019776 | Leucas mollissima | 白绒草
+118356 | 200019777 | Leucas mollissima var. chinensis | 疏毛
+118356 | 210000977 | Leucas mollissima var. mollissima | 白绒草
+118356 | 200019778 | Leucas mollissima var. scaberula | 糙叶
+118356 | 200019779 | Leucas zeylanica | 绉面草
+118441 | 200019780 | Leucosceptrum canum | 米团花
+118886 | 200019781 | Lophanthus chinensis | 扭藿香
+118886 | 200019782 | Lophanthus krylovii | 阿尔泰扭藿香
+118886 | 200019783 | Lophanthus schrenkii | 天山扭藿香
+118886 | 200019784 | Lophanthus tibeticus | 西藏扭藿香
+119016 | 200019785 | Loxocalyx quinquenervius | 五脉斜萼草
+119016 | 200019786 | Loxocalyx urticifolius | 斜萼草
+119016 | 200019787 | Loxocalyx urticifolius var. decemnervius | 十脉
+119016 | 210001167 | Loxocalyx urticifolius var. urticifolius | 斜萼草
+119161 | 210001172 | Lycopus cavaleriei | 小叶地笋
+119161 | 200019790 | Lycopus europaeus | 欧地笋
+119161 | 210001173 | Lycopus europaeus var. europaeus | 欧地笋
+119161 | 200019791 | Lycopus europaeus var. exaltatus | 深裂
+119161 | 200019792 | Lycopus lucidus | 地笋
+119161 | 200019793 | Lycopus lucidus var. hirtus | 硬毛
+119161 | 210001174 | Lycopus lucidus var. lucidus | 地笋
+119161 | 200019794 | Lycopus lucidus var. maackianus | 异叶
+119161 | 210001175 | Lycopus parviflorus | 小花地笋
+119735 | 210001232 | Marmoritis complanatum | 扭连钱
+119735 | 210001233 | Marmoritis decolorans | 褪色扭连钱
+119735 | 210001234 | Marmoritis nivalis | 雪地扭连钱
+119735 | 210001235 | Marmoritis pharicus | 帕里扭连钱
+119735 | 210001236 | Marmoritis rotundifolia | 圆叶扭连钱
+119743 | 200019796 | Marrubium vulgare | 欧夏至草
+119966 | 200019797 | Meehania faberi | 肉叶龙头草
+119966 | 200019798 | Meehania fargesii | 华西龙头草
+119966 | 210001256 | Meehania fargesii var. fargesii | 华西龙头草
+119966 | 200019799 | Meehania fargesii var. pedunculata | 梗花
+119966 | 200019800 | Meehania fargesii var. pinetorum | 松林
+119966 | 200019801 | Meehania fargesii var. radicans | 走茎
+119966 | 200019802 | Meehania henryi | 龙头草
+119966 | 210001257 | Meehania henryi var. henryi | 龙头草
+119966 | 200019803 | Meehania henryi var. kaitcheensis | 长叶
+119966 | 200019804 | Meehania henryi var. stachydifolia | 圆基叶
+119966 | 250097986 | Meehania montis-koyae |  
+119966 | 200019805 | Meehania pinfaensis | 狭叶龙头草
+119966 | 200019806 | Meehania urticifolia | 荨麻叶龙头草
+120163 | 200019807 | Melissa axillaris | 蜜蜂花
+120163 | 200019808 | Melissa flava | 黄蜜蜂花
+120163 | 200019809 | Melissa officinalis | 香蜂花
+120163 | 200019810 | Melissa yunnanensis | 云南蜂花
+120248 | 200019811 | Mentha asiatica | 假薄荷
+120248 | 210001261 | Mentha canadensis | 薄荷
+120248 | 200019812 | Mentha citrata | 柠檬薄荷
+120248 | 200019813 | Mentha crispata | 皱叶留香
+120248 | 200019814 | Mentha dahurica | 兴安薄荷
+120248 | 200019816 | Mentha longifolia | 欧薄荷
+120248 | 200019818 | Mentha pulegium | 唇萼薄荷
+120248 | 200019820 | Mentha sachalinensis | 东北薄荷
+120248 | 200019821 | Mentha spicata | 留兰香
+120248 | 210001263 | Mentha suaveolens | 圆叶薄荷
+120248 | 200019822 | Mentha vagans | 灰薄荷
+120248 | 210001264 | Mentha X piperita | 辣薄荷
+120339 | 200019823 | Mesona chinensis | 凉粉草
+120339 | 200019824 | Mesona parviflora | 小花凉粉草
+120393 | 200019825 | Metastachydium sagittatum | 箭叶水苏
+120580 | 200019826 | Micromeria barosma | 小香薷
+120580 | 200019827 | Micromeria biflora | 姜味草
+120580 | 210001278 | Micromeria euosma | 清香姜味草
+120580 | 210001279 | Micromeria formosana | 台湾姜味草
+120580 | 200019830 | Micromeria wardii | 西藏姜味草
+120685 | 200019831 | Microtoena affinis | 相近冠唇花
+120685 | 200019832 | Microtoena albescens | 白花冠唇花
+120685 | 200019833 | Microtoena delavayi | 云南冠唇花
+120685 | 200019834 | Microtoena delavayi var. amblyodon | 钝齿
+120685 | 210001280 | Microtoena delavayi var. delavayi | 云南冠唇花
+120685 | 200019835 | Microtoena delavayi var. grandiflora | 大花
+120685 | 200019836 | Microtoena delavayi var. lutea | 黄花
+120685 | 200019837 | Microtoena insuavis | 冠唇花
+120685 | 200019838 | Microtoena longisepala | 长萼冠唇花
+120685 | 200019839 | Microtoena maireana | 石山冠唇花
+120685 | 200019840 | Microtoena megacalyx | 大萼冠唇花
+120685 | 200019841 | Microtoena miyiensis | 米易冠唇花
+120685 | 200019842 | Microtoena mollis | 毛冠唇花
+120685 | 200019843 | Microtoena moupinensis | 宝兴冠唇花
+120685 | 200019844 | Microtoena muliensis | 木里冠唇花
+120685 | 200019845 | Microtoena omeiensis | 峨嵋冠唇花
+120685 | 210001281 | Microtoena patchoulii | 滇南冠唇花
+120685 | 200019847 | Microtoena pauciflora | 少花冠唇花
+120685 | 200019848 | Microtoena prainiana | 南川冠唇花
+120685 | 200019849 | Microtoena robusta | 粗状冠唇花
+120685 | 200019850 | Microtoena stenocalyx | 狭萼冠唇花
+120685 | 200019851 | Microtoena subspicata | 近穗状冠唇花
+120685 | 200019852 | Microtoena subspicata var. intermedia | 中间
+120685 | 210001282 | Microtoena subspicata var. subspicata | 近穗状冠唇花
+120685 | 200019853 | Microtoena urticifolia | 麻叶冠唇花
+120685 | 200019854 | Microtoena urticifolia var. brevipedunculata | 短梗
+120685 | 210001283 | Microtoena urticifolia var. urticifolia | 麻叶冠唇花
+120685 | 200019855 | Microtoena vanchingshanensis | 梵净山冠唇花
+120984 | 200019856 | Monarda didyma | 美国薄荷
+120984 | 200019857 | Monarda fistulosa | 拟美国薄荷
+121236 | 200019858 | Mosla cavaleriei | 小花荠苎
+121236 | 200019859 | Mosla chinensis | 石香薷
+121236 | 200019860 | Mosla dianthera | 小鱼荠苎
+121236 | 200019861 | Mosla exfoliata | 无叶荠苎
+121236 | 200019862 | Mosla formosana | 台湾荠苎
+121236 | 200019863 | Mosla grosseserrata | 荠苎
+121236 | 200019864 | Mosla hangchowensis | 杭州石荠苎
+121236 | 200019865 | Mosla hangchowensis var. cheteana | 建德
+121236 | 210001301 | Mosla hangchowensis var. hangchowensis | 杭州石荠苎
+121236 | 200019866 | Mosla longibracteata | 长苞荠苎
+121236 | 200019867 | Mosla longispica | 长穗荠苎
+121236 | 200019868 | Mosla pauciflora | 少花荠苎
+121236 | 200019869 | Mosla scabra | 石荠苎
+121236 | 200019870 | Mosla soochowensis | 苏州荠苎
+122138 | 210001317 | Nepeta annua | 小裂叶荆芥
+122138 | 200019873 | Nepeta cataria | 荆芥
+122138 | 200019874 | Nepeta coerulescens | 蓝花荆芥
+122138 | 200019875 | Nepeta densiflora | 密花荆芥
+122138 | 200019876 | Nepeta dentata | 齿叶荆芥
+122138 | 200019877 | Nepeta discolor | 异色荆芥
+122138 | 200019878 | Nepeta everardi | 浙荆芥
+122138 | 200019880 | Nepeta floccosa | 丛卷毛荆芥
+122138 | 200019881 | Nepeta fordii | 心叶荆芥
+122138 | 200019882 | Nepeta glutinosa | 腺荆芥
+122138 | 210001318 | Nepeta hemsleyana | 藏荆芥
+122138 | 210001319 | Nepeta jomdaensis | 江达荆芥
+122138 | 200019883 | Nepeta kokamirica | 绢毛荆芥
+122138 | 200019884 | Nepeta kokanica | 绒毛荆芥
+122138 | 200019885 | Nepeta laevigata | 穗花荆芥
+122138 | 210001320 | Nepeta lamiopsis | 假宝盖草
+122138 | 200019886 | Nepeta leucolaena | 白绵毛荆芥
+122138 | 200019887 | Nepeta longibracteata | 长苞荆芥
+122138 | 200019888 | Nepeta manchuriensis | 黑龙江荆芥
+122138 | 200019889 | Nepeta membranifolia | 膜叶荆芥
+122138 | 200019890 | Nepeta micrantha | 小花荆芥
+122138 | 210001321 | Nepeta multifida | 多裂叶荆芥
+122138 | 210001322 | Nepeta nervosa var. lutea | 黄花具脉荆芥
+122138 | 210001323 | Nepeta nuda | 直齿荆芥
+122138 | 200019893 | Nepeta prattii | 康藏荆芥
+122138 | 200019894 | Nepeta pungens | 刺尖荆芥
+122138 | 210001324 | Nepeta raphanorhiza | 块根荆芥
+122138 | 200019896 | Nepeta sessilis | 无柄荆芥
+122138 | 200019897 | Nepeta sibirica | 大花荆芥
+122138 | 200019898 | Nepeta souliei | 狭叶芥荆
+122138 | 200019899 | Nepeta stewartiana | 多花荆芥
+122138 | 200019900 | Nepeta sungpanensis | 松潘荆芥
+122138 | 200019902 | Nepeta supina | 平卧荆芥
+122138 | 210001325 | Nepeta taxkorganica | 喀什荆芥
+122138 | 200019903 | Nepeta tenuiflora | 细花荆芥
+122138 | 210001326 | Nepeta tenuifolia | 裂叶荆芥
+122138 | 200019905 | Nepeta ucranica | 尖齿荆芥
+122138 | 200019906 | Nepeta veitchii | 川西荆芥
+122138 | 200019907 | Nepeta virgata | 帚枝荆芥
+122138 | 200019908 | Nepeta wilsonii | 圆齿荆芥
+122138 | 200019909 | Nepeta yanthina | 淡紫荆芥
+122138 | 210001327 | Nepeta zandaensis | 札达荆芥
+122402 | 200019910 | Nosema cochinchinensis | 龙船草
+122455 | 200019911 | Notochaete hamosa | 钩萼草
+122455 | 200019912 | Notochaete longiaristata | 长刺钩萼草
+122604 | 200019913 | Ocimum americanum | 灰罗勒
+122604 | 200019914 | Ocimum basilicum | 罗勒
+122604 | 210001336 | Ocimum basilicum var. basilicum | 罗勒
+122604 | 200019916 | Ocimum basilicum var. pilosum | 疏柔毛
+122604 | 200019918 | Ocimum gratissimum var. suave | 毛叶
+122604 | 200019919 | Ocimum sanctum | 圣罗勒
+122604 | 200019920 | Ocimum tashiroi | 台湾罗勒
+122851 | 200019921 | Ombrocharis dulcis | 喜雨草
+123162 | 200019922 | Origanum vulgare | 牛至
+123284 | 200019923 | Orthosiphon marmoritis | 石生鸡脚参
+123284 | 200019925 | Orthosiphon rubicundus var. hainanensis | 海南
+123284 | 200019926 | Orthosiphon wulfenioides | 鸡脚参
+123284 | 200019927 | Orthosiphon wulfenioides var. foliosus | 鸡脚参茎叶
+123284 | 210001384 | Orthosiphon wulfenioides var. wulfenioides | 鸡脚参
+123787 | 210001412 | Panzerina canescens | 灰白脓疮草
+123787 | 210001413 | Panzerina lanata | 绒毛脓疮草
+123787 | 210001414 | Panzerina lanata var. alaschanica | 脓疮草
+123787 | 210001415 | Panzerina lanata var. albescens | 变白变种
+123787 | 210001416 | Panzerina lanata var. argyracea | 银白变种
+123787 | 210001417 | Panzerina lanata var. lanata | 绒毛脓疮草
+123787 | 210001418 | Panzerina lanata var. parviflora | 小花变种
+123915 | 200019932 | Paralamium gracile | 假野芝麻
+123971 | 200019933 | Paraphlomis albida | 白毛假糙苏
+123971 | 210001429 | Paraphlomis albida var. albida | 白毛假糙苏
+123971 | 200019934 | Paraphlomis albida var. brevidens | 短齿
+123971 | 200019935 | Paraphlomis albiflora | 白花假糙苏
+123971 | 210001430 | Paraphlomis albiflora var. albiflora | 白花假糙苏
+123971 | 200019936 | Paraphlomis albiflora var. biflora | 二花
+123971 | 210001431 | Paraphlomis albotomentosa | 绒毛假糙苏
+123971 | 200019938 | Paraphlomis brevifolia | 短叶假糙苏
+123971 | 200019939 | Paraphlomis foliata | 曲茎假糙苏
+123971 | 200019940 | Paraphlomis gracilis | 纤细假糙苏
+123971 | 210001432 | Paraphlomis gracilis var. gracilis | 纤细假糙苏
+123971 | 200019941 | Paraphlomis gracilis var. lutienensis | 罗甸
+123971 | 200019942 | Paraphlomis hirsutissima | 多硬毛假糙苏
+123971 | 200019943 | Paraphlomis hispida | 刚毛假糙苏
+123971 | 200019944 | Paraphlomis intermedia | 中间假糙苏
+123971 | 200019945 | Paraphlomis javanica | 假糙苏
+123971 | 200019946 | Paraphlomis javanica var. angustifolia | 狭叶
+123971 | 200019947 | Paraphlomis javanica var. coronata | 小叶
+123971 | 200019948 | Paraphlomis javanica var. henryi | 短齿
+123971 | 210001433 | Paraphlomis javanica var. javanica | 假糙苏
+123971 | 200019949 | Paraphlomis kwangtungensis | 八角花
+123971 | 200019950 | Paraphlomis lanceolata | 长叶假糙苏
+123971 | 210001434 | Paraphlomis lanceolata var. lanceolata | 长叶假糙苏
+123971 | 200019951 | Paraphlomis lanceolata var. sessilifolia | 无柄
+123971 | 200019952 | Paraphlomis lanceolata var. subrosea | 红花
+123971 | 200019953 | Paraphlomis lancidentata | 云和假糙苏
+123971 | 200019954 | Paraphlomis membranacea | 薄萼假糙苏
+123971 | 200019955 | Paraphlomis pagantha | 奇异假糙苏
+123971 | 200019956 | Paraphlomis parviflora | 小花假糙苏
+123971 | 200019957 | Paraphlomis patentisetulosa | 展毛假糙苏
+123971 | 200019958 | Paraphlomis paucisetosa | 少刺毛假糙苏
+123971 | 200019959 | Paraphlomis reflexa | 折齿假糙苏
+123971 | 200019960 | Paraphlomis seticalyx | 刺萼假糙苏
+123971 | 200019961 | Paraphlomis setulosa | 小刺毛假糙苏
+123971 | 200019962 | Paraphlomis subcoriacea | 近革叶假糙苏
+123971 | 200019963 | Paraphlomis tomentosocapitata | 绒头假糙苏
+124553 | 200019964 | Perilla frutescens | 紫苏
+124553 | 200019967 | Perilla frutescens var. crispa | 回回苏
+124553 | 210001610 | Perilla frutescens var. frutescens | 紫苏
+124553 | 210001611 | Perilla frutescens var. purpurascens | 野生紫苏
+124612 | 200019968 | Perovskia abrotanoides | 分药花
+124612 | 210001615 | Perovskia atriplicifolia | 滨藜叶分药花
+125058 | 200019969 | Phlomis agraria | 耕地糙苏
+125058 | 200019970 | Phlomis alpina | 高山糙苏
+125058 | 200019971 | Phlomis ambigua | 沧江糙苏
+125058 | 200019972 | Phlomis atropurpurea | 深紫糙苏
+125058 | 200019973 | Phlomis betonicoides | 假秦艽
+125058 | 200019974 | Phlomis chinghoensis | 清河糙苏
+125058 | 200019975 | Phlomis congesta | 乾精菜
+125058 | 200019976 | Phlomis cuneata | 楔叶糙苏
+125058 | 200019977 | Phlomis dentosa | 尖齿糙苏
+125058 | 210001622 | Phlomis dentosa var. dentosa | 尖齿糙苏
+125058 | 200019978 | Phlomis dentosa var. glabrescens | 渐光糙苏
+125058 | 200019979 | Phlomis fimbriata | 裂唇糙苏
+125058 | 200019980 | Phlomis forrestii | 苍山糙苏
+125058 | 200019982 | Phlomis franchetiana | 大理糙苏
+125058 | 200019985 | Phlomis fruticosa | 橙花糙苏
+125058 | 200019986 | Phlomis inaequalisepala | 斜萼糙苏
+125058 | 200019987 | Phlomis jeholensis | 口外糙苏
+125058 | 200019988 | Phlomis kansuensis | 甘肃糙苏
+125058 | 200019989 | Phlomis koraiensis | 长白糙苏
+125058 | 200019990 | Phlomis likiangensis | 丽江糙苏
+125058 | 200019991 | Phlomis longicalyx | 长萼糙苏
+125058 | 200019992 | Phlomis maximowiczii | 大叶糙苏
+125058 | 200019993 | Phlomis medicinalis | 萝卜秦艽
+125058 | 200019994 | Phlomis megalantha | 大花糙苏
+125058 | 200019996 | Phlomis melanantha | 黑花糙苏
+125058 | 200019998 | Phlomis milingensis | 米林糙苏
+125058 | 200019999 | Phlomis mongolica | 串铃草
+125058 | 200020000 | Phlomis mongolica var. macrocephala | 大头
+125058 | 210001623 | Phlomis mongolica var. mongolica | 串铃草
+125058 | 200020001 | Phlomis muliensis | 木里糙苏
+125058 | 200020002 | Phlomis oreophila | 山地糙苏
+125058 | 200020003 | Phlomis oreophila var. evillosa | 无长毛
+125058 | 210001624 | Phlomis oreophila var. oreophila | 山地糙苏
+125058 | 200020004 | Phlomis ornata | 美观糙苏
+125058 | 200020006 | Phlomis paohsingensis | 宝兴糙苏
+125058 | 200020007 | Phlomis pararotata | 假轮伏糙苏
+125058 | 200020008 | Phlomis pedunculata | 具梗糙苏
+125058 | 200020009 | Phlomis pratensis | 草原糙苏
+125058 | 200020010 | Phlomis pygmaea | 矮糙苏
+125058 | 200020011 | Phlomis ruptilis | 裂萼糙苏
+125058 | 200020012 | Phlomis setifera | 刺毛糙苏
+125058 | 200020013 | Phlomis strigosa | 糙毛糙苏
+125058 | 200020014 | Phlomis szechuanensis | 柴续断
+125058 | 200020015 | Phlomis tatsienensis | 康定糙苏
+125058 | 200020016 | Phlomis tatsienensis var. hirticalyx | 毛萼
+125058 | 210001625 | Phlomis tatsienensis var. tatsienensis | 康定糙苏
+125058 | 200020017 | Phlomis tibetica | 西藏糙苏
+125058 | 210001626 | Phlomis tibetica var. tibetica | 西藏糙苏
+125058 | 200020018 | Phlomis tibetica var. wardii | 毛盔
+125058 | 200020019 | Phlomis tuberosa | 块根糙苏
+125058 | 200020020 | Phlomis umbrosa | 糙苏
+125058 | 200020021 | Phlomis umbrosa var. australis | 南方
+125058 | 200020022 | Phlomis umbrosa var. latibracteata | 宽苞
+125058 | 200020023 | Phlomis umbrosa var. ovalifolia | 卵叶
+125058 | 200020024 | Phlomis umbrosa var. stenocalyx | 狭萼
+125058 | 210001627 | Phlomis umbrosa var. umbrosa | 糙苏
+125058 | 200020025 | Phlomis uniceps | 单头糙苏
+125058 | 200020026 | Phlomis younghusbandii | 螃蟹甲
+126277 | 200020031 | Pogostemon auricularius | 水珍珠菜
+126277 | 200020032 | Pogostemon brevicorollus | 短冠刺蕊草
+126277 | 200020033 | Pogostemon cablin | 广藿香
+126277 | 200020034 | Pogostemon championii | 短穗刺蕊草
+126277 | 200020035 | Pogostemon chinensis | 长苞刺蕊草
+126277 | 200020036 | Pogostemon dielsianus | 狭叶刺蕊草
+126277 | 200020037 | Pogostemon esquirolii | 膜叶刺蕊草
+126277 | 210001689 | Pogostemon esquirolii var. esquirolii | 膜叶刺蕊草
+126277 | 200020038 | Pogostemon esquirolii var. tsingpingensis | 金平
+126277 | 200020039 | Pogostemon falcatus | 镰叶水珍珠菜
+126277 | 200020040 | Pogostemon formosanus | 台湾刺蕊草
+126277 | 200020041 | Pogostemon glaber | 刺蕊草
+126277 | 200020043 | Pogostemon griffithii var. latifolius | 宽叶
+126277 | 200020044 | Pogostemon hispidocalyx | 刚毛萼刺蕊草
+126277 | 200020045 | Pogostemon menthoides | 小刺蕊草
+126277 | 200020046 | Pogostemon nigrescens | 黑刺蕊草
+126277 | 200020047 | Pogostemon septentrionalis | 北刺蕊草
+126277 | 210001690 | Pogostemon xanthiifolius | 苍耳叶刺蕊草
+126862 | 200020049 | Prunella asiatica | 山菠菜
+126862 | 200020051 | Prunella grandiflora | 大花夏枯草
+126862 | 200020052 | Prunella hispida | 硬毛夏枯草
+126862 | 200020053 | Prunella vulgaris | 夏枯草
+126862 | 200020054 | Prunella vulgaris var. lanceolata | 狭叶夏枯草
+126862 | 210001825 | Prunella vulgaris var. vulgaris | 夏枯草
+128770 | 200020165 | Rosmarinus officinalis | 迷迭香
+128783 | 200020166 | Rostrinucula dependens | 钩子木
+128783 | 200020167 | Rostrinucula sinensis | 长叶钩子木
+128836 | 200020168 | Rubiteucris palmata | 掌叶石蚕
+129087 | 200020169 | Salvia adiantifolia | 铁线鼠尾草
+129087 | 200020170 | Salvia adoxoides | 五福花鼠尾草
+129087 | 200020171 | Salvia aerea | 橙色鼠尾草
+129087 | 200020172 | Salvia alatipetiolata | 翅柄鼠尾草
+129087 | 200020173 | Salvia appendiculata | 附片鼠尾草
+129087 | 200020174 | Salvia atropurpurea | 暗紫鼠尾草
+129087 | 200020175 | Salvia atrorubra | 暗红鼠尾草
+129087 | 210002011 | Salvia baimaensis | 白马鼠尾草
+129087 | 200020176 | Salvia bifidocalyx | 开萼鼠尾草
+129087 | 200020177 | Salvia bowleyana | 南丹参
+129087 | 210002012 | Salvia bowleyana var. bowleyana | 南丹参
+129087 | 200020178 | Salvia bowleyana var. subbipinnata | 近二回羽裂
+129087 | 200020179 | Salvia brachyloma | 短冠鼠尾草
+129087 | 200020180 | Salvia breviconnectivata | 短隔鼠尾草
+129087 | 200020181 | Salvia brevilabra | 短唇鼠尾草
+129087 | 200020182 | Salvia bulleyana | 戟叶鼠尾草
+129087 | 200020183 | Salvia campanulata | 钟萼鼠尾草
+129087 | 210002013 | Salvia campanulata var. campanulata | 钟萼鼠尾草
+129087 | 200020184 | Salvia campanulata var. codonantha | 截萼
+129087 | 200020185 | Salvia campanulata var. fissa | 裂萼
+129087 | 200020186 | Salvia campanulata var. hirtella | 微硬毛
+129087 | 200020187 | Salvia castanea | 栗色鼠尾草
+129087 | 200020188 | Salvia cavaleriei | 贵州鼠尾草
+129087 | 210002014 | Salvia cavaleriei var. cavaleriei | 贵州鼠尾草
+129087 | 200020189 | Salvia cavaleriei var. erythrophylla | 紫背
+129087 | 200020190 | Salvia cavaleriei var. simplicifolia | 血盆草
+129087 | 200020191 | Salvia chienii | 黄山鼠尾草
+129087 | 210002015 | Salvia chienii var. chienii | 黄山鼠尾草
+129087 | 200020192 | Salvia chienii var. wuyuania | 婺源
+129087 | 200020193 | Salvia chinensis | 华鼠尾草
+129087 | 200020194 | Salvia chunganensis | 崇安鼠尾草
+129087 | 200020195 | Salvia coccinea | 朱唇
+129087 | 200020196 | Salvia cyclostegia | 圆苞鼠尾草
+129087 | 210002016 | Salvia cyclostegia var. cyclostegia | 圆苞鼠尾草
+129087 | 200020197 | Salvia cyclostegia var. purpurascens | 紫花
+129087 | 200020198 | Salvia cynica | 犬形鼠尾草
+129087 | 210002017 | Salvia dabieshanensis | 大别山丹参
+129087 | 200020199 | Salvia deserta | 新疆鼠尾草
+129087 | 200020200 | Salvia digitaloides | 毛地黄鼠尾草
+129087 | 210002018 | Salvia digitaloides var. digitaloides | 毛地黄鼠尾草
+129087 | 200020201 | Salvia digitaloides var. glabrescens | 无毛
+129087 | 200020202 | Salvia dolichantha | 长花鼠尾草
+129087 | 200020203 | Salvia evansiana | 雪山鼠尾草
+129087 | 210002019 | Salvia evansiana var. evansiana | 雪山鼠尾草
+129087 | 200020204 | Salvia evansiana var. scaposa | 葶花
+129087 | 200020205 | Salvia filicifolia | 蕨叶鼠尾草
+129087 | 200020206 | Salvia flava | 黄花鼠尾草
+129087 | 210002020 | Salvia flava var. flava | 黄花鼠尾草
+129087 | 200020207 | Salvia flava var. megalantha | 大花
+129087 | 200020208 | Salvia fragarioides | 草莓鼠尾草
+129087 | 200020210 | Salvia grandifolia | 大叶鼠尾草
+129087 | 200020211 | Salvia handelii | 木里鼠尾草
+129087 | 200020212 | Salvia hayatae | 阿里山鼠尾草
+129087 | 210002021 | Salvia hayatae var. hayatae | 阿里山鼠尾草
+129087 | 200020213 | Salvia hayatae var. pinnata | 羽叶
+129087 | 200020214 | Salvia heterochroa | 异色鼠尾草
+129087 | 200020215 | Salvia himmelbaurii | 瓦山鼠尾草
+129087 | 200020216 | Salvia honania | 河南鼠尾草
+129087 | 200020217 | Salvia hupehensis | 湖北鼠尾草
+129087 | 200020218 | Salvia hylocharis | 林华鼠尾草
+129087 | 200020220 | Salvia japonica | 鼠尾草
+129087 | 210002022 | Salvia japonica var. japonica | 鼠尾草
+129087 | 210002023 | Salvia japonica var. multifoliolata | 多小叶变种
+129087 | 200020222 | Salvia kiangsiensis | 关公须
+129087 | 200020223 | Salvia kiaometiensis | 荠麦鼠尾草
+129087 | 200020224 | Salvia lankongensis | 洱源鼠尾草
+129087 | 200020225 | Salvia liguliloba | 舌瓣鼠尾草
+129087 | 200020226 | Salvia mairei | 东川鼠尾草
+129087 | 200020227 | Salvia maximowicziana | 鄂西鼠尾草
+129087 | 200020228 | Salvia maximowicziana var. floribunda | 多花
+129087 | 210002024 | Salvia maximowicziana var. maximowicziana | 鄂西鼠尾草
+129087 | 210002025 | Salvia meiliensis | 美丽鼠尾草
+129087 | 200020229 | Salvia mekongensis | 湄公鼠尾草
+129087 | 200020230 | Salvia miltiorrhiza | 丹参
+129087 | 200020231 | Salvia miltiorrhiza var. charbonnelii | 单叶
+129087 | 210002026 | Salvia miltiorrhiza var. miltiorrhiza | 丹参
+129087 | 200020232 | Salvia nanchuanensis | 南川鼠尾草
+129087 | 210002027 | Salvia nanchuanensis var. nanchuanensis | 南川鼠尾草
+129087 | 200020233 | Salvia nanchuanensis var. pteridifolia | 蕨叶
+129087 | 200020235 | Salvia nipponica var. formosana | 台湾鼠尾草
+129087 | 210002028 | Salvia nubicola | 云生丹参
+129087 | 200020236 | Salvia officinalis | 撒尔维亚
+129087 | 200020237 | Salvia omeiana | 峨嵋鼠尾草
+129087 | 200020238 | Salvia omeiana var. grandibracteata | 宽苞
+129087 | 210002029 | Salvia omeiana var. omeiana | 峨眉鼠尾草
+129087 | 200020239 | Salvia paohsingensis | 宝兴鼠尾草
+129087 | 210002030 | Salvia paramiltiorrhiza | 拟丹参
+129087 | 200020240 | Salvia pauciflora | 少花鼠尾草
+129087 | 200020241 | Salvia piasezkii | 秦岭鼠尾草
+129087 | 200020242 | Salvia plebeia | 荔枝草
+129087 | 200020243 | Salvia plectranthoides | 长冠鼠尾草
+129087 | 200020244 | Salvia pogonochila | 毛唇鼠尾草
+129087 | 210002031 | Salvia potaninii | 洪桥鼠尾草
+129087 | 200020246 | Salvia prattii | 康定鼠尾草
+129087 | 200020247 | Salvia prionitis | 红根草
+129087 | 200020248 | Salvia przewalskii | 甘西鼠尾草
+129087 | 210002032 | Salvia przewalskii var. alba | 白花变种
+129087 | 200020249 | Salvia przewalskii var. glabrescens | 少毛
+129087 | 200020250 | Salvia przewalskii var. mandarinorum | 褐毛
+129087 | 210002033 | Salvia przewalskii var. przewalskii | 甘西鼠尾草
+129087 | 210002034 | Salvia qimenensis | 祁门鼠尾草
+129087 | 200020252 | Salvia roborowskii | 粘毛鼠尾草
+129087 | 200020253 | Salvia scapiformis | 地梗鼠尾草
+129087 | 200020254 | Salvia scapiformis var. carphocalyx | 钟萼
+129087 | 200020255 | Salvia scapiformis var. hirsuta | 硬毛
+129087 | 210002035 | Salvia scapiformis var. scapiformis | 地埂鼠尾草
+129087 | 200020256 | Salvia schizocalyx | 裂萼鼠尾草
+129087 | 200020257 | Salvia schizochila | 裂瓣鼠尾草
+129087 | 200020258 | Salvia sikkimensis | 锡金鼠尾草
+129087 | 200020259 | Salvia sikkimensis var. chaenocalyx | 张萼
+129087 | 210002036 | Salvia sikkimensis var. sikkimensis | 锡金鼠尾草
+129087 | 200020260 | Salvia sinica | 拟丹参
+129087 | 200020261 | Salvia smithii | 橙香鼠尾草
+129087 | 200020262 | Salvia sonchifolia | 苣叶鼠尾草
+129087 | 200020263 | Salvia splendens | 一串红
+129087 | 200020264 | Salvia subpalmatinervis | 近掌麦鼠尾草
+129087 | 200020265 | Salvia substolonifera | 佛光草
+129087 | 200020266 | Salvia tricuspis | 黄鼠狼花
+129087 | 200020267 | Salvia trijuga | 三叶鼠尾草
+129087 | 200020268 | Salvia umbratica | 荫生鼠尾草
+129087 | 210002037 | Salvia vasta | 野丹参
+129087 | 210002038 | Salvia vasta var. fimbriata | 齿唇丹参
+129087 | 210002039 | Salvia vasta var. vasta | 野丹参
+129087 | 200020269 | Salvia wardii | 西藏鼠尾草
+129087 | 200020270 | Salvia weihaiensis | 威海鼠尾草
+129087 | 200020271 | Salvia yunnanensis | 云南鼠尾草
+129910 | 210002054 | Scutellaria altaica | 阿尔泰黄芩
+129910 | 200020280 | Scutellaria amoena | 滇黄芩
+129910 | 210002055 | Scutellaria amoena var. amoena | 滇黄芩
+129910 | 200020281 | Scutellaria amoena var. cinerea | 灰毛滇黄芩
+129910 | 200020282 | Scutellaria anhweiensis | 安徽黄芩
+129910 | 200020283 | Scutellaria axilliflora | 腋花黄芩
+129910 | 210002056 | Scutellaria axilliflora var. axilliflora | 腋花黄芩
+129910 | 200020284 | Scutellaria axilliflora var. medullifera | 大花腋花黄芩
+129910 | 200020285 | Scutellaria baicalensis | 黄芩
+129910 | 200020286 | Scutellaria bambusetorum | 竹林黄芩
+129910 | 200020287 | Scutellaria barbata | 半枝莲
+129910 | 200020289 | Scutellaria calcarata | 囊距黄芩
+129910 | 200020290 | Scutellaria caryopteroides | 莸状黄芩
+129910 | 200020291 | Scutellaria caudifolia | 尾叶黄芩
+129910 | 210002057 | Scutellaria caudifolia var. caudifolia | 尾叶黄芩
+129910 | 200020292 | Scutellaria caudifolia var. obliquifolia | 斜叶尾叶黄芩
+129910 | 200020293 | Scutellaria chekiangensis | 浙江黄芩
+129910 | 200020294 | Scutellaria chihshuiensis | 赤水黄芩
+129910 | 200020295 | Scutellaria chimenensis | 祁门黄芩
+129910 | 200020296 | Scutellaria chungtienensis | 中甸黄芩
+129910 | 200020298 | Scutellaria delavayi | 方枝黄芩
+129910 | 200020299 | Scutellaria dependens | 纤弱黄芩
+129910 | 200020300 | Scutellaria discolor | 异色黄芩
+129910 | 210002058 | Scutellaria discolor var. discolor | 异色黄芩
+129910 | 200020301 | Scutellaria discolor var. hirta | 地盆草
+129910 | 200020303 | Scutellaria formosana | 蓝花黄芩
+129910 | 210002059 | Scutellaria formosana var. formosana | 蓝花黄芩
+129910 | 200020306 | Scutellaria formosana var. pubescens | 多毛蓝黄芩
+129910 | 200020307 | Scutellaria forrestii | 灰岩黄芩
+129910 | 200020310 | Scutellaria franchetiana | 岩霍黄芩
+129910 | 200020311 | Scutellaria galericulata | 盔状黄芩
+129910 | 200020312 | Scutellaria grossecrenata | 粗齿黄芩
+129910 | 210002060 | Scutellaria guilielmii | 连钱黄芩
+129910 | 200020314 | Scutellaria hainanensis | 海南黄芩
+129910 | 200020315 | Scutellaria honanensis | 河南黄芩
+129910 | 200020316 | Scutellaria hunanensis | 湖南黄芩
+129910 | 200020317 | Scutellaria hypericifolia | 连翘叶黄芩
+129910 | 210002061 | Scutellaria hypericifolia var. hypericifolia | 连翘叶黄芩
+129910 | 200020318 | Scutellaria hypericifolia var. pilosa | 多毛
+129910 | 200020319 | Scutellaria incisa | 裂叶黄芩
+129910 | 200020320 | Scutellaria indica | 韩信草
+129910 | 200020321 | Scutellaria indica var. elliptica | 长毛韩信草
+129910 | 210002062 | Scutellaria indica var. indica | 韩信草
+129910 | 200020322 | Scutellaria indica var. parvifolia | 小叶韩信草
+129910 | 200020323 | Scutellaria indica var. subacaulis | 缩茎韩信草
+129910 | 200020324 | Scutellaria inghokensis | 永泰黄芩
+129910 | 200020326 | Scutellaria javanica | 爪哇黄芩
+129910 | 210002063 | Scutellaria kingiana | 藏黄芩
+129910 | 200020328 | Scutellaria laeteviolacea | 光紫黄芩
+129910 | 200020329 | Scutellaria laxa | 散黄芩
+129910 | 200020330 | Scutellaria likiangensis | 丽江黄芩
+129910 | 200020331 | Scutellaria linarioides | 长叶并头草
+129910 | 200020332 | Scutellaria lotienensis | 罗甸黄芩
+129910 | 200020333 | Scutellaria lutescens | 淡黄黄芩
+129910 | 200020335 | Scutellaria luzonica var. lotungensis | 乐东吕宋黄芩
+129910 | 200020336 | Scutellaria macrodonta | 大齿黄芩
+129910 | 200020337 | Scutellaria macrosiphon | 长管黄芩
+129910 | 200020338 | Scutellaria mairei | 毛茎黄芩
+129910 | 200020339 | Scutellaria meehanioides | 龙头黄芩
+129910 | 210002064 | Scutellaria meehanioides var. meehanioides | 龙头黄芩
+129910 | 200020340 | Scutellaria meehanioides var. paucidentata | 少齿龙头黄芩
+129910 | 200020341 | Scutellaria megaphylla | 大叶黄芩
+129910 | 200020342 | Scutellaria microviolacea | 小紫黄芩
+129910 | 200020343 | Scutellaria mollifolia | 毛叶黄芩
+129910 | 200020344 | Scutellaria moniliorrhiza | 念珠根茎黄芩
+129910 | 200020345 | Scutellaria nigricans | 变黑黄芩
+129910 | 200020346 | Scutellaria nigrocardia | 黑心黄芩
+129910 | 200020347 | Scutellaria obtusifolia | 钝叶黄芩
+129910 | 210002065 | Scutellaria obtusifolia var. obtusifolia | 钝叶黄芩
+129910 | 200020348 | Scutellaria obtusifolia var. trinervata | 三脉钝叶黄芩
+129910 | 200020349 | Scutellaria oligodonta | 少齿黄芩
+129910 | 210002066 | Scutellaria oligophlebia | 少脉黄芩
+129910 | 200020351 | Scutellaria omeiensis | 峨嵋黄芩
+129910 | 210002067 | Scutellaria omeiensis var. omeiensis | 峨眉黄芩
+129910 | 200020352 | Scutellaria omeiensis var. serratifolia | 锯叶峨嵋黄芩
+129910 | 200020353 | Scutellaria orthocalyx | 直萼黄芩
+129910 | 200020354 | Scutellaria orthotricha | 展毛黄芩
+129910 | 200020355 | Scutellaria pekinensis | 京黄芩
+129910 | 200020356 | Scutellaria pekinensis var. grandiflora | 大花
+129910 | 210002068 | Scutellaria pekinensis var. pekinensis | 京黄芩
+129910 | 200020357 | Scutellaria pekinensis var. purpureicaulis | 紫茎
+129910 | 200020358 | Scutellaria pekinensis var. transitra | 短促
+129910 | 200020359 | Scutellaria pekinensis var. ussuriensis | 黑龙江
+129910 | 200020360 | Scutellaria pingbienensis | 屏边黄芩
+129910 | 210002069 | Scutellaria playfairii | 伏黄芩
+129910 | 210002070 | Scutellaria playfairii var. playfairii | 伏黄芩
+129910 | 210002071 | Scutellaria playfairii var. procumbens | 少毛变种
+129910 | 200020363 | Scutellaria prostrata | 平卧黄芩
+129910 | 200020364 | Scutellaria przewalskii | 深裂黄芩
+129910 | 200020365 | Scutellaria pseudotenax | 假韧黄芩
+129910 | 200020366 | Scutellaria purpureocardia | 紫心黄芩
+129910 | 200020368 | Scutellaria quadrilobulata | 四裂花黄芩
+129910 | 200020369 | Scutellaria quadrilobulata var. pilosa | 硬毛
+129910 | 210002072 | Scutellaria quadrilobulata var. quadrilobulata | 四裂花黄芩
+129910 | 200020370 | Scutellaria regeliana | 狭叶黄芩
+129910 | 200020371 | Scutellaria regeliana var. ikonnikovii | 塔头
+129910 | 210002073 | Scutellaria regeliana var. regeliana | 狭叶黄芩
+129910 | 200020372 | Scutellaria rehderiana | 甘肃黄芩
+129910 | 200020373 | Scutellaria reticulata | 显脉黄芩
+129910 | 200020374 | Scutellaria scandens | 棱茎黄芩
+129910 | 200020375 | Scutellaria sciaphila | 喜荫黄芩
+129910 | 200020376 | Scutellaria scordifolia | 并头黄芩
+129910 | 200020377 | Scutellaria scordifolia var. ammophila | 喜沙
+129910 | 200020378 | Scutellaria scordifolia var. puberula | 微柔毛
+129910 | 210002074 | Scutellaria scordifolia var. scordifolia | 并头黄芩
+129910 | 200020379 | Scutellaria scordifolia var. villosissima | 多毛黄芩
+129910 | 200020380 | Scutellaria scordifolia var. wulingshanensis | 雾灵山
+129910 | 200020381 | Scutellaria sessilifolia | 石蜈蚣草
+129910 | 200020382 | Scutellaria shansiensis | 山西黄芩
+129910 | 200020383 | Scutellaria shweliensis | 瑞丽黄芩
+129910 | 200020384 | Scutellaria sichourensis | 西畴黄芩
+129910 | 210002075 | Scutellaria sieversii | 宽苞黄芩
+129910 | 200020387 | Scutellaria spectabilis | 白花黄芩
+129910 | 200020388 | Scutellaria stenosiphon | 狭管黄芩
+129910 | 200020389 | Scutellaria strigillosa | 沙滩黄芩
+129910 | 200020390 | Scutellaria subintegra | 两广黄芩
+129910 | 200020391 | Scutellaria supina | 仰卧黄芩
+129910 | 250061720 | Scutellaria taipeiensis |  
+129910 | 200020392 | Scutellaria taiwanensis | 台湾黄芩
+129910 | 200020393 | Scutellaria tapintzeensis | 大坪子黄芩
+129910 | 200020394 | Scutellaria tayloriana | 偏花黄芩
+129910 | 200020396 | Scutellaria tenax | 韧黄芩
+129910 | 200020397 | Scutellaria tenax var. patentipilosa | 展毛
+129910 | 210002076 | Scutellaria tenax var. tenax | 韧黄芩
+129910 | 200020398 | Scutellaria tenera | 柔弱黄芩
+129910 | 200020399 | Scutellaria teniana | 大姚黄芩
+129910 | 200020400 | Scutellaria tenuiflora | 细花黄芩
+129910 | 210002077 | Scutellaria tienchueanensis | 天全黄芩
+129910 | 200020404 | Scutellaria tsinyunensis | 缙云黄芩
+129910 | 200020405 | Scutellaria tuberifera | 假活血草
+129910 | 200020406 | Scutellaria tuminensis | 图们黄芩
+129910 | 210002078 | Scutellaria violacea var. sikkimensis | 紫苏叶黄芩
+129910 | 200020408 | Scutellaria viscidula | 粘毛黄芩
+129910 | 200020409 | Scutellaria weishanensis | 巍山黄芩
+129910 | 200020410 | Scutellaria wenshanensis | 文山黄芩
+129910 | 200020411 | Scutellaria wongkei | 南粤黄芩
+129910 | 210002079 | Scutellaria yangbiense | 荨麻叶黄芩
+129910 | 200020412 | Scutellaria yingtakensis | 英德黄芩
+129910 | 200020413 | Scutellaria yunnanensis | 红茎黄芩
+129910 | 200020414 | Scutellaria yunnanensis var. cuneata | 楔叶红茎黄芩
+129910 | 200020415 | Scutellaria yunnanensis var. salicifolia | 柳叶红茎黄芩
+129910 | 210002080 | Scutellaria yunnanensis var. yunnanensis | 红茎黄芩
+130315 | 210002086 | Sideritis balansae | 紫花毒马草
+130315 | 210002087 | Sideritis montana | 毒马草
+130458 | 200020417 | Siphocranion macranthum | 筒冠花
+130458 | 200020416 | Siphocranion nudipes | 光柄筒冠花
+130528 | 210002092 | Skapanthus oreophilus | 葶花
+130528 | 210002093 | Skapanthus oreophilus var. elongatus | 茎叶变种
+130528 | 210002094 | Skapanthus oreophilus var. oreophilus | 葶花
+131150 | 200020422 | Stachyopsis lamiiflora | 心叶假水苏
+131150 | 200020423 | Stachyopsis marrubioides | 多毛假水苏
+131150 | 200020424 | Stachyopsis oblongata | 假水苏
+131154 | 200020425 | Stachys adulterina | 少毛甘露子
+131154 | 200020427 | Stachys arrecta | 地蚕
+131154 | 200020428 | Stachys arvensis | 田野水苏
+131154 | 200020429 | Stachys baicalensis | 毛水苏
+131154 | 200020430 | Stachys baicalensis var. angustifolia | 狭叶
+131154 | 210002098 | Stachys baicalensis var. baicalensis | 毛水苏
+131154 | 200020431 | Stachys baicalensis var. hispidula | 小刚毛
+131154 | 200020432 | Stachys chinensis | 华水苏
+131154 | 200020433 | Stachys geobombycis | 黄花地纽菜
+131154 | 200020434 | Stachys geobombycis var. alba | 白花
+131154 | 210002099 | Stachys geobombycis var. geobombycis | 地蚕
+131154 | 200020435 | Stachys japonica | 水苏
+131154 | 250061713 | Stachys japonica var. tomentosa |  
+131154 | 200020436 | Stachys kouyangensis | 西南水苏
+131154 | 200020437 | Stachys kouyangensis var. franchetiana | 粗齿
+131154 | 210002100 | Stachys kouyangensis var. kouyangensis | 西南水苏
+131154 | 200020438 | Stachys kouyangensis var. leptodon | 细齿
+131154 | 200020439 | Stachys kouyangensis var. tuberculata | 具瘤
+131154 | 200020440 | Stachys kouyangensis var. villosissima | 柔毛
+131154 | 200020441 | Stachys lanata | 绵毛水苏
+131154 | 210002101 | Stachys melissifolia | 多枝水苏
+131154 | 200020443 | Stachys oblongifolia | 针筒菜
+131154 | 200020444 | Stachys oblongifolia var. leptopoda | 细柄
+131154 | 210002102 | Stachys oblongifolia var. oblongifolia | 针筒菜
+131154 | 200020445 | Stachys palustris | 沼生水苏
+131154 | 200020446 | Stachys pseudophlomis | 狭齿水苏
+131154 | 210002103 | Stachys sieboldii | 甘露子
+131154 | 210002104 | Stachys sieboldii var. glabrescens | 近无毛变种
+131154 | 210002105 | Stachys sieboldii var. malacotricha | 软毛变种
+131154 | 210002106 | Stachys sieboldii var. sieboldii | 甘露子
+131154 | 200020450 | Stachys strictiflora | 直花水苏
+131154 | 200020451 | Stachys strictiflora var. latidens | 宽齿
+131154 | 210002107 | Stachys strictiflora var. strictiflora | 直花水苏
+131154 | 200020452 | Stachys sylvatica | 林地水苏
+131154 | 200020453 | Stachys taliensis | 大理水苏
+131154 | 200020454 | Stachys xanthantha | 黄花地纽菜
+131929 | 200020456 | Suzukia luchuensis | 齿唇台钱草
+131929 | 200020457 | Suzukia shikikunensis | 台钱草
+132670 | 200020458 | Teucrium anlungense | 安龙香科科
+132670 | 200020459 | Teucrium bidentatum | 二齿香科科
+132670 | 200020460 | Teucrium integrifolium | 全叶香科科
+132670 | 200020461 | Teucrium japonicum | 穗花香科科
+132670 | 210002204 | Teucrium japonicum var. japonicum | 穗花香科科
+132670 | 200020462 | Teucrium japonicum var. microphyllum | 小叶穗花香科科
+132670 | 200020463 | Teucrium japonicum var. tsungmingense | 崇明穗花香科科
+132670 | 200020464 | Teucrium labiosum | 大唇香科科
+132670 | 200020465 | Teucrium manghuaense | 巍山香科科
+132670 | 200020466 | Teucrium manghuaense var. angustum | 狭苞
+132670 | 210002205 | Teucrium manghuaense var. manghuaense | 巍山香科科
+132670 | 200020467 | Teucrium nanum | 矮生香科科
+132670 | 200020468 | Teucrium omeiense | 峨眉香科科
+132670 | 200020469 | Teucrium omeiense var. cyanophyllum | 蓝叶
+132670 | 210002206 | Teucrium omeiense var. omeiense | 峨眉香科科
+132670 | 200020470 | Teucrium pernyi | 庐山香科科
+132670 | 200020471 | Teucrium pilosum | 长毛香科科
+132670 | 200020473 | Teucrium quadrifarium | 铁轴草
+132670 | 200020474 | Teucrium scordioides | 沼泽香科科
+132670 | 200020475 | Teucrium scordium | 蒜味香科科
+132670 | 200020476 | Teucrium simplex | 香科科
+132670 | 200020477 | Teucrium tsinlingense | 秦岭香科科
+132670 | 200020478 | Teucrium tsinlingense var. porphyreum | 紫萼秦岭香科科
+132670 | 210002207 | Teucrium tsinlingense var. tsinlingense | 秦岭香科科
+132670 | 200020479 | Teucrium ussuriense | 黑龙江香科科
+132670 | 200020480 | Teucrium veronicoides | 裂苞香科科
+132670 | 200020481 | Teucrium viscidum | 血见愁
+132670 | 200020482 | Teucrium viscidum var. leiocalyx | 光萼血见愁
+132670 | 200020483 | Teucrium viscidum var. longibracteatum | 长苞血见愁
+132670 | 200020484 | Teucrium viscidum var. macrostephanum | 大唇血见愁
+132670 | 200020485 | Teucrium viscidum var. nepetoides | 微毛血见愁
+132670 | 210002208 | Teucrium viscidum var. viscidum | 血见愁
+132935 | 200020486 | Thymus altaicus | 阿尔泰百里香
+132935 | 200020487 | Thymus amurensis | 黑龙江百里香
+132935 | 200020488 | Thymus curtus | 短毛百里香
+132935 | 200020489 | Thymus disjunctus | 长齿百里香
+132935 | 200020490 | Thymus inaequalis | 斜叶百里香
+132935 | 200020491 | Thymus mandschuricus | 短节百里香
+132935 | 200020492 | Thymus marschallianus | 异株百里香
+132935 | 200020493 | Thymus mongolicus | 百里香
+132935 | 200020494 | Thymus nervulosus | 显脉百里香
+132935 | 200020495 | Thymus proximus | 拟百里香
+132935 | 200020496 | Thymus quinquecostatus | 地椒
+132935 | 200020497 | Thymus quinquecostatus var. asiaticus | 亚洲
+132935 | 200020498 | Thymus quinquecostatus var. przewalskii | 展毛
+132935 | 210002209 | Thymus quinquecostatus var. quinquecostatus | 地椒
+134825 | 200020499 | Wenchengia alternifolia | 保亭花
+135332 | 200020500 | Ziziphora bungeana | 新塔花
+135332 | 200020501 | Ziziphora pamiroalaica | 南疆新塔花
+135332 | 200020502 | Ziziphora tenuior | 小新塔花
+135332 | 200020503 | Ziziphora tomentosa | 天山新塔花
+100921 | 242000094 | Akebia chingshuiensis | 清水山木通
+100921 | 242000095 | Akebia longeracemosa | 长序木通
+100921 | 200008288 | Akebia quinata | 木通
+100921 | 200008289 | Akebia trifoliata | 三叶木通
+100921 | 242000096 | Akebia trifoliata subsp. australis | 白木通
+100921 | 242000097 | Akebia trifoliata subsp. longisepala | 长萼三叶木通
+100921 | 242000098 | Akebia trifoliata subsp. trifoliata | 三叶木通(原亚种)
+102454 | 242000144 | Archakebia apetala | 长萼木通
+109410 | 220003890 | Decaisnea insignis | 猫儿屎
+115581 | 242000555 | Holboellia angustifolia | 五月瓜藤
+115581 | 242000556 | Holboellia angustifolia subsp. angustifolia | 五月瓜藤(原亚种)
+115581 | 242000557 | Holboellia angustifolia subsp. linearifolia | 线叶八月瓜
+115581 | 242000558 | Holboellia angustifolia subsp. obtusa | 钝叶五风藤
+115581 | 242000559 | Holboellia angustifolia subsp. trifoliata | 三叶五风藤
+115581 | 242000560 | Holboellia brachyandra | 短蕊八月瓜
+115581 | 242000561 | Holboellia chapaensis | 沙坝八月瓜
+115581 | 200008292 | Holboellia coriacea | 鹰爪枫
+115581 | 242000562 | Holboellia grandiflora | 牛姆瓜
+115581 | 220006448 | Holboellia latifolia | 八月瓜
+115581 | 242000563 | Holboellia latifolia subsp. chartacea | 纸叶八月瓜
+115581 | 242000564 | Holboellia latifolia subsp. latifolia | 八月瓜(原亚种)
+115581 | 242000565 | Holboellia medogensis | 墨脱八月瓜
+115581 | 242000566 | Holboellia parviflora | 小花鹰爪枫
+115581 | 242000567 | Holboellia pterocaulis | 棱茎八月瓜
+129274 | 200008294 | Sargentodoxa cuneata | 大血藤
+130423 | 200008295 | Sinofranchetia chinensis | 串果藤
+131212 | 242000842 | Stauntonia brachyanthera | 黄蜡果
+131212 | 242000843 | Stauntonia brunoniana | 三叶野木瓜
+131212 | 242000844 | Stauntonia cavalerieana | 西南野木瓜
+131212 | 200008296 | Stauntonia chinensis | 野木瓜
+131212 | 242000845 | Stauntonia conspicua | 腺脉野木瓜
+131212 | 242000846 | Stauntonia decora | 翅野木瓜
+131212 | 242000847 | Stauntonia duclouxii | 羊瓜藤
+131212 | 242000848 | Stauntonia elliptica | 牛藤果
+131212 | 242000849 | Stauntonia glauca | 粉叶野木瓜
+131212 | 242000850 | Stauntonia leucantha | 钝药野木瓜
+131212 | 242000851 | Stauntonia libera | 离丝野木瓜
+131212 | 242000852 | Stauntonia maculata | 斑叶野木瓜
+131212 | 242000853 | Stauntonia obcordatilimba | 倒心叶野木瓜
+131212 | 242000854 | Stauntonia obovata | 倒卵叶野木瓜
+131212 | 242000855 | Stauntonia obovatifoliola | 石月
+131212 | 242000856 | Stauntonia obovatifoliola subsp. obovatifoliola | 石月(原亚种)
+131212 | 242000857 | Stauntonia obovatifoliola subsp. urophylla | 尾叶那藤
+131212 | 242000858 | Stauntonia oligophylla | 少叶野木瓜
+131212 | 242000859 | Stauntonia pseudomaculata | 假斑叶野木瓜
+131212 | 242000860 | Stauntonia purpurea | 紫花野木瓜
+131212 | 242000861 | Stauntonia trinervia | 三脉野木瓜
+131212 | 242000862 | Stauntonia yaoshanensis | 瑶山野木瓜
+100442 | 242300999 | Actinodaphne acuminata | 南投黄肉楠
+100442 | 200008621 | Actinodaphne cupularis | 红果黄肉楠
+100442 | 200008622 | Actinodaphne forrestii | 毛尖树
+100442 | 200008623 | Actinodaphne glaucina | 白背黄肉楠
+100442 | 200008624 | Actinodaphne henryi | 思茅黄肉楠
+100442 | 200008625 | Actinodaphne koshepangii | 广东黄肉楠
+100442 | 200008626 | Actinodaphne kweichowensis | 黔桂黄肉楠
+100442 | 200008627 | Actinodaphne lecomtei | 柳叶黄肉楠
+100442 | 250090001 | Actinodaphne menghaiensis | 勐海黄肉楠
+100442 | 242301015 | Actinodaphne mushaensis | 雾社黄肉楠
+100442 | 200008631 | Actinodaphne obovata | 倒卵叶黄肉楠
+100442 | 200008632 | Actinodaphne obscurinervia | 隐脉黄肉楠
+100442 | 200008633 | Actinodaphne omeiensis | 峨眉黄肉楠
+100442 | 200008634 | Actinodaphne paotingensis | 保亭黄肉楠
+100442 | 200008636 | Actinodaphne pilosa | 毛黄肉楠
+100442 | 200008637 | Actinodaphne trichocarpa | 毛果黄肉楠
+100442 | 200008638 | Actinodaphne tsaii | 马关黄肉楠
+101195 | 200008639 | Alseodaphne andersonii | 毛叶油丹
+101195 | 200008640 | Alseodaphne gracilis | 细梗油丹
+101195 | 200008641 | Alseodaphne hainanensis | 油丹
+101195 | 200008642 | Alseodaphne hokouensis | 河口油丹
+101195 | 250090002 | Alseodaphne huanglianshanensis | 黄莲山油丹
+101195 | 200008643 | Alseodaphne marlipoensis | 麻栗坡油丹
+101195 | 200008644 | Alseodaphne petiolaris | 长柄油丹
+101195 | 200008645 | Alseodaphne rugosa | 皱皮油丹
+101195 | 242302458 | Alseodaphne sichourensis | 西畴油丹
+101195 | 200008647 | Alseodaphne yunnanensis | 云南油丹
+103704 | 200008648 | Beilschmiedia appendiculata | 山潺
+103704 | 200008649 | Beilschmiedia baotingensis | 保亭琼楠
+103704 | 200008650 | Beilschmiedia brachythyrsa | 勐仑琼楠
+103704 | 242308017 | Beilschmiedia brevifolia | 短叶琼楠
+103704 | 200008651 | Beilschmiedia brevipaniculata | 短序琼楠
+103704 | 200008652 | Beilschmiedia cylindrica | 柱果琼楠
+103704 | 200008653 | Beilschmiedia delicata | 美脉琼楠
+103704 | 200008654 | Beilschmiedia erythrophloia | 台琼楠
+103704 | 200008655 | Beilschmiedia fasciata | 白柴果
+103704 | 200008656 | Beilschmiedia fordii | 广东琼楠
+103704 | 200008657 | Beilschmiedia furfuracea | 糠秕琼楠
+103704 | 250090005 | Beilschmiedia glandulosa | 香港琼楠
+103704 | 200008658 | Beilschmiedia glauca | 粉背琼楠
+103704 | 242308025 | Beilschmiedia glauca var. glauca | 粉背琼楠(原变种)
+103704 | 200008659 | Beilschmiedia glauca var. glaucoides | 顶序琼楠
+103704 | 200008660 | Beilschmiedia henghsienensis | 横县琼楠
+103704 | 200008661 | Beilschmiedia intermedia | 琼楠
+103704 | 200008662 | Beilschmiedia kweichowensis | 贵州琼楠
+103704 | 200008663 | Beilschmiedia laevis | 红枝琼楠
+103704 | 200008664 | Beilschmiedia linocieroides | 李榄琼楠
+103704 | 242308028 | Beilschmiedia longepetiolata | 长柄琼楠
+103704 | 200008666 | Beilschmiedia macropoda | 肉柄琼楠
+103704 | 200008667 | Beilschmiedia muricata | 瘤果琼楠
+103704 | 200008668 | Beilschmiedia ningmingensis | 宁明琼楠
+103704 | 200008669 | Beilschmiedia obconica | 锈叶琼楠
+103704 | 200008670 | Beilschmiedia obscurinervia | 隐脉琼楠
+103704 | 242308029 | Beilschmiedia ovoidea | 卵果琼楠
+103704 | 200008671 | Beilschmiedia pauciflora | 少花琼楠
+103704 | 200008672 | Beilschmiedia percoriacea | 厚叶琼楠
+103704 | 200008673 | Beilschmiedia percoriacea var. ciliata | 缘毛琼楠
+103704 | 242308031 | Beilschmiedia percoriacea var. percoriacea | 厚叶琼楠(原变种)
+103704 | 200008674 | Beilschmiedia pergamentacea | 纸叶琼楠
+103704 | 200008675 | Beilschmiedia punctilimba | 点叶琼楠
+103704 | 200008676 | Beilschmiedia purpurascens | 紫叶琼楠
+103704 | 200008677 | Beilschmiedia robusta | 粗壮琼楠
+103704 | 200008678 | Beilschmiedia roxburghiana | 稠琼楠
+103704 | 200008679 | Beilschmiedia rufohirtella | 红毛琼楠
+103704 | 242308032 | Beilschmiedia shangsiensis | 上思琼楠
+103704 | 200008680 | Beilschmiedia sichourensis | 西畴琼楠
+103704 | 200008681 | Beilschmiedia tsangii | 网脉琼楠
+103704 | 200008682 | Beilschmiedia tungfangensis | 东方琼楠
+103704 | 200008683 | Beilschmiedia wangii | 海南琼楠
+103704 | 200008684 | Beilschmiedia yunnanensis | 滇琼楠
+105770 | 200008686 | Caryodaphnopsis henryi | 小花檬果樟
+105770 | 242311327 | Caryodaphnopsis laotica | 老挝檬果樟
+105770 | 200008688 | Caryodaphnopsis tonkinensis | 檬果樟
+105813 | 200008689 | Cassytha filiformis | 无根藤
+107109 | 200008690 | Cinnamomum appelianum | 毛桂
+107109 | 242312910 | Cinnamomum austrosinense | 华南桂
+107109 | 242312911 | Cinnamomum austroyunnanense | 滇南桂
+107109 | 200008693 | Cinnamomum bejolghota | 钝叶桂
+107109 | 200008694 | Cinnamomum bodinieri | 猴樟
+107109 | 250090019 | Cinnamomum brachythyrsum | 短序樟
+107109 | 200008695 | Cinnamomum burmannii | 阴香
+107109 | 200008697 | Cinnamomum camphora | 樟
+107109 | 200008698 | Cinnamomum cassia | 肉桂
+107109 | 200008700 | Cinnamomum chartophyllum | 坚叶樟
+107109 | 200008701 | Cinnamomum contractum | 聚花桂
+107109 | 250090020 | Cinnamomum foveolatum | 尾叶樟
+107109 | 200008702 | Cinnamomum glanduliferum | 云南樟
+107109 | 242312947 | Cinnamomum heyneanum | 狭叶桂
+107109 | 250090021 | Cinnamomum illicioides | 八角樟
+107109 | 200008704 | Cinnamomum iners | 大叶桂
+107109 | 200008705 | Cinnamomum japonicum | 天竺桂
+107109 | 200008706 | Cinnamomum javanicum | 爪哇肉桂
+107109 | 200008707 | Cinnamomum jensenianum | 野黄桂
+107109 | 200008708 | Cinnamomum kotoense | 兰屿肉桂
+107109 | 200008709 | Cinnamomum kwangtungense | 红辣槁树
+107109 | 200008710 | Cinnamomum liangii | 软皮桂
+107109 | 200008711 | Cinnamomum longepaniculatum | 油樟
+107109 | 200008712 | Cinnamomum longipetiolatum | 长柄樟
+107109 | 200008713 | Cinnamomum mairei | 银叶桂
+107109 | 200008714 | Cinnamomum micranthum | 沉水樟
+107109 | 200008715 | Cinnamomum migao | 米槁
+107109 | 200008716 | Cinnamomum mollifolium | 毛叶樟
+107109 | 200008717 | Cinnamomum osmophloeum | 土肉桂
+107109 | 242312976 | Cinnamomum parthenoxylon | 黄樟
+107109 | 200008719 | Cinnamomum pauciflorum | 少花桂
+107109 | 200008720 | Cinnamomum philippinense | 菲律宾樟树
+107109 | 200008721 | Cinnamomum pingbienense | 屏边桂
+107109 | 200008722 | Cinnamomum pittosporoides | 刀把木
+107109 | 200008723 | Cinnamomum platyphyllum | 阔叶樟
+107109 | 200008724 | Cinnamomum reticulatum | 网脉桂
+107109 | 200008725 | Cinnamomum rigidissimum | 卵叶桂
+107109 | 250090022 | Cinnamomum rufotomentosum | 绒毛樟
+107109 | 200008726 | Cinnamomum saxatile | 岩樟
+107109 | 200008727 | Cinnamomum septentrionale | 银木
+107109 | 200008728 | Cinnamomum subavenium | 香桂
+107109 | 200008729 | Cinnamomum tamala | 柴桂
+107109 | 250090023 | Cinnamomum tenuipile | 细毛樟
+107109 | 200008731 | Cinnamomum tonkinense | 假桂皮树
+107109 | 200008732 | Cinnamomum tsangii | 辣汁树
+107109 | 200008733 | Cinnamomum tsoi | 平托桂
+107109 | 200008734 | Cinnamomum validinerve | 粗脉桂
+107109 | 200008735 | Cinnamomum verum | 锡兰肉桂
+107109 | 200008736 | Cinnamomum wilsonii | 川桂
+108511 | 200008737 | Cryptocarya acutifolia | 尖叶厚壳桂
+108511 | 200008738 | Cryptocarya amygdalina | 杏仁厚壳桂
+108511 | 200008739 | Cryptocarya brachythyrsa | 短序厚壳桂
+108511 | 200008740 | Cryptocarya calcicola | 岩生厚壳桂
+108511 | 200008741 | Cryptocarya chinensis | 厚壳桂
+108511 | 200008742 | Cryptocarya chingii | 硬壳桂
+108511 | 200008743 | Cryptocarya concinna | 黄果厚壳桂
+108511 | 200008744 | Cryptocarya densiflora | 丛花厚壳桂
+108511 | 200008745 | Cryptocarya depauperata | 贫花厚壳桂
+108511 | 242412785 | Cryptocarya elliptifolia | 菲岛厚壳桂
+108511 | 200008746 | Cryptocarya hainanensis | 海南厚壳桂
+108511 | 200008747 | Cryptocarya impressinervia | 钝叶厚壳桂
+108511 | 200008748 | Cryptocarya kwangtungensis | 广东厚壳桂
+108511 | 200008749 | Cryptocarya leiana | 鸡卵槁
+108511 | 250090175 | Cryptocarya lyoniifolia | 南烛厚壳桂
+108511 | 200008750 | Cryptocarya maclurei | 白背厚壳桂
+108511 | 200008751 | Cryptocarya maculata | 斑果厚壳桂
+108511 | 200008752 | Cryptocarya metcalfiana | 长序厚壳桂
+108511 | 200008753 | Cryptocarya tsangii | 红柄厚壳桂
+108511 | 200008754 | Cryptocarya yaanica | 雅安厚壳桂
+108511 | 200008755 | Cryptocarya yunnanensis | 云南厚壳桂
+109471 | 200008756 | Dehaasia hainanensis | 莲桂
+109471 | 200008757 | Dehaasia incrassata | 腰果楠
+109471 | 200008758 | Dehaasia kwangtungensis | 广东莲桂
+110725 | 220004295 | Dodecadenia grandiflora | 单花木姜子
+110725 | 242318537 | Dodecadenia grandiflora var. grandiflora | 单花木姜子(原变种)
+110725 | 242318538 | Dodecadenia grandiflora var. griffithii | 无毛单花木姜子
+111620 | 200008761 | Endiandra coriacea | 革叶土楠
+111620 | 200008762 | Endiandra dolichocarpa | 长果土楠
+111620 | 200008763 | Endiandra hainanensis | 土楠
+116641 | 242327291 | Iteadaphne caudata | 香面叶
+117749 | 200008765 | Laurus nobilis | 月桂
+118626 | 200008766 | Lindera aggregata | 乌药
+118626 | 242329629 | Lindera aggregata var. aggregata | 乌药(原变种)
+118626 | 200008767 | Lindera aggregata var. playfairii | 小叶乌药
+118626 | 200008768 | Lindera akoensis | 台湾香叶树
+118626 | 200008769 | Lindera angustifolia | 狭叶山胡椒
+118626 | 200008770 | Lindera chienii | 江浙山胡椒
+118626 | 200008771 | Lindera chunii | 鼎湖钓樟
+118626 | 200008772 | Lindera communis | 香叶树
+118626 | 200008774 | Lindera erythrocarpa | 红果山胡椒
+118626 | 200008776 | Lindera floribunda | 绒毛钓樟
+118626 | 200008777 | Lindera foveolata | 蜂房叶山胡椒
+118626 | 200008778 | Lindera fragrans | 香叶子
+118626 | 200008779 | Lindera glauca | 山胡椒
+118626 | 200008780 | Lindera gracilipes | 纤梗山胡椒
+118626 | 200008781 | Lindera guangxiensis | 广西钓樟
+118626 | 200008782 | Lindera kariensis | 更里山胡椒
+118626 | 200008784 | Lindera kwangtungensis | 广东山胡椒
+118626 | 200008785 | Lindera latifolia | 团香果
+118626 | 200008786 | Lindera limprichtii | 卵叶钓樟
+118626 | 200008787 | Lindera longipedunculata | 山柿子果
+118626 | 200008788 | Lindera lungshengensis | 龙胜钓樟
+118626 | 200008789 | Lindera megaphylla | 黑壳楠
+118626 | 242329669 | Lindera menghaiensis | 勐海山胡椒
+118626 | 200008791 | Lindera metcalfiana | 滇粤山胡椒
+118626 | 200008792 | Lindera metcalfiana var. dictyophylla | 网叶山胡椒
+118626 | 242329671 | Lindera metcalfiana var. metcalfiana | 滇粤山胡椒(原变种)
+118626 | 200008794 | Lindera motuoensis | 西藏山胡椒
+118626 | 200008795 | Lindera nacusua | 绒毛山胡椒
+118626 | 242329673 | Lindera nacusua var. menglungensis | 勐仑山胡椒
+118626 | 242329674 | Lindera nacusua var. nacusua | 绒毛山胡椒(原变种)
+118626 | 200008797 | Lindera neesiana | 绿叶甘橿
+118626 | 200008799 | Lindera obtusiloba | 三桠乌药
+118626 | 200008800 | Lindera obtusiloba var. heterophylla | 滇藏钓樟
+118626 | 242329677 | Lindera obtusiloba var. obtusiloba | 三桠乌药(原变种)
+118626 | 200008801 | Lindera praecox | 大果山胡椒
+118626 | 200008802 | Lindera prattii | 峨眉钓樟
+118626 | 200008803 | Lindera pulcherrima | 西藏钓樟
+118626 | 200008804 | Lindera pulcherrima var. attenuata | 香粉叶
+118626 | 200008805 | Lindera pulcherrima var. hemsleyana | 川钓樟
+118626 | 242329688 | Lindera pulcherrima var. pulcherrima | 西藏钓樟(原变种)
+118626 | 200008806 | Lindera reflexa | 山橿
+118626 | 200008807 | Lindera robusta | 海南山胡椒
+118626 | 200008808 | Lindera rubronervia | 红脉钓樟
+118626 | 200008809 | Lindera setchuenensis | 四川山胡椒
+118626 | 200008810 | Lindera supracostata | 菱叶钓樟
+118626 | 200008811 | Lindera thomsonii | 三股筋香
+118626 | 242329701 | Lindera thomsonii var. thomsonii | 三股筋香(原变种)
+118626 | 200008812 | Lindera thomsonii var. velutina | 长尾钓樟
+118626 | 200008813 | Lindera tienchuanensis | 天全钓樟
+118626 | 200008814 | Lindera tonkinensis | 假桂钓樟
+118626 | 200008815 | Lindera tonkinensis var. subsessilis | 无梗钓樟
+118626 | 242329704 | Lindera tonkinensis var. tonkinensis | 假桂钓樟(原变种)
+118626 | 200008816 | Lindera villipes | 毛柄钓樟
+118754 | 200008817 | Litsea acutivena | 尖叶木姜子
+118754 | 200008818 | Litsea akoensis | 屏东木姜子
+118754 | 250090199 | Litsea akoensis var. akoensis | 屏东木姜子(原变种)
+118754 | 242413591 | Litsea akoensis var. sasakii | 浸水营木姜子
+118754 | 250090200 | Litsea albescens | 白叶木姜子
+118754 | 200008820 | Litsea auriculata | 天目木姜子
+118754 | 200008821 | Litsea balansae | 假辣子
+118754 | 200008822 | Litsea baviensis | 大萼木姜子
+118754 | 200008823 | Litsea beilschmiediifolia | 琼楠叶木姜子
+118754 | 242330076 | Litsea biflora | 少花木姜子
+118754 | 250090201 | Litsea cangyuanensis | 沧源木姜子
+118754 | 242330082 | Litsea chengshuzhii | 树志木姜子
+118754 | 200008824 | Litsea chinpingensis | 金平木姜子
+118754 | 200008825 | Litsea chunii | 高山木姜子
+118754 | 242330085 | Litsea chunii var. chunii | 高山木姜子(原变种)
+118754 | 200008827 | Litsea chunii var. likiangensis | 丽江木姜子
+118754 | 242330088 | Litsea coelestis | 蓝叶木姜子
+118754 | 200008828 | Litsea coreana | 朝鲜木姜子
+118754 | 242330092 | Litsea coreana var. coreana | 朝鲜木姜子(原变种)
+118754 | 200008829 | Litsea coreana var. lanuginosa | 毛豹皮樟
+118754 | 200008830 | Litsea coreana var. sinensis | 豹皮樟
+118754 | 200008831 | Litsea cubeba | 山鸡椒
+118754 | 242330094 | Litsea cubeba var. cubeba | 山鸡椒(原变种)
+118754 | 200008832 | Litsea cubeba var. formosana | 毛山鸡椒
+118754 | 242330097 | Litsea depressa | 扁果木姜子
+118754 | 200008833 | Litsea dilleniifolia | 五桠果叶木姜子
+118754 | 200008835 | Litsea elongata | 黄丹木姜子
+118754 | 242330100 | Litsea elongata var. elongata | 黄丹木姜子(原变种)
+118754 | 200008836 | Litsea elongata var. faberi | 石木姜子
+118754 | 200008837 | Litsea elongata var. subverticillata | 近轮叶木姜子
+118754 | 250090202 | Litsea foveola | 蜂窝木姜子
+118754 | 242330106 | Litsea garciae | 兰屿木姜子
+118754 | 200008844 | Litsea glutinosa | 潺槁木姜子
+118754 | 242330109 | Litsea glutinosa var. brideliifolia | 白野槁树
+118754 | 242330110 | Litsea glutinosa var. glutinosa | 潺槁木姜子(原变种)
+118754 | 200008846 | Litsea gongshanensis | 贡山木姜子
+118754 | 200008847 | Litsea greenmaniana | 华南木姜子
+118754 | 200008849 | Litsea hayatae | 台湾木姜子
+118754 | 200008850 | Litsea honghoensis | 红河木姜子
+118754 | 200008851 | Litsea hunanensis | 湖南木姜子
+118754 | 200008852 | Litsea hupehana | 湖北木姜子
+118754 | 242330117 | Litsea hypophaea | 黄肉树
+118754 | 200008853 | Litsea ichangensis | 宜昌木姜子
+118754 | 242423946 | Litsea kingii | 秃净木姜子
+118754 | 200008854 | Litsea kobuskiana | 安顺木姜子
+118754 | 200008855 | Litsea kwangsiensis | 红楠刨
+118754 | 200008856 | Litsea kwangtungensis | 广东木姜子
+118754 | 200008857 | Litsea lancifolia | 剑叶木姜子
+118754 | 200008858 | Litsea lancifolia var. ellipsoidea | 椭圆果木姜子
+118754 | 242330125 | Litsea lancifolia var. lancifolia | 剑叶木姜子(原变种)
+118754 | 200008859 | Litsea lancifolia var. pedicellata | 有梗木姜子
+118754 | 200008860 | Litsea lancilimba | 大果木姜子
+118754 | 242330128 | Litsea liboshengii | 勃生木姜子
+118754 | 242330130 | Litsea litseifolia | 海南木姜子
+118754 | 250090203 | Litsea liyuyingii | 圆锥木姜子
+118754 | 200008865 | Litsea longistaminata | 长蕊木姜子
+118754 | 200008866 | Litsea machiloides | 润楠叶木姜子
+118754 | 250090204 | Litsea martabanica | 滇南木姜子
+118754 | 200008869 | Litsea mollis | 毛叶木姜子
+118754 | 200008870 | Litsea monopetala | 假柿木姜子
+118754 | 242330142 | Litsea morrisonensis | 玉山木姜子
+118754 | 200008871 | Litsea moupinensis | 宝兴木姜子
+118754 | 242330144 | Litsea moupinensis var. moupinensis | 宝兴木姜子(原变种)
+118754 | 200008873 | Litsea moupinensis var. szechuanica | 四川木姜子
+118754 | 200008874 | Litsea oligophlebia | 少脉木姜子
+118754 | 250090205 | Litsea panamanja | 香花木姜子
+118754 | 200008876 | Litsea pedunculata | 红皮木姜子
+118754 | 242330156 | Litsea pedunculata var. pedunculata | 红皮木姜子(原变种)
+118754 | 200008877 | Litsea pedunculata var. pubescens | 毛红皮木姜子
+118754 | 200008880 | Litsea pittosporifolia | 海桐叶木姜子
+118754 | 200008881 | Litsea populifolia | 杨叶木姜子
+118754 | 200008882 | Litsea pseudoelongata | 竹叶木姜子
+118754 | 200008883 | Litsea pungens | 木姜子
+118754 | 200008884 | Litsea rotundifolia | 圆叶豺皮樟
+118754 | 200008885 | Litsea rotundifolia var. oblongifolia | 豺皮樟
+118754 | 200008886 | Litsea rotundifolia var. ovatifolia | 卵叶豺皮樟
+118754 | 242330164 | Litsea rotundifolia var. rotundifolia | 圆叶豺皮樟(原变种)
+118754 | 200008887 | Litsea rubescens | 红叶木姜子
+118754 | 242330166 | Litsea rubescens var. rubescens | 红叶木姜子(原变种)
+118754 | 200008888 | Litsea rubescens var. yunnanensis | 滇木姜子
+118754 | 242423948 | Litsea salicifolia | 黑木姜子
+118754 | 250090206 | Litsea semecarpifolia | 玉兰叶木姜子
+118754 | 200008890 | Litsea sericea | 绢毛木姜子
+118754 | 250090207 | Litsea sinoglobosa | 圆果木姜子
+118754 | 200008891 | Litsea subcoriacea | 桂北木姜子
+118754 | 200008893 | Litsea suberosa | 栓皮木姜子
+118754 | 250090208 | Litsea szemaois | 思茅木姜子
+118754 | 200008894 | Litsea taronensis | 独龙木姜子
+118754 | 200008895 | Litsea tibetana | 西藏木姜子
+118754 | 200008896 | Litsea tsinlingensis | 秦岭木姜子
+118754 | 200008897 | Litsea umbellata | 伞花木姜子
+118754 | 200008900 | Litsea vang var. lobata | 沧源薄托木姜子
+118754 | 200008902 | Litsea variabilis | 黄椿木姜子
+118754 | 200008903 | Litsea variabilis var. oblonga | 毛黄椿木姜子
+118754 | 242330181 | Litsea variabilis var. variabilis | 黄椿木姜子(原变种)
+118754 | 200008904 | Litsea veitchiana | 钝叶木姜子
+118754 | 200008905 | Litsea veitchiana var. trichocarpa | 毛果木姜子
+118754 | 242330182 | Litsea veitchiana var. veitchiana | 钝叶木姜子(原变种)
+118754 | 200008906 | Litsea verticillata | 轮叶木姜子
+118754 | 200008907 | Litsea verticillifolia | 琼南木姜子
+118754 | 200008908 | Litsea viridis | 干香柴
+118754 | 200008909 | Litsea wilsonii | 绒叶木姜子
+118754 | 200008910 | Litsea yaoshanensis | 瑶山木姜子
+118754 | 200008911 | Litsea yunnanensis | 云南木姜子
+119262 | 250090392 | Machilus attenuata |  
+119262 | 242331002 | Machilus austroguizhouensis | 黔南润楠
+119262 | 200008912 | Machilus bonii | 枇杷叶润楠
+119262 | 200008913 | Machilus breviflora | 短序润楠
+119262 | 250090209 | Machilus calcicola | 灰岩润楠
+119262 | 200008914 | Machilus cavaleriei | 安顺润楠
+119262 | 200008915 | Machilus chayuensis | 察隅润楠
+119262 | 200008916 | Machilus chekiangensis | 浙江润楠
+119262 | 200008917 | Machilus chienkweiensis | 黔桂润楠
+119262 | 200008918 | Machilus chinensis | 华润楠
+119262 | 200008919 | Machilus chrysotricha | 黄毛润楠
+119262 | 200008920 | Machilus chuanchienensis | 川黔润楠
+119262 | 200008921 | Machilus cicatricosa | 刻节润楠
+119262 | 242331010 | Machilus daozhenensis | 道真润楠
+119262 | 200008922 | Machilus decursinervis | 基脉润楠
+119262 | 242331011 | Machilus dinganensis | 定安润楠
+119262 | 200008923 | Machilus dumicola | 灌丛润楠
+119262 | 242423139 | Machilus duthiei | 长梗润楠
+119262 | 200008924 | Machilus fasciculata | 簇序润楠
+119262 | 200008925 | Machilus foonchewii | 琼桂润楠
+119262 | 200008926 | Machilus fukienensis | 闽润楠
+119262 | 200008927 | Machilus gamblei | 黄心树
+119262 | 242331016 | Machilus glabrophylla | 光叶润楠
+119262 | 200008928 | Machilus glaucescens | 柔毛润楠
+119262 | 242331017 | Machilus glaucifolia | 粉叶润楠
+119262 | 200008929 | Machilus gongshanensis | 贡山润楠
+119262 | 200008930 | Machilus gracillima | 柔弱润楠
+119262 | 242331018 | Machilus grandibracteata | 大苞润楠
+119262 | 200008931 | Machilus grijsii | 黄绒润楠
+119262 | 200008933 | Machilus ichangensis | 宜昌润楠
+119262 | 242331022 | Machilus ichangensis var. ichangensis | 宜昌润楠(原变种)
+119262 | 200008934 | Machilus ichangensis var. leiophylla | 滑叶润楠
+119262 | 242331024 | Machilus japonica | 长叶润楠
+119262 | 250090210 | Machilus japonica var. japonica | 长叶润楠(原变种)
+119262 | 242413637 | Machilus japonica var. kusanoi | 大叶润楠
+119262 | 250090211 | Machilus kurzii | 秃枝润楠
+119262 | 200008936 | Machilus kwangtungensis | 广东润楠
+119262 | 242331029 | Machilus lenticellata | 疣序润楠
+119262 | 200008937 | Machilus leptophylla | 薄叶润楠
+119262 | 200008938 | Machilus lichuanensis | 利川润楠
+119262 | 200008939 | Machilus litseifolia | 木姜润楠
+119262 | 200008940 | Machilus lohuiensis | 乐会润楠
+119262 | 200008942 | Machilus longipes | 东莞润楠
+119262 | 250090212 | Machilus mangdangshanensis | 茫荡山润楠
+119262 | 200008943 | Machilus melanophylla | 暗叶润楠
+119262 | 242331042 | Machilus miaoshanensis | 苗山润楠
+119262 | 200008944 | Machilus microcarpa | 小果润楠
+119262 | 242331044 | Machilus microcarpa var. microcarpa | 小果润楠(原变种)
+119262 | 200008945 | Machilus microcarpa var. omeiensis | 峨眉润楠
+119262 | 200008946 | Machilus minkweiensis | 闽桂润楠
+119262 | 200008947 | Machilus minutiloba | 雁荡润楠
+119262 | 200008948 | Machilus monticola | 尖峰润楠
+119262 | 200008949 | Machilus multinervia | 多脉润楠
+119262 | 200008950 | Machilus nakao | 纳槁润楠
+119262 | 200008951 | Machilus nanchuanensis | 南川润楠
+119262 | 242331047 | Machilus nanmu | 润楠
+119262 | 200008952 | Machilus obovatifolia | 倒卵叶润楠
+119262 | 242331050 | Machilus obscurinervis | 隐脉润楠
+119262 | 200008954 | Machilus oculodracontis | 龙眼润楠
+119262 | 200008955 | Machilus oreophila | 建润楠
+119262 | 200008956 | Machilus ovatiloba | 糙枝润楠
+119262 | 200008957 | Machilus parabreviflora | 赛短花润楠
+119262 | 250095898 | Machilus parapauhoi |  
+119262 | 200008958 | Machilus pauhoi | 刨花润楠
+119262 | 200008959 | Machilus phoenicis | 凤凰润楠
+119262 | 200008961 | Machilus platycarpa | 扁果润楠
+119262 | 200008962 | Machilus pomifera | 梨润楠
+119262 | 200008963 | Machilus pyramidalis | 塔序润楠
+119262 | 200008964 | Machilus rehderi | 狭叶润楠
+119262 | 242331056 | Machilus reticulata | 网脉润楠
+119262 | 200008965 | Machilus robusta | 粗壮润楠
+119262 | 200008966 | Machilus rufipes | 红梗润楠
+119262 | 200008967 | Machilus salicina | 柳叶润楠
+119262 | 200008968 | Machilus salicoides | 华蓥润楠
+119262 | 200008969 | Machilus shiwandashanica | 十万大山润楠
+119262 | 200008970 | Machilus shweliensis | 瑞丽润楠
+119262 | 200008971 | Machilus sichourensis | 西畴润楠
+119262 | 200008972 | Machilus sichuanensis | 四川润楠
+119262 | 242331060 | Machilus submultinervia | 册亨润楠
+119262 | 242331064 | Machilus tenuipilis | 细毛润楠
+119262 | 200008975 | Machilus thunbergii | 红楠
+119262 | 200008976 | Machilus velutina | 绒毛润楠
+119262 | 242331068 | Machilus velutinoides | 东兴润楠
+119262 | 200008977 | Machilus verruculosa | 疣枝润楠
+119262 | 242331069 | Machilus versicolora | 黄枝润楠
+119262 | 200008978 | Machilus viridis | 绿叶润楠
+119262 | 200008979 | Machilus wangchiana | 信宜润楠
+119262 | 200008980 | Machilus wenshanensis | 文山润楠
+119262 | 200008981 | Machilus yunnanensis | 滇润楠
+119262 | 200008982 | Machilus yunnanensis var. tibetana | 西藏润楠
+119262 | 242331072 | Machilus yunnanensis var. yunnanensis | 滇润楠(原变种)
+119262 | 200008983 | Machilus zuihoensis | 香润楠
+119262 | 242331074 | Machilus zuihoensis var. mushaensis | 青叶润楠
+119262 | 250090213 | Machilus zuihoensis var. zuihoensis | 香润楠(原变种)
+121914 | 200008984 | Neocinnamomum caudatum | 滇新樟
+121914 | 200008985 | Neocinnamomum delavayi | 新樟
+121914 | 200008986 | Neocinnamomum fargesii | 川鄂新樟
+121914 | 200008987 | Neocinnamomum lecomtei | 海南新樟
+121914 | 200008988 | Neocinnamomum mekongense | 沧江新樟
+122004 | 242413774 | Neolitsea aciculata | 台湾新木姜子
+122004 | 200008989 | Neolitsea acuminatissima | 尖叶新木姜子
+122004 | 200008991 | Neolitsea alongensis | 下龙新木姜子
+122004 | 200008992 | Neolitsea aurata | 新木姜子
+122004 | 242333533 | Neolitsea aurata var. aurata | 新木姜子(原变种)
+122004 | 200008993 | Neolitsea aurata var. chekiangensis | 浙江新木姜子
+122004 | 200008994 | Neolitsea aurata var. glauca | 粉叶新木姜子
+122004 | 200008995 | Neolitsea aurata var. paraciculata | 云和新木姜子
+122004 | 200008996 | Neolitsea aurata var. undulatula | 浙闽新木姜子
+122004 | 200008997 | Neolitsea brevipes | 短梗新木姜子
+122004 | 200008998 | Neolitsea buisanensis | 武威山新姜子
+122004 | 200008999 | Neolitsea cambodiana | 锈叶新木姜子
+122004 | 242333535 | Neolitsea cambodiana var. cambodiana | 锈叶新木姜子(原变种)
+122004 | 200009000 | Neolitsea cambodiana var. glabra | 香港新木姜子
+122004 | 200009001 | Neolitsea chrysotricha | 金毛新木姜子
+122004 | 250090238 | Neolitsea chui | 鸭公树
+122004 | 200009003 | Neolitsea confertifolia | 簇叶新木姜子
+122004 | 200009004 | Neolitsea daibuensis | 大武山新木姜子
+122004 | 200009005 | Neolitsea ellipsoidea | 香果新木姜子
+122004 | 200009006 | Neolitsea hainanensis | 海南新木姜子
+122004 | 200009007 | Neolitsea hiiranensis | 南仁山新木姜子
+122004 | 200009008 | Neolitsea homilantha | 团花新木姜子
+122004 | 200009009 | Neolitsea howii | 保亭新木姜子
+122004 | 200009010 | Neolitsea hsiangkweiensis | 湘桂新木姜子
+122004 | 200009011 | Neolitsea impressa | 凹脉新木姜子
+122004 | 200009012 | Neolitsea konishii | 五掌楠
+122004 | 200009014 | Neolitsea kwangsiensis | 广西新木姜子
+122004 | 200009015 | Neolitsea levinei | 大叶新木姜子
+122004 | 200009016 | Neolitsea longipedicellata | 长梗新木姜子
+122004 | 200009017 | Neolitsea lunglingensis | 龙陵新木姜子
+122004 | 200009018 | Neolitsea menglaensis | 勐腊新木姜子
+122004 | 200009019 | Neolitsea oblongifolia | 长圆叶新木姜子
+122004 | 200009020 | Neolitsea obtusifolia | 钝叶新木姜子
+122004 | 200009021 | Neolitsea ovatifolia | 卵叶新木姜子
+122004 | 200009023 | Neolitsea pallens | 灰白新木姜子
+122004 | 200009024 | Neolitsea parvigemma | 小芽新木姜子
+122004 | 200009025 | Neolitsea phanerophlebia | 显脉新木姜子
+122004 | 200009026 | Neolitsea pingbienensis | 屏边新木姜子
+122004 | 242333554 | Neolitsea pinninervis | 羽脉新木姜子
+122004 | 200009028 | Neolitsea polycarpa | 多果新木姜子
+122004 | 200009029 | Neolitsea pulchella | 美丽新木姜子
+122004 | 200009030 | Neolitsea purpurascens | 紫新木姜子
+122004 | 200009031 | Neolitsea sericea | 舟山新木姜子
+122004 | 200009032 | Neolitsea shingningensis | 新宁新木姜子
+122004 | 200009033 | Neolitsea sutchuanensis | 四川新木姜子
+122004 | 200009035 | Neolitsea tomentosa | 绒毛新木姜子
+122004 | 200009036 | Neolitsea undulatifolia | 波叶新木姜子
+122004 | 200009037 | Neolitsea variabillima | 变叶新木姜子
+122004 | 200009038 | Neolitsea velutina | 毛叶新木姜子
+122004 | 242413778 | Neolitsea villosa | 兰屿新木姜子
+122004 | 200009039 | Neolitsea wushanica | 巫山新木姜子
+122004 | 200009040 | Neolitsea wushanica var. pubens | 紫云山新木姜子
+122004 | 242333564 | Neolitsea wushanica var. wushanica | 巫山新木姜子(原变种)
+122004 | 200009041 | Neolitsea zeylanica | 南亚新木姜子
+122411 | 200009042 | Nothaphoebe cavaleriei | 赛楠
+122411 | 200009044 | Nothaphoebe konishii | 台湾赛楠
+123994 | 250090246 | Parasassafras confertiflorum | 拟檫木
+124627 | 200009046 | Persea americana | 鳄梨
+125072 | 200009047 | Phoebe angustifolia | 沼楠
+125072 | 200009048 | Phoebe bournei | 闽楠
+125072 | 200009049 | Phoebe brachythyrsa | 短序楠
+125072 | 242337195 | Phoebe calcarea | 石山楠
+125072 | 200009050 | Phoebe chekiangensis | 浙江楠
+125072 | 200009051 | Phoebe chinensis | 山楠
+125072 | 242337196 | Phoebe crassipedicella | 粗柄楠
+125072 | 200009052 | Phoebe faberi | 竹叶楠
+125072 | 200009053 | Phoebe formosana | 台楠
+125072 | 200009054 | Phoebe forrestii | 长毛楠
+125072 | 250090247 | Phoebe glaucifolia | 白背楠
+125072 | 200009055 | Phoebe glaucophylla | 粉叶楠
+125072 | 200009056 | Phoebe hainanensis | 茶槁楠
+125072 | 200009057 | Phoebe hui | 细叶楠
+125072 | 200009058 | Phoebe hunanensis | 湘楠
+125072 | 242337202 | Phoebe hungmoensis | 红毛山楠
+125072 | 200009060 | Phoebe kwangsiensis | 桂楠
+125072 | 200009061 | Phoebe lanceolata | 披针叶楠
+125072 | 200009062 | Phoebe legendrei | 雅砻江楠
+125072 | 200009063 | Phoebe lichuanensis | 利川楠
+125072 | 200009064 | Phoebe macrocarpa | 大果楠
+125072 | 200009065 | Phoebe megacalyx | 大萼楠
+125072 | 200009066 | Phoebe microphylla | 小叶楠
+125072 | 200009067 | Phoebe minutiflora | 小花楠
+125072 | 200009068 | Phoebe motuonan | 墨脱楠
+125072 | 200009070 | Phoebe neurantha | 白楠
+125072 | 200009071 | Phoebe neurantha var. brevifolia | 短叶白楠
+125072 | 200009072 | Phoebe neurantha var. cavaleriei | 兴义白楠
+125072 | 242337210 | Phoebe neurantha var. neurantha | 白楠(原变种)
+125072 | 200009073 | Phoebe neuranthoides | 光枝楠
+125072 | 200009074 | Phoebe nigrifolia | 黑叶楠
+125072 | 200009076 | Phoebe puwenensis | 普文楠
+125072 | 200009077 | Phoebe rufescens | 红梗楠
+125072 | 200009078 | Phoebe sheareri | 紫楠
+125072 | 200009079 | Phoebe sheareri var. omeiensis | 峨眉楠
+125072 | 242337217 | Phoebe sheareri var. sheareri | 紫楠(原变种)
+125072 | 200009080 | Phoebe tavoyana | 乌心楠
+125072 | 200009081 | Phoebe yaiensis | 崖楠
+125072 | 200009082 | Phoebe yunnanensis | 景东楠
+125072 | 200009083 | Phoebe zhennan | 楠木
+129310 | 200009084 | Sassafras randaiense | 台湾檫木
+129310 | 200009085 | Sassafras tzumu | 檫木
+317302 | 250090257 | Sinopora hongkongensis | 孔药楠
+130437 | 250090258 | Sinosassafras flavinervium | 华檫木
+132084 | 200009086 | Syndiclis anlungensis | 安龙油果樟
+132084 | 200009087 | Syndiclis chinensis | 油果樟
+132084 | 200009088 | Syndiclis fooningensis | 富宁油果樟
+132084 | 200009089 | Syndiclis furfuracea | 鳞秕油果樟
+132084 | 200009090 | Syndiclis kwangsiensis | 广西油果樟
+132084 | 200009091 | Syndiclis lotungensis | 乐东油果樟
+132084 | 200009092 | Syndiclis marlipoensis | 麻栗坡油果樟
+132084 | 200009093 | Syndiclis pingbienensis | 屏边油果樟
+132084 | 200009094 | Syndiclis sichourensis | 西畴油果樟
+103540 | 200014675 | Barringtonia asiatica | 滨玉蕊
+103540 | 200014676 | Barringtonia fusicarpa | 梭果玉蕊
+103540 | 200014677 | Barringtonia racemosa | 玉蕊
+117843 | 220007382 | Leea aequata | 圆腺火筒树
+117843 | 242328689 | Leea asiatica | 单羽火筒树
+117843 | 242328692 | Leea compactiflora | 密花火筒树
+117843 | 242328696 | Leea glabra | 光叶火筒树
+117843 | 242328697 | Leea guineensis | 台湾火筒树
+117843 | 200013488 | Leea indica | 火筒树
+117843 | 242328700 | Leea longifolia | 窄叶火筒树
+117843 | 242328701 | Leea macrophylla | 大叶火筒树
+117843 | 242328707 | Leea philippinensis | 菲律宾火筒树
+117843 | 242328714 | Leea setuligera | 糙毛火筒树
+316695 | 250054277 | Landoltia punctata | 兰氏萍
+117936 | 222000203 | Lemna aequinoctialis | 稀脉浮萍
+117936 | 250095681 | Lemna japonica | 日本浮萍
+117936 | 200027349 | Lemna minor | 浮萍
+117936 | 222000206 | Lemna minuta | 单脉萍
+117936 | 200027351 | Lemna trisulca | 品藻
+117936 | 222000210 | Lemna turionifera | 鳞根萍
+131033 | 242350146 | Spirodela polyrhiza | 紫萍
+134961 | 222000454 | Wolffia globosa | 无根萍
+125513 | 200021966 | Pinguicula alpina | 高山捕虫堇
+125513 | 200021967 | Pinguicula villosa | 北捕虫堇
+134270 | 200021968 | Utricularia aurea | 黄花狸藻
+134270 | 200021969 | Utricularia australis | 南方狸藻
+134270 | 200021971 | Utricularia bifida | 挖耳草
+134270 | 242353660 | Utricularia brachiata | 肾叶挖耳草
+134270 | 200021972 | Utricularia caerulea | 短梗挖耳草
+134270 | 250096762 | Utricularia forrestii | 长距挖耳草
+134270 | 250096763 | Utricularia foveolata | 海南挖耳草
+134270 | 242353666 | Utricularia gibba | 少花狸藻
+134270 | 200021974 | Utricularia graminifolia | 禾叶挖耳草
+134270 | 250096764 | Utricularia hirta | 毛挖耳草
+134270 | 200021975 | Utricularia intermedia | 异枝狸藻
+134270 | 242426120 | Utricularia kumaonensis | 毛籽挖耳草
+134270 | 200021976 | Utricularia limosa | 长梗狸藻
+134270 | 250096765 | Utricularia mangshanensis | 莽山挖耳草
+134270 | 200021977 | Utricularia minor | 细叶狸藻
+134270 | 200021978 | Utricularia minutissima | 斜果挖耳草
+134270 | 242353673 | Utricularia multicaulis | 多序挖耳草
+134270 | 250096766 | Utricularia peranomala | 合苞挖耳草
+134270 | 200021979 | Utricularia punctata | 盾鳞狸藻
+134270 | 200021980 | Utricularia salwinensis | 怒江挖耳草
+134270 | 200021981 | Utricularia scandens | 缠绕挖耳草
+134270 | 242353684 | Utricularia scandens subsp. firmula | 尖萼挖耳草
+134270 | 242353685 | Utricularia scandens subsp. scandens | 缠绕挖耳草(原亚种)
+134270 | 200021983 | Utricularia striatula | 圆叶挖耳草
+134270 | 200021984 | Utricularia uliginosa | 齿萼挖耳草
+134270 | 200021985 | Utricularia vulgaris | 狸藻
+134270 | 242353691 | Utricularia vulgaris subsp. macrorhiza | 弯距狸藻
+134270 | 250096767 | Utricularia vulgaris subsp. vulgaris | 狸藻(原亚种)
+134270 | 250096768 | Utricularia warburgii | 钩突耳草
+100995 | 200027431 | Aletris alpestris | 高山粉条儿菜
+100995 | 200027432 | Aletris capitata | 头花粉条儿菜
+100995 | 200027433 | Aletris cinerascens | 灰鞘粉条儿菜
+100995 | 200027434 | Aletris glabra | 无毛粉条儿菜
+100995 | 200027435 | Aletris glandulifera | 腺毛粉条儿菜
+100995 | 240001001 | Aletris gracilis | 星花粉条儿菜
+100995 | 200027436 | Aletris laxiflora | 疏花粉条儿菜
+100995 | 200027437 | Aletris megalantha | 大花粉条儿菜
+100995 | 240001002 | Aletris nana | 矮粉条儿菜
+100995 | 200027438 | Aletris pauciflora | 少花粉条儿菜
+100995 | 200027439 | Aletris pauciflora var. khasiana | 穗花粉条儿菜
+100995 | 240001003 | Aletris pauciflora var. pauciflora | 少花粉条儿菜 (原变种)
+100995 | 200027440 | Aletris pedicellata | 长柄粉条儿菜
+100995 | 200027441 | Aletris scopulorum | 短柄粉条儿菜
+100995 | 250097258 | Aletris simpliciflora |  
+100995 | 200027442 | Aletris spicata | 粉条儿菜
+100995 | 200027444 | Aletris stenoloba | 狭瓣粉条儿菜
+100995 | 240001004 | Aletris yaanica | 雅安粉条儿菜
+101086 | 200027445 | Allium aciphyllum | 针叶韭
+101086 | 240001005 | Allium alabasicum | 鄂尔多斯韭
+101086 | 200027446 | Allium altaicum | 阿尔泰葱
+101086 | 240001006 | Allium amphibolum | 直立韭
+101086 | 200027447 | Allium anisopodium | 矮韭
+101086 | 240001007 | Allium anisopodium var. anisopodium | 矮韭 (原变种)
+101086 | 200027448 | Allium anisopodium var. zimmermannianum | 糙葶韭
+101086 | 200027450 | Allium atrosanguineum | 蓝苞葱
+101086 | 240001008 | Allium atrosanguineum var. atrosanguineum | 蓝苞葱 (原变种)
+101086 | 240001009 | Allium atrosanguineum var. fedschenkoanum | 费葱
+101086 | 240001010 | Allium atrosanguineum var. tibeticum | 藏葱
+101086 | 200027451 | Allium beesianum | 蓝花韭
+101086 | 200027452 | Allium bidentatum | 砂韭
+101086 | 240001011 | Allium blandum | 白韭
+101086 | 240001012 | Allium brevidentatum | 矮齿韭
+101086 | 200027453 | Allium caeruleum | 棱叶薤
+101086 | 240001013 | Allium caesium | 知母薤
+101086 | 200027454 | Allium caespitosum | 疏生韭
+101086 | 200027455 | Allium caricoides | 石生韭
+101086 | 200027456 | Allium carolinianum | 镰叶韭
+101086 | 200027457 | Allium cepa | 洋葱
+101086 | 240001014 | Allium cepa var. aggregatum | 火葱
+101086 | 240001015 | Allium cepa var. cepa | 洋葱 (原变种)
+101086 | 200027458 | Allium cepa var. proliferum | 楼子葱
+101086 | 240001016 | Allium cepiforme | 香葱
+101086 | 200027459 | Allium changduense | 昌都韭
+101086 | 200027460 | Allium chienchuanense | 剑川韭
+101086 | 200027461 | Allium chinense | 藠头
+101086 | 200027462 | Allium chiwui | 冀韭
+101086 | 200027463 | Allium chrysanthum | 野葱
+101086 | 200027464 | Allium chrysocephalum | 折被韭
+101086 | 240001017 | Allium clathratum | 细叶北韭
+101086 | 200027465 | Allium condensatum | 黄花韭
+101086 | 200027467 | Allium cyaneum | 天蓝韭
+101086 | 200027468 | Allium cyathophorum | 杯花韭
+101086 | 240001018 | Allium cyathophorum var. cyathophorum | 杯花韭 (原变种)
+101086 | 200027469 | Allium cyathophorum var. farreri | 川甘韭
+101086 | 240001019 | Allium delicatulum | 迷人薤
+101086 | 200027471 | Allium dentigerum | 短齿韭
+101086 | 200027473 | Allium eduardii | 贺兰韭
+101086 | 240001020 | Allium elegantulum | 雅韭
+101086 | 200027474 | Allium eusperma | 真籽薤
+101086 | 250089887 | Allium fanjingshanense |  
+101086 | 200027475 | Allium fasciculatum | 粗根韭
+101086 | 200027476 | Allium fetisowii | 多籽蒜
+101086 | 200027477 | Allium fistulosum | 葱
+101086 | 200027478 | Allium flavidum | 新疆韭
+101086 | 240001021 | Allium flavovirens | 阿拉善韭
+101086 | 200027479 | Allium forrestii | 梭沙韭
+101086 | 240001022 | Allium funckiifolium | 玉簪叶山葱
+101086 | 200027481 | Allium galanthum | 实葶葱
+101086 | 200027483 | Allium glomeratum | 头花薤
+101086 | 200027484 | Allium grisellum | 灰皮薤
+101086 | 240001023 | Allium guanxianense | 灌县韭
+101086 | 200027485 | Allium henryi | 疏花韭
+101086 | 200027486 | Allium herderianum | 金头韭
+101086 | 200027487 | Allium heteronema | 异梗韭
+101086 | 200027488 | Allium hookeri | 宽叶韭
+101086 | 240001024 | Allium hookeri var. hookeri | 宽叶韭 (原变种)
+101086 | 200027489 | Allium hookeri var. muliense | 木里韭
+101086 | 240001025 | Allium humile | 雪韭
+101086 | 240001026 | Allium hymenorhizum | 北疆韭
+101086 | 240001027 | Allium hymenorhizum var. dentatum | 旱生韭
+101086 | 240001028 | Allium hymenorhizum var. hymenorhizum | 北疆韭 (原变种)
+101086 | 240001029 | Allium inutile | 齿棱茎合被韭
+101086 | 240001030 | Allium jacquemontii | 高原薤
+101086 | 240001031 | Allium juldusicola | 尤尔都斯薤
+101086 | 200027493 | Allium kaschianum | 草地韭
+101086 | 200027494 | Allium kingdonii | 钟花韭
+101086 | 200027495 | Allium korolkowii | 褐皮韭
+101086 | 240001032 | Allium kurssanovii | 条叶长喙韭
+101086 | 200027496 | Allium ledebourianum | 硬皮葱
+101086 | 200027497 | Allium leucocephalum | 白头韭
+101086 | 200027498 | Allium lineare | 北韭
+101086 | 240001033 | Allium listera | 对叶山葱
+101086 | 200027499 | Allium longistylum | 长柱韭
+101086 | 240001034 | Allium maackii | 马克韭
+101086 | 200027500 | Allium macranthum | 大花韭
+101086 | 200027501 | Allium macrostemon | 薤白
+101086 | 200027502 | Allium mairei | 滇韭
+101086 | 240001035 | Allium maowenense | 茂汶薤
+101086 | 240001036 | Allium maximowiczii | 马葱
+101086 | 240001037 | Allium megalobulbon | 大鳞韭
+101086 | 200027503 | Allium monanthum | 单花薤
+101086 | 200027504 | Allium mongolicum | 蒙古韭
+101086 | 200027505 | Allium nanodes | 短葶山葱
+101086 | 200027506 | Allium neriniflorum | 长梗合被韭
+101086 | 200027507 | Allium nutans | 齿丝山韭
+101086 | 200027508 | Allium obliquum | 高葶韭
+101086 | 240001038 | Allium oliganthum | 少花葱
+101086 | 240001039 | Allium omeiense | 峨眉韭
+101086 | 240001040 | Allium oreophilum | 高地蒜
+101086 | 200027509 | Allium oreoprasum | 滩地韭
+101086 | 200027510 | Allium ovalifolium | 卵叶山葱
+101086 | 240001041 | Allium ovalifolium var. cordifolium | 心叶山葱
+101086 | 200027511 | Allium ovalifolium var. leuconeurum | 白脉山葱
+101086 | 240001042 | Allium ovalifolium var. ovalifolium | 卵叶山葱 (原变种)
+101086 | 200027512 | Allium paepalanthoides | 天蒜
+101086 | 200027513 | Allium pallasii | 小山薤
+101086 | 240001043 | Allium petraeum | 石坡韭
+101086 | 240001044 | Allium pevtzovii | 昆仑韭
+101086 | 200027514 | Allium phariense | 帕里韭
+101086 | 200027515 | Allium platyspathum | 宽苞韭
+101086 | 240001045 | Allium platyspathum subsp. amblyophyllum | 钝叶韭
+101086 | 240001046 | Allium platyspathum subsp. platyspathum | 宽苞韭 (原亚种)
+101086 | 200027516 | Allium plurifoliatum | 多叶韭
+101086 | 240001047 | Allium plurifoliatum var. plurifoliatum | 多叶韭 (原变种)
+101086 | 200027518 | Allium plurifoliatum var. zhegushanense | 鹧鸪韭
+101086 | 200027519 | Allium polyrhizum | 碱韭
+101086 | 200027520 | Allium porrum | 韭葱
+101086 | 200027521 | Allium prattii | 太白山葱
+101086 | 200027522 | Allium prostratum | 蒙古野韭
+101086 | 200027523 | Allium przewalskianum | 青甘韭
+101086 | 200027524 | Allium ramosum | 野韭
+101086 | 240001048 | Allium rhynchogynum | 宽叶滇韭
+101086 | 240001049 | Allium roborowskianum | 新疆蒜
+101086 | 240001050 | Allium robustum | 健蒜
+101086 | 240001051 | Allium rubens | 红花韭
+101086 | 200027525 | Allium rude | 野黄韭
+101086 | 240001052 | Allium sabulosum | 沙地薤
+101086 | 240001053 | Allium sacculiferum | 朝鲜薤
+101086 | 240001054 | Allium sairamense | 赛里木薤
+101086 | 200027526 | Allium sativum | 蒜
+101086 | 240001055 | Allium saxatile | 长喙韭
+101086 | 200027527 | Allium schoenoprasoides | 类北薤
+101086 | 200027528 | Allium schoenoprasum | 北葱
+101086 | 200027529 | Allium schoenoprasum var. scaberrimum | 糙葶北葱
+101086 | 240001056 | Allium schoenoprasum var. schoenoprasum | 北葱 (原变种)
+101086 | 240001057 | Allium schrenkii | 单丝辉韭
+101086 | 200027530 | Allium semenovii | 管丝葱
+101086 | 200027531 | Allium senescens | 山韭
+101086 | 200027532 | Allium setifolium | 丝叶韭
+101086 | 200027533 | Allium sikkimense | 高山韭
+101086 | 200027535 | Allium siphonanthum | 管花韭
+101086 | 200027536 | Allium songpanicum | 松潘薤
+101086 | 240001058 | Allium spirale | 扭叶韭
+101086 | 240001059 | Allium splendens | 丽韭
+101086 | 240001060 | Allium spurium | 岩韭
+101086 | 240001061 | Allium stenodon | 雾灵韭
+101086 | 200027537 | Allium strictum | 辉韭
+101086 | 240001062 | Allium subangulatum | 紫花韭
+101086 | 200027538 | Allium subtilissimum | 蜜囊韭
+101086 | 200027539 | Allium taishanense | 泰山韭
+101086 | 200027540 | Allium tanguticum | 唐古薤
+101086 | 240001063 | Allium tekesicola | 荒漠韭
+101086 | 200027541 | Allium tenuissimum | 细叶韭
+101086 | 200027542 | Allium teretifolium | 西疆韭
+101086 | 200027543 | Allium thunbergii | 球序薤
+101086 | 240001064 | Allium tianschanicum | 天山韭
+101086 | 240001065 | Allium trifurcatum | 三柱韭
+101086 | 200027544 | Allium tuberosum | 韭
+101086 | 200027545 | Allium tubiflorum | 合被韭
+101086 | 240001066 | Allium tulipifolium | 郁金叶蒜
+101086 | 200027546 | Allium victorialis | 茖葱
+101086 | 200027548 | Allium wallichii | 多星韭
+101086 | 200027549 | Allium wallichii var. platyphyllum | 柳叶韭
+101086 | 240001067 | Allium wallichii var. wallichii | 多星韭 (原变种)
+101086 | 200027550 | Allium weschniakowii | 坛丝韭
+101086 | 240001068 | Allium winklerianum | 伊犁蒜
+101086 | 240001069 | Allium xiangchengense | 乡城韭
+101086 | 200027551 | Allium xichuanense | 西川韭
+101086 | 200027552 | Allium yanchiense | 白花薤
+101086 | 200027553 | Allium yongdengense | 永登韭
+101086 | 200027554 | Allium yuanum | 齿被韭
+101163 | 200027555 | Aloe vera | 芦荟
+101247 | 250075681 | Amana kuocangshanica |  
+101725 | 200027556 | Anemarrhena asphodeloides | 知母
+102837 | 200027557 | Asparagus acicularis | 山文竹
+102837 | 200027558 | Asparagus angulofractus | 折枝天门冬
+102837 | 200027559 | Asparagus brachyphyllus | 攀援天门冬
+102837 | 240001103 | Asparagus breslerianus | 西北天门冬
+102837 | 200027560 | Asparagus cochinchinensis | 天门冬
+102837 | 200027561 | Asparagus dauricus | 兴安天门冬
+102837 | 200027562 | Asparagus densiflorus | 非洲天门冬
+102837 | 200027563 | Asparagus filicinus | 羊齿天门冬
+102837 | 200027564 | Asparagus gobicus | 戈壁天门冬
+102837 | 200027565 | Asparagus kansuensis | 甘肃天门冬
+102837 | 200027566 | Asparagus longiflorus | 长花天门冬
+102837 | 200027567 | Asparagus lycopodineus | 短梗天门冬
+102837 | 200027568 | Asparagus mairei | 昆明天门冬
+102837 | 200027569 | Asparagus meioclados | 密齿天门冬
+102837 | 200027570 | Asparagus munitus | 西南天门冬
+102837 | 200027571 | Asparagus myriacanthus | 多刺天门冬
+102837 | 200027572 | Asparagus neglectus | 新疆天门冬
+102837 | 200027573 | Asparagus officinalis | 石刁柏
+102837 | 200027574 | Asparagus oligoclonos | 南玉带
+102837 | 240001104 | Asparagus przewalskyi | 北天门冬
+102837 | 240001105 | Asparagus racemosus | 长刺天门冬
+102837 | 200027576 | Asparagus schoberioides | 龙须菜
+102837 | 200027577 | Asparagus setaceus | 文竹
+102837 | 240001106 | Asparagus sichuanicus | 四川天门冬
+102837 | 200027578 | Asparagus subscandens | 滇南天门冬
+102837 | 200027579 | Asparagus taliensis | 大理天门冬
+102837 | 200027580 | Asparagus tibeticus | 西藏天门冬
+102837 | 200027581 | Asparagus trichoclados | 细枝天门冬
+102837 | 200027582 | Asparagus trichophyllus | 曲枝天门冬
+102837 | 240001107 | Asparagus yanbianensis | 盐边天门冬
+102837 | 240001108 | Asparagus yanyuanensis | 盐源天门冬
+102857 | 240001109 | Aspidistra acetabuliformis | 碟柱蜘蛛抱蛋
+102857 | 250097259 | Aspidistra albiflora |  
+102857 | 250098142 | Aspidistra arnautovii var. angustifolia |  
+102857 | 240001110 | Aspidistra attenuata | 薄叶蜘蛛抱蛋
+102857 | 240001111 | Aspidistra austrosinensis | 华南蜘蛛抱蛋
+102857 | 250093118 | Aspidistra bamaensis |  
+102857 | 200027583 | Aspidistra caespitosa | 丛生蜘蛛抱蛋
+102857 | 240001112 | Aspidistra carinata | 天峨蜘蛛抱蛋
+102857 | 240001113 | Aspidistra cavicola | 洞生蜘蛛抱蛋
+102857 | 242001018 | Aspidistra cerina |  
+102857 | 240001114 | Aspidistra claviformis | 棒蕊蜘蛛抱蛋
+102857 | 240001115 | Aspidistra cruciformis | 十字蜘蛛抱蛋
+102857 | 240001116 | Aspidistra cyathiflora | 杯花蜘蛛抱蛋
+102857 | 240001117 | Aspidistra daibuensis | 大武蜘蛛抱蛋
+102857 | 250092982 | Aspidistra daxinensis |  
+102857 | 240001118 | Aspidistra dolichanthera | 长药蜘蛛抱蛋
+102857 | 240001119 | Aspidistra ebianensis | 峨边蜘蛛抱蛋
+102857 | 200027584 | Aspidistra elatior | 蜘蛛抱蛋
+102857 | 240001120 | Aspidistra fasciaria | 带叶蜘蛛抱蛋
+102857 | 240001121 | Aspidistra fenghuangensis | 凤凰蜘蛛抱蛋
+102857 | 200027585 | Aspidistra fimbriata | 流苏蜘蛛抱蛋
+102857 | 240001122 | Aspidistra flaviflora | 黄花蜘蛛抱蛋
+102857 | 240001123 | Aspidistra fungilliformis | 伞柱蜘蛛抱蛋
+102857 | 242414659 | Aspidistra guangxiensis |  
+102857 | 200027586 | Aspidistra hainanensis | 海南蜘蛛抱蛋
+102857 | 240001124 | Aspidistra hekouensis | 河口蜘蛛抱蛋
+102857 | 250097272 | Aspidistra hezhouensis |  
+102857 | 242411311 | Aspidistra huanjiangensis |  
+102857 | 250098084 | Aspidistra jingxiensis |  
+102857 | 240001125 | Aspidistra leshanensis | 乐山蜘蛛抱蛋
+102857 | 240001126 | Aspidistra leyeensis | 乐业蜘蛛抱蛋
+102857 | 250097295 | Aspidistra liboensis |  
+102857 | 240001127 | Aspidistra linearifolia | 线萼蜘蛛抱蛋
+102857 | 240001128 | Aspidistra longanensis | 隆安蜘蛛抱蛋
+102857 | 240001129 | Aspidistra longiloba | 巨型蜘蛛抱蛋
+102857 | 240001130 | Aspidistra longipedunculata | 长梗蜘蛛抱蛋
+102857 | 240001131 | Aspidistra longipetala | 长瓣蜘蛛抱蛋
+102857 | 250097979 | Aspidistra longituba |  
+102857 | 240001132 | Aspidistra luodianensis | 罗甸蜘蛛抱蛋
+102857 | 200027587 | Aspidistra lurida | 九龙盘
+102857 | 240001133 | Aspidistra marginella | 啮边蜘蛛抱蛋
+102857 | 200027588 | Aspidistra minutiflora | 小花蜘蛛抱蛋
+102857 | 242001020 | Aspidistra molendinacea |  
+102857 | 240001134 | Aspidistra muricata | 糙果蜘蛛抱蛋
+102857 | 240001135 | Aspidistra mushaensis | 雾社蜘蛛抱蛋
+102857 | 250095345 | Aspidistra obconica |  
+102857 | 240001136 | Aspidistra oblanceifolia | 棕叶草
+102857 | 240001137 | Aspidistra oblongifolia | 长圆叶蜘蛛抱蛋
+102857 | 240001138 | Aspidistra omeiensis | 峨眉蜘蛛抱蛋
+102857 | 242411310 | Aspidistra papillata |  
+102857 | 240001139 | Aspidistra patentiloba | 柳江蜘蛛抱蛋
+102857 | 250097235 | Aspidistra pingtangensis |  
+102857 | 240001140 | Aspidistra punctata | 紫点蜘蛛抱蛋
+102857 | 250097127 | Aspidistra punctatoides |  
+102857 | 242001019 | Aspidistra quadripartita |  
+102857 | 240001141 | Aspidistra retusa | 广西蜘蛛抱蛋
+102857 | 240001142 | Aspidistra saxicola | 石山蜘蛛抱蛋
+102857 | 240001143 | Aspidistra sichuanensis | 四川蜘蛛抱蛋
+102857 | 242001017 | Aspidistra spinula |  
+102857 | 240001144 | Aspidistra subrotata | 辐花蜘蛛抱蛋
+102857 | 200027589 | Aspidistra tonkinensis | 大花蜘蛛抱蛋
+102857 | 240001145 | Aspidistra triloba | 湖南蜘蛛抱蛋
+102857 | 200027590 | Aspidistra typica | 卵叶蜘蛛抱蛋
+102857 | 240001146 | Aspidistra urceolata | 坛花蜘蛛抱蛋
+102857 | 240001147 | Aspidistra xilinensis | 西林蜘蛛抱蛋
+102857 | 240001148 | Aspidistra yingjiangensis | 盈江蜘蛛抱蛋
+102857 | 240001149 | Aspidistra zongbayi | 粽粑叶
+103526 | 240001150 | Barnardia japonica | 绵枣儿
+105448 | 240001153 | Campylandra annulata | 环花开口箭
+105448 | 240001154 | Campylandra aurantiaca | 橙花开口箭
+105448 | 240001155 | Campylandra chinensis | 开口箭
+105448 | 240001156 | Campylandra delavayi | 筒花开口箭
+105448 | 240001157 | Campylandra emeiensis | 峨眉开口箭
+105448 | 240001158 | Campylandra ensifolia | 剑叶开口箭
+105448 | 240001159 | Campylandra fimbriata | 齿瓣开口箭
+105448 | 240001160 | Campylandra jinshanensis | 金山开口箭
+105448 | 240001161 | Campylandra liangshanensis | 凉山开口箭
+105448 | 240001162 | Campylandra lichuanensis | 利川开口箭
+105448 | 240001163 | Campylandra longipedunculata | 长梗开口箭
+105448 | 240001164 | Campylandra tui | 碟花开口箭
+105448 | 240001165 | Campylandra urotepala | 尾萼开口箭
+105448 | 240001166 | Campylandra verruculosa | 疣点开口箭
+105448 | 240001167 | Campylandra wattii | 弯蕊开口箭
+105448 | 240001168 | Campylandra yunnanensis | 云南开口箭
+105621 | 200027591 | Cardiocrinum cathayanum | 荞麦叶大百合
+105621 | 200027592 | Cardiocrinum giganteum | 大百合
+105621 | 240001169 | Cardiocrinum giganteum var. giganteum | 大百合 (原变种)
+105621 | 240001170 | Cardiocrinum giganteum var. yunnanense | 云南大百合
+106712 | 200027593 | Chionographis chinensis | 白丝草
+106712 | 250097300 | Chionographis shiwandashanensis |  
+106807 | 200027594 | Chlorophytum chinense | 狭叶吊兰
+106807 | 200027596 | Chlorophytum laxum | 小花吊兰
+106807 | 200027597 | Chlorophytum malayense | 大叶吊兰
+106807 | 200027598 | Chlorophytum nepalense | 西南吊兰
+107362 | 200027599 | Clintonia udensis | 七筋菇
+107908 | 200027600 | Convallaria majalis | 铃兰
+107989 | 200027601 | Cordyline fruticosa | 朱蕉
+109790 | 200027602 | Dianella ensifolia | 山菅
+110621 | 240001209 | Disporopsis aspersa | 散斑竹根七
+110621 | 200027604 | Disporopsis fuscopicta | 竹根七
+110621 | 240001210 | Disporopsis jinfushanensis | 金佛山竹根七
+110621 | 200027605 | Disporopsis longifolia | 长叶竹根七
+110621 | 200027606 | Disporopsis pernyi | 深裂竹根七
+110621 | 240001211 | Disporopsis undulata | 峨眉竹根七
+110622 | 240001212 | Disporum acuminatissimum | 尖被万寿竹
+110622 | 200027607 | Disporum bodinieri | 短蕊万寿竹
+110622 | 200027609 | Disporum calcaratum | 距花万寿竹
+110622 | 200027610 | Disporum cantoniense | 万寿竹
+110622 | 240001213 | Disporum hainanense | 海南万寿竹
+110622 | 250075675 | Disporum jinfoshanense |  
+110622 | 240001214 | Disporum kawakamii | 台湾万寿竹
+110622 | 240001215 | Disporum longistylum | 长蕊万寿竹
+110622 | 200027611 | Disporum megalanthum | 大花万寿竹
+110622 | 240001216 | Disporum nantouense | 南投万寿竹
+110622 | 240001217 | Disporum shimadae | 山万寿竹
+110622 | 240001218 | Disporum smilacinum | 山东万寿竹
+110622 | 240001219 | Disporum trabeculatum | 横脉万寿竹
+110622 | 240001220 | Disporum uniflorum | 少花万寿竹
+110622 | 200027614 | Disporum viridescens | 宝珠草
+110706 | 240001221 | Diuranthera chinglingensis | 秦岭鹭鸶兰
+110706 | 200027615 | Diuranthera inarticulata | 南川鹭鸶兰
+110706 | 200027616 | Diuranthera major | 鹭鸶兰
+110706 | 200027617 | Diuranthera minor | 小鹭鸶兰
+110888 | 200027618 | Dracaena angustifolia | 长花龙血树
+110888 | 200027619 | Dracaena cambodiana | 柬埔寨龙血树
+110888 | 200027620 | Dracaena cochinchinensis | 剑叶龙血树
+110888 | 240001222 | Dracaena elliptica | 细枝龙血树
+110888 | 240001223 | Dracaena hokouensis | 河口龙血树
+110888 | 200027622 | Dracaena terniflora | 矮龙血树
+111968 | 200027623 | Eremurus altaicus | 阿尔泰独尾草
+111968 | 200027624 | Eremurus anisopterus | 异翅独尾草
+111968 | 200027625 | Eremurus chinensis | 独尾草
+111968 | 200027626 | Eremurus inderiensis | 粗柄独尾草
+112169 | 200027627 | Erythronium japonicum | 猪牙花
+112169 | 200027628 | Erythronium sibiricum | 新疆猪牙花
+113029 | 240001262 | Fritillaria anhuiensis | 安徽贝母
+113029 | 200027629 | Fritillaria cirrhosa | 川贝母
+113029 | 200027631 | Fritillaria crassicaulis | 粗茎贝母
+113029 | 240001263 | Fritillaria dajinensis | 大金贝母
+113029 | 200027632 | Fritillaria davidii | 米贝母
+113029 | 200027633 | Fritillaria delavayi | 梭砂贝母
+113029 | 200027635 | Fritillaria fusca | 高山贝母
+113029 | 200027637 | Fritillaria karelinii | 砂贝母
+113029 | 200027638 | Fritillaria maximowiczii | 轮叶贝母
+113029 | 240001264 | Fritillaria meleagroides | 额敏贝母
+113029 | 200027640 | Fritillaria monantha | 天目贝母
+113029 | 200027642 | Fritillaria pallidiflora | 伊贝母
+113029 | 200027643 | Fritillaria przewalskii | 甘肃贝母
+113029 | 240001265 | Fritillaria sichuanica | 华西贝母
+113029 | 240001266 | Fritillaria sinica | 中华贝母
+113029 | 200027644 | Fritillaria taipaiensis | 太白贝母
+113029 | 200027645 | Fritillaria thunbergii | 浙贝母
+113029 | 200027646 | Fritillaria thunbergii var. chekiangensis | 东阳贝母
+113029 | 240001267 | Fritillaria thunbergii var. thunbergii | 浙贝母 (原变种)
+113029 | 240001268 | Fritillaria tortifolia | 托里贝母
+113029 | 200027647 | Fritillaria unibracteata | 暗紫贝母
+113029 | 240001269 | Fritillaria unibracteata var. longinectarea | 长腺贝母
+113029 | 240001270 | Fritillaria unibracteata var. unibracteata | 暗紫贝母 (原变种)
+113029 | 200027648 | Fritillaria ussuriensis | 平贝母
+113029 | 200027649 | Fritillaria verticillata | 黄花贝母
+113029 | 200027650 | Fritillaria walujewii | 新疆贝母
+113029 | 240001271 | Fritillaria yuminensis | 裕民贝母
+113029 | 240001272 | Fritillaria yuzhongensis | 榆中贝母
+113125 | 200027651 | Gagea albertii | 毛梗顶冰花
+113125 | 240001273 | Gagea altaica | 阿尔泰顶冰花
+113125 | 200027652 | Gagea bulbifera | 腋球顶冰花
+113125 | 250061718 | Gagea chinensis |  
+113125 | 250071456 | Gagea daqingshanensis |  
+113125 | 200027653 | Gagea divaricata | 叉梗顶冰花
+113125 | 200027655 | Gagea fedtschenkoana | 镰叶顶冰花
+113125 | 200027656 | Gagea filiformis | 林生顶冰花
+113125 | 240001274 | Gagea fragifera | 钝瓣顶冰花
+113125 | 200027657 | Gagea granulosa | 粒鳞顶冰花
+113125 | 200027659 | Gagea jaeschkei | 高山顶冰花
+113125 | 240001275 | Gagea nakaiana | 顶冰花
+113125 | 240001276 | Gagea neopopovii | 新疆顶冰花
+113125 | 200027662 | Gagea olgae | 乌恰顶冰花
+113125 | 200027663 | Gagea ova | 多球顶冰花
+113125 | 200027664 | Gagea pauciflora | 少花顶冰花
+113125 | 200027666 | Gagea stepposa | 草原顶冰花
+113125 | 200027668 | Gagea tenera | 细弱顶冰花
+113125 | 240001277 | Gagea terraccianoana | 小顶冰花
+113703 | 200027670 | Gloriosa superba | 嘉兰
+114957 | 200027671 | Heloniopsis umbellata | 胡麻花
+114981 | 200027672 | Hemerocallis citrina | 黄花菜
+114981 | 200027673 | Hemerocallis dumortieri | 小萱草
+114981 | 200027674 | Hemerocallis esculenta | 北萱草
+114981 | 200027675 | Hemerocallis forrestii | 西南萱草
+114981 | 200027676 | Hemerocallis fulva | 萱草
+114981 | 240001294 | Hemerocallis fulva var. angustifolia | 长管萱草
+114981 | 240001295 | Hemerocallis fulva var. aurantiaca | 常绿萱草
+114981 | 240001296 | Hemerocallis fulva var. fulva | 萱草 (原变种)
+114981 | 200027678 | Hemerocallis fulva var. kwanso | 长瓣萱草
+114981 | 240001297 | Hemerocallis lilioasphodelus | 北黄花菜
+114981 | 240001298 | Hemerocallis middendorffii | 大苞萱草
+114981 | 240001299 | Hemerocallis middendorffii var. longibracteata | 长苞萱草
+114981 | 240001300 | Hemerocallis middendorffii var. middendorffii | 大苞萱草 (原变种)
+114981 | 200027681 | Hemerocallis minor | 小黄花菜
+114981 | 200027682 | Hemerocallis multiflora | 多花萱草
+114981 | 200027683 | Hemerocallis nana | 矮萱草
+114981 | 200027684 | Hemerocallis plicata | 折叶萱草
+201262 | 240001301 | Heteropolygonatum ginfushanicum | 金佛山异黄精
+201262 | 241000729 | Heteropolygonatum ogisui |  
+201262 | 240001302 | Heteropolygonatum pendulum | 垂茎异黄精
+201262 | 240001303 | Heteropolygonatum roseolum | 异黄精
+201262 | 250095894 | Heteropolygonatum urceolatum |  
+201262 | 240001304 | Heteropolygonatum xui | 四川异黄精
+115355 | 200027685 | Heterosmilax chinensis | 华肖菝葜
+115355 | 240001305 | Heterosmilax gaudichaudiana | 合丝肖菝葜
+115355 | 200027687 | Heterosmilax japonica | 肖菝葜
+115355 | 240001306 | Heterosmilax longiflora | 长花肖菝葜
+115355 | 240001307 | Heterosmilax micrandra | 小花肖菝葜
+115355 | 200027689 | Heterosmilax polyandra | 多蕊肖菝葜
+115355 | 200027690 | Heterosmilax seisuiensis | 台湾肖菝葜
+115355 | 240001308 | Heterosmilax septemnervia | 短柱肖菝葜
+115355 | 200027691 | Heterosmilax yunnanensis | 云南肖菝葜
+115795 | 240001309 | Hosta albofarinosa | 白粉玉簪
+115795 | 200027693 | Hosta ensata | 东北玉簪
+115795 | 200027694 | Hosta plantaginea | 玉簪
+115795 | 200027695 | Hosta ventricosa | 紫萼
+116475 | 200027696 | Iphigenia indica | 山慈菇
+118558 | 240001397 | Lilium amabile | 秀丽百合
+118558 | 200027697 | Lilium amoenum | 玫红百合
+118558 | 240001398 | Lilium anhuiense | 安徽百合
+118558 | 200027699 | Lilium bakerianum | 滇百合
+118558 | 200027700 | Lilium bakerianum var. aureum | 金黄花滇百合
+118558 | 240001399 | Lilium bakerianum var. bakerianum | 滇百合 (原变种)
+118558 | 200027701 | Lilium bakerianum var. delavayi | 黄绿花滇百合
+118558 | 200027702 | Lilium bakerianum var. rubrum | 紫红花滇百合
+118558 | 200027703 | Lilium bakerianum var. yunnanense | 无斑滇百合
+118558 | 240001400 | Lilium brevistylum | 短柱小百合
+118558 | 200027704 | Lilium brownii | 野百合
+118558 | 240001401 | Lilium brownii var. brownii | 野百合 (原变种)
+118558 | 200027705 | Lilium brownii var. viridulum | 百合
+118558 | 200027706 | Lilium callosum | 条叶百合
+118558 | 200027707 | Lilium cernuum | 垂花百合
+118558 | 200027708 | Lilium concolor | 渥丹
+118558 | 240001402 | Lilium concolor var. concolor | 渥丹 (原变种)
+118558 | 200027709 | Lilium concolor var. megalanthum | 大花百合
+118558 | 200027710 | Lilium concolor var. pulchellum | 有斑百合
+118558 | 200027711 | Lilium dauricum | 毛百合
+118558 | 200027712 | Lilium davidii | 川百合
+118558 | 240001403 | Lilium davidii var. davidii | 川百合 (原变种)
+118558 | 240001404 | Lilium davidii var. willmottiae | 兰州百合
+118558 | 200027713 | Lilium distichum | 东北百合
+118558 | 200027714 | Lilium duchartrei | 宝兴百合
+118558 | 200027715 | Lilium fargesii | 绿花百合
+118558 | 242001047 | Lilium floridum |  
+118558 | 200027716 | Lilium formosanum | 台湾百合
+118558 | 240001405 | Lilium formosanum var. formosanum | 台湾百合 (原变种)
+118558 | 240001406 | Lilium formosanum var. microphyllum | 小叶百合
+118558 | 240001407 | Lilium habaense | 哈巴百合
+118558 | 240001408 | Lilium hansonii | 竹叶百合
+118558 | 240001409 | Lilium henrici | 墨江百合
+118558 | 240001410 | Lilium henrici var. henrici | 墨江百合 (原变种)
+118558 | 240001411 | Lilium henrici var. maculatum | 斑块百合
+118558 | 200027719 | Lilium henryi | 湖北百合
+118558 | 240001412 | Lilium huidongense | 会东百合
+118558 | 240001413 | Lilium jinfushanense | 金佛山百合
+118558 | 240001414 | Lilium lankongense | 匍茎百合
+118558 | 240001415 | Lilium leichtlinii var. maximowiczii | 大花卷丹
+118558 | 200027723 | Lilium leucanthum | 宜昌百合
+118558 | 200027724 | Lilium leucanthum var. centifolium | 紫脊百合
+118558 | 240001416 | Lilium leucanthum var. leucanthum | 宜昌百合 (原变种)
+118558 | 240001417 | Lilium lijiangense | 丽江百合
+118558 | 240001418 | Lilium longiflorum var. scabrum | 糙茎百合
+118558 | 200027726 | Lilium lophophorum | 尖被百合
+118558 | 200027727 | Lilium lophophorum var. linearifolium | 线叶百合
+118558 | 240001419 | Lilium lophophorum var. lophophorum | 尖被百合 (原变种)
+118558 | 240001420 | Lilium martagon var. pilosiusculum | 新疆百合
+118558 | 240001421 | Lilium matangense | 马塘百合
+118558 | 240001422 | Lilium medeoloides | 浙江百合
+118558 | 240001423 | Lilium medogense | 墨脱百合
+118558 | 200027730 | Lilium nanum | 小百合
+118558 | 200027732 | Lilium nanum var. flavidum | 黄斑百合
+118558 | 240001424 | Lilium nanum var. nanum | 小百合 (原变种)
+118558 | 200027733 | Lilium nepalense | 紫斑百合
+118558 | 200027736 | Lilium papilliferum | 乳头百合
+118558 | 200027737 | Lilium paradoxum | 藏百合
+118558 | 240001425 | Lilium pinifolium | 松叶百合
+118558 | 240001426 | Lilium primulinum | 报春百合
+118558 | 240001427 | Lilium primulinum var. burmanicum | 紫喉百合
+118558 | 240001428 | Lilium primulinum var. ochraceum | 川滇百合
+118558 | 200027738 | Lilium pumilum | 山丹
+118558 | 240001429 | Lilium pyi | 毕氏百合
+118558 | 200027739 | Lilium regale | 岷江百合
+118558 | 200027740 | Lilium rosthornii | 南川百合
+118558 | 240001430 | Lilium saccatum | 囊被百合
+118558 | 200027742 | Lilium sargentiae | 泸定百合
+118558 | 200027743 | Lilium sempervivoideum | 蒜头百合
+118558 | 200027744 | Lilium souliei | 紫花百合
+118558 | 240001431 | Lilium speciosum var. gloriosoides | 药百合
+118558 | 200027747 | Lilium stewartianum | 单花百合
+118558 | 200027748 | Lilium sulphureum | 淡黄花百合
+118558 | 200027749 | Lilium taliense | 大理百合
+118558 | 240001432 | Lilium tianschanicum | 天山百合
+118558 | 240001433 | Lilium tigrinum | 卷丹
+118558 | 200027750 | Lilium tsingtauense | 青岛百合
+118558 | 200027751 | Lilium wardii | 卓巴百合
+118558 | 240001434 | Lilium wenshanense | 文山百合
+118558 | 200027752 | Lilium xanthellum | 乡城百合
+118558 | 200027753 | Lilium xanthellum var. luteum | 黄花百合
+118558 | 240001435 | Lilium xanthellum var. xanthellum | 乡城百合 (原变种)
+118708 | 200027754 | Liriope graminifolia | 禾叶山麦冬
+118708 | 200027755 | Liriope kansuensis | 甘肃山麦冬
+118708 | 200027756 | Liriope longipedicellata | 长梗山麦冬
+118708 | 200027757 | Liriope minor | 矮小山麦冬
+118708 | 240001436 | Liriope muscari | 阔叶山麦冬
+118708 | 200027759 | Liriope spicata | 山麦冬
+118708 | 250098030 | Liriope zhejiangensis |  
+118768 | 200027760 | Lloydia delavayi | 黄洼瓣花
+118768 | 200027761 | Lloydia flavonutans | 平滑洼瓣花
+118768 | 200027762 | Lloydia ixiolirioides | 紫斑洼瓣花
+118768 | 200027763 | Lloydia oxycarpa | 尖果洼瓣花
+118768 | 200027764 | Lloydia serotina | 洼瓣花
+118768 | 200027765 | Lloydia serotina var. parva | 矮小洼瓣花
+118768 | 240001437 | Lloydia serotina var. serotina | 洼瓣花 (原变种)
+118768 | 200027766 | Lloydia tibetica | 西藏洼瓣花
+118768 | 240001438 | Lloydia triflora | 三花洼瓣花
+118768 | 200027767 | Lloydia yunnanensis | 云南洼瓣花
+119474 | 240001452 | Maianthemum atropurpureum | 高大鹿药
+119474 | 200027768 | Maianthemum bifolium | 舞鹤草
+119474 | 240001453 | Maianthemum dahuricum | 兴安鹿药
+119474 | 242410000 | Maianthemum dulongense var. coriaceum |  
+119474 | 240001454 | Maianthemum formosanum | 台湾鹿药
+119474 | 240001455 | Maianthemum forrestii | 抱茎鹿药
+119474 | 240001456 | Maianthemum fusciduliflorum | 褐花鹿药
+119474 | 240001457 | Maianthemum fuscum | 西南鹿药
+119474 | 242410002 | Maianthemum fuscum var. cordatum |  
+119474 | 240001458 | Maianthemum gongshanense | 贡山鹿药
+119474 | 250098118 | Maianthemum harae |  
+119474 | 240001459 | Maianthemum henryi | 管花鹿药
+119474 | 240001460 | Maianthemum japonicum | 鹿药
+119474 | 240001461 | Maianthemum lichiangense | 丽江鹿药
+119474 | 240001462 | Maianthemum nanchuanense | 南川鹿药
+119474 | 240001463 | Maianthemum oleraceum | 长柱鹿药
+119474 | 240001464 | Maianthemum purpureum | 紫花鹿药
+119474 | 240001465 | Maianthemum stenolobum | 少叶鹿药
+119474 | 240001466 | Maianthemum szechuanicum | 四川鹿药
+119474 | 240001467 | Maianthemum tatsienense | 窄瓣鹿药
+119474 | 240001468 | Maianthemum trifolium | 三叶鹿药
+119474 | 240001469 | Maianthemum tubiferum | 合瓣鹿药
+120744 | 200027769 | Milula spicata | 穗花韭
+122380 | 240001490 | Nomocharis aperta | 开瓣豹子花
+122380 | 200027770 | Nomocharis basilissa | 美丽豹子花
+122380 | 240001491 | Nomocharis farreri | 滇西豹子花
+122380 | 200027773 | Nomocharis meleagrina | 多斑豹子花
+122380 | 200027774 | Nomocharis pardanthina | 豹子花
+122380 | 240001492 | Nomocharis saluenensis | 云南豹子花
+200085 | 200027776 | Notholirion bulbuliferum | 假百合
+200085 | 200027777 | Notholirion campanulatum | 钟花假百合
+200085 | 200027778 | Notholirion macrophyllum | 大叶假百合
+122994 | 250081268 | Ophiopogon acerobracteatus |  
+122994 | 240001493 | Ophiopogon albimarginatus | 白边沿阶草
+122994 | 200027779 | Ophiopogon amblyphyllus | 钝叶沿阶草
+122994 | 240001494 | Ophiopogon angustifoliatus | 短药沿阶草
+122994 | 200027780 | Ophiopogon bockianus | 连药沿阶草
+122994 | 200027782 | Ophiopogon bodinieri | 沿阶草
+122994 | 200027784 | Ophiopogon chingii | 长茎沿阶草
+122994 | 200027786 | Ophiopogon clarkei | 长丝沿阶草
+122994 | 200027787 | Ophiopogon clavatus | 棒叶沿阶草
+122994 | 200027788 | Ophiopogon corifolius | 厚叶沿阶草
+122994 | 200027789 | Ophiopogon dracaenoides | 褐鞘沿阶草
+122994 | 240001495 | Ophiopogon filipes | 丝梗沿阶草
+122994 | 200027790 | Ophiopogon fooningensis | 富宁沿阶草
+122994 | 200027791 | Ophiopogon grandis | 大沿阶草
+122994 | 200027792 | Ophiopogon heterandrus | 异药沿阶草
+122994 | 240001496 | Ophiopogon hongjiangensis | 红疆沿阶草
+122994 | 200027793 | Ophiopogon intermedius | 间型沿阶草
+122994 | 200027794 | Ophiopogon japonicus | 麦冬
+122994 | 240001497 | Ophiopogon jiangchengensis | 江城沿阶草
+122994 | 200027795 | Ophiopogon latifolius | 大叶沿阶草
+122994 | 240001498 | Ophiopogon lushuiensis | 泸水沿阶草
+122994 | 200027796 | Ophiopogon mairei | 西南沿阶草
+122994 | 200027797 | Ophiopogon marmoratus | 丽叶沿阶草
+122994 | 200027798 | Ophiopogon megalanthus | 大花沿阶草
+122994 | 240001499 | Ophiopogon menglianensis | 勐连沿阶草
+122994 | 240001500 | Ophiopogon motouensis | 墨托沿阶草
+122994 | 240001501 | Ophiopogon multiflorus | 隆安沿阶草
+122994 | 250076692 | Ophiopogon ogisui |  
+122994 | 240001502 | Ophiopogon paniculatus | 锥序沿阶草
+122994 | 200027799 | Ophiopogon peliosanthoides | 长药沿阶草
+122994 | 200027800 | Ophiopogon pingbienensis | 屏边沿阶草
+122994 | 200027801 | Ophiopogon platyphyllus | 宽叶沿阶草
+122994 | 240001503 | Ophiopogon pseudotonkinensis | 拟多花沿阶草
+122994 | 240001504 | Ophiopogon reptans | 蔓茎沿阶草
+122994 | 200027802 | Ophiopogon reversus | 高节沿阶草
+122994 | 200027803 | Ophiopogon revolutus | 卷瓣沿阶草
+122994 | 200027804 | Ophiopogon sarmentosus | 匍茎沿阶草
+122994 | 240001505 | Ophiopogon sinensis | 中华沿阶草
+122994 | 200027805 | Ophiopogon sparsiflorus | 疏花沿阶草
+122994 | 200027806 | Ophiopogon stenophyllus | 狭叶沿阶草
+122994 | 200027807 | Ophiopogon sylvicola | 林生沿阶草
+122994 | 200027808 | Ophiopogon szechuanensis | 四川沿阶草
+122994 | 200027809 | Ophiopogon tienensis | 云南沿阶草
+122994 | 200027810 | Ophiopogon tonkinensis | 多花沿阶草
+122994 | 200027811 | Ophiopogon tsaii | 簇叶沿阶草
+122994 | 200027812 | Ophiopogon umbraticola | 阴生沿阶草
+122994 | 200027814 | Ophiopogon xylorrhizus | 木根沿阶草
+122994 | 240001506 | Ophiopogon yunnanensis | 滇西沿阶草
+122994 | 200027815 | Ophiopogon zingiberaceus | 姜状沿阶草
+124055 | 240001509 | Paris axialis | 五指莲重楼
+124055 | 200027817 | Paris bashanensis | 巴山重楼
+124055 | 240001510 | Paris cronquistii | 凌云重楼
+124055 | 240001511 | Paris cronquistii var. cronquistii | 凌云重楼 (原变种)
+124055 | 240001512 | Paris cronquistii var. xichouensis | 西畴重楼
+124055 | 240001513 | Paris daliensis | 大理重楼
+124055 | 240001514 | Paris delavayi | 金线重楼
+124055 | 240001515 | Paris dulongensis | 独龙重楼
+124055 | 240001516 | Paris dunniana | 海南重楼
+124055 | 200027818 | Paris fargesii | 球药隔重楼
+124055 | 240001517 | Paris fargesii var. fargesii | 球药隔重楼 (原变种)
+124055 | 200027819 | Paris fargesii var. petiolata | 具柄重楼
+124055 | 240001518 | Paris forrestii | 长柱重楼
+124055 | 240001519 | Paris luquanensis | 禄劝花叶重楼
+124055 | 240001520 | Paris mairei | 毛重楼
+124055 | 240001521 | Paris marmorata | 花叶重楼
+124055 | 240001522 | Paris polyandra | 多蕊重楼
+124055 | 200027820 | Paris polyphylla | 七叶一枝花
+124055 | 240001523 | Paris polyphylla var. alba | 白花重楼
+124055 | 200027823 | Paris polyphylla var. chinensis | 华重楼
+124055 | 250077242 | Paris polyphylla var. emeiensis |  
+124055 | 240001524 | Paris polyphylla var. kwantungensis | 广东重楼
+124055 | 200027824 | Paris polyphylla var. latifolia | 宽叶重楼
+124055 | 240001525 | Paris polyphylla var. minor | 小重楼
+124055 | 240001526 | Paris polyphylla var. nana | 矮重楼
+124055 | 240001527 | Paris polyphylla var. polyphylla | 七叶一枝花 (原变种)
+124055 | 240001528 | Paris polyphylla var. pseudothibetica | 长药隔重楼
+124055 | 200027825 | Paris polyphylla var. stenophylla | 狭叶重楼
+124055 | 200027827 | Paris polyphylla var. yunnanensis | 滇重楼
+124055 | 200027829 | Paris quadrifolia | 四叶重楼
+124055 | 240001529 | Paris rugosa | 皱叶重楼
+124055 | 200027830 | Paris thibetica | 黑籽重楼
+124055 | 240001530 | Paris thibetica var. apetala | 无瓣重楼
+124055 | 240001531 | Paris thibetica var. thibetica | 黑籽重楼 (原变种)
+124055 | 240001532 | Paris undulata | 卷瓣重楼
+124055 | 240001533 | Paris vaniotii | 平伐重楼
+124055 | 200027831 | Paris verticillata | 北重楼
+124055 | 240001534 | Paris vietnamensis | 南重楼
+124055 | 240001535 | Paris wenxianensis | 文县重楼
+124279 | 242426504 | Peliosanthes divaricatanthera |  
+124279 | 240001536 | Peliosanthes kaoi | 台东球子草
+124279 | 200027833 | Peliosanthes macrostegia | 大盖球子草
+124279 | 200027835 | Peliosanthes ophiopogonoides | 长苞球子草
+124279 | 242414658 | Peliosanthes pachystachya |  
+124279 | 250090394 | Peliosanthes reflexa |  
+124279 | 200027836 | Peliosanthes sinica | 匍匐球子草
+124279 | 200027837 | Peliosanthes teta | 簇花球子草
+124279 | 200027838 | Peliosanthes yunnanensis | 云南球子草
+124741 | 240001537 | Petrosavia sakuraii | 疏花无叶莲
+124741 | 200027840 | Petrosavia sinii | 无叶莲
+126394 | 200027841 | Polygonatum acuminatifolium | 五叶黄精
+126394 | 240001546 | Polygonatum adnatum | 贴梗黄精
+126394 | 240001547 | Polygonatum altelobatum | 短筒黄精
+126394 | 200027843 | Polygonatum alternicirrhosum | 互卷黄精
+126394 | 200027844 | Polygonatum arisanense | 阿里黄精
+126394 | 200027845 | Polygonatum cathcartii | 棒丝黄精
+126394 | 200027846 | Polygonatum cirrhifolium | 卷叶黄精
+126394 | 200027847 | Polygonatum curvistylum | 垂叶黄精
+126394 | 200027848 | Polygonatum cyrtonema | 多花黄精
+126394 | 240001548 | Polygonatum desoulavyi | 长苞黄精
+126394 | 200027850 | Polygonatum filipes | 长梗黄精
+126394 | 200027851 | Polygonatum franchetii | 距药黄精
+126394 | 200027852 | Polygonatum gracile | 细根茎黄精
+126394 | 240001549 | Polygonatum griffithii | 三脉黄精
+126394 | 200027853 | Polygonatum hirtellum | 粗毛黄精
+126394 | 200027854 | Polygonatum hookeri | 独花黄精
+126394 | 200027855 | Polygonatum humile | 小玉竹
+126394 | 200027856 | Polygonatum inflatum | 毛筒玉竹
+126394 | 200027857 | Polygonatum involucratum | 二苞黄精
+126394 | 200027858 | Polygonatum kingianum | 滇黄精
+126394 | 240001550 | Polygonatum leiboense | 雷波黄精
+126394 | 240001551 | Polygonatum longipedunculatum | 长柄黄精
+126394 | 240001552 | Polygonatum longistylum | 百色黄精
+126394 | 240001553 | Polygonatum macropodum | 热河黄精
+126394 | 200027860 | Polygonatum megaphyllum | 大苞黄精
+126394 | 200027861 | Polygonatum nodosum | 节根黄精
+126394 | 200027862 | Polygonatum odoratum | 玉竹
+126394 | 240001554 | Polygonatum omeiense | 峨眉黄精
+126394 | 200027863 | Polygonatum oppositifolium | 对叶黄精
+126394 | 200027864 | Polygonatum prattii | 康定玉竹
+126394 | 200027865 | Polygonatum punctatum | 点花黄精
+126394 | 200027866 | Polygonatum roseum | 新疆黄精
+126394 | 200027867 | Polygonatum sibiricum | 黄精
+126394 | 200027868 | Polygonatum stenophyllum | 狭叶黄精
+126394 | 240001555 | Polygonatum stewartianum | 西南黄精
+126394 | 200027869 | Polygonatum tessellatum | 格脉黄精
+126394 | 200027870 | Polygonatum verticillatum | 轮叶黄精
+126394 | 240001556 | Polygonatum wardii | 西藏黄精
+126394 | 200027871 | Polygonatum zanlanscianense | 湖北黄精
+128105 | 220011445 | Reineckea carnea | 吉祥草
+128697 | 200027873 | Rohdea japonica | 万年青
+130567 | 200027894 | Smilax aberrans | 弯梗菝葜
+130567 | 200027896 | Smilax arisanensis | 尖叶菝葜
+130567 | 200027897 | Smilax aspera | 穗菝葜
+130567 | 200027898 | Smilax aspericaulis | 疣枝菝葜
+130567 | 200027899 | Smilax astrosperma | 灰叶菝葜
+130567 | 240001569 | Smilax austrozhejiangensis | 浙南菝葜
+130567 | 240001570 | Smilax bapouensis | 巴坡菝葜
+130567 | 200027900 | Smilax basilata | 少花菝葜
+130567 | 200027901 | Smilax bauhinioides | 圆叶菝葜
+130567 | 240001571 | Smilax biumbellata | 西南菝葜
+130567 | 200027903 | Smilax bracteata | 圆锥菝葜
+130567 | 200027904 | Smilax chapaensis | 密疣菝葜
+130567 | 200027905 | Smilax china | 菝葜
+130567 | 200027906 | Smilax chingii | 柔毛菝葜
+130567 | 200027907 | Smilax cocculoides | 银叶菝葜
+130567 | 200027908 | Smilax corbularia | 筐条菝葜
+130567 | 240001572 | Smilax corbularia var. corbularia | 筐条菝葜 (原变种)
+130567 | 200027909 | Smilax corbularia var. woodii | 光叶菝葜
+130567 | 200027910 | Smilax cyclophylla | 合蕊菝葜
+130567 | 200027911 | Smilax darrisii | 平滑菝葜
+130567 | 200027912 | Smilax davidiana | 小果菝葜
+130567 | 200027913 | Smilax densibarbata | 密刺菝葜
+130567 | 200027914 | Smilax discotis | 托柄菝葜
+130567 | 240001573 | Smilax elegans | 西藏菝葜
+130567 | 240001574 | Smilax elegantissima | 四棱菝葜
+130567 | 240001575 | Smilax elongatoumbellata | 台湾菝葜
+130567 | 240001576 | Smilax emeiensis | 峨眉菝葜
+130567 | 200027916 | Smilax ferox | 长托菝葜
+130567 | 200027917 | Smilax fooningensis | 富宁菝葜
+130567 | 240001577 | Smilax gagnepainii | 四翅菝葜
+130567 | 200027918 | Smilax glabra | 土伏苓
+130567 | 240001578 | Smilax glaucochina | 黑果菝葜
+130567 | 240001579 | Smilax griffithii | 墨托菝葜
+130567 | 200027921 | Smilax hayatae | 菱叶菝葜
+130567 | 200027922 | Smilax hemsleyana | 束丝菝葜
+130567 | 200027923 | Smilax horridiramula | 刺枝菝葜
+130567 | 200027924 | Smilax hypoglauca | 粉背菝葜
+130567 | 240001580 | Smilax jiankunii | 建昆菝葜
+130567 | 200027925 | Smilax kwangsiensis | 缘毛菝葜
+130567 | 240001581 | Smilax kwangsiensis var. kwangsiensis | 缘毛菝葜 (原变种)
+130567 | 200027926 | Smilax kwangsiensis var. setulosa | 小刚毛菝葜
+130567 | 200027927 | Smilax lanceifolia | 马甲菝葜
+130567 | 200027928 | Smilax lanceifolia var. elongata | 折枝菝葜
+130567 | 200027929 | Smilax lanceifolia var. impressinervia | 凹脉菝葜
+130567 | 240001582 | Smilax lanceifolia var. lanceifolia | 马甲菝葜 (原变种)
+130567 | 200027930 | Smilax lanceifolia var. lanceolata | 长叶菝葜
+130567 | 200027931 | Smilax lanceifolia var. opaca | 暗色菝葜
+130567 | 200027932 | Smilax lebrunii | 粗糙菝葜
+130567 | 240001583 | Smilax longebracteolata | 长苞菝葜
+130567 | 240001584 | Smilax luei | 吕氏菝葜
+130567 | 200027933 | Smilax lunglingensis | 马钱叶菝葜
+130567 | 240001585 | Smilax lushuiensis | 泸水菝葜
+130567 | 200027935 | Smilax mairei | 无刺菝葜
+130567 | 240001586 | Smilax malipoensis | 马里坡菝葜
+130567 | 240001587 | Smilax megacarpa | 大果菝葜
+130567 | 240001588 | Smilax megalantha | 大花菝葜
+130567 | 200027936 | Smilax menispermoidea | 防己叶菝葜
+130567 | 200027937 | Smilax microphylla | 小叶菝葜
+130567 | 240001589 | Smilax munita | 劲直菝葜
+130567 | 200027938 | Smilax myrtillus | 乌饭叶菝葜
+130567 | 200027939 | Smilax nana | 矮菝葜
+130567 | 240001590 | Smilax nantoensis | 南投菝葜
+130567 | 240001591 | Smilax nervomarginata | 缘脉菝葜
+130567 | 240001592 | Smilax nervomarginata var. liukiuensis | 无疣菝葜
+130567 | 240001593 | Smilax nervomarginata var. nervomarginata | 缘脉菝葜 (原变种)
+130567 | 200027942 | Smilax nigrescens | 黑叶菝葜
+130567 | 200027943 | Smilax nipponica | 白背牛尾菜
+130567 | 200027944 | Smilax ocreata | 抱茎菝葜
+130567 | 200027945 | Smilax outanscianensis | 武当菝葜
+130567 | 240001594 | Smilax ovalifolia | 卵叶菝葜
+130567 | 240001595 | Smilax pachysandroides | 川鄂菝葜
+130567 | 200027946 | Smilax perfoliata | 穿鞘菝葜
+130567 | 240001596 | Smilax pinfaensis | 平伐菝葜
+130567 | 200027947 | Smilax planipes | 扁柄菝葜
+130567 | 200027949 | Smilax polycolea | 红果菝葜
+130567 | 240001597 | Smilax pottingeri | 纤柄菝葜
+130567 | 240001598 | Smilax pygmaea | 峦大菝葜
+130567 | 200027950 | Smilax quadrata | 方枝菝葜
+130567 | 240001599 | Smilax retroflexa | 苍白菝葜
+130567 | 200027952 | Smilax riparia | 牛尾菜
+130567 | 200027953 | Smilax riparia var. acuminata | 尖叶牛尾菜
+130567 | 200027954 | Smilax riparia var. pubescens | 毛牛尾菜
+130567 | 240001600 | Smilax riparia var. riparia | 牛尾菜 (原变种)
+130567 | 200027955 | Smilax scobinicaulis | 短梗菝葜
+130567 | 200027956 | Smilax setiramula | 密刚毛菝葜
+130567 | 200027957 | Smilax sieboldii | 华东菝葜
+130567 | 200027958 | Smilax stans | 鞘柄菝葜
+130567 | 240001601 | Smilax synandra | 筒被菝葜
+130567 | 200027960 | Smilax trachypoda | 糙柄菝葜
+130567 | 200027961 | Smilax trinervula | 三脉菝葜
+130567 | 200027962 | Smilax tsinchengshanensis | 青城菝葜
+130567 | 200027963 | Smilax vanchingshanensis | 梵净山菝葜
+130567 | 240001602 | Smilax yunnanensis | 云南菝葜
+130828 | 200027964 | Speirantha gardenii | 白穗花
+131714 | 200027965 | Streptopus koreanus | 丝梗扭柄花
+131714 | 200027966 | Streptopus obtusatus | 扭柄花
+131714 | 200027967 | Streptopus ovalis | 卵叶扭柄花
+131714 | 200027968 | Streptopus parviflorus | 小花扭柄花
+131714 | 200027969 | Streptopus simplex | 腋花扭柄花
+132802 | 200027970 | Theropogon pallidus | 夏须草
+132980 | 200027971 | Thysanotus chinensis | 异蕊草
+133087 | 200027972 | Tofieldia coccinea | 长白岩菖蒲
+133087 | 200027973 | Tofieldia divergens | 叉柱岩菖蒲
+133087 | 200027974 | Tofieldia thibetica | 岩菖蒲
+133597 | 242001001 | Tricyrtis chinensis |  
+133597 | 250098037 | Tricyrtis dilatata var. chinensis |  
+133597 | 200027975 | Tricyrtis formosana | 台湾油点草
+133597 | 240001610 | Tricyrtis formosana var. formosana | 台湾油点草 (原变种)
+133597 | 240001611 | Tricyrtis formosana var. glandosa | 小型油点草
+133597 | 240001612 | Tricyrtis formosana var. grandiflora | 大花油点草
+133597 | 240001613 | Tricyrtis lasiocarpa | 毛果油点草
+133597 | 240001614 | Tricyrtis latifolia | 宽叶油点草
+133597 | 200027976 | Tricyrtis macropoda | 油点草
+133597 | 240001615 | Tricyrtis ovatifolia | 卵叶油点草
+133597 | 220013763 | Tricyrtis pilosa | 黄花油点草
+133597 | 250077085 | Tricyrtis ravenii |  
+133597 | 200027978 | Tricyrtis stolonifera | 山油点草
+133597 | 240001616 | Tricyrtis suzukii | 侧花油点草
+133597 | 240001617 | Tricyrtis viridula | 绿花油点草
+133668 | 200027980 | Trillium camschatcense | 吉林延龄草
+133668 | 200027979 | Trillium govanianum | 西藏延龄草
+133668 | 240001618 | Trillium taiwanense | 台湾延龄草
+133668 | 200027981 | Trillium tschonoskii | 延龄草
+133974 | 200027982 | Tulipa altaica | 阿尔泰郁金香
+133974 | 241000714 | Tulipa anhuiensis |  
+133974 | 240001619 | Tulipa biflora | 柔毛郁金香
+133974 | 200027984 | Tulipa dasystemon | 毛蕊郁金香
+133974 | 200027985 | Tulipa edulis | 老鸦瓣
+133974 | 200027986 | Tulipa erythronioides | 阔叶老鸦瓣
+133974 | 200027989 | Tulipa heterophylla | 异叶郁金香
+133974 | 200027990 | Tulipa iliensis | 伊犁郁金香
+133974 | 240001620 | Tulipa kolpakovskiana | 迟花郁金香
+133974 | 242411304 | Tulipa mongolica |  
+133974 | 200027992 | Tulipa patens | 垂蕾郁金香
+133974 | 200027994 | Tulipa sinkiangensis | 新疆郁金香
+133974 | 241000726 | Tulipa tarbagataica |  
+133974 | 240001621 | Tulipa tetraphylla | 四叶郁金香
+133974 | 240001622 | Tulipa thianschanica | 天山郁金香
+133974 | 242001048 | Tulipa thianschanica var. sailimuensis |  
+133974 | 241000727 | Tulipa tianschanica var. sailimuensis |  
+133974 | 240001623 | Tulipa uniflora | 单花郁金香
+133997 | 200028001 | Tupistra fungilliformis | 伞柱开口箭
+133997 | 200028002 | Tupistra grandistigma | 长柱开口箭
+133997 | 240001624 | Tupistra longispica | 长穗开口箭
+133997 | 240001625 | Tupistra pingbianensis | 屏边开口箭
+134473 | 200028009 | Veratrum dahuricum | 兴安藜芦
+134473 | 240001626 | Veratrum formosanum | 台湾藜芦
+134473 | 200028010 | Veratrum grandiflorum | 毛叶藜芦
+134473 | 200028012 | Veratrum lobelianum | 阿尔泰藜芦
+134473 | 200028013 | Veratrum maackii | 毛穗藜芦
+134473 | 200028014 | Veratrum mengtzeanum | 蒙自藜芦
+134473 | 200028015 | Veratrum micranthum | 小花藜芦
+134473 | 200028016 | Veratrum nigrum | 藜芦
+134473 | 200028017 | Veratrum oblongum | 长梗藜芦
+134473 | 200028018 | Veratrum oxysepalum | 尖被藜芦
+134473 | 200028019 | Veratrum schindleri | 牯岭藜芦
+134473 | 200028020 | Veratrum stenophyllum | 狭叶藜芦
+134473 | 240001627 | Veratrum stenophyllum var. stenophyllum | 狭叶藜芦 (原变种)
+134473 | 200028021 | Veratrum stenophyllum var. taronense | 滇北藜芦
+134473 | 200028022 | Veratrum taliense | 大理藜芦
+135220 | 240001632 | Ypsilandra alpina | 高山丫蕊花
+135220 | 200028024 | Ypsilandra cavaleriei | 小果丫蕊花
+135220 | 240001633 | Ypsilandra kansuensis | 甘肃丫蕊花
+135220 | 200028025 | Ypsilandra thibetica | 丫蕊花
+135220 | 200028026 | Ypsilandra yunnanensis | 云南丫蕊花

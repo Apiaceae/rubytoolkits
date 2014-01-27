@@ -1,0 +1,964 @@
+familyid | description
+10072 | 铁角蕨科 tie jiao jue ke 
+
+Authors: Youxing Lin & Ronald Viane
+
+
+    Asplenium trichomanes
+Credit: Harvard University Herbaria
+
+
+
+
+
+Plants small to medium-sized, predominantly epilithic or terrestrial, but also many epiphytic. Rhizome creeping, decumbent, or erect, radial or dorsiventral (Hymenasplenium), sometimes massive and bearing detritus-collecting fronds, scaly; scales narrowly triangular, clathrate with anticlinal walls thickened and periclinal walls translucent, often costate and with a central zone of cells with thicker anticlinal walls, in some taxa becoming completely opaque, rarely whole scale black and opaque, margins entire, dentate, or with short or long outgrowths (fimbriate scales), often with a terminal glandular cell, both surfaces glabrous. Fronds remote (in China mainly in Hymenasplenium) or clustered, spirally arranged or in two abaxial rows (Hymenasplenium), herbaceous or leathery to subfleshy, with scales similar to those on rhizome or gradually reduced in size (mini-scales) and filiform to hastate-stellate, usually with small, 3- or 4-celled uniseriate hairs terminating in a gland, rarely glandular or completely glabrous, occasionally gemmiferous with buds often on, but not restricted to, rachis or at pinna apex; stipe usually distinct, not articulate, rarely forming a trophopod (Asplenium adiantum-nigrum) or persistent (Hymenasplenium), distinctly scaly at base, green to grayish brown, in some species castaneous to black and then often shiny, rounded to grooved (sulcate) adaxially, with two vascular bundles at its base, upward near rachis combined into one X-shaped bundle. Lamina outline variable, from simple to 4-pinnate, apical pinnae usually reduced and confluent into a pinnatifid apex, rarely conform with lateral pinnae (e.g., A. formosae), usually branching anadromously; rachis structure variable, adaxially often sulcate, with or without central supravascular ridge, with or without lateral wings derived from decurrent frond margins, rarely with an abaxial wing (A. tripteropus); pinnae and other divisions often more strongly developed in direction of apex, ultimate pinnules or segments often rhombic, trapeziform, or cuneiform with asymmetrical base, rarely dimidiate, margin rarely entire, more often repand or sinuate to crenate or serrate, each tooth usually with a single vein. Veins mostly free, anadromously branching, veinlets usually not reaching margin, with or without terminal hydathode, rarely anastomosing near margin or with a marginal connecting vein (A. subg. Thamnopteris C. Presl); some species with a dissected lamina have one single vein per ultimate segment. Sori single, rarely "double" on two different veins (A. subg. Phyllitis (Hill) Jermy & Viane), or J-shaped (e.g., A. fontanum), linear to subelliptic, attached along one side of a veinlet, usually indusiate (indusium reduced in A. subg. Ceterach (Willdenow) Vida ex Bir, Fraser-Jenkins & Lovis); indusia thinly membranous to thick and firm, usually flat but occasionally rolling back at maturity, free margin entire to erose, sinuate, fimbriate, glandular, or rarely with mini-scales, attached laterally along a veinlet, opening toward costa, costule, or vein from which soriferous vein originated, in some species with a dissected lamina seemingly opening toward margin (A. prolongatum). Sporangia with a vertical annulus of ca. 20 thickened cells, stalk uniseriate, not glandular. Spores usually 64 per sporangium, bilateral, elliptic to reniform, monolete; exospore smooth, perispores elaborate and very variable, consisting of three layers, outer with ridges (lophate), spines (echinate), or with large pori (reticulate) and no ridges or spines, or a combination. Plants sexual or agamosporous and then often with only 32 spores per sporangium, x = (35)36 in Asplenium, but (36, 38)39 in Hymenasplenium.
+
+Two genera and ca. 700 species: subcosmopolitan, but mainly in montane and (sub)tropical regions; two genera and 108 species and species complexes (Hymenasplenium) (25 endemic) in China.
+
+
+
+
+
+Wu Shiew-hung. 1999. Aspleniaceae. In: Wu Shiew-hung, ed., Fl. Reipubl. Popularis Sin. 4(2): 1-153.
+
+
+
+
+Credit: Harvard University Herbaria
+
+
+
+
+Plants small to medium-sized, predominantly epilithic or terrestrial, but also many epiphytic. Rhizome creeping, decumbent, or erect, radial or dorsiventral (Hymenasplenium), sometimes massive and bearing detritus-collecting fronds, scaly; scales narrowly triangular, clathrate with anticlinal walls thickened and periclinal walls translucent, often costate and with a central zone of cells with thicker anticlinal walls, in some taxa becoming completely opaque, rarely whole scale black and opaque, margins entire, dentate, or with short or long outgrowths (fimbriate scales), often with a terminal glandular cell, both surfaces glabrous. Fronds remote (in China mainly in Hymenasplenium) or clustered, spirally arranged or in two abaxial rows (Hymenasplenium), herbaceous or leathery to subfleshy, with scales similar to those on rhizome or gradually reduced in size (mini-scales) and filiform to hastate-stellate, usually with small, 3- or 4-celled uniseriate hairs terminating in a gland, rarely glandular or completely glabrous, occasionally gemmiferous with buds often on, but not restricted to, rachis or at pinna apex; stipe usually distinct, not articulate, rarely forming a trophopod (Asplenium adiantum-nigrum) or persistent (Hymenasplenium), distinctly scaly at base, green to grayish brown, in some species castaneous to black and then often shiny, rounded to grooved (sulcate) adaxially, with two vascular bundles at its base, upward near rachis combined into one X-shaped bundle. Lamina outline variable, from simple to 4-pinnate, apical pinnae usually reduced and confluent into a pinnatifid apex, rarely conform with lateral pinnae (e.g., A. formosae), usually branching anadromously; rachis structure variable, adaxially often sulcate, with or without central supravascular ridge, with or without lateral wings derived from decurrent frond margins, rarely with an abaxial wing (A. tripteropus); pinnae and other divisions often more strongly developed in direction of apex, ultimate pinnules or segments often rhombic, trapeziform, or cuneiform with asymmetrical base, rarely dimidiate, margin rarely entire, more often repand or sinuate to crenate or serrate, each tooth usually with a single vein. Veins mostly free, anadromously branching, veinlets usually not reaching margin, with or without terminal hydathode, rarely anastomosing near margin or with a marginal connecting vein (A. subg. Thamnopteris C. Presl); some species with a dissected lamina have one single vein per ultimate segment. Sori single, rarely "double" on two different veins (A. subg. Phyllitis (Hill) Jermy & Viane), or J-shaped (e.g., A. fontanum), linear to subelliptic, attached along one side of a veinlet, usually indusiate (indusium reduced in A. subg. Ceterach (Willdenow) Vida ex Bir, Fraser-Jenkins & Lovis); indusia thinly membranous to thick and firm, usually flat but occasionally rolling back at maturity, free margin entire to erose, sinuate, fimbriate, glandular, or rarely with mini-scales, attached laterally along a veinlet, opening toward costa, costule, or vein from which soriferous vein originated, in some species with a dissected lamina seemingly opening toward margin (A. prolongatum). Sporangia with a vertical annulus of ca. 20 thickened cells, stalk uniseriate, not glandular. Spores usually 64 per sporangium, bilateral, elliptic to reniform, monolete; exospore smooth, perispores elaborate and very variable, consisting of three layers, outer with ridges (lophate), spines (echinate), or with large pori (reticulate) and no ridges or spines, or a combination. Plants sexual or agamosporous and then often with only 32 spores per sporangium, x = (35)36 in Asplenium, but (36, 38)39 in Hymenasplenium.
+
+Two genera and ca. 700 species: subcosmopolitan, but mainly in montane and (sub)tropical regions; two genera and 108 species and species complexes (Hymenasplenium) (25 endemic) in China.
+
+
+
+
+
+Wu Shiew-hung. 1999. Aspleniaceae. In: Wu Shiew-hung, ed., Fl. Reipubl. Popularis Sin. 4(2): 1-153.
+
+
+
+
+10078 | 蹄盖蕨科 ti gai jue ke 
+
+Authors: Zhongren Wang, He Zhaorong & Masahiro Kato
+
+
+
+
+
+
+Plants terrestrial or epilithic, small to medium-sized, sometimes large. Rhizome long or shortly creeping, ascending or erect, rarely short treelike, dictyostelic, scaly; scales entire or toothed, tooth consisting of 2 adjacent upturned ends of marginal cells, basifixed, rarely pseudopeltate. Stipe supplied by 2 vascular strands with xylem seahorse-shaped in cross section and upward united into U-shaped strand, scaly, also hairy or glabrate, hairs unicellular or multicellular, glandular or eglandular. Rachis, costae, and costules grooved adaxially, grooves of costae and costules confluent to those of lower order frond axes or interrupted by ridges between grooves, scaly, hairy, or glabrate; hairs unicellular or multicellular, glandular or eglandular; spines continued from ridges, or short fleshy projections in grooves, at base of costae, costules, and midribs adaxially, or spines and projections absent. Lamina variously dissected, simple to 3-pinnate, pinnatifid or with terminal pinna similar to lateral pinnae, apex narrowed. Veins free or anastomosing with polygonal areoles or with successive veins from adjacent midribs united to excurrent veins between 2 rows of rhomboid areoles. Sori various, linear, J-shaped, horseshoe-shaped, orbicular-reniform, or orbicular, indusiate or exindusiate; indusia inferior entirely or proximally to receptacle, or lateral, various in shape, sack-shaped, cup-shaped, saucer-shaped, platelike, elongate, J-shaped, horseshoe-shaped, or orbicular-reniform. Spores bilateral, ellipsoid, covered by perispore.
+
+Five genera and ca. 600 species: worldwide from tropical to frigid zones of both hemispheres; five genera and 278 species (135 endemic) in China.
+
+
+
+
+
+Of the genera recognized in FRPS (3(2): 32-504. 1999), Rhachidosorus and Diplaziopsis were recently segregated as families Rhachidosoraceae and Diplaziopsidaceae, respectively. Athyriaceae s.s. or subfamily Athyrioideae comprise Anisocampium (including Kuniwatsukia), Athyrium (including Pseudocystopteris), Cornopteris (including Neoathyrium), Deparia (including Athyriopsis, Dictyodroma, Dryoathyrium, and Lunathyrium), and Diplazium (including Allantodia, Callipteris, and Monomelangium). Subfamily Cystopteridoideae was raised to family Cystopteridaceae.Wang Zhong-ren, Chu Wei-ming, He Zhao-rong & Hsieh Yin-tang. 1999. Athyriaceae (excluding Acystopteris, Cystoathyrium, Cystopteris, Diplaziopsis, Gymnocarpium, and Rhachidosorus). In: Chu Wei-ming, ed., Fl. Reipubl. Popularis Sin. 3(2): 32-511.
+
+
+
+
+10108 | 乌毛蕨科 wu mao jue ke 
+
+Authors: Wang Faguo, Prof. Fuwu Xing, Shiyong Dong & Masahiro Kato
+
+
+
+
+
+
+Plants mostly terrestrial, sometimes tree ferns (like small trees), rarely scandent. Rhizome mostly erect, or creeping or scandent, usually dictyostelic (Stenochlaena meristelic), scales brown, entire. Fronds monomorphic or dimorphic, mostly long stipitate; stipe with 2 to several vascular bundles, scaly at base; lamina pinnate, pinnatifid, or bipinnatifid, rarely simple, thickly papery to leathery, glabrous or usually with small scales; pinnae rarely articulate to rachis (Stenochlaena); veins free or anastomosing with 1 or more series of areoles, without included free veinlets. Sori elongate or continuous along vascular network or commissure on either side of midrib, indusiate, rarely exindusiate, rarely acrostichoid; indusium facing toward costa or costule; annulus longitudinal, interrupted. Spores elliptic, bilateral, monolete.
+
+About (2-)14 genera and ca. 250 species: worldwide, but with greatest diversity in the S tropics; eight genera and 14 species (one endemic) in China.
+
+
+
+
+
+Stenochlaena has been separated as the sole genus of Stenochlaenaceae or Blechnaceae subfamily Stenochlaenoideae. Christenhusz et al. (Phytotaxa 19: 48-49. 2011) listed seven genera of Blechnaceae but indicated that the actual number of genera was very uncertain and could be anywhere between two and nine, depending mainly on a better understanding of Blechnum.Shing Kunghsia. 1990. Stenochlaenaceae. In: Ching Renchang & Shing Kunghsia, eds., Fl. Reipubl. Popularis Sin. 3(1): 94-97; Wu Shiew-hung. 1999. Blechnaceae. In: Wu Shiew-hung, ed., Fl. Reipubl. Popularis Sin. 4(2): 192-215.
+
+
+
+
+20904 | 金毛狗蕨科 jin mao gou jue ke 
+
+Authors: Zhang Xianchun & Harufumi Nishida
+
+
+
+
+
+
+Plants terrestrial; rhizomes massive, creeping to ascending or erect (up to 6 m), solenostelic or sometimes dictyostelic with vascular bundles lacking sclerenchymatous sheath, bearing adventitious roots, densely covered with soft, yellowish brown, multicellular long hairs at apices and persistent stipe bases. Fronds approximate, forming a crown at apex, monomorphic or dimorphic, mostly 2-4 m; stipe hairy at base, with 3 corrugated vascular bundles (1 abaxial, 2 adaxial) arranged in an omega-shape with adaxial ends curved strongly inward, or with abundant V-, U-, or W-shaped vascular bundles arranged in omega configuration, sometimes adaxial inwardly recurved arms of vascular bundles forming an isolated set of bundles in a reversed U-shape; stipe flattened on adaxial face with lateral aerophores (pneumatophores) forming a line on each side; lamina 2-pinnate + pinnatifid to 3-pinnate + pinnatifid, firm, often glaucous abaxially, glabrous when mature or persistently hairy on rachis, costa, costules, and veins; rachis hairy in middle, in dried material often sulcate in middle of ridge, which is flanked by 2 grooves; sterile segments entire or crenate; fertile segments poorly differentiated; veins free, simple or forked to pinnate; stomata paracytic with 3 subsidiary cells. Sori single, marginal at vein ends, indusiate; indusia bivalvate, each with a strongly differentiated, non-green outer indusium and a similarly modified tonguelike inner indusium; paraphyses few, short and brown; spores globose-tetrahedral, with prominent angles and a well-developed equatorial flange; antheridial walls 5-celled. x = 68.
+
+One genus and ca. 11 species: E and SE Asia, Central America, Pacific islands (Hawaii); two species in China.
+
+
+
+
+
+A fossil permineralized rhizome Cibotium iwatense Ogura (1933) is described from the Late Cretaceous of Iwate Prefecture, Japan.The Cibotiaceae are monophyletic, with affinity to the tree fern families.Ching Ren-chang, Fu Shu-hsia, Wang Chu-hao & Shing Gung-hsia. 1959. Dicksoniaceae. In: Ching Ren-chang, ed., Fl. Reipubl. Popularis Sin. 2: 197-198.
+
+
+
+
+10240 | 桫椤科 suo luo ke 
+
+Authors: Zhang Xianchun & Harufumi Nishida
+
+
+
+
+
+
+Plants terrestrial, large to very large, less often medium-sized, with short to usually long, erect, slender to robust, apically scaly stem. Stems with dictyosteles, apices (and usually stipe bases) covered with large scales, sometimes also with small scales or hairs. Fronds usually large (up to 5 m); stipe with obvious, usually discontinuous pneumathodes in two lines; lamina 1-3-pinnate (rarely simple); veins simple to forked, free, rarely anastomosing. Sori superficial (abaxial) or terminal on veins and marginal or submarginal, orbicular, exindusiate, or indusia saucerlike, cuplike, or globose and completely surrounding sporangia, or bivalvate; sporangia maturing gradually, with oblique annuli; receptacles raised; paraphyses usually present; spores tetrahedral, trilete, variously ornamented; gametophytes green, cordate. x = 69.
+
+About five genera and more than 600 species: pantropical; two genera and 14 species (one endemic) in China.
+
+
+
+
+
+Zhang Xianchun. 2004. Cyatheaceae. In: Zhang Xianchun, ed., Fl. Reipubl. Popularis Sin. 6(3): 249-274.
+
+
+
+
+20903 | 冷蕨科 leng jue ke 
+
+Authors: Zhongren Wang, Christopher Haufler, Kathleen M. Pryer & Masahiro Kato
+
+
+
+
+
+
+Plants small to medium-sized, summer-green; rhizomes slender, creeping or ascending; costae articulate to rachis (in Gymnocarpium) or not so; lamina pinnate to 3(or 4)-pinnate-pinnatifid; veins free; sori orbicular or elongate, abaxial on veins, indusiate or exindusiate; indusia ovate-lanceolate, ovate, or orbicular, attached proximally to receptacle. x = 40, 42.
+
+Four genera and more than 30 species: worldwide, mainly in the temperate and cold temperate zones and tropical mountains; four genera (one endemic) and 20 species (ten endemic) in China.
+
+
+
+
+
+Wang Zhong-ren. 1999. Acystopteris, Cystoathyrium, Cystopteris, and Gymnocarpium. In: Chu Wei-ming, ed., Fl. Reipubl. Popularis Sin. 3(2): 38-74.
+
+
+
+
+10256 | 骨碎补科 gu sui bu ke 
+
+Authors: Prof. Fuwu Xing, Wang Faguo & Hans P. Nooteboom
+
+
+
+
+
+
+Plants small to moderate-sized, epiphytic, epilithic, or rarely terrestrial. Rhizome long creeping, dorsiventral, densely covered with peltate or basifixed scales; fronds usually in 2 rows. Fronds remote; stipe articulate at base to short or long phyllopodia; lamina simple, imparipinnate, or pinnatifid to 4-pinnate-pinnatifid, firmly herbaceous to leathery, glabrous or sometimes covered with scales or hairs; veins free, usually forked. False veins present in several species. Sporangia typically separately borne in a small discrete sorus terminal on veins, submarginal or sometimes medial [in Humata undulata (Alderwerelt) M. Kato & Tsutsumi connate and elongate along lamina margins]; indusium opening toward margin, attached at base and sometimes at sides, orbicular, reniform, or elongate toward margin. Sporangia long stalked, 3-seriate, annulus longitudinal, consisting of 12-16 thickened cells; spores monolete, elliptic or narrowly elliptic, translucent, usually without perispore.
+
+Five genera (one according to Nooteboom) and ca. 35 species: mostly in tropical and subtropical Asia, a few species extending to Africa, one species in NW Africa, SW Europe, and Macaronesia; four genera and 17 species (three endemic) in China.
+
+
+
+
+
+One of us (Nooteboom) considers that only one genus, Davallia, can be recognized in the Davalliaceae. Paradavallodes multidentata is nested in Araiostegia + Davallodes, which is a polymorphic basal clade. Among species examined, A. hymenophylloides (Blume) Copeland is the type of Araiostegia, and P. multidentata is the type of Paradavallodes. Therefore, the earliest published-Davallodes (Copeland) Copeland-should be used as the generic name. However, from morphology and DNA there are no arguments to recognize this genus. The Humata clade looks quite distinct as an entity, although it contains Davallia corniculata, renamed to H. corniculata by Kato, and in all other systems this is a Davallia. Tsutsumi, Zhang and Kato did not analyze D. wagneriana Copeland and included it in Davallia, but morphologically this is the closest relative of D. corniculata. It should belong to Humata; or better, Humata is part of Davallia (Tsutsumi, Zhang & Kato, Syst. Bot. 33: 44-48. 2008).However, two of us (Xing and Wang) consider that morphological and molecular phylogenetic studies do not support there being only one genus (e.g., Sen, Sen & Holttum, Kew Bull. 27: 217-243. 1972; Kato and Tsutsumi, Acta Phytotax. Geobot. 59: 1-14. 2008; and Tsutsumi, Zhang & Kato, Syst. Bot. 33: 44-48. 2008). A recent study about the leaf epidermis and spore morphology of Davalliaceae (He Chunmei, A taxonomic revision of Davalliaceae in China. Graduate University of Chinese Academy of Sciences, Guangzhou. 2012) also supports Araiostegia, Humata, and Paradavallodes as natural genera.Polyploidy, through hybridization and polyploidization, has been assessed in the Humata group, and these polyploids appeared to be apomictic. This could very well also be the case in other groups. With only cpDNA, the phylogeny of a group like this cannot be assessed. Moreover, in Davalliaceae, incongruence between CpDNA and nrDNA is found on the generic level but is not yet explained (C. W. Chen et al., Insights into Evolutionary History of the Humata repens Complex in Taiwan. 5th Symp. Asian Pteridol. Fern Show: Progr. & Abstr. 42. 2010; C. W. Chen & Nooteboom, ined.).Ching Ren-chang, Fu Shu-hsia, Wang Chu-hao & Shing Gung-hsia. 1959. Davalliaceae (excluding Arthropteris, Gymnogrammitis, Leucostegia, and Nephrolepis). In: Ching Ren-chang, ed., Fl. Reipubl. Popularis Sin. 2: 280-319, 374-378; Wu Shiewhung. 1999. Davalliaceae (excluding Leucostegia). In: Wu Shiewhung, ed., Fl. Reipubl. Popularis Sin. 6(1): 161-197.
+
+
+
+
+10262 | 碗蕨科 wan jue ke 
+
+Authors: Yan Yuehong, Qi Xinping, Wenbo Liao, Prof. Fuwu Xing, Ding Mingyan, Wang Faguo, Zhang Xianchun, Zhaohong Wu, Shunshuke Serizawa, Jefferson Prado, Michele Funston, Michael G. Gilbert & Hans P. Nooteboom
+
+
+
+
+
+
+Plants terrestrial, sometimes climbing. Rhizome usually long creeping, solenostelic, siphonostelic, or polystelic, usually covered with multicellular hairs, less often with few-celled, cylindrical, glandular hairs or multicellular bristles, scales absent. Fronds medium-sized to large, sometimes indeterminate, monomorphic; stipes not articulate to rhizome, usually hairy, rarely glabrous; lamina 1-4-pinnately compound, thinly herbaceous to leathery, hairy or glabrous, without scales; rachis grooved adaxially, sometimes with buds (Monachosorum); pinnae opposite or alternate; veins usually free, pinnate or forked, not reaching margin, reticulate without included veinlets in Histiopteris. Sori marginal or intramarginal, linear or orbicular, terminal on a veinlet or on a vascular commissure joining apices of veins; indusia linear or bowl-shaped, sometimes double with outer false indusium formed from thin reflexed lamina margin and inconspicuous inner true indusium; paraphyses present or not. Spores tetrahedral and trilete, or reniform and monolete, spinulose, tuberculate, or smooth. Gametophytes green, cordate. x = 26, 29, 30, 31, 33, 34, 38, 46, 47, 48, and probably others.
+
+Ten or 11(-15) genera and ca. 170(-300) species: mostly tropical but also extending into temperate regions; seven genera and 52 species (16 endemic) in China.
+
+
+
+
+
+Ching Ren-chang, Fu Shu-hsia, Wang Chu-hao & Shing Gung-hsia. 1959. Dennstaedtiaceae and Monachosoraceae. In: Ching Ren-chang, ed., Fl. Reipubl. Popularis Sin. 2: 198-256, 357-371; Wu Shiewhung. 1990. Pteridiaceae and Histiopteris. In: Ching Renchang & Shing Kunghsia, eds., Fl. Reipubl. Popularis Sin. 3(1): 1-10, 89-90.
+
+
+
+
+20902 | 肠蕨科 chang jue ke 
+
+Authors: He Zhaorong & Masahiro Kato
+
+
+
+
+
+
+Plants medium-sized or large, usually in forests near or beside streams. Rhizomes decumbent to erect, thick. Lamina 1-pinnate, imparipinnate, with pinnae entire, glabrous; veins free on either side of midrib, fully anastomosing toward margins and forming 2-4 rows of areoles, without included free veinlets. Sori elongate along long veins close to midrib, covered by a similarly elongate, membranous indusium; indusia usually 3-8 mm, sometimes up to 1-2 cm, arched, sausage-shaped. Spores with winglike fimbriate and echinate folds, or low perforate plain folds. x = 41, 40 or 31.
+
+Three genera and five species: tropical America, tropical, subtropical, and temperate Asia; one genus and three species in China.
+
+
+
+
+
+Based on molecular evidence (R. Sano et al., Molec. Phylogen. Evol. 15: 403-413. 2000; Wei et al., Acta Bot. Yunnan., suppl. 17: 46-54. 2010), the family Diplaziopsidaceae consisting of Diplaziopsis and Homalosorus Small ex Pichi Sermolli (and provisionally Hemidictyum C. Presl) was proposed by X. C. Zhang and Christenhusz (Phytotaxa 19: 15. 2011).Chu Wei-ming & He Zhao-rong. 1999. Diplaziopsis. In: Chu Wei-ming, ed., Fl. Reipubl. Popularis Sin. 3(2): 499-504.
+
+
+
+
+10283 | 双扇蕨科 shuang shan jue ke 
+
+Authors: Zhang Xianchun, Masahiro Kato & Hans P. Nooteboom
+
+
+
+
+
+
+Rhizome long creeping, solenostelic or protostelic, covered with bristles or articulate hairs. Stipe with a single vascular bundle proximally and polystelic distally; lamina (sterile ones, at least) cleft into 2 or often more subequal parts; veins highly reticulate, with included veinlets. Sori exindusiate, discrete, compital (at intersection of connecting veins), scattered over surface, or fronds dimorphic and fertile ones covered with sporangia; sporangia maturing simultaneously or maturation mixed, with 4-seriate stalks; annuli almost vertical or slightly oblique; spores ellipsoid and monolete, or tetrahedral and trilete, surface smooth or rugulose, ca. 64 or ca. 128 per sporangium; gametophytes cordate-thalloid. x = 33.
+
+Two genera and ca. 11 species: E and S China, India, C and S Japan, and from SE Asia to Melanesia and W Polynesia; two genera and five species in China.
+
+
+
+
+
+The Dipteridaceae are a rather primitive group of ferns related to the Gleicheniaceae and distant from the Polypodiaceae, with the fossil record beginning in the Upper Triassic.Lin Youxing. 2000. Dipteridaceae and Cheiropleuriaceae. In: Lin Youxing, ed., Fl. Reipubl. Popularis Sin. 6(2): 1-6.
+
+
+
+
+10291 | 鳞毛蕨科 lin mao jue ke 
+
+Authors: Li-Bing Zhang, Sugong Wu, Xiang Jianying, Prof. Fuwu Xing, He Hai, Wang Faguo, Shugang Lu, Shiyong Dong, David S. Barrington, Kunio Iwatsuki, Maarten J. M. Christenhusz, John T. Mickel, Masahiro Kato & Michael G. Gilbert
+
+
+
+
+
+
+Plants small to large, evergreen or deciduous, terrestrial, epilithic, hemiepiphytic, or epiphytic. Rhizomes erect, ascending, creeping, or sometimes climbing, dictyostelic (mostly radially), scaly; scales basally attached or very rarely peltate, often non-clathrate but sometimes clathrate, entire or dentate. Fronds caespitose or remote from one another, with segments anadromously or catadromously arranged, or sometimes anadromous at base and catadromous distally; stipe often not articulate but sometimes articulate at base, with 3 or more vascular bundles arranged in a semicircle or circle, scaly, sulcate adaxially, not hairy or sometimes hairy; lamina monomorphic or dimorphic, usually oblong, deltoid, pentagonal, lanceolate, ovate, or linear, 1-5-pinnate, or simple, rarely imparipinnate, scaly, glandular, hairy, or glabrous; if scaly then scales bullate or flat; glands absent or present; texture thinly papery, papery, or leathery. Rachises sulcate adaxially, with or without proliferous bulbils, rarely proliferous bulbils borne at a prolonged flagelliform rachis terminal; venation pinnate and free, or variously anastomosing to form 1 to multiple rows of areoles, with or without included veinlets. Fertile fronds conform or weakly to strongly difform with sterile fronds. Sporangia usually in orbicular sori; sori terminal, subterminal, or dorsal on veins, indusiate or rarely exindusiate; if indusiate then indusia orbicular or reniform or rarely ovoid, superior, lateral, or rarely inferior, sessile or rarely stalked, entire or toothed; sometimes sporangia nearly evenly covering fertile parts abaxially (not forming orbicular sori); sporangia with 3-rowed, short to long stalks. Spores monolete, achlorophyllous, with prominent perispore. x = 41.
+
+About 25 genera and 2,100 species: nearly cosmopolitan, but highest diversity found in E Asia (Dryopteris, Polystichum) and the New World (Ctenitis, Elaphoglossum); ten genera and 493 species (260 endemic) in two subfamilies in China.
+
+
+
+
+
+Eighty percent of the 2,100 species are in four genera (Ctenitis, Dryopteris, Elaphoglossum, and Polystichum). Subfamily Dryopteridoideae includes 17 genera: Adenoderris J. Smith, Arachniodes (incl. Leptorumohra, Lithostegia, Phanerophlebiopsis), Coveniella Tindale, Ctenitis (incl. Ataxipteris), Cyclodium C. Presl, Cyrtomium, Dryopolystichum Copeland, Dryopteris (incl. Acrophorus, Acrorumohra, Dryopsis, Nothoperanema, Peranema, Revwattsia D. L. Jones), Lastreopsis, Maxonia C. Christensen, Megalastrum Holttum, Phanerophlebia C. Presl, Polystichopsis (J. Smith) Holttum, Polystichum (incl. Cyrtogonellum, Cyrtomidictyum, Papuapteris Christensen, Plecosorus, Sorolepidium), Rumohra Raddi, Stenolepia Alderwerelt, and Stigmatopteris C. Christensen. Subfamily Elaphoglossoideae includes eight genera: Arthrobotrya C. Christensen, Bolbitis (incl. Egenolfia), Elaphoglossum (incl. Microstaphyla C. Presl, Peltapteris Link), Lomagramma, Mickelia R. C. Moran, Labiak & Sundue, Olfersia Raddi, Polybotrya Humbolt & Bonpland ex Willdenow, and Teratophyllum. These genera are placed in Dryopteridaceae on the basis of morphology and, for most, molecular studies as well.Wang Chuhao. 1999. Ctenitis, Lastreopsis, Bolbitidaceae, and Lomagramma. In: Wu Shiewhung, ed., Fl. Reipubl. Popularis Sin. 6(1): 2-37, 56-59, 104-124, 129-133; Wu Shiew-hung. 1999. Peranemataceae ["Peranemaceae"]. In: Wu Shiew-hung, ed., Fl. Reipubl. Popularis Sin. 4(2): 216-238; Wu Shiewhung. 1999. Elaphoglossaceae. In: Wu Shiewhung, ed., Fl. Reipubl. Popularis Sin. 6(1): 134-142; Hsieh Yingtang, Wu Sugong & Lu Shugang. 2000. Dryopteridaceae (1). In: Wu Sugong, ed., Fl. Reipubl. Popularis Sin. 5(1): 1-220; Kung Hsianshiu, Chu Weiming, He Zhaorong, Zhang Libing & Hsieh Yingtang. 2001. Dryopteridaceae (2) (excluding Cyclopeltis). In: Kung Hsianshiu, ed., Fl. Reipubl. Popularis Sin. 5(2): 1-228.
+
+
+
+
+10315 | 木贼科 mu zei ke 
+
+Authors: Li-Bing Zhang & Nicholas J. Turland
+
+
+    Equisetum ramosissimum
+Credit: Harvard University Herbaria
+
+
+
+
+
+Plants perennial, homosporous, small to large, terrestrial, aquatic, or in shallow water. Rhizome creeping, sometimes erect or ascending, blackish brown, branched, with nodes; nodes with roots densely covered with trichomes or glabrous. Aerial stems annual or perennial, erect, monomorphic or dimorphic, green but lower nodes often blackish brown, terete, with nodes, hollow and with longitudinal canals in center, often with silica tubercles on epidermis, unbranched or with whorled branches; internodes with longitudinal ridges and grooves. Leaves reduced, scalelike, whorled; lower portion fused to form a collarlike sheath around base of internode; upper portion lobed. Strobili conelike, terminal on stem or branches, terete or ellipsoid, sometimes stalked; sporophylls whorled, peltate, hexagonal in surface view, imbricate, with 5-10 sporangia per sporophyll. Sporangia saclike, in whorls on abaxial side of sporophylls. Spores green, subglobose or globose, 35-70 μm in diam., each with 4 spirally curled, white filaments (elaters) that uncurl upon drying, without colpi, with thin and transparent perispores; perispores with granular ornamentation. Gametophytes growing at or near soil surface, green, disk- to cushion-shaped, irregularly lobed. x = 108.
+
+One genus and ca. 15 species: cosmopolitan, except Antarctica; ten species in China.
+
+
+
+
+
+Zhang Libing. 2004. Equisetaceae. In: Zhang Xianchun, ed., Fl. Reipubl. Popularis Sin. 6(3): 224-243.
+
+
+
+
+Credit: Harvard University Herbaria
+
+
+
+
+Plants perennial, homosporous, small to large, terrestrial, aquatic, or in shallow water. Rhizome creeping, sometimes erect or ascending, blackish brown, branched, with nodes; nodes with roots densely covered with trichomes or glabrous. Aerial stems annual or perennial, erect, monomorphic or dimorphic, green but lower nodes often blackish brown, terete, with nodes, hollow and with longitudinal canals in center, often with silica tubercles on epidermis, unbranched or with whorled branches; internodes with longitudinal ridges and grooves. Leaves reduced, scalelike, whorled; lower portion fused to form a collarlike sheath around base of internode; upper portion lobed. Strobili conelike, terminal on stem or branches, terete or ellipsoid, sometimes stalked; sporophylls whorled, peltate, hexagonal in surface view, imbricate, with 5-10 sporangia per sporophyll. Sporangia saclike, in whorls on abaxial side of sporophylls. Spores green, subglobose or globose, 35-70 μm in diam., each with 4 spirally curled, white filaments (elaters) that uncurl upon drying, without colpi, with thin and transparent perispores; perispores with granular ornamentation. Gametophytes growing at or near soil surface, green, disk- to cushion-shaped, irregularly lobed. x = 108.
+
+One genus and ca. 15 species: cosmopolitan, except Antarctica; ten species in China.
+
+
+
+
+
+Zhang Libing. 2004. Equisetaceae. In: Zhang Xianchun, ed., Fl. Reipubl. Popularis Sin. 6(3): 224-243.
+
+
+
+
+10373 | 里白科 li bai ke 
+
+Authors: Jin Xiaofeng, Bingyang Ding & Kunio Iwatsuki
+
+
+
+
+
+
+Plants terrestrial, often forming thickets. Rhizomes long creeping, protostelic, with scales or multicellular hairs. Fronds monomorphic, evergreen, erect, scrambling, or climbing, vernation circinate; stipe not articulate, distant, cylindrical, apex forked, with dormant bud; apical bud covered with hairs or scales; rachis simple to several times pseudodichotomously branched [or pinnate], with stellate hairs and/or ciliate scales when young, these persistent or glabrescent; pinnules pectinately pinnatisect; lobes elliptic or lanceolate, apex obtuse or acute; veins free, forked; lamina papery or subleathery, frequently glaucous abaxially. Sori in 1(-3) lines on both sides of lobe costules, orbicular, exindusiate; sporangia 2-10[-16], sessile, turbinate, with a mid-transverse annulus; spores tetrahedral or reniform, without perispore, smooth.
+
+Three to five genera depending on concepts of authors and over 150 species: tropical and subtropical areas; three genera and 15 species (six endemic) in China.
+
+
+
+
+
+Most species in the Gleicheniaceae are characteristic of very mineral-poor soils.Ching Ren-chang, Fu Shu-hsia, Wang Chu-hao & Shing Gung-hsia. 1959. Gleicheniaceae. In: Ching Ren-chang, ed., Fl. Reipubl. Popularis Sin. 2: 116-132, 346-350.
+
+
+
+
+10433 | 膜蕨科 mo jue ke 
+
+Authors: Liu Jiaxi, Zhang Qiaoyan, Atsushi Ebihara & Kunio Iwatsuki
+
+
+
+
+
+
+Plants epiphytic, petrophilous, or terrestrial, small to medium-sized. Rhizome sometimes short and erect, but usually slender and long creeping, often covered with hairs when young, simple or sometimes irregularly branching. Lamina simple to pinnately decompound, or flabellate, digitate, dichotomous, or even irregularly divided. Segments with a single veinlet, cells in one layer, or rarely with 2-4 cell layers without intercellular spaces and stomata. Sori terminal on veins, solitary, at apex of ultimate segments, or marginal on simple to pinnatifid fronds; involucres cup-shaped to deeply 2-cleft nearly to base; receptacles terminating a vein, short, capitate or clavate, or long and projecting; sporangia shortly stalked to (sub)sessile, maturing basipetally; annulus oblique, not interrupted; dehiscence irregular; spores globose-trilete, tetrahedral, containing chloroplasts, usually short-lived. x = 8, 11, 12, 13, 17, 21, 22, 26, 28, 36, 54 (base numbers x = 8, 54 are doubtful).
+
+Nine genera and ca. 600 species: tropical, subtropical, and temperate regions of both the Old and New Worlds; seven genera and 50 species (six endemic) in China.
+
+
+
+
+
+Traditionally, only two genera-Hymenophyllum with bivalved involucres and Trichomanes Linnaeus with tubular involucres-have been recognized in this family. This scheme was expanded by Morton (Contr. U.S. Natl. Herb. 29: 139-202. 1968) who hierarchically placed many subgenera, sections, and subsections under two larger genera, Hymenophyllum and Trichomanes, and recognized four monotypic genera, Cardiomanes Morton, Serpyllopsis Morton, Hymenoglossum Morton, and Rosenstockia Morton, all of which have specialized fronds. Conversely, Copeland (Gen. Fil. 31-44. 1947) split the family into 34 genera, basing his work on herbarium specimens as well as his field observations of Asian material. Taking into account these past studies plus recent investigations including molecular data, Ebihara et al. (Blumea 51: 221-280. 2006) proposed a modern scheme of classification on which the system of this treatise is based.Ching Ren-chang, Fu Shu-hsia, Wang Chu-hao & Shing Gung-hsia. 1959. Hymenophyllaceae. In: Ching Ren-chang, ed., Fl. Reipubl. Popularis Sin. 2: 132-196, 350-357, 379.
+
+
+
+
+10440 | 肿足蕨科 zhong zu jue ke 
+
+Authors: Zhang Gangmin, Prof. Fuwu Xing, Wang Faguo, Kunio Iwatsuki & Hans P. Nooteboom
+
+
+
+
+
+
+Plants rupestral or rarely terrestrial, medium-sized. Rhizomes shortly creeping, ascending, or long creeping, stout, densely covered with scales and hairs or only scales; scales ovate-lanceolate or rarely linear-lanceolate. Fronds approximate, subclustered, or remote; stipe stramineous, base swollen into shuttle form and concealed in scales (Hypodematium), or articulate to rhizome, glabrous (Leucostegia); lamina deltoid or ovate-oblong to pentagonal-ovate, 3-pinnate to finely 4-pinnate-pinnatifid, anadromous, herbaceous or papery, both surfaces, rachises, and costules frequently covered with acicular and/or glandular hairs, rarely glabrous. Veins free, pinnate, branches simple or forked. Sori orbicular; indusia large, reniform, ± covered with acicular or glandular hairs, rarely glabrous. Spores ellipsoid, monolete. x = 41.
+
+Three genera and ca. 20 species: Old World, mainly in tropical, subtropical, and warm-temperate regions of Asia and Africa; two genera and 13 species (eight endemic) in China.
+
+
+
+
+
+Leucostegia has long been assigned to Davalliaceae because of its creeping, dorsiventral rhizome densely covered by scales, its dissected leaves, and its indusia. Molecular phylogenetic analysis has shown that Leucostegia is closely related to Hypodematium.Ching Ren-chang, Fu Shu-hsia, Wang Chu-hao & Shing Gung-hsia. 1959. Leucostegia. In: Ching Ren-chang, ed., Fl. Reipubl. Popularis Sin. 2: 296-297; Shing Kunghsia, Chiu Peishi & Yao Guanhu. 1999. Hypodematiaceae. In: Shing Kunghsia, ed., Fl. Reipubl. Popularis Sin. 4(1): 1-14; Wu Shiewhung. 1999. Leucostegia. In: Wu Shiewhung, ed., Fl. Reipubl. Popularis Sin. 6(1): 177-179.
+
+
+
+
+20790 | shui jiu ke 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10454 | 水韭科 shui jiu ke 
+
+Authors: Li-Bing Zhang & W. Carl Taylor
+
+
+
+
+
+
+Plants grasslike, heterosporous, perennial lycophytes growing as submerged aquatics or emergent and amphibious [or seasonal terrestrials]. Rhizome brown, cormlike, corky, (2 or)3(-5)-lobed, nearly globose [or horizontally spindle-shaped and proliferous]. Roots arising along central groove separating each rootstock lobe, dichotomously branched [or unbranched], containing eccentric vascular strand and surrounding lacuna. Microphylls tufted, several to many, erect to spreading, straight to recurved, (1-)5-50(-100) cm, spirally [or distichously] arranged, simple, linear with membranous margins toward base, dilated and spatulate basally, tapering to apex, semiterete in cross section with adaxial surface flattened and abaxial surface rounded, containing 4 transversely septate longitudinal lacunae with septa apparent on adaxial microphyll surface, 1 central collateral vascular strand, and frequently several peripheral fibrous bundles at microphyll angles. Ligules deltoid to cordate, 1-2(-6) mm, membranous, inserted above sporangium; sclerified scales and phyllopodia occasionally surrounding microphylls. Megasporophylls and microsporophylls usually borne in alternating cycles. Megasporangia often at adaxial side of external microphyll bases. Microsporangia at adaxial side of internal microphyll bases. Sporangia solitary, adaxial, embedded in basal cavity of sporophyll, ellipsoid to subglobose, 2-7(-15) mm, walls unpigmented [or brown streaked to completely brown], traversed internally by septae; velum membranous, rudimentary [or partly to completely covering adaxial surface of sporangium wall]; megasporangium containing several to hundreds of megaspores; microsporangium containing thousands of microspores. Megaspores white when dry, gray when wet [or black], globose, 300-500(-900) μm in diam., trilete with an equatorial ridge dividing proximal and distal hemispheres and 3 radial ridges converging at pole of proximal hemisphere, surfaces smooth or textured with spines, tubercles, or ridges. Microspores gray or brown en masse, ellipsoid, 15-30(-50) μm, monolete, surfaces smooth or textured with spines, granules, or tubercles. Megagametophyte achlorophyllous, endosporic, exposed when megaspore wall opens along proximal ridges; archegonia apparent as quartets of brown neck cells. Microgametophyte 9-celled, endosporic, antheridium releasing 4 multiflagellate spermatozoids. x = [10], 11.
+
+One genus and more than 250 species: nearly worldwide on islands and all continents except Antarctica; five species (all endemic) in China.
+
+
+
+
+
+Zhang Libing. 2004. Iseotaceae. In: Zhang Xianchun, ed., Fl. Reipubl. Popularis Sin. 6(3): 220-223.
+
+
+
+
+10511 | 鳞始蕨科 lin shi jue ke 
+
+Authors: Shiyong Dong, Sujuan Lin, Maarten J. M. Christenhusz & Julie Barcelona
+
+
+
+
+
+
+Plants terrestrial, rarely climbing or epiphytic. Rhizomes creeping, sometimes scandent, protostelic or solenostelic, covered with narrow scales and/or hairs; scales basifixed, glabrous, 2-6(-12) cells wide at base, cells thick-walled, scale margin entire, apex bristlelike, ca. 1 cell wide. Fronds approximate or distant, vernation circinate; stipe not articulate to rhizome, with a single vascular bundle; lamina 1-4-pinnate, rarely simple, imparipinnate or not, herbaceous, papery, or thinly leathery, glabrous or with scattered very minute (microscopic) 2-celled hairs; pinnae or pinnules symmetrical or dimidiate, anadromous, rarely catadromous; veins free or anastomosing without included veinlets. Sori marginal or submarginal, terminal on a single veinlet or on 2 to several uniting veinlets, linear or oblong, indusiate; indusia basally adnate, laterally free or adnate, opening toward margin. Spores 32 per sporangium, tetrahedral-globose, globose, or ellipsoid, trilete or monolete.
+
+Six to nine genera and ca. 200 species: pantropical; four genera and 18 species (one endemic) in China.
+
+
+
+
+
+Ching Ren-chang, Fu Shu-hsia, Wang Chu-hao & Shing Gung-hsia. 1959. Lindsaeaceae (excluding Taenitis). In: Ching Ren-chang, ed., Fl. Reipubl. Popularis Sin. 2: 256-279, 371-374.
+
+
+
+
+10516 | 藤蕨科 teng jue ke 
+
+Authors: Prof. Fuwu Xing, Wang Faguo, Zhang Xianchun, Masahiro Kato & David S. Barrington
+
+
+
+
+
+
+Plants large, terrestrial, climbing, or epiphytic. Rhizomes stout, ascending or long scandent, dorsiventral, with roots on ventral side and several rows of fronds on dorsal side, bearing numerous scales on rhizome apex. Fronds distant, monomorphic or dimorphic, imparipinnate; stipes densely scaly at base; scales black, lanceolate or linear; lateral pinnae articulate to rachis; sterile pinnae linear-lanceolate, margin entire or serrate; veins free or anastomosing in several rows of areoles, without included free veinlets. Fertile fronds with narrow, linear pinnae. Sori dorsal on veinlets, in 1-4 rows on each side of costa, or acrostichoid, completely covering abaxial surface of pinnae, exindusiate; annulus consisting of 14-22 thick-walled cells. Spores elliptic or orbicular.
+
+Three genera and ca. 40 species: pantropical, mainly in Asia, Africa, and Oceania; two genera and four species (one endemic) in China.
+
+
+
+
+
+Wang Chuhao. 1999. Lomariopsidaceae (excluding Lomagramma). In: Wu Shiewhung, ed., Fl. Reipubl. Popularis Sin. 6(1): 125-129; Hsieh Yingtang. 2001. Cyclopeltis. In: Kung Hsianshiu, ed., Fl. Reipubl. Popularis Sin. 5(2): 182-184.
+
+
+
+
+10527 | 石松科 shi song ke 
+
+Authors: Li-Bing Zhang & Kunio Iwatsuki
+
+
+
+
+
+
+Plants terrestrial, helophytic, or epiphytic, small to large. Main stems creeping, pendulous, climbing, or short and erect, mainly protostelic, rarely actinostelic or plectostelic, on substrate surface or subterranean, or forming stolons. Upright shoots once to multiple times dichotomously branched, conspicuously leafy; upper portion of stem and branchlets with or without bulbils. Lateral branches ascending or erect, dichotomously branched or nearly sympodially branched, rarely pseudomonopodially branched. Main stems and lateral branches rounded or flat in cross section. Leaves as microphylls, with 1 unbranched midrib, monomorphic, spirally arranged. Leaves on subterranean parts flat, appressed, not photosynthetic, and scalelike; leaves on aerial parts appressed, ascending or spreading, subulate, linear, lanceolate, ovate, or scalelike, not lustrous or lustrous, remote to dense and imbricate, papery, leathery, or thinly leathery, base truncate, margin entire or serrate. Strobili terminal on branchlets or main stem, abruptly becoming much smaller than or similar to sterile branches or branchlets in size, solitary, erect, nodding, or pendent, terete, sessile or stalked. Sporophylls homomorphic with or different from trophophylls, monomorphic or dimorphic, papery, margin toothed, membranous. Sporangia in axils of sporophylls, yellow, reniform, thick-walled, outer walls variously modified. Spores trilete, thick-walled, surfaces pitted to small-grooved, rugulose, or reticulate. Gametophytes subterranean or surficial. x = 11, 13, 17, 23.
+
+Five genera and 360-400 species: cosmopolitan, with centers of diversity in the tropics; five genera and 66 species (28 endemic) in China.
+
+
+
+
+
+Some pteridologists recognize a narrowly defined Lycopodiaceae s.s. and Huperziaceae with the latter comprising Huperzia, Phlegmariurus, and Phylloglossum Kunze, considering that the split between Huperziaceae and Lycopodiaceae s.s. has been dated to ca. 350 million years ago using plastid rbcL data (Wikström & Kenrick, Molec. Phylogen. Evol. 19: 177-186. 2001), an age much older than many extant fern families/orders. In spite of this, here Lycopodiaceae s.l. including Huperziaceae is recognized because of the sister relationship between Huperziaceae and Lycopodiaceae s.s.In the Lycopodiaceae, sometimes Lycopodiastrum is subsumed under Lycopodium. However, the split between Lycopodiastrum and Lycopodium s.s. has been dated to the Permian Period (251-299 million years ago), much earlier than when extant species of Lycopodium s.s. started to diversify (Wikström & Kenrick, loc. cit.). Also, the morphology of Lycopodiastrum is distinct from Lycopodium. Therefore, Lycopodiastrum is recognized here.Zhang Libing. 2004. Huperziaceae and Lycopodiaceae. In: Zhang Xianchun, ed., Fl. Reipubl. Popularis Sin. 6(3): 1-85.
+
+
+
+
+10528 | 海金沙科 hai jin sha ke 
+
+Authors: Zhang Xianchun & Judith Garrison Hanks
+
+
+
+
+
+
+Plants terrestrial. Stems branched, slender; fronds often more than several meters, alternately pinnate, climbing by means of a twining rachis; primary blade divisions (pinnae) pseudodichotomously forking with a dormant apical bud in axils; pinnules entire to palmately or 1- or 2-pinnate or more divided; fertile and sterile pinnae similar or fertile pinnae greatly contracted; veins free or anastomosing; sori on lobes of ultimate segments; sporangia abaxial, solitary, 1 per sorus, each sporangium covered by an antrorse indusium-like subtending flange; spores 128-256 per sporangium, tetrahedral and trilete; gametophytes green, cordate, terrestrial. x = 29, 30.
+
+One genus and ca. 26 species: pantropical, extending northward to S Korea, Japan, and North America and southward to S Africa and New Zealand; nine species in China.
+
+
+
+
+
+Ching Ren-chang, Fu Shu-hsia, Wang Chu-hao & Shing Gung-hsia. 1959. Lygodiaceae. In: Ching Ren-chang, ed., Fl. Reipubl. Popularis Sin. 2: 105-114, 345-346.
+
+
+
+
+10536 | 合囊蕨科 he nang jue ke 
+
+Authors: He Zhaorong & Maarten J. M. Christenhusz
+
+
+
+
+
+
+Plants terrestrial (rarely epiphytic, sometimes in streams), evergreen. Rhizomes erect, ascending, or creeping, amylaceous (starchy), polycyclostelic to dictyostelic. Fronds monomorphic and long-lived or dimorphic and fertile ones short-lived (Danaea), simple or compound, 1-4-pinnate or (pedate-)palmate (Christensenia), small (ca. 20 cm) to very large (up to at least 6 m). Stipes fleshy, with a pair of stipulelike appendages at base, often with conspicuous lenticels. Pulvini at base of fronds, at nodes, at bases of pinnae, and in some species at "naked" nodes (without pinnae) along stipe. Veins free, simple or bifurcate, or reticulate (Christensenia), false veins present between true veins or absent. Tissues mucilaginous. Indument of multicellular uniseriate hairs and basifixed or peltate scales. Sori lacking true indusia, usually with paraphyses, superficial, sunken or stalked, elongate along veins, bilateral or radial. Sporangia partially or completely fused into synangia, dehiscing by a slit or pore. Spores trilete or monolete, with bullate, muriform, or stellate ornamentation. Prothalli very large, thalloid, photosynthetic.
+
+Six genera and ca. 100 species: pantropical, Danaea Smith, Eupodium J. Smith, and Marattia Swartz in the Neotropics, Angiopteris, Christensenia, and Ptisana in the Paleotropics; three genera and 30 species (17 endemic) in China.
+
+
+
+
+
+The delimitation of certain species of Angiopteris is unclear.The following papers are relevant: Christenhusz (Ann. Univ. Turku., A II, 216: 1-134. 2007); Christenhusz and Toivonen (Biol. Invas. 10: 1215-1228. 2008); Murdock (Amer. J. Bot. 95: 626-641. 2008); and Murdock (Taxon 57: 737-755. 2008).Ching Ren-chang, Fu Shu-hsia, Wang Chu-hao & Shing Gung-hsia. 1959. Angiopteridaceae and Christenseniaceae. In: Ching Ren-chang, ed., Fl. Reipubl. Popularis Sin. 2: 27-66, 330-345; Zhang Xianchun. 2004. Marattiaceae. In: Zhang Xianchun, ed., Fl. Reipubl. Popularis Sin. 6(3): 246-248.
+
+
+
+
+10539 | 蘋科 ping ke 
+
+Authors: Youxing Lin & David M. Johnson
+
+
+
+
+
+
+Plants small, herbaceous, in shallow water or on shores of lakes and ponds. Rhizomes slender and creeping with a siphonostele, covered with short side-attached hairs or glabrous. Fronds linear or with 2-4 obtriangular or fan-shaped pinnae attached at top of stipe, these floating on water surface or emergent. Spores formed inside bean-shaped sporocarps attached to stipe by a short peduncle. Sporocarps containing 2-30 sori, each sorus including both megasporangia and microsporangia. Megasporangium with 1 large spore; microsporangium with 16-64 small spores.
+
+Three genera and ca. 60 species: Africa and Australia are the centers of diversity; one genus and three species in China.
+
+
+
+
+
+Lin Youxing. 2000. Marsileaceae. In: Lin Youxing, ed., Fl. Reipubl. Popularis Sin. 6(2): 336-339.
+
+
+
+
+10611 | 肾蕨科 shen jue ke 
+
+Authors: Prof. Fuwu Xing, Wang Faguo & Peter H. Hovenkamp
+
+
+
+
+
+
+Plants medium-sized, terrestrial or creeping on rocks or small trees. Rhizome with peltate scales, dorsiventral, long creeping, or short and erect, sometimes bearing stolons or tubers, dictyostelic. Fronds distant or tufted, shortly to long stipitate; lamina lanceolate to elliptic-lanceolate, pinnate; pinnae glabrous or sometimes finely hairy; veins forked, free, ending in submarginal hydathodes. Sori orbicular, terminal on a veinlet, dorsal; indusium orbicular-reniform, often with a narrow sinus, or lunulate, broadly attached. Spores monolete.
+
+One genus and ca. 20 species: most tropical regions of the world; five species (one introduced) in China.
+
+
+
+
+
+Ching Ren-chang, Fu Shu-hsia, Wang Chu-hao & Shing Gung-hsia. 1959. Nephrolepis. In: Ching Ren-chang, ed., Fl. Reipubl. Popularis Sin. 2: 313-318, 378; Wu Shiewhung. 1999. Nephrolepidaceae (excluding Arthropteris). In: Wu Shiewhung, ed., Fl. Reipubl. Popularis Sin. 6(1): 143-150.
+
+
+
+
+10626 | 条蕨科 tiao jue ke 
+
+Authors: Zhang Xianchun & Peter H. Hovenkamp
+
+
+
+
+
+
+Plants terrestrial, epilithic, or epiphytic. Rhizome long, creeping, erect, or scandent; scales blackish brown, thick, spreading or appressed, imbricate, peltate at base, margin often long ciliate. Fronds distant or clustered; stipe articulate to raised phyllopodia; lamina simple, entire, lanceolate to linear-lanceolate, herbaceous, papery, or leathery, margin cartilaginous, glabrous or pubescent; costa prominent, raised adaxially, often with small scales on abaxial surface; veins simple or forked, free. Sori in a single often irregular row on either side of costa; indusia persistent, red-brown, reniform or orbicular-reniform, membranous or papery. Spores monolete, with broad, winglike, echinulate folds, cristate or echinate to erose.
+
+One genus and 15-20 species: pantropical, mainly from tropical Asia and the Pacific islands, a few in Africa and South America; five species in China.
+
+
+
+
+
+See the revision by Hovenkamp and B. C. Ho (PhytoKeys 11: 1-37. 2012).Ching Ren-chang, Fu Shu-hsia, Wang Chu-hao & Shing Gung-hsia. 1959. Oleandraceae. In: Ching Ren-chang, ed., Fl. Reipubl. Popularis Sin. 2: 319-325, 378-379; Wu Shiewhung. 1999. Oleandraceae. In: Wu Shiewhung, ed., Fl. Reipubl. Popularis Sin. 6(1): 154-160.
+
+
+
+
+10632 | 球子蕨科 qiu zi jue ke 
+
+Authors: Prof. Fuwu Xing, Wang Faguo & Masahiro Kato
+
+
+
+
+
+
+Plants terrestrial. Rhizome robust and short, erect or creeping, dictyostelic, covered with ovate-lanceolate to lanceolate scales. Fronds tufted or distant, dimorphic. Sterile lamina pinnatifid to bipinnatifid, green, deltoid-ovate, elliptic-lanceolate, or oblanceolate, papery or thinly papery; pinnae alternate, sessile or adnate, linear-lanceolate to narrowly elliptic, undulate or pinnatifid; pinnules hemielliptic-oblong, entire or subserrate with few teeth; veins free, pinnate or anastomosing, without included veinlets. Fertile lamina pinnate or bipinnate, elliptic to linear; pinnae or pinnules much inrolled, dull purple to dark brown, cylindric or globose; veins free, pinnate or furcate. Sori orbicular, indusiate or exindusiate; sporangia long stalked, annulus a longitudinal row consisting of 36-40 thick-walled cells; spores monolete, with perispore transparent, membranous, with a few folds.
+
+Four genera and five species: temperate zone of the N Hemisphere and Mexico; three genera and four species in China.
+
+
+
+
+
+The following taxon is excluded from the present treatment, pending further research: Struthiopteris cavaleriana Christ (Bull. Acad. Int. Géogr. Bot. 13: 118. 1904; Matteuccia cavaleriana (Christ) C. Christensen), type from China ("entre Pin-fa et Tou-Yunn").Wu Shiew-hung. 1999. Onocleaceae. In: Wu Shiew-hung, ed., Fl. Reipubl. Popularis Sin. 4(2): 157-165.
+
+
+
+
+10634 | 瓶尔小草科 ping er xiao cao ke 
+
+Authors: Zhang Xianchun, Quanru Liu & Norio Sahashi
+
+
+    Ophioglossum petiolatum
+Credit: Harvard University Herbaria
+
+
+
+
+
+Plants perennial, mostly terrestrial, rarely epiphytic, usually small and fleshy, lacking sclerenchyma. Roots lacking root hairs, unbranched or with a few narrow lateral branches [rarely dichotomously branched], fibrous or fleshy, sometimes producing vegetative buds. Rhizome mostly erect, less often horizontal, rarely branched, eustelic, glabrous or hairy. Fronds 1 to few per plant, monomorphic, vernation nodding (not circinate), erect or folded, stipe base dilated, clasping, forming open or fused sheath surrounding successive leaf buds; buds glabrous or with long, uniseriate hairs; common stipe usually dividing into sterile, laminate, photosynthetic portion (trophophore) and fertile, spore-bearing portion (sporophore); sterile lamina ternately or pinnately compound to simple, rarely absent, glabrous or with scattered, long, uniseriate hairs, especially on stipe and rachis; veins anastomosing or free, pinnate, or palmate. Sporophores 1 per frond [rarely more], spikelike or pinnately branched; sporangia exposed or embedded, sometimes clustered on very short lateral branches, wall 2 cells thick, annulus absent; spores many (> 1000) per sporangium, globose-tetrahedral, trilete, thick-walled, surface rugate, tuberculate, baculate (with projecting rods usually higher than wide), sometimes joined in delicate network, mostly with ± warty surface. Gametophytes subterranean, usually fleshy, mycorrhizal, non-photosynthetic, orbicular or linear. x = 30, (44), 45, (46), 94.
+
+Four(-nine) genera and ca. 80 species: nearly worldwide; three genera and 22 species (two endemic) in China.
+
+
+
+
+
+Ching Ren-chang, Fu Shu-hsia, Wang Chu-hao & Shing Gung-hsia. 1959. Ophioglossaceae, Botrychiaceae, and Helminthostachyaceae. In: Ching Ren-chang, ed., Fl. Reipubl. Popularis Sin. 2: 6-26, 329-330.
+
+
+
+
+Credit: Harvard University Herbaria
+
+
+
+
+Plants perennial, mostly terrestrial, rarely epiphytic, usually small and fleshy, lacking sclerenchyma. Roots lacking root hairs, unbranched or with a few narrow lateral branches [rarely dichotomously branched], fibrous or fleshy, sometimes producing vegetative buds. Rhizome mostly erect, less often horizontal, rarely branched, eustelic, glabrous or hairy. Fronds 1 to few per plant, monomorphic, vernation nodding (not circinate), erect or folded, stipe base dilated, clasping, forming open or fused sheath surrounding successive leaf buds; buds glabrous or with long, uniseriate hairs; common stipe usually dividing into sterile, laminate, photosynthetic portion (trophophore) and fertile, spore-bearing portion (sporophore); sterile lamina ternately or pinnately compound to simple, rarely absent, glabrous or with scattered, long, uniseriate hairs, especially on stipe and rachis; veins anastomosing or free, pinnate, or palmate. Sporophores 1 per frond [rarely more], spikelike or pinnately branched; sporangia exposed or embedded, sometimes clustered on very short lateral branches, wall 2 cells thick, annulus absent; spores many (> 1000) per sporangium, globose-tetrahedral, trilete, thick-walled, surface rugate, tuberculate, baculate (with projecting rods usually higher than wide), sometimes joined in delicate network, mostly with ± warty surface. Gametophytes subterranean, usually fleshy, mycorrhizal, non-photosynthetic, orbicular or linear. x = 30, (44), 45, (46), 94.
+
+Four(-nine) genera and ca. 80 species: nearly worldwide; three genera and 22 species (two endemic) in China.
+
+
+
+
+
+Ching Ren-chang, Fu Shu-hsia, Wang Chu-hao & Shing Gung-hsia. 1959. Ophioglossaceae, Botrychiaceae, and Helminthostachyaceae. In: Ching Ren-chang, ed., Fl. Reipubl. Popularis Sin. 2: 6-26, 329-330.
+
+
+
+
+10642 | 紫萁科 zi qi ke 
+
+Authors: Zhang Xianchun, Kunio Iwatsuki & Yoko Kadokawa
+
+
+
+
+
+
+Plants terrestrial, with mostly unbranched, often massive, erect, or shortly creeping, ascending, sometimes treelike trunk clothed in roots and persistent stipes, hairy at apex. Rhizome anatomy distinctive, an ectophloic siphonostele (with a pith of parenchyma in center and phloem outside of vascular cylinder only), with a ring of discrete xylem strands, these often conduplicate or twice conduplicate in cross section. Fronds 1- or 2-pinnate, catadromous, when young bearing wool-like, uniseriate hairs, these deciduous or persistent at axes, dimorphic or with fertile portions dissimilar to sterile; stipe caespitose, spirally arranged, with laterally winged stipules at bases, bearing mucilaginous hairs when young, with a single U-shaped vascular bundle; sclerenchyma strongly developed; base of lateral pinnae nearly always distinctly articulate (but only functional in some species); pinnule base sometimes also articulate, though less distinctly so; veins free, subpinnately furcate. Sporangia not assembled in sori, following veins or entirely covering strongly contracted fertile segments, sporangia large, with 128-512 spores, opening by an apical slit, annulus lateral; spores green, subglobose, trilete; gametophytes large, green, cordate, surficial. x = 22.
+
+Four genera and ca. 20 species: temperate and tropical regions worldwide; two genera and eight species (one endemic) in China.
+
+
+
+
+
+Ching Ren-chang, Fu Shu-hsia, Wang Chu-hao & Shing Gung-hsia. 1959. Osmundaceae. In: Ching Ren-chang, ed., Fl. Reipubl. Popularis Sin. 2: 77-85.
+
+
+
+
+10698 | 瘤足蕨科 liu zu jue ke 
+
+Authors: Zhang Xianchun & Hans P. Nooteboom
+
+
+
+
+
+
+Plants terrestrial, small to medium-sized, 10-150(-200) cm tall, without scales. Rhizomes dictyostelic, erect, suberect, or shortly decumbent, stout, thickened; stipe bases persistent. Roots blackish, wiry, regularly arranged on stem, one beside each stipe base, sparsely branched. Fronds dimorphic, bearing minute, uniseriate, multicellular, gland-tipped, mucilage-secreting trichomes. Stipes orbicular, ovate, triangular, or tetragonal in cross section, bases swollen; vascular bundle 1 per stipe, expanded or divided into 3 meristeles in enlarged base; rachises winged or not, abaxially semiterete, flat, or carinate, adaxially sulcate. Aerophores variously present on stipes and rachises, cushionlike or elongate and hornlike with blunt apex. Sterile fronds herbaceous, firmly so, or subleathery; lamina 1-pinnate, pinnatifid, or pinnatilobed, apices coadunate, pinnalike, pinnatilobed, or confluent; pinnae sessile, shortly stalked, or adnate to rachises, falcate to linear-lanceolate, widest near base or below middle, glabrous or abaxially sparsely glandular pubescent, margin entire to serrulate, apex minutely serrulate to dentate; veins simple or paired at base, mostly 1- or 2-forked, reaching pinna margins, distinct on both surfaces. Fertile fronds erect at middle of plant, with proportionally longer stipes and shorter lamina; lamina pinnate or deeply pinnatifid; pinnae sessile, shortly stalked, or adnate to rachises; apical pinna usually pinnatifid or pinnalike, margin entire, subentire, or erose-toothed, glabrous or with few short glandular hairs, scarious; tissue above veinlets hygroscopic and reversible, functioning as indusium (false indusium), scarious margins covering sori in juvenile stage, recurved at maturity; veins free, 1- or 2-forked, solitary or paired at base. Sori borne on swollen vein tips, extending slightly, confluent, acrostichoid, almost wholly covering abaxial surface of pinnae when ripe. Paraphyses numerous, mixed with sporangia, uniseriate, orange to dark brown, multicellular, glandlike, slightly longer than sporangia, apically subcapitate. Sporangia with a complete oblique annulus, not interrupted by stalk, laterally dehiscent. Spores 64 per sporangium, tetrahedral; aperture trilete; arms of aperture ca. 3/4 radius; surface ornamentation irregular, coarse, tuberculate with coalescent papillae and rodlets. x = 65 (sexual).
+
+One genus and ca. ten species: mainly in E and SE Asia, one species in tropical America; eight species (one endemic) in China.
+
+
+
+
+
+Ching Ren-chang, Fu Shu-hsia, Wang Chu-hao & Shing Gung-hsia. 1959. Plagiogyriaceae. In: Ching Ren-chang, ed., Fl. Reipubl. Popularis Sin. 2: 85-105.
+
+
+
+
+10718 | 水龙骨科 shui long gu ke 
+
+Authors: Zhang Xianchun, Shugang Lu, Youxing Lin, Qi Xinping, Shannjye Moore, Prof. Fuwu Xing, Wang Faguo, Peter H. Hovenkamp, Michael G. Gilbert, Hans P. Nooteboom, Barbara S. Parris, Christopher Haufler, Masahiro Kato & Alan R. Smith
+
+
+    Drynaria delavayi
+Credit: Harvard University Herbaria
+
+
+
+
+
+Plants mostly epiphytic and epilithic, a few terrestrial. Rhizomes shortly to long creeping, dictyostelic, bearing scales. Fronds monomorphic or dimorphic, mostly simple to pinnatifid or 1-pinnate (uncommonly more divided); stipes cleanly abscising near their bases or not (most grammitids), leaving short phyllopodia; veins often anastomosing or reticulate, sometimes with included veinlets, or veins free (most grammitids); indument various, of scales, hairs, or glands. Sori abaxial (rarely marginal), orbicular to oblong or elliptic, occasionally elongate, or sporangia acrostichoid, sometimes deeply embedded, sori exindusiate, sometimes covered by caducous scales (soral paraphyses) when young; sporangia with 1-3-rowed, usually long stalks, frequently with paraphyses on sporangia or on receptacle; spores hyaline to yellowish, reniform, and monolete (non-grammitids), or greenish and globose-tetrahedral, trilete (most grammitids); perine various, usually thin, not strongly winged or cristate. Mostly x = 35, 36, 37.
+
+More than 50 genera and ca. 1,200 species: pantropical, a few temperate; 39 genera and 267 species (82 endemic) in China.
+
+
+
+
+
+The Polypodiaceae s.s., as often recognized is paraphyletic, because it excludes the grammitids. Generic boundaries need clarification. Polypodiaceae contains large wholly neotropical and wholly paleotropical clades.Molecular data show that several families recognized in FRPS, i.e., Drynariaceae, Grammitidaceae, Gymnogrammitidaceae, Loxogrammaceae, Platyceriaceae, and Pleurosoriopsidaceae, all nest within the Polypodiaceae. Five lineages are defined that can be treated as subfamilies (see Christenhusz et al., Phytotaxa 19: 18-19. 2011) as follows: Loxogrammoideae (Loxogrammaceae): genus no. 1; Drynarioideae (Crypsinoideae, Drynariaceae, Gymnogrammitidaceae): genera nos. 2-8; Platycerioideae (Platyceriaceae, Pyrrosioideae): genera nos. 9-10; Microsoroideae (incl. Crypsinoideae, Lepisorioideae): genera nos. 11-25; Polypodioideae (incl. Grammitidaceae, Pleurosoriopsidaceae): genera nos. 26-39. The status of several genera in the Microsoroideae is controversial (Kreier et al., Molec. Phylogen. Evol. 48: 1155-1167. 2008). Microsorum is still polyphyletic, and some new genera are to be established.Ching Ren-chang, Fu Shu-hsia, Wang Chu-hao & Shing Gung-hsia. 1959. Gymnogrammitis. In: Ching Ren-chang, ed., Fl. Reipubl. Popularis Sin. 2: 284-285; Wu Shiew-hung. 1999. Pleurosoriopsidaceae. In: Wu Shiew-hung, ed., Fl. Reipubl. Popularis Sin. 4(2): 154-156; Lin Youxing, Lu Shugang & Shi Lei. 2000. Polypodiaceae. In: Lin Youxing, ed., Fl. Reipubl. Popularis Sin. 6(2): 7-266, 346-349; Zhang Xianchun. 2000. Drynariacae, Platyceriaceae, Grammitidaceae, and Loxogrammaceae. In: Lin Youxing, ed., Fl. Reipubl. Popularis Sin. 6(2): 267-335.
+
+
+
+
+Credit: Harvard University Herbaria
+
+
+
+
+Plants mostly epiphytic and epilithic, a few terrestrial. Rhizomes shortly to long creeping, dictyostelic, bearing scales. Fronds monomorphic or dimorphic, mostly simple to pinnatifid or 1-pinnate (uncommonly more divided); stipes cleanly abscising near their bases or not (most grammitids), leaving short phyllopodia; veins often anastomosing or reticulate, sometimes with included veinlets, or veins free (most grammitids); indument various, of scales, hairs, or glands. Sori abaxial (rarely marginal), orbicular to oblong or elliptic, occasionally elongate, or sporangia acrostichoid, sometimes deeply embedded, sori exindusiate, sometimes covered by caducous scales (soral paraphyses) when young; sporangia with 1-3-rowed, usually long stalks, frequently with paraphyses on sporangia or on receptacle; spores hyaline to yellowish, reniform, and monolete (non-grammitids), or greenish and globose-tetrahedral, trilete (most grammitids); perine various, usually thin, not strongly winged or cristate. Mostly x = 35, 36, 37.
+
+More than 50 genera and ca. 1,200 species: pantropical, a few temperate; 39 genera and 267 species (82 endemic) in China.
+
+
+
+
+
+The Polypodiaceae s.s., as often recognized is paraphyletic, because it excludes the grammitids. Generic boundaries need clarification. Polypodiaceae contains large wholly neotropical and wholly paleotropical clades.Molecular data show that several families recognized in FRPS, i.e., Drynariaceae, Grammitidaceae, Gymnogrammitidaceae, Loxogrammaceae, Platyceriaceae, and Pleurosoriopsidaceae, all nest within the Polypodiaceae. Five lineages are defined that can be treated as subfamilies (see Christenhusz et al., Phytotaxa 19: 18-19. 2011) as follows: Loxogrammoideae (Loxogrammaceae): genus no. 1; Drynarioideae (Crypsinoideae, Drynariaceae, Gymnogrammitidaceae): genera nos. 2-8; Platycerioideae (Platyceriaceae, Pyrrosioideae): genera nos. 9-10; Microsoroideae (incl. Crypsinoideae, Lepisorioideae): genera nos. 11-25; Polypodioideae (incl. Grammitidaceae, Pleurosoriopsidaceae): genera nos. 26-39. The status of several genera in the Microsoroideae is controversial (Kreier et al., Molec. Phylogen. Evol. 48: 1155-1167. 2008). Microsorum is still polyphyletic, and some new genera are to be established.Ching Ren-chang, Fu Shu-hsia, Wang Chu-hao & Shing Gung-hsia. 1959. Gymnogrammitis. In: Ching Ren-chang, ed., Fl. Reipubl. Popularis Sin. 2: 284-285; Wu Shiew-hung. 1999. Pleurosoriopsidaceae. In: Wu Shiew-hung, ed., Fl. Reipubl. Popularis Sin. 4(2): 154-156; Lin Youxing, Lu Shugang & Shi Lei. 2000. Polypodiaceae. In: Lin Youxing, ed., Fl. Reipubl. Popularis Sin. 6(2): 7-266, 346-349; Zhang Xianchun. 2000. Drynariacae, Platyceriaceae, Grammitidaceae, and Loxogrammaceae. In: Lin Youxing, ed., Fl. Reipubl. Popularis Sin. 6(2): 267-335.
+
+
+
+
+10738 | 松叶蕨科 song ye jue ke 
+
+Authors: Li-Bing Zhang & George Yatskievych
+
+
+
+
+
+
+Plants small to medium-sized, epiphytic or on rocks. Rhizomes creeping, brown, with protostele or siphonostele, bearing rhizoids; roots absent. Stems erect or pendulous, green, unbranched or dichotomously or pinnately branched; branches ridged to sulcate or complanate. Leaves small or rudimentary, with a single vein (microphylls) or lacking veins (enations), spirally or distichously alternate, sessile or subsessile, dimorphic; trophophylls scalelike and subulate-triangular, or lanceolate to narrowly ovate; sporophylls deeply bifid. Sporangia appearing solitary at or above bases of sporophylls, large, 2- or 3-lobed (sometimes interpreted as synangia of 2 or 3 unlobed sporangia), thick-walled, lacking an annulus, each lobe dehiscing longitudinally by a slit. Spores reniform, monolete, many (> 1000) per sporangium, exospore translucent, rugulate to foveolate. Gametophytes subterranean (Psilotum), non-photosynthetic, cylindrical, mycorrhizal. x = 52.
+
+Two genera (Psilotum, Tmesipteris) and ca. 17 species: tropics to temperate regions; one species in China.
+
+
+
+
+
+Zhang Libing. 2004. Psilotaceae. In: Zhang Xianchun, ed., Fl. Reipubl. Popularis Sin. 6(3): 244-245.
+
+
+
+
+10740 | 凤尾蕨科 feng wei jue ke 
+
+Authors: Zhang Gangmin, Wenbo Liao, Ding Mingyan, Youxing Lin, Zhaohong Wu, Zhang Xianchun, Shiyong Dong, Jefferson Prado, Michael G. Gilbert, George Yatskievych, Tom A. Ranker, Elisabeth A. Hooper, Edward R. Alverson, Jordan S. Metzgar, Michele Funston, Shigeo Masuyama & Masahiro Kato
+
+
+    Pteris wallichiana
+Credit: Harvard University Herbaria
+
+
+
+
+
+Plants mostly terrestrial or epilithic, some epiphytic, rarely aquatic (Ceratopteris), small to large. Rhizomes erect, ascending, or creeping, siphonostelic, solenostelic, or dictyostelic, usually scaly, rarely with bristles; scales brown or black, sometimes clathrate and iridescent, lanceolate to cordate, sometimes peltate, margin usually entire. Fronds mostly monomorphic, less often dimorphic or subdimorphic, clustered to widely scattered, not articulate; stipe well defined, dark, often glossy, to ill defined and green, terete or adaxially grooved, glabrous, hairy, or scaly, with 1-4 vascular bundles (or to many in Ceratopteris) near base, combining distally; lamina entire or 1-4-pinnate to 5-pinnate-pinnatifid, less often digitate, pedate, or 1-3 dichotomous with pedate branches; ultimate pinnules often stalked, sometimes articulate, herbaceous, papery, or leathery, more rarely membranous or fleshy; veins free or anastomosing, if anastomosing then areoles without free included veinlets. Sori mostly confluent along veins or marginal commissures, sometimes immersed in grooves, less often discrete on vein tips or on recurved membranous marginal lobe (false indusium), sometimes acrostichoid or rarely forming a narrow longitudinal band between midrib and margin (Taenitis); true indusium absent, marginal sori often protected by false indusium formed from revolute lamina margin. Sporangia usually long stalked, annulus vertical or rarely oblique, interrupted by stalk. Spores mostly brown, yellowish, or colorless, mostly tetrahedral-globose and trilete, rarely ellipsoid and monolete, smooth or ornamented, sometimes with an equatorial flange. Mostly x = 29, 30.
+
+About 50 genera and 950 species: subcosmopolitan, but most numerous in tropics and arid regions; 20 genera and 233 species (89 endemic, one introduced) in five subfamilies in China.
+
+
+
+
+
+Ching Ren-chang, Fu Shu-hsia, Wang Chu-hao & Shing Gung-hsia. 1959. Taenitis. In: Ching Ren-chang, ed., Fl. Reipubl. Popularis Sin. 2: 279-280; Lin Youxing. 1990. Adiantaceae and Parkeriaceae. In: Ching Renchang & Shing Kunghsia, eds., Fl. Reipubl. Popularis Sin. 3(1): 173-216, 274-278; Shing Kunghsia. 1990. Acrostichaceae and Hemionitidaceae. In: Ching Renchang & Shing Kunghsia, eds., Fl. Reipubl. Popularis Sin. 3(1): 92-94, 216-274, 279; Shing Kunghsia & Wu Sukung. 1990. Sinopteridaceae (excluding Cheilosoria and Notholaena). In: Ching Renchang & Shing Kunghsia, eds., Fl. Reipubl. Popularis Sin. 3(1): 97-173; Wu Shiewhung. 1990. Pteridaceae (excluding Histiopteris). In: Ching Renchang & Shing Kunghsia, eds., Fl. Reipubl. Popularis Sin. 3(1): 10-89; Zhang Xian-chun. 1999. Antrophyaceae and Vittariaceae. In: Chu Wei-ming, ed., Fl. Reipubl. Popularis Sin. 3(2): 1-31.
+
+
+
+
+Credit: Harvard University Herbaria
+
+
+
+
+Plants mostly terrestrial or epilithic, some epiphytic, rarely aquatic (Ceratopteris), small to large. Rhizomes erect, ascending, or creeping, siphonostelic, solenostelic, or dictyostelic, usually scaly, rarely with bristles; scales brown or black, sometimes clathrate and iridescent, lanceolate to cordate, sometimes peltate, margin usually entire. Fronds mostly monomorphic, less often dimorphic or subdimorphic, clustered to widely scattered, not articulate; stipe well defined, dark, often glossy, to ill defined and green, terete or adaxially grooved, glabrous, hairy, or scaly, with 1-4 vascular bundles (or to many in Ceratopteris) near base, combining distally; lamina entire or 1-4-pinnate to 5-pinnate-pinnatifid, less often digitate, pedate, or 1-3 dichotomous with pedate branches; ultimate pinnules often stalked, sometimes articulate, herbaceous, papery, or leathery, more rarely membranous or fleshy; veins free or anastomosing, if anastomosing then areoles without free included veinlets. Sori mostly confluent along veins or marginal commissures, sometimes immersed in grooves, less often discrete on vein tips or on recurved membranous marginal lobe (false indusium), sometimes acrostichoid or rarely forming a narrow longitudinal band between midrib and margin (Taenitis); true indusium absent, marginal sori often protected by false indusium formed from revolute lamina margin. Sporangia usually long stalked, annulus vertical or rarely oblique, interrupted by stalk. Spores mostly brown, yellowish, or colorless, mostly tetrahedral-globose and trilete, rarely ellipsoid and monolete, smooth or ornamented, sometimes with an equatorial flange. Mostly x = 29, 30.
+
+About 50 genera and 950 species: subcosmopolitan, but most numerous in tropics and arid regions; 20 genera and 233 species (89 endemic, one introduced) in five subfamilies in China.
+
+
+
+
+
+Ching Ren-chang, Fu Shu-hsia, Wang Chu-hao & Shing Gung-hsia. 1959. Taenitis. In: Ching Ren-chang, ed., Fl. Reipubl. Popularis Sin. 2: 279-280; Lin Youxing. 1990. Adiantaceae and Parkeriaceae. In: Ching Renchang & Shing Kunghsia, eds., Fl. Reipubl. Popularis Sin. 3(1): 173-216, 274-278; Shing Kunghsia. 1990. Acrostichaceae and Hemionitidaceae. In: Ching Renchang & Shing Kunghsia, eds., Fl. Reipubl. Popularis Sin. 3(1): 92-94, 216-274, 279; Shing Kunghsia & Wu Sukung. 1990. Sinopteridaceae (excluding Cheilosoria and Notholaena). In: Ching Renchang & Shing Kunghsia, eds., Fl. Reipubl. Popularis Sin. 3(1): 97-173; Wu Shiewhung. 1990. Pteridaceae (excluding Histiopteris). In: Ching Renchang & Shing Kunghsia, eds., Fl. Reipubl. Popularis Sin. 3(1): 10-89; Zhang Xian-chun. 1999. Antrophyaceae and Vittariaceae. In: Chu Wei-ming, ed., Fl. Reipubl. Popularis Sin. 3(2): 1-31.
+
+
+
+
+20901 | 轴果蕨科 zhou guo jue ke 
+
+Authors: He Zhaorong & Masahiro Kato
+
+
+
+
+
+
+Plants terrestrial or epilithic, evergreen, medium-sized. Rhizome erect or creeping, apex and base of stipes scaly; scales brown, lanceolate, entire, long; fronds caespitose, rarely distant or approximate. Fertile fronds up to 2 m; stipe pale stramineous, rarely red-brown, usually as long as lamina, base not thickened, with sparse scales, upward glabrous throughout. Lamina deltoid or ovate-deltoid, herbaceous, glabrous, pinnate lobes 2- or 3-pinnate or ultimate pinnules pinnate, acuminate at apex. Pinnae alternate, ascending, stipitate, pinnules anadromous, acuminate at apex, base asymmetrical or ± symmetrical. Lobes anadromous, obtuse, usually asymmetrical at base, ultimate pinnules serrate or crenate at margin, sometimes entire. Veins free, prominently, lateral veins mostly forked or pinnate on ultimate pinnules, rarely simple. Costae slightly shallowly grooved adaxially, bilateral margin with slight protuberance. Sori shortly linear, or slightly lunate, solitary on acroscopic veinlets of ultimate pinnule base, usually in 1 line per lobe, 1 or 2 pairs per lobe with pinnate veins, close to ultimate pinnules or midrib of lobes, in parallel lines with each other. Sori and indusia similar, solitary, thickly membranous, slightly swollen, pale gray or gray-green at first, then mostly becoming pale brown, entire, persistent, Spores 2-sided, semicircular in equatorial plane. Spores perispore prominent, slightly hyaline, rough, with regular or irregular filiform ornamentation, circular projection, or rarely broad flakelike folds. x = 40.
+
+One genus and seven species: mainly distributed in subtropical and tropical areas of China, east to Japan, the Philippines, south to Vietnam and Indonesia (Sumatra); five species (three endemic) in China.
+
+
+
+
+
+Based on molecular evidence that Rhachidosorus does not form a monophyletic group with Athyriaceae (cf. R. Sano et al., Molec. Phylogen. Evol. 15: 403-413. 2000), X. C. Zhang proposed the family Rhachidosoraceae (Phytotaxa 19: 16. 2011).Chu Wei-ming & He Zhao-rong. 1999. Rhachidosorus. In: Chu Wei-ming, ed., Fl. Reipubl. Popularis Sin. 3(2): 267-275.
+
+
+
+
+10789 | 槐叶苹科 huai ye ping ke 
+
+Authors: Youxing Lin, Shi Lei, Michele Funston & Michael G. Gilbert
+
+
+
+
+
+
+Plants aquatic, forming floating mats; roots present (Azolla) or lacking (Salvinia); stems horizontal, protostelic, vegetative reproduction rapid due to fragmentation. Fronds with exposed upper surface covered with water-repellent papillae, fronds in whorls of 3: two fronds floating, green, lamina orbicular to oblong, small (8-25 mm), third one submersed, finely dissected and rootlike (Salvinia), or fronds alternate, distichous, minute (ca. 1 mm), 2-lobed: one lobe floating, with a cavity near base containing blue-green algae (Anabaena), other lobe submersed, only 1 cell thick (Azolla). Sporangia contained within sporocarps, these inserted on submersed frond and externally uniform (Salvinia) or in pairs with a globose microsporocarp and a smaller ovoid megasporocarp (Azolla); spores of two kinds (plants heterosporous), microspores globose, trilete, megaspores large, spore germination endosporic.
+
+Two genera and ca. 17 species: tropical to temperate regions worldwide; two genera and four species (one introduced) in China.
+
+
+
+
+
+Lin Youxing. 2000. Salviniaceae and Azollaceae. In: Lin Youxing, ed., Fl. Reipubl. Popularis Sin. 6(2): 340-345.
+
+
+
+
+10806 | 莎草蕨科 suo cao jue ke 
+
+Authors: Zhang Xianchun & John T. Mickel
+
+
+
+
+
+
+Plants terrestrial. Fronds simple (linear) or fan-shaped, variously cleft and with dichotomous free veins. Sporangia on marginal, elaminate, branched or unbranched projections at lamina tips, not in discrete sori, exindusiate; spores bilateral, monolete, 128-256 per sporangium; gametophytes green and filamentous (Schizaea), or subterranean and non-green, tuberous (Actinostachys Wallich). Base chromosome numbers: x = 77, 94, 103.
+
+Two genera and ca. 30 species: pantropical; one genus and two species in China.
+
+
+
+
+
+Ching Ren-chang, Fu Shu-hsia, Wang Chu-hao & Shing Gung-hsia. 1959. Schizaeaceae. In: Ching Ren-chang, ed., Fl. Reipubl. Popularis Sin. 2: 114-115.
+
+
+
+
+10817 | 卷柏科 juan bai ke 
+
+Authors: Zhang Xianchun, Hans P. Nooteboom & Masahiro Kato
+
+
+
+
+
+
+Plants herbaceous, terrestrial, epilithic, or occasionally epiphytic, evergreen or sometimes seasonally green, perennial (rarely annual). Rhizome erect, prostrate, creeping, ascending, or scandent, branched. Rootlike rhizophores borne on dorsal (upper) or ventral (lower) side in axils of branches, confined to lower part of rhizome or throughout, simple or branched. Roots formed at tip of rhizophore, branched. Leaves simple, 1-veined (exceptionally forked), each bearing a ligule in axil on adaxial surface, monomorphic or dimorphic, spirally arranged or in most species arranged in 4 ranks, 2 ranks on dorsal or upper side of stem and branch (called median or dorsal leaves), other 2 ranks on lateral or lower side (called lateral or ventral leaves). Strobili at apex of main stem or branch or lateral to branchlet, compact or lax, tetragonal, complanate or rarely cylindrical; sporophylls arranged in 4 ranks, monomorphic or dimorphic; in dorsiventral strobili with dimorphic sporophylls, dorsal (upper) sporophylls of most species larger than ventral (lower) ones (=resupinate), dorsal sporophylls normally green and firm in texture, while ventral ones paler and somewhat membranous, or dorsal sporophylls smaller than ventral sporophylls (=non-resupinate); in some dorsiventral strobili, dorsal sporophylls bearing outgrowths on lower surface, like a flap, termed "sporophyll-pteryx," partially covering sporangium proximal to it. Sporophylls various, ranging from ovate to ovate-lanceolate, margin denticulate, ciliolate, or entire, apex acute and entire, with ligules distal to sporangia. Sporangia single per sporophyll, heterosporangiate (megasporangium and microsporangium). Spores heterosporous, megaspores ca. 10 × as large as microspores, megaspores 4, rarely 1 per sporangium, microspores more than 100; spores trilete, tetrahedral-globose, or nearly spheroidal, and often bearing equatorial flange. x = 8, 9, 10.
+
+One genus and ca. 700 species: almost cosmopolitan, with its highest diversity in the tropics; 72 species (23 endemic, one introduced) in China.
+
+
+
+
+
+Zhang Xianchun. 2004. Selaginellaceae. In: Zhang Xianchun, ed., Fl. Reipubl. Popularis Sin. 6(3): 86-219.
+
+
+
+
+20307 | 三叉蕨科 san cha jue ke 
+
+Authors: Prof. Fuwu Xing, Yan Yuehong, Shiyong Dong, Wang Faguo, Maarten J. M. Christenhusz & Peter H. Hovenkamp
+
+
+
+
+
+
+Plants terrestrial, 10-300 cm tall. Rhizome erect or ascending to creeping, short or long, stout or slender, scaly at apex; rhizome and basal stipe scales brown, linear or lanceolate, margins entire, finely toothed, or ciliate, membranous. Stipe yellow, brown, or black, scaly at base or sometimes throughout. Fronds tufted or approximate, monomorphic to strongly dimorphic, simple or pinnate to 4 times pinnate-pinnatifid, often triangular or pentagonal, usually decompound toward apices; rachises and costae usually (in most genera) covered with articulate multicellular (ctenitoid) hairs; veins free or variously anastomosing, included veinlets if present simple or forked. Sori terminal on included free veins, dorsal on veins or compital on (at intersection of) connected veins, usually orbicular, sometimes elongate, anastomosing in lines, in some species throughout abaxial surface of lamina when mature, indusiate or exindusiate; indusia if present orbicular-reniform, persistent or caducous. Spores ovoid or elliptic, monolete, perispore with winglike folds, cristate, echinate, verrucose, rugose, or spinose. n = 10, 40, 41.
+
+Eight to 15 genera and ca. 300 species: pantropical; four genera and 41 species (seven endemic) in China.
+
+
+
+
+
+The number of genera and species in this family has been in considerable flux. Molecular studies (Hasebe et al., Amer. Fern J. 85: 134-181. 1995) have increased our understanding of many fern families, and the placement of many uncertainly placed genera has recently become more evident. The genera Ctenitis (incl. Ataxipteris), Dryopsis (= Dryopteris sect. Dryopsis), and Lastreopsis, which were previously placed in Tectariaceae, are now known to belong to the Dryopteridaceae (Hasebe et al., loc. cit.; Smith et al., Taxon 55: 717. 2006; Liu et al., Sci. China, C, 50: 789-798. 2007) and are treated in that family in this Flora. The two families have always been difficult to separate on a morphological basis, but molecular evidence shows that Tectariaceae in its strict sense is sister to a clade uniting Polypodiaceae, Oleandraceae, and Davalliaceae. The group directly sister to Tectariaceae is Lomariopsidaceae (incl. Nephrolepidaceae), which in turn forms a sister clade to Dryopteridaceae, together forming the Eupolypods I clade (Smith et al., loc. cit.: 707).Few molecular studies have so far addressed the Tectariaceae as a whole, and the generic delimitations are, therefore, far from established. Recent studies suggest that a number of segregate genera is deeply embedded within Tectaria, making it a somewhat polymorphic genus. Here, we have followed this broad concept of Tectaria, and included the genera Ctenitopsis, Hemigramma, and Quercifilix. This is admittedly a conservative approach, but it will have to suffice for the purposes of the present treatment until further studies provide a better understanding and better established delimitation of the genera within Tectariaceae.Pleocnemia and Pteridrys are maintained as separate from Tectaria s.l. because they show sufficient molecular and morphological distinctness. Pleocnemia was tentatively placed in Dryopteridaceae by Liu et al. (loc. cit.), but evidence for this is scarce, and we, therefore, maintain it here in Tectariaceae following Smith et al. (loc. cit.: 718), until further data are available.The following taxon, described from China, is excluded from the present treatment, pending further research: Sagenia cicutaria (Linnaeus) T. Moore var. tenerifrons Christ (Bull. Acad. Int. Géogr. Bot. 11: 257. 1902).Ching Ren-chang, Fu Shu-hsia, Wang Chu-hao & Shing Gung-hsia. 1959. Arthropteris. In: Ching Ren-chang, ed., Fl. Reipubl. Popularis Sin. 2: 318-319; Wang Chuhao. 1999. Aspidiaceae (excluding Ctenitis and Lastreopsis). In: Wu Shiewhung, ed., Fl. Reipubl. Popularis Sin. 6(1): 1-103; Wu Shiewhung. 1999. Arthropteris. In: Wu Shiewhung, ed., Fl. Reipubl. Popularis Sin. 6(1): 151-153.
+
+
+
+
+10887 | 金星蕨科 jin xing jue ke 
+
+Authors: Youxing Lin, Li Zhongyang, Kunio Iwatsuki & Alan R. Smith
+
+
+
+
+
+
+Plants terrestrial or on rocks. Rhizomes stout, dictyostele radially symmetrical, branched or not, erect, ascending, or long creeping, with scales at apices; scales basiflexed, lanceolate or nearly ovate, brown, thick, luminae elongate, usually with grayish white short setae on dorsal side or ciliate along margins. Fronds clustered, approximate, or remote; stipes slender, stramineous, not articulate, with 2 crescent-shaped vascular bundles at base, usually scaly at bases, distally ± with grayish white unicellular acicular hairs, rarely with multicellular long hairs or stellate hairs. Fronds monomorphic, rarely subdimorphic, oblong-lanceolate or oblanceolate, sometimes ovate or ovate-triangular, usually pinnate-pinnatifid, sometimes 3- or 4-pinnate-pinnatifid, rarely 1-pinnate; pinnae symmetrical at bases; costae grooved adaxially but grooves not confluent with rachial grooves, or raised and with dense grayish acicular hairs, with expanded tuberculate aerophores at bases of pinnae. Laminae herbaceous or papery, sometimes somewhat leathery, green or dark brown-green when dry, both sides (particularly rachises, costae, and main veins adaxially) with grayish white unicellular acicular hairs, rarely glabrous, usually with orange or reddish orange, stalked or sessile spherical or club-shaped glands, occasionally small scaly along rachises and costae abaxially. Sori orbicular, oblong, or shortly linear, dorsifixed on veins, indusiate or exindusiate; indusia orbicular-reniform, fixed by deep notch, most ± hairy, persistent or hidden in sori, caducous, or not concentrated into sori but scattered along reticulate veins and exindusiate. Sporangia long stalked, usually with hairs or glandular hairs below annuli and at distal end of sporangial stalks. Spores bilateral, rarely tetrahedral, tuberculate, echinate, granular, or usually with a winged perispore. Prothalli green, cordate or narrowly cordate, usually with broad wings, symmetrical, usually with hairs or glands. x = 27-36 (lacking 28).
+
+About 20 genera and ca. 1,000 species, more at lower elevations, very few tropical species above 4500 m: widespread in all tropical and subtropical zones of the world, less common in temperate zone, particularly more common in Asia; 18 genera (one endemic) and 199 species (102 endemic) in China.
+
+
+
+
+
+The family* is very natural and is distinguished from others by having grayish white unicellular acicular hairs and pubescence throughout the plant. However, there are many different viewpoints about generic circumscription in the family. Ching recognized 18 genera (including Hypodematium) in his 1963 treatment (Acta Phytotax. Sin. 8: 289-335); soon afterward, in 1978 (Ching, Acta Phytotax. Sin. 16(3): 12-13), the number of recognized genera in China grew to 20 (Hypodematium was removed and placed in its own family). In 1971, Holttum subdivided this family in the Paleotropics into 23 genera (Blumea 19(1): 17-52). In 1977, Pichi Sermolli, mainly following Holttum, circumscribed other genera for a total of 32 genera (Webbia 3(2): 213-512). In 1990, A. R. Smith divided the family into five genera (in Kramer & Green, Fam. Gen. Vasc. Pl. 1: 263-272), i.e., Thelypteris (including five subgenera), Phegopteris, Pseudophegopteris, Macrothelypteris, and Cyclosorus (including 20 subgenera). Of the many systems, those of Holttum and Pichi Sermolli divide the family most finely, with the greatest number of genera. Holttum (loc. cit.) segregated the following genera from Cyclosorus s.l.: Amphineuron, Christella, Pneumatopteris, and Sphaerostephanos. Recognition of these genera was based on several characters, including whether the proximal pinnae were shortened or not, and whether the sporangia and sporangial stalks bore hairs or glandular hairs. Holttum (loc. cit.) also segregated several genera (e.g., Parathelypteris and Coryphopteris) from the classical Thelypteris s.l., the free-veined thelypteroids, by characters that included rhizome habit, laminar glands, and chromosome base number. Smith (loc. cit.: 265) noted: "Although many of Holttums genera seem natural (i.e., monophyletic), a combination of characters must be used to circumscribe them. Some of the characters concern minute glands and hairs and require 30 × magnification or greater for observation. Others require that complete specimens be at hand (including lower part of blade and stem). Even then, identification to genus may be difficult, as generic lines are not always sharp." The question of generic delimitation within the family needs further study, but for now we adopt Chings system (1978), modified from Ching (1963).***In 1940, Ching established many new families (Sunyatsenia 5(4): 237), including Thelypteridaceae with 12 genera, but the names of these new families are nomina nuda and were not therefore validly published (Melbourne Code, Art. 38.1(a)). Only in 1970 were these families formally published by Pichi Sermolli.**(1) Holttum set up the genus Amphineuron with mixed characters in 1971, which was also adopted by Ching in 1978. Among the 12 recognized species in the genus, three occur in China: the type species A. opulentum, which is similar to Cyclosorus in venation and lemon-yellow glands; A. immersum, which is similar to Parathelypteris species in venation; and A. tonkinensis, which has already been removed to a new genus, Mesopteris. As Holttum himself considered Amphineuron to be a provisional treatment, this genus is not adopted here.(2) Trichoneuron Ching (Acta Phytotax. Sin. 10: 118, pl. 22. 1967) was based on a single gathering, and the collection locality was unknown. Later, this species was rediscovered by Prof. W. M. Chu in Pingbian, SE Yunnan. According to Prof. Chus study, it belongs to the genus Lastreopsis (Dryopteridaceae). It is, therefore, not included here.Using only venation, the family may be divided into 3 tribes: 1. Tribe Thelypterideae Ching: Veins free; with two subtypes: (1) all veinlets reaching margins or nearly reaching margins above sinuses between segments, with the bottom of sinuses not cartilaginous (e.g., Parathelypteris); (2) proximal pair of veinlets from adjacent segments reaching cartilaginous sinuses but not united; or acroscopic veinlet of basal pair of veinlets reaching cartilaginous sinus, basiscopic veinlet reaching margin above sinus (e.g., Pseudocyclosorus and Mesopteris); 2. Tribe Goniopterideae Ching: Veins partly combined; at least proximal pair of veinlets from adjacent segments united to form triangular areoles and this vein union producing a long or short excurrent veinlet; additional areoles may be produced in the same row, by subsequent vein unions of veinlets; excurrent veinlets may connect with more distal vein unions, or with a translucent line leading to a sinus, thus forming oblique rhomboid areoles (goniopteroid venation) (e.g., Cyclosorus, Ampelopteris), or squarish areoles (meniscioid venation) (e.g., Pronephrium, the areoles without included veinlets; 3. Tribe Dictyoclineae Ching: Veinlets between lateral veins all combined into irregular squarish or pentagonal areoles and each areole sometimes with simple or forked included veinlets.The following taxon is excluded from the present treatment, pending further research: Thelypteris calvata Ching (Bull. Fan Mem. Inst. Biol. Bot. ser. 2, 1: 313. 1949), described from Guangdong.Shing Kunghsia, Chiu Peishi, Yao Guanhu & Lin Youxin. 1999. Thelypteridaceae. In: Shing Kunghsia, ed., Fl. Reipubl. Popularis Sin. 4(1): 15-317, 319-353.
+
+
+
+
+10954 | 岩蕨科 yan jue ke 
+
+Authors: Zhang Gangmin, Masahiro Kato & Alexandr Shmakov
+
+
+
+
+
+
+Plants epilithic, sometimes xerophytic (growing in dry habitats), small or medium-sized. Rhizomes short, erect, decumbent, or ascending, simple dictyostelic, covered with scales. Fronds clustered, monomorphic, deciduous or sometimes evergreen; stipe mostly shorter than lamina, ± scaly and hairy, articulate or not articulate; lamina 1-pinnate to bipinnatifid, elliptic-lanceolate to narrowly lanceolate, herbaceous or papery, frequently covered with articulate multicellular hairs, sometimes with glandular hairs or capitate glands. Veins free, pinnate, usually ending in enlarged hydathodes. Sori orbicular, consisting of 3-18 sporangia, borne at middle or apex of veinlets; indusia inferior, saucer-shaped to cup-shaped, margin long ciliate, or indusia absent, degenerated into curly, multicellular hairs (Woodsia), or sphaeropteroid (bladderlike) with openings at tip (Protowoodsia), sometimes also covered with false indusia, i.e., reflexed leaf margins (Cheilanthopsis). Spores ellipsoid or somewhat spherical, monolete, wall surface folded, cristate, tuberculate, or echinate.
+
+About four genera (including the Caucasian Hymenocystis C. A. Meyer) and ca. 43 species: widely distributed in the N temperate and frigid zones, rarely in Central and South America, Africa (Angola, South Africa), and Madagascar; three genera and 24 species (nine endemic) in China.
+
+
+
+
+
+The current classification of the genera requires evaluation by molecular phylogenetic evidence.Wu Shiew-hung. 1999. Woodsiaceae. In: Wu Shiew-hung, ed., Fl. Reipubl. Popularis Sin. 4(2): 166-191.
+
+
+
+

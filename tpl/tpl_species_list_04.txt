@@ -1,0 +1,1641 @@
+speciname | taxstat
+Nivellea nivellei (Braun-Blanq. & Maire) "B.H.Wilcox, K.Bremer & Humphries" | Accepted
+Nocca glandulosa (Fernald) B.L.Rob. | Accepted
+Nocca liebmannii (Klatt) B.L.Rob. | Accepted
+Nocca pringlei B.L.Rob. | Accepted
+Nocca robinsonii (A.Nelson) S.F.Blake | Accepted
+Nolletia arenosa O.Hoffm. | Accepted
+Nolletia chrysocomoides (Desf.) Cass. | Accepted
+Nolletia ciliaris (DC.) Steetz | Accepted
+Nolletia ericoides Merxm. | Accepted
+Nolletia gariepina (DC.) Mattf. | Accepted
+Nolletia rarifolia (Turcz.) Steetz | Accepted
+Nolletia ruderalis Hilliard | Accepted
+Nolletia tenuifolia Mattf. | Accepted
+Nolletia zambesica R.E.Fr. | Accepted
+Nordenstamia cajamarcensis (H.Rob. & Cuatrec.) B.Nord. | Accepted
+Nordenstamia carpishensis (Cuatrec.) B.Nord. | Accepted
+Nordenstamia fabrisii (Cabrera) B.Nord. | Accepted
+Nordenstamia huanucona (Cuatrec.) B.Nord. | Accepted
+Nordenstamia juninensis (H.Rob. & Cuatrec.) B.Nord. | Accepted
+Nordenstamia kingii (H.Rob. & Cuatrec.) B.Nord. | Accepted
+Nordenstamia limonensis (B.Nord.) B.Nord. | Accepted
+Nordenstamia longistyla (Greenm. & Cuatrec.) B.Nord. | Accepted
+Nordenstamia pascoensis (H.Beltrán & H.Rob.) B.Nord. | Accepted
+Nordenstamia repanda (Wedd.) Lundin | Accepted
+Nordenstamia rimachiana (Cuatrec.) B.Nord. | Accepted
+Nordenstamia stellatopilosa (Greenm. & Cuatrec.) B.Nord. | Accepted
+Nordenstamia tovarii (H.Rob. & Cuatrec.) B.Nord. | Accepted
+Nordenstamia tuestae (Cuatrec.) B.Nord. | Accepted
+Nordenstamia woytkowskii (Cuatrec.) B.Nord. | Accepted
+Norlindhia amplectens (Harv.) B.Nord. | Accepted
+Norlindhia aptera B.Nord. | Accepted
+Norlindhia breviradiata (Norl.) B.Nord. | Accepted
+Nothobaccharis candolleana (Steud.) R.M.King & H.Rob. | Accepted
+Nothocalais alpestris (A.Gray) K.L.Chambers | Accepted
+Nothocalais cuspidata (Pursh) Greene | Accepted
+Nothocalais nigrescens (L.F.Hend.) A.Heller | Accepted
+Nothocalais troximoides (A.Gray) Greene | Accepted
+Noticastrum acuminatum (DC.) Cuatrec. | Accepted
+Noticastrum adscendens DC. | Accepted
+Noticastrum antucense Phil. | Accepted
+Noticastrum argenteum Cabrera | Accepted
+Noticastrum argentinense (Cabrera) Cuatrec. | Accepted
+Noticastrum calvatum (Baker) Cuatrec. | Accepted
+Noticastrum chebataroffii (Herter) Zardini | Accepted
+Noticastrum decumbens (Baker) Cuatrec. | Accepted
+Noticastrum diffusum (Pers.) Cabrera | Accepted
+Noticastrum eriophorum J.Rémy | Accepted
+Noticastrum gnaphalioides (Baker) Cuatrec. | Accepted
+Noticastrum hatschbachii Zardini | Accepted
+Noticastrum jujuyense Cabrera | Accepted
+Noticastrum macrocephalum (Baker) Cuatrec. | Accepted
+Noticastrum malmei Zardini | Accepted
+Noticastrum marginatum (Kunth) Cuatrec. | Accepted
+Noticastrum psammophilum (Klatt) Cuatrec. | Accepted
+Noticastrum sericeum (Less.) Less. ex Phil. | Accepted
+Notobasis obovallata  | Accepted
+Notobasis syriaca (L.) Cass. | Accepted
+Notonia crassissima DC. | Accepted
+Notonia walkeri C.B.Clarke | Accepted
+Notoptera hirsuta (Sw.) Urb. | Accepted
+Notoseris dolichophylla C.Shih | Accepted
+Notoseris formosana (Kitam.) C.Shih | Accepted
+Notoseris gracilipes C.Shih | Accepted
+Notoseris guizhouensis C.Shih | Accepted
+Notoseris henryi (Dunn) C.Shih | Accepted
+Notoseris melanantha (Franch.) C.Shih | Accepted
+Notoseris nanchuanensis C.Shih | Accepted
+Notoseris porphyrolepis C.Shih | Accepted
+Notoseris psilolepis C.Shih | Accepted
+Notoseris rhombiformis C.Shih | Accepted
+Notoseris triflora (Hemsl.) C.Shih | Accepted
+Notoseris yunnanensis C.Shih | Accepted
+Nouelia insignis Franch. | Accepted
+Novaguinea rudalliae D.J.N.Hind | Accepted
+Novenia tunariensis (Kuntze) S.E.Freire | Accepted
+Novopokrovskia nigromontana (Boiss. & Buhse) Tzvelev | Accepted
+Oblivia mikanioides (Britton) Strother | Accepted
+Oblivia simplex (V.M.Badillo) H.Rob. | Accepted
+Ochrocephala imatongensis (Philipson) Dittrich | Accepted
+Oclemena acuminata (Michx.) Greene | Accepted
+Oclemena blakei (Porter) G.L.Nesom | Accepted
+Oclemena nemoralis (Aiton) Greene | Accepted
+Oclemena reticulata (Pursh) G.L.Nesom | Accepted
+Odixia achlaena (D.I.Morris) Orchard | Accepted
+Odixia angusta Orchard | Accepted
+Odontocline dolichantha (Krug & Urb.) B.Nord. | Accepted
+Odontocline fadyenii (Griseb.) B.Nord. | Accepted
+Odontocline glabra (Sw.) B.Nord. | Accepted
+Odontocline hollickii (Britton ex Greenm.) B.Nord. | Accepted
+Odontocline laciniata (Sw.) B.Nord. | Accepted
+Odontocline tercentenariae (Proctor) B.Nord. | Accepted
+Odontotrichum amplifolium (DC.) Rydb. | Accepted
+Odontotrichum brachycomum (S.F.Blake) Rydb. | Accepted
+Odontotrichum globosum (B.L.Rob. & Fernald) Rydb. | Accepted
+Odontotrichum goldsmithii (B.L.Rob.) Rydb. | Accepted
+Odontotrichum palmeri Rydb. | Accepted
+Odontotrichum paucicapitatum (B.L.Rob. & Greenm.) Rydb. | Accepted
+Odontotrichum platylepis (B.L.Rob. & Seaton) Rydb. | Accepted
+Odontotrichum pratense (Standl.) Cuatrec. | Accepted
+Odontotrichum pringlei (S.Watson) Rydb. | Accepted
+Odontotrichum purpusii (Greenm.) Rydb. | Accepted
+Odontotrichum schaffneri (A.Gray) Rydb. | Accepted
+Odontotrichum silphiifolium (B.L.Rob. & Greenm.) Rydb. | Accepted
+Odontotrichum sinuatum (Cerv.) Rydb. | Accepted
+Odontotrichum tridactylitis (B.L.Rob. & Greenm.) Rydb. | Accepted
+Oedera capense Druce | Accepted
+Oedera capensis (L.) Druce | Accepted
+Oedera conferta (Hutch.) Anderb. & K.Bremer | Accepted
+Oedera epaleacea Beyers | Accepted
+Oedera foveolata (K.Bremer) Anderb. & K.Bremer | Accepted
+Oedera genistifolia (L.) Anderb. & K.Bremer | Accepted
+Oedera hirta Thunb. | Accepted
+Oedera imbricata Lam. | Accepted
+Oedera laevis DC. | Accepted
+Oedera multipunctata (DC.) Anderb. & K.Bremer | Accepted
+Oedera nordenstamii (K.Bremer) Anderb. & K.Bremer | Accepted
+Oedera prolifera L. f. | Accepted
+Oedera resinifera (K.Bremer) Anderb. & K.Bremer | Accepted
+Oedera sedifolia (DC.) Anderb. & K.Bremer | Accepted
+Oedera silicicola (K.Bremer) Anderb. & K.Bremer | Accepted
+Oedera squarrosa (L.) Anderb. & K.Bremer | Accepted
+Oedera steyniae (L.Bolus) Anderb. & K.Bremer | Accepted
+Oedera uniflora (L.f.) Anderb. & K.Bremer | Accepted
+Oedera viscosa (L'Hér.) Anderb. & K.Bremer | Accepted
+Oiospermum involucratum (Nees & Mart.) Less. | Accepted
+Oldenburgia grandis (Thunb.) Baill. | Accepted
+Oldenburgia intermedia Bond | Accepted
+Oldenburgia papionum DC. | Accepted
+Oldenburgia paradoxa Less. | Accepted
+Oldfeltia polyphlebia (Griseb.) B.Nord. & Lundin | Accepted
+Olearia adenocarpa Molloy & Heenan | Accepted
+Olearia adenolasia (F.Muell.) F.Muell. ex Benth. | Accepted
+Olearia adenophora (F.Muell.) Benth. | Accepted
+Olearia aglossa (Maiden & Betche) Lander | Accepted
+Olearia albida (Hook.f.) Hook.f. | Accepted
+Olearia algida N.A.Wakef. | Accepted
+Olearia allomii Kirk | Accepted
+Olearia alpicola (F.Muell.) Benth. | Accepted
+Olearia angustifolia Hook.f. | Accepted
+Olearia arborescens (G.Forst.) Cockayne & Laing | Accepted
+Olearia archeri Lander | Accepted
+Olearia argophylla (Labill.) Benth. | Accepted
+Olearia arguta (R.Br.) Benth. | Accepted
+Olearia argyrophylla F.Muell. | Accepted
+Olearia arida E.Pritz. | Accepted
+Olearia asterotricha (F.Muell.) F.Muell. ex Benth. | Accepted
+Olearia astroloba Lander & N.G.Walsh | Accepted
+Olearia avicenniifolia (Raoul) Hook.f. | Accepted
+Olearia axillaris (DC.) F.Muell. ex Benth. | Accepted
+Olearia ballii (F.Muell.) F.Muell. ex Hemsl. | Accepted
+Olearia brachyphylla (F.Muell. ex Sond.) N.A.Wakef. | Accepted
+Olearia brevipedunculata N.G.Walsh | Accepted
+Olearia bullata H.D.Wilson & Garn.-Jones | Accepted
+Olearia burgessii Lander | Accepted
+Olearia calcarea F.Muell. ex Benth. | Accepted
+Olearia canescens (Benth.) Hutch. | Accepted
+Olearia capillaris Buchanan | Accepted
+Olearia cassiniae (F.Muell.) Benth. | Accepted
+Olearia chathamica Kirk | Accepted
+Olearia cheesemanii Cockayne & Allan | Accepted
+Olearia chrysophylla (DC.) Benth. | Accepted
+Olearia ciliata (Benth.) F.Muell. ex Benth. | Accepted
+Olearia colensoi Hook.f. | Accepted
+Olearia conocephala F.Muell. | Accepted
+Olearia cordata Lander | Accepted
+Olearia coriacea Kirk | Accepted
+Olearia covenyi Lander | Accepted
+Olearia crebra E.K.Cameron & Heenan | Accepted
+Olearia crosby-smithiana Petrie | Accepted
+Olearia cydoniifolia (DC.) Benth. | Accepted
+Olearia decurrens (DC.) Benth. | Accepted
+Olearia durifolia J.Kost. | Accepted
+Olearia elaeophila (DC.) Benth. | Accepted
+Olearia elliptica DC. | Accepted
+Olearia eremaea Lander | Accepted
+Olearia ericoides (Steetz) N.A.Wakef. | Accepted
+Olearia erubescens (Sieber ex DC.) Dippel | Accepted
+Olearia excorticata Buchanan | Accepted
+Olearia exiguifolia (F.Muell.) Benth. | Accepted
+Olearia exilifolia F.Muell. | Accepted
+Olearia exilis S.Moore | Accepted
+Olearia ferresii (F.Muell.) F.Muell. ex Benth. | Accepted
+Olearia fimbriata Heads | Accepted
+Olearia floccosa J.Kost. | Accepted
+Olearia flocktoniae Maiden & Betche | Accepted
+Olearia floribunda (Hook.f.) Benth. | Accepted
+Olearia fluvialis Lander | Accepted
+Olearia fragrantissima Petrie | Accepted
+Olearia frostii (F.Muell.) J.H.Willis | Accepted
+Olearia fulvida Archer ex Kuntze | Accepted
+Olearia furfuracea (A.Rich.) Hook.f. | Accepted
+Olearia gardneri Heads | Accepted
+Olearia glandulosa (Labill.) Benth. | Accepted
+Olearia glutinosa (Lindl.) Benth. | Accepted
+Olearia gordonii Lander | Accepted
+Olearia grandiflora Hook. | Accepted
+Olearia gravis (F.Muell.) Benth. | Accepted
+Olearia gunniana (DC.) Hook.f. ex Hook. | Accepted
+Olearia haastii Hook.f. | Accepted
+Olearia hectorii Hook.f. | Accepted
+Olearia heleophila F.Muell. | Accepted
+Olearia heliophila (DC.) Benth. | Accepted
+Olearia heterocarpa S.T.Blake | Accepted
+Olearia heterolepis Mattf. | Accepted
+Olearia heterophila  | Accepted
+Olearia heterotricha Mattf. | Accepted
+Olearia homolepis (F.Muell.) Benth. | Accepted
+Olearia hooglandii J.Kost. | Accepted
+Olearia hookeri (Sond.) Benth. | Accepted
+Olearia humilis Lander | Accepted
+Olearia hygrophila (DC.) Benth. | Accepted
+Olearia ilicifolia Hook.f. | Accepted
+Olearia imbricata (Turcz.) Benth. | Accepted
+Olearia incana (D.A.Cooke) Lander | Accepted
+Olearia incondita Lander | Accepted
+Olearia iodochroa (F.Muell.) F.Muell. ex Benth. | Accepted
+Olearia kernotii (F.Muell.) Mattf. | Accepted
+Olearia laciniifolia Lander | Accepted
+Olearia lacunosa Hook.f. | Accepted
+Olearia lanata J.Kost. | Accepted
+Olearia lanuginosa (J.H.Willis) N.A.Wakef. | Accepted
+Olearia lasiophylla Lander | Accepted
+Olearia laxiflora Kirk | Accepted
+Olearia ledifolia (DC.) Benth. | Accepted
+Olearia lehmanniana (Steetz) Lander | Accepted
+Olearia lepidophylla (Pers.) Benth. | Accepted
+Olearia lepidota Mattf. | Accepted
+Olearia leptocephala J.Kost. | Accepted
+Olearia lineata Cockayne | Accepted
+Olearia lirata (Sims) Hutch. | Accepted
+Olearia lyallii Hook.f. | Accepted
+Olearia macdonnellensis D.A.Cooke | Accepted
+Olearia macrodonta Baker | Accepted
+Olearia magniflora (F.Muell.) F.Muell. ex Benth. | Accepted
+Olearia matthewsii Heenan | Accepted
+Olearia megalophylla (F.Muell.) F.Muell. ex Benth. | Accepted
+Olearia microdisca J.M.Black | Accepted
+Olearia microphylla (Vent.) Maiden & Betche | Accepted
+Olearia minor (Benth.) Lander | Accepted
+Olearia montana Lander | Accepted
+Olearia monticola F.M.Bailey | Accepted
+Olearia mooneyi (F.Muell.) F.Muell. ex Hemsl. | Accepted
+Olearia moschata Hook.f. | Accepted
+Olearia mucronata Lander | Accepted
+Olearia muelleri (Sond.) Benth. | Accepted
+Olearia muricata (Steetz) Benth. | Accepted
+Olearia myrsinoides (Labill.) F.Muell. ex Benth. | Accepted
+Olearia nernstii (F.Muell.) F.Muell. ex Benth. | Accepted
+Olearia nummulariifolia (Hook.f.) Hook.f. | Accepted
+Olearia obcordata (Hook.f.) Benth. | Accepted
+Olearia occidentissima Lander | Accepted
+Olearia odorata Petrie | Accepted
+Olearia oleifolia Kirk | Accepted
+Olearia oliganthema (F.Muell.) F.Muell. ex Benth. | Accepted
+Olearia oppositifolia (F.Muell.) Lander | Accepted
+Olearia pachycephala J.Kost. | Accepted
+Olearia pachyphylla Cheeseman | Accepted
+Olearia pallida J.Kost. | Accepted
+Olearia paniculata Druce | Accepted
+Olearia pannosa Hook. | Accepted
+Olearia passerinoides (Turcz.) Benth. | Accepted
+Olearia paucidentata (Steetz) Benth. | Accepted
+Olearia persoonioides (DC.) Benth. | Accepted
+Olearia phlogopappa (Labill.) DC. | Accepted
+Olearia picridifolia (F.Muell.) Benth. | Accepted
+Olearia pimeleoides (DC.) Benth. | Accepted
+Olearia pinifolia (Hook.f.) Benth. | Accepted
+Olearia platyphylla Mattf. | Accepted
+Olearia plucheacea Lander | Accepted
+Olearia polita H.D.Wilson & Garn.-Jones | Accepted
+Olearia quercifolia Sieber ex DC. | Accepted
+Olearia quinquevulnera Heenan | Accepted
+Olearia racemosa Domin | Accepted
+Olearia ramosissima (DC.) Benth. | Accepted
+Olearia ramulosa (Labill.) Benth. | Accepted
+Olearia rani (A.Cunn.) Druce | Accepted
+Olearia revoluta F.Muell. ex Benth. | Accepted
+Olearia rhizomatica Lander | Accepted
+Olearia rosmarinifolia (DC.) Benth. | Accepted
+Olearia rudis (Benth.) F.Muell. ex Benth. | Accepted
+Olearia rufa J.Kost. | Accepted
+Olearia rugosa (F.Muell. ex W.Archer) Hutch. | Accepted
+Olearia semidentata Decne. | Accepted
+Olearia solandri (Hook.f.) Hook.f. | Accepted
+Olearia speciosa Hutch. | Accepted
+Olearia spectabilis J.Kost. | Accepted
+Olearia stellulata (Labill.) DC. | Accepted
+Olearia stenophylla N.G.Walsh | Accepted
+Olearia stilwelliae Blakely | Accepted
+Olearia strigosa (Steetz) Benth. | Accepted
+Olearia stuartii (F.Muell.) Benth. | Accepted
+Olearia suavis Cheeseman | Accepted
+Olearia subrepanda (DC.) Hutch. | Accepted
+Olearia subspicata (Hook.) Benth. | Accepted
+Olearia suffruticosa D.A.Cooke | Accepted
+Olearia tasmanica W.M.Curtis | Accepted
+Olearia tenuifolia (DC.) Benth. | Accepted
+Olearia teretifolia F.Muell. | Accepted
+Olearia thomsonii Cheeseman | Accepted
+Olearia tomentosa (J.C.Wendl.) Benth. | Accepted
+Olearia townsonii Cheeseman | Accepted
+Olearia traillii Kirk | Accepted
+Olearia traversii (F.Muell.) Hook.f. | Accepted
+Olearia trifurcata Lander | Accepted
+Olearia tubuliflora Benth. | Accepted
+Olearia velutina J.Kost. | Accepted
+Olearia vernonioides C.T.White & W.D.Francis | Accepted
+Olearia virgata (Hook.f.) Hook.f. | Accepted
+Olearia viscidula (F.Muell.) Benth. | Accepted
+Olearia viscosa (Labill.) Benth. | Accepted
+Olearia xerophila (F.Muell.) Benth. | Accepted
+Olgaea altimurana (Rech.f.) Rech.f. | Accepted
+Olgaea baldschuanica Iljin | Accepted
+Olgaea chodshamuminensis B.A.Sharipova | Accepted
+Olgaea eriocephala Iljin | Accepted
+Olgaea lanipes (C.Winkl.) Iljin | Accepted
+Olgaea leucophylla (Turcz.) Iljin | Accepted
+Olgaea lomonosowii (Trautv.) Iljin | Accepted
+Olgaea longifolia Iljin | Accepted
+Olgaea nidulans (Rupr.) Iljin | Accepted
+Olgaea nivea Iljin | Accepted
+Olgaea pectinata Iljin | Accepted
+Olgaea petri-primi B.A.Sharipova | Accepted
+Olgaea roborowskyi Iljin | Accepted
+Olgaea spinifera Iljin | Accepted
+Olgaea tangutica Iljin | Accepted
+Olgaea thomsonii Iljin | Accepted
+Olgaea vvedenskyi Iljin | Accepted
+Oligactis boyacensis (Cuatrec.) H.Rob. & Brettell | Accepted
+Oligactis coriacea (Hieron.) H.Rob. & Brettell | Accepted
+Oligactis cuatrecasasii M.O.Dillon & Sagást. | Accepted
+Oligactis cusalaguensis (Hieron.) H.Rob. & Brettell | Accepted
+Oligactis ecuadoriensis (Hieron.) H.Rob. & Brettell | Accepted
+Oligactis garcia-barrigae H.Rob. | Accepted
+Oligactis granatensis (Cuatrec.) H.Rob. & Brettell | Accepted
+Oligactis latifolia (Hieron.) H.Rob. & Brettell | Accepted
+Oligactis mikanioides (S.F.Blake) H.Rob. & Brettell | Accepted
+Oligactis nubigena (Kunth) Cass. | Accepted
+Oligactis ochracea (Cuatrec.) H.Rob. & Brettell | Accepted
+Oligactis pastoensis (Cuatrec.) H.Rob. & Brettell | Accepted
+Oligactis pichinchensis (Hieron.) H.Rob. & Brettell | Accepted
+Oligactis sessiliflora (Kunth) H.Rob. & Brettell | Accepted
+Oligactis volubilis (Kunth) Cass. | Accepted
+Oliganthes bathiaei (Humbert) Humbert | Accepted
+Oliganthes lanuginosa (Bojer ex DC.) Humbert | Accepted
+Oliganthes lecomtei (Humbert) Humbert | Accepted
+Oliganthes pseudocentauropsis (Humbert) Humbert | Accepted
+Oliganthes sublanata (Drake) Humbert | Accepted
+Oliganthes triflora Cass. | Accepted
+Oligocarpus burchellii (Hook.f.) B.Nord. | Accepted
+Oligocarpus calendulaceus (L.f.) Less. | Accepted
+Oligochaeta divaricata (Fisch. & C.A.Mey.) K.Koch | Accepted
+Oligochaeta minima (Boiss.) Briq. | Accepted
+Oligochaeta ramosa Wagenitz | Accepted
+Oligochaeta tomentosa Czerep. | Accepted
+Oligoneuron krotkovii (B.Boivin) G.L.Nesom | Accepted
+Oligosporus affinis Less. | Accepted
+Oligosporus jacquemontiana (Besser) Poljak. | Accepted
+Oligosporus xanthochlous (Krasch.) Poljak. | Accepted
+Oligothrix gracilis DC. | Accepted
+Olivaea leptocarpa DeJong & Beaman | Accepted
+Olivaea tricuspis Sch.Bip. | Accepted
+Omalotheca afghanica (Rech.fil. & Köie) J.Holub | Accepted
+Omalotheca norvegica (Gunnerus) Sch.Bip. & F.W.Schultz | Accepted
+Omalotheca stewartii (Clarke) J.Holub | Accepted
+Omphalopappus newtonii O.Hoffm. | Accepted
+Oncosiphon africanum Källersjö | Accepted
+Oncosiphon glabratum (Thunb.) Källersjö | Accepted
+Oncosiphon grandiflorum (Thunb.) Källersjö | Accepted
+Oncosiphon intermedium (Hutch.) Källersjö | Accepted
+Oncosiphon piluliferum (L.f.) Källersjö | Accepted
+Oncosiphon sabulosum (Wolley-Dod) Källersjö | Accepted
+Oncosiphon schlechteri (Bolus ex Schltr.) Källersjö | Accepted
+Oncosiphon suffruticosum (L.) Källersjö | Accepted
+Ondetia linearis Benth. | Accepted
+Onobroma armenum Spreng. | Accepted
+Onopordum acanthium L. | Accepted
+Onopordum acaulon L. | Accepted
+Onopordum alexandrinum Boiss. | Accepted
+Onopordum algeriense (Munby) Pomel | Accepted
+Onopordum ambiguum Fresen. | Accepted
+Onopordum anatolicum (Boiss.) Boiss. & Heldr. ex Eig | Accepted
+Onopordum arenarium (Desf.) Pomel | Accepted
+Onopordum armenum Grossh. | Accepted
+Onopordum blancheanum (Eig) Danin | Accepted
+Onopordum boissierianum Raab-Straube & Greuter | Accepted
+Onopordum bracteatum Boiss. & Heldr. | Accepted
+Onopordum carduelium Bolle | Accepted
+Onopordum carduiforme Boiss. | Accepted
+Onopordum caulescens d'Urv. | Accepted
+Onopordum cinereum Grossh. | Accepted
+Onopordum corymbosum Willk. | Accepted
+Onopordum cyrenaicum Maire & Weiller | Accepted
+Onopordum dissectum Murb. | Accepted
+Onopordum dyris Maire | Accepted
+Onopordum eriocephalum Rouy | Accepted
+Onopordum espinae Coss. | Accepted
+Onopordum heteracanthum C.A.Mey. | Accepted
+Onopordum horridum Viv. | Accepted
+Onopordum illyricum L. | Accepted
+Onopordum leptolepis DC. | Accepted
+Onopordum macracanthum Schousb. | Accepted
+Onopordum macrocephalum Eig | Accepted
+Onopordum mesatlanticum Emb. & Maire | Accepted
+Onopordum micropterum Pau | Accepted
+Onopordum myriacanthum Boiss. | Accepted
+Onopordum nervosum Boiss. | Accepted
+Onopordum parnassicum Boiss. & Heldr. | Accepted
+Onopordum polycephalum Boiss. | Accepted
+Onopordum prjachinii Tamamsch. | Accepted
+Onopordum seravschanicum Tamamsch. | Accepted
+Onopordum sibthorpianum Boiss. & Heldr. | Accepted
+Onopordum tauricum Willd. | Accepted
+Onopordum turcicum Danin | Accepted
+Onopordum wallianum Maire | Accepted
+Onoseris acerifolia Kunth | Accepted
+Onoseris adpressa Less. | Accepted
+Onoseris alata Rusby | Accepted
+Onoseris albicans (D.Don) Ferreyra | Accepted
+Onoseris annua Less. | Accepted
+Onoseris castelnaeana Wedd. | Accepted
+Onoseris cumingii Hook. & Arn. | Accepted
+Onoseris donnell-smithii (J.M.Coult.) Ferreyra | Accepted
+Onoseris drakeana André | Accepted
+Onoseris gnaphalioides Muschl. | Accepted
+Onoseris hastata Wedd. | Accepted
+Onoseris hyssopifolia Kunth | Accepted
+Onoseris odorata (D.Don) Hook. & Arn. | Accepted
+Onoseris onoseroides (Kunth) B.L.Rob. | Accepted
+Onoseris sagittata (Rusby) Rusby | Accepted
+Onoseris salicifolia Kunth | Accepted
+Onoseris silvatica Greenm. | Accepted
+Onoseris speciosa Kunth | Accepted
+Oonopsis engelmannii (A.Gray) Greene | Accepted
+Oonopsis foliosa Greene | Accepted
+Oonopsis multicaulis (Nutt.) Greene | Accepted
+Oonopsis wardii (A.Gray) Greene | Accepted
+Oparanthus albus (F.Br.) Sherff | Accepted
+Oparanthus hivoanus (O.Deg. & Sherff) R.K.Shannon & W.L.Wagner | Accepted
+Oparanthus teikiteetinii (J.Florence & Stuessy) R.K.Shannon & W.L.Wagner | Accepted
+Ophryosporus anomalus R.M.King & H.Rob. | Accepted
+Ophryosporus axilliflorus (Griseb.) Hieron. | Accepted
+Ophryosporus burkartii Cabrera | Accepted
+Ophryosporus carchiensis H.Rob. | Accepted
+Ophryosporus chilca (Kunth) Hieron. | Accepted
+Ophryosporus densiflorus (Benth.) R.M.King & H.Rob. | Accepted
+Ophryosporus eleutherantherus (Rusby) B.L.Rob. | Accepted
+Ophryosporus ferreyrii H.Rob. | Accepted
+Ophryosporus floribundus (DC.) R.M.King & H.Rob. | Accepted
+Ophryosporus freyreysii (Thunb.) Baker | Accepted
+Ophryosporus galioides (DC.) R.M.King & H.Rob. | Accepted
+Ophryosporus hartwegii (B.L.Rob.) R.M.King & H.Rob. | Accepted
+Ophryosporus heptanthus (Sch.Bip. ex Wedd.) R.M.King & H.Rob. | Accepted
+Ophryosporus hoppii (B.L.Rob.) R.M.King & H.Rob. | Accepted
+Ophryosporus johnstonii B.L.Rob. | Accepted
+Ophryosporus lorentzii Hieron. | Accepted
+Ophryosporus macrodon Griseb. | Accepted
+Ophryosporus marchii Sagást. & E.Rodr. | Accepted
+Ophryosporus mathewsii (B.L.Rob.) R.M.King & H.Rob. | Accepted
+Ophryosporus paradoxus (Hook. & Arn.) Benth. & Hook. ex Hook.f. & B.D.Jacks. | Accepted
+Ophryosporus peruvianus R.M.King & H.Rob. | Accepted
+Ophryosporus pinifolius (Phil.) R.M.King & H.Rob. | Accepted
+Ophryosporus piquerioides (DC.) Benth. ex Baker | Accepted
+Ophryosporus pubescens (Sm.) R.M.King & H.Rob. | Accepted
+Ophryosporus regnellii Baker | Accepted
+Ophryosporus sagasteguii H.Rob. | Accepted
+Ophryosporus serratifolius (Kunth) B.L.Rob. | Accepted
+Ophryosporus triangularis Meyen | Accepted
+Ophryosporus venosissimus (Rusby) B.L.Rob. | Accepted
+Opisthopappus longilobus C.Shih | Accepted
+Opisthopappus taihanense C.Shih | Accepted
+Opisthopappus taihangensis (Ling) C.Shih | Accepted
+Oreochrysum parryi (A.Gray) Rydb. | Accepted
+Oreoleysera montana (Bolus) K.Bremer | Accepted
+Oreostemma alpigenum (Torr. & A.Gray) Greene | Accepted
+Oreostemma elatum (Greene) Greene | Accepted
+Oreostemma peirsonii (Sharsm.) G.L.Nesom | Accepted
+Oresbia heterocarpa Cron & B.Nord. | Accepted
+Oriastrum apiculatum (J. Rémy) A.M.R. Davies | Accepted
+Oriastrum stuebelii (Hieron.) A.M.R. Davies | Accepted
+Oritrophium blepharophyllum (S.F.Blake) Cuatrec. | Accepted
+Oritrophium cocuyense (Cuatrec.) Cuatrec. | Accepted
+Oritrophium crocifolium (Kunth) Cuatrec. | Accepted
+Oritrophium durangense G.L.Nesom | Accepted
+Oritrophium figueirasii Cuatrec. | Accepted
+Oritrophium granatum Cuatrec. | Accepted
+Oritrophium hieracioides (Wedd.) Cuatrec. | Accepted
+Oritrophium hirtopilosum (Hieron.) Cuatrec. | Accepted
+Oritrophium limnophilum (Sch.Bip.) Cuatrec. | Accepted
+Oritrophium llanganatense Sklenář & H.Rob. | Accepted
+Oritrophium marahuacense Steyerm. & Maguire | Accepted
+Oritrophium mucidum Cuatrec. | Accepted
+Oritrophium nevadense (Wedd.) Cuatrec. | Accepted
+Oritrophium ollgaardii Cuatrec. | Accepted
+Oritrophium orizabense G.L.Nesom | Accepted
+Oritrophium peruvianum (Lam.) Cuatrec. | Accepted
+Oritrophium repens (Kunth) Cuatrec. | Accepted
+Oritrophium tergoalbum (Cuatrec.) Cuatrec. | Accepted
+Oritrophium venezuelense (Steyerm.) Cuatrec. | Accepted
+Orochaenactis thysanocarpha (A.Gray) Coville | Accepted
+Orthopappus angustifolius (Sw.) Gleason | Accepted
+Osbertia bartlettii (S.F.Blake) G.L.Nesom | Accepted
+Osbertia chihuahuana B.L.Turner & S.D.Sundb. | Accepted
+Osbertia heleniastrum (Greene) Greene | Accepted
+Osbertia stolonifera (DC.) Greene | Accepted
+Osmadenia tenella Nutt. | Accepted
+Osmiopsis plumeri (Urb. & Ekman) R.M.King & H.Rob. | Accepted
+Osmitopsis afra (L.) K.Bremer | Accepted
+Osmitopsis asteriscoides Less. | Accepted
+Osmitopsis dentata (Thunb.) K.Bremer | Accepted
+Osmitopsis glabra K.Bremer | Accepted
+Osmitopsis nana Schltr. | Accepted
+Osmitopsis osmitoides (Less.) K.Bremer | Accepted
+Osmitopsis parvifolia (DC.) Hofmeyr | Accepted
+Osmitopsis pinnatifida (DC.) K.Bremer | Accepted
+Osmitopsis tenuis K.Bremer | Accepted
+Osteospermum acanthospermum (DC.) Norl. | Accepted
+Osteospermum aciphyllum DC. | Accepted
+Osteospermum armatum Norl. | Accepted
+Osteospermum asperulum (DC.) Norl. | Accepted
+Osteospermum attenuatum Hilliard & B.L.Burtt | Accepted
+Osteospermum australe B.Nord. | Accepted
+Osteospermum bidens Thunb. | Accepted
+Osteospermum bolusii (Compton) Norl. | Accepted
+Osteospermum burttianum B.Nord. | Accepted
+Osteospermum ciliatum P.J.Bergius | Accepted
+Osteospermum corymbosum L. | Accepted
+Osteospermum ecklonis (DC.) Norl. | Accepted
+Osteospermum elsieae Norl. | Accepted
+Osteospermum fruticosum (L.) Norl. | Accepted
+Osteospermum glabrum N.E.Br. | Accepted
+Osteospermum grandidentatum DC. | Accepted
+Osteospermum grandiflorum DC. | Accepted
+Osteospermum hafstroemii Norl. | Accepted
+Osteospermum herbaceum L.f. | Accepted
+Osteospermum hirsutum Thunb. | Accepted
+Osteospermum hispidum Harv. | Accepted
+Osteospermum imbricatum L. | Accepted
+Osteospermum jucundum (E.Phillips) Norl. | Accepted
+Osteospermum junceum P.J.Bergius | Accepted
+Osteospermum karooicum (Bolus) Norl. | Accepted
+Osteospermum lanceolatum DC. | Accepted
+Osteospermum leptolobum (Harv.) Norl. | Accepted
+Osteospermum microcarpum (Harv.) Norl. | Accepted
+Osteospermum microphyllum DC. | Accepted
+Osteospermum montanum Klatt | Accepted
+Osteospermum muricatum E.Mey. ex DC. | Accepted
+Osteospermum pinnatum (Thunb.) Norl. | Accepted
+Osteospermum polygaloides L. | Accepted
+Osteospermum potbergense A.R.Wood & B.Nord. | Accepted
+Osteospermum pterigoideum Klatt | Accepted
+Osteospermum pyrifolium Norl. | Accepted
+Osteospermum rigidum Aiton | Accepted
+Osteospermum rotundifolium (DC.) Norl. | Accepted
+Osteospermum sinuatum (DC.) Norl. | Accepted
+Osteospermum spinescens Thunb. | Accepted
+Osteospermum spinosum L. | Accepted
+Osteospermum striatum Burtt Davy | Accepted
+Osteospermum subulatum DC. | Accepted
+Osteospermum thodei Markötter | Accepted
+Osteospermum triquetrum L.f. | Accepted
+Otanthus maritimus  | Accepted
+Oteiza acuminata La Llave | Accepted
+Oteiza caucaphita  | Accepted
+Oteiza mixtecana Villaseñor & Panero | Accepted
+Oteiza ruacophila (Donn.Sm.) J.J.Fay | Accepted
+Oteiza scandens Panero & Villaseñor | Accepted
+Othonna abrotanifolia (Harv.) Druce | Accepted
+Othonna acutiloba (DC.) Sch.Bip. | Accepted
+Othonna alata (Thunb.) Sch.Bip. | Accepted
+Othonna alba Compton | Accepted
+Othonna amplexifolia DC. | Accepted
+Othonna arborescens L. | Accepted
+Othonna arbuscula (Thunb.) Sch.Bip. | Accepted
+Othonna armiana van Jaarsv. | Accepted
+Othonna auriculifolia Licht. ex Less. | Accepted
+Othonna brandbergensis B.Nord. | Accepted
+Othonna bulbosa L. | Accepted
+Othonna burttii B.Nord. | Accepted
+Othonna cacalioides L.f. | Accepted
+Othonna cakilifolia DC. | Accepted
+Othonna campanulata (DC.) Sch.Bip. | Accepted
+Othonna capensis L.H.Bailey | Accepted
+Othonna carnosa Less. | Accepted
+Othonna chromochaeta (DC.) Sch.Bip. | Accepted
+Othonna ciliata L.f. | Accepted
+Othonna clavifolia Marloth | Accepted
+Othonna coronopifolia L. | Accepted
+Othonna cremnophila B.Nord. & van Jaarsv. | Accepted
+Othonna cuneata DC. | Accepted
+Othonna cyclophylla Merxm. | Accepted
+Othonna cylindrica (Lam.) DC. | Accepted
+Othonna decurrens Hutch. | Accepted
+Othonna dentata L. | Accepted
+Othonna digitata L.f. | Accepted
+Othonna divaricata Hutch. | Accepted
+Othonna diversifolia (DC.) Sch.Bip. | Accepted
+Othonna eriocarpa (DC.) Sch.Bip. | Accepted
+Othonna euphorbioides Hutch. | Accepted
+Othonna filicaulis Jacq. | Accepted
+Othonna floribunda Schltr. | Accepted
+Othonna frutescens L. | Accepted
+Othonna furcata (Lindl.) Druce | Accepted
+Othonna graveolens O.Hoffm. | Accepted
+Othonna gymnodiscus (DC.) Sch.Bip. | Accepted
+Othonna hallii B.Nord. | Accepted
+Othonna hederifolia B.Nord. | Accepted
+Othonna herrei Pillans | Accepted
+Othonna heterophylla L.f. | Accepted
+Othonna huillensis Welw. ex Hiern | Accepted
+Othonna humilis Schltr. | Accepted
+Othonna incisa Harv. | Accepted
+Othonna intermedia Compton | Accepted
+Othonna lasiocarpa (DC.) Sch.Bip. | Accepted
+Othonna laureola (DC.) Sch.Bip. | Accepted
+Othonna lepidocaulis Schltr. | Accepted
+Othonna leptodactyla Harv. | Accepted
+Othonna lineariifolia (DC.) Sch.Bip. | Accepted
+Othonna lingua (Less.) Sch.Bip. | Accepted
+Othonna lobata Schltr. | Accepted
+Othonna lyrata DC. | Accepted
+Othonna macrophylla DC. | Accepted
+Othonna macrosperma DC. | Accepted
+Othonna membranifolia DC. | Accepted
+Othonna mucronata Harv. | Accepted
+Othonna multicaulis Harv. | Accepted
+Othonna nana (DC.) Sch.Bip. | Accepted
+Othonna natalensis Sch.Bip. | Accepted
+Othonna nodulosa (DC.) Sch.Bip. | Accepted
+Othonna obtusiloba Harv. | Accepted
+Othonna oleracea Compton | Accepted
+Othonna opima Merxm. | Accepted
+Othonna osteospermoides DC. | Accepted
+Othonna ovalifolia Hutch. | Accepted
+Othonna pachypoda Hutch. | Accepted
+Othonna papaveroides Hutch. | Accepted
+Othonna patula Schltr. | Accepted
+Othonna pavelkae Lavranos | Accepted
+Othonna pavonia E.Mey. ex DC. | Accepted
+Othonna petiolaris DC. | Accepted
+Othonna pinnata L.f. | Accepted
+Othonna plantaginea Hiern | Accepted
+Othonna pluridentata DC. | Accepted
+Othonna primulina DC. | Accepted
+Othonna protecta Dinter | Accepted
+Othonna pteronioides Harv. | Accepted
+Othonna purpurascens Harv. | Accepted
+Othonna pygmaea Compton | Accepted
+Othonna quercifolia DC. | Accepted
+Othonna quinquedentata Thunb. | Accepted
+Othonna quinqueradiata DC. | Accepted
+Othonna ramulosa DC. | Accepted
+Othonna rechingeri B.Nord. | Accepted
+Othonna reticulata DC. | Accepted
+Othonna retrofracta Jacq. | Accepted
+Othonna retrorsa DC. | Accepted
+Othonna rhamnoides Sch.Bip. | Accepted
+Othonna rosea Harv. | Accepted
+Othonna rotundifolia DC. | Accepted
+Othonna rufibarbis Harv. | Accepted
+Othonna sedifolia DC. | Accepted
+Othonna semicalva (DC.) Sch.Bip. | Accepted
+Othonna sonchifolia DC. | Accepted
+Othonna sparsiflora (S.Moore) B.Nord. | Accepted
+Othonna spinescens DC. | Accepted
+Othonna stenophylla Levyns | Accepted
+Othonna taraxacoides (DC.) Sch.Bip. | Accepted
+Othonna tephrosioides Sond. | Accepted
+Othonna tortuosa (DC.) Sch.Bip. | Accepted
+Othonna trinervia DC. | Accepted
+Othonna triplinervia DC. | Accepted
+Othonna umbelliformis DC. | Accepted
+Othonna vestita DC. | Accepted
+Othonna viminea E.Mey. | Accepted
+Othonna whyteana Britten | Accepted
+Othonna zeyheri Sond. ex Sond. | Accepted
+Otopappus acuminatus S.Watson | Accepted
+Otopappus brevipes B.L.Rob. | Accepted
+Otopappus calarcanus S.Díaz | Accepted
+Otopappus curviflorus (R.Br.) Hemsl. | Accepted
+Otopappus epaleaceus Hemsl. | Accepted
+Otopappus glabratus (J.M.Coult.) S.F.Blake | Accepted
+Otopappus guatemalensis (Urb.) R.L.Hartm. & Stuessy | Accepted
+Otopappus hirsutus (Sw.) R.L.Hartm. & Stuessy | Accepted
+Otopappus imbricatus (Sch.Bip.) S.F.Blake | Accepted
+Otopappus koelzii McVaugh | Accepted
+Otopappus mexicanus (Rzed.) H.Rob. | Accepted
+Otopappus microcephalus S.F.Blake | Accepted
+Otopappus robustus Hemsl. | Accepted
+Otopappus scaber S.F.Blake | Accepted
+Otopappus syncephalus Donn.Sm. | Accepted
+Otopappus tequilanus (A.Gray) B.L.Rob. | Accepted
+Otopappus verbesinoides Benth. | Accepted
+Otospermum glabrum (Lag.) Willk. | Accepted
+Oxycarpha suaedifolia S.F.Blake | Accepted
+Oxylaena acicularis (Benth.) Anderb. | Accepted
+Oxylobus adscendens (Sch.Bip. ex Hemsl.) B.L.Rob. & Greenm. | Accepted
+Oxylobus arbutifolius (Kunth) A.Gray | Accepted
+Oxylobus glandulifer A. Gray | Accepted
+Oxylobus glanduliferus (Sch.Bip. ex Benth. & Hook.f.) A.Gray | Accepted
+Oxylobus oaxacanus S.F.Blake | Accepted
+Oxylobus preecei B.L.Turner | Accepted
+Oxypappus scaber Benth. | Accepted
+Oxyphyllum ulicinum Phil. | Accepted
+Oxytenia acerosa Nutt. | Accepted
+Oyedaea acuminata (Benth.) Benth. & Hook. f. ex Hemsl. | Accepted
+Oyedaea boliviana Britton | Accepted
+Oyedaea buphthalmoides DC. | Accepted
+Oyedaea camargoana (S.Díaz) S.Díaz | Accepted
+Oyedaea cuatrecasasii Pruski | Accepted
+Oyedaea huilensis Cuatrec. | Accepted
+Oyedaea lanceolata (Rusby) S.F.Blake | Accepted
+Oyedaea maculata S.F.Blake | Accepted
+Oyedaea obovata S.F.Blake | Accepted
+Oyedaea reticulata S.F.Blake | Accepted
+Oyedaea rusbyi S.F.Blake | Accepted
+Oyedaea scaberrima (Benth.) S.F.Blake | Accepted
+Oyedaea tepuiana (V.M.Badillo) Pruski | Accepted
+Oyedaea verbesinoides DC. | Accepted
+Oyedaea wedelioides (Klatt) S.F.Blake | Accepted
+Oyedaea wurdackii Pruski | Accepted
+Ozothamnus adnatus DC. | Accepted
+Ozothamnus alpinus (N.A.Wakef.) Anderb. | Accepted
+Ozothamnus antennaria (DC.) Hook.f. | Accepted
+Ozothamnus argophyllus (A.Cunn. ex DC.) Anderb. | Accepted
+Ozothamnus argyrophyllus Anderb. | Accepted
+Ozothamnus bidwillii (Benth.) Anderb. | Accepted
+Ozothamnus blackallii Anderb. | Accepted
+Ozothamnus bracteolatus Hook.f. | Accepted
+Ozothamnus cassinioides (Benth.) Anderb. | Accepted
+Ozothamnus cassiope (S.Moore) Anderb. | Accepted
+Ozothamnus cinerea (Labill.) Anderb. | Accepted
+Ozothamnus conditus (Wakef.) Anderb. | Accepted
+Ozothamnus cordatus (DC.) Anderb. | Accepted
+Ozothamnus costatifructus (R.V.Sm.) Anderb. | Accepted
+Ozothamnus cuneifolius (F.Muell. ex Benth.) Anderb. | Accepted
+Ozothamnus decurrens F.Muell. | Accepted
+Ozothamnus dendroideus (N.A.Wakef.) Anderb. | Accepted
+Ozothamnus diosmifolius (Vent.) DC. | Accepted
+Ozothamnus diotophyllus (F.Muell.) Anderb. | Accepted
+Ozothamnus ericifolius Hook.f. | Accepted
+Ozothamnus eriocephalus (J.H.Willis) Anderb. | Accepted
+Ozothamnus expansifolius Anderb. | Accepted
+Ozothamnus ferrugineus (Labill.) Sweet | Accepted
+Ozothamnus hookeri Sond. | Accepted
+Ozothamnus kempei (F.Muell.) Anderb. | Accepted
+Ozothamnus ledifolius (DC.) Hook.f. | Accepted
+Ozothamnus lepidophyllus (DC.) Steetz | Accepted
+Ozothamnus leptophyllus (G.Forst.) Breitw. & J.M.Ward | Accepted
+Ozothamnus lycopodioides Hook.f. | Accepted
+Ozothamnus obcordatus DC. | Accepted
+Ozothamnus obovatus (DC.) Anderb. | Accepted
+Ozothamnus occidentalis Anderb. | Accepted
+Ozothamnus pholidotus F.Muell. | Accepted
+Ozothamnus pinifolius DC. | Accepted
+Ozothamnus purpurascens DC. | Accepted
+Ozothamnus ramosus (DC.) Paul G.Wilson | Accepted
+Ozothamnus reflexifolius Leeson & Rozefelds | Accepted
+Ozothamnus reticulatus (Labill.) DC. | Accepted
+Ozothamnus retusus Sond. & F.Muell. | Accepted
+Ozothamnus rodwayi Orchard | Accepted
+Ozothamnus rogersianus (J.H.Willis) Anderb. | Accepted
+Ozothamnus rosmarinifolius (Labill.) Sweet | Accepted
+Ozothamnus rufescens DC. | Accepted
+Ozothamnus scaber F.Muell. | Accepted
+Ozothamnus scutellifolius Hook.f. | Accepted
+Ozothamnus secundiflorus (N.A.Wakef.) C.Jeffrey | Accepted
+Ozothamnus selaginoides Sond. & F.Muell. | Accepted
+Ozothamnus stirlingii (F.Muell.) Anderb. | Accepted
+Ozothamnus tesselatus Anderb. | Accepted
+Ozothamnus thyrsoideus DC. | Accepted
+Ozothamnus tuckeri Anderb. | Accepted
+Ozothamnus turbinatus DC. | Accepted
+Ozothamnus vagans Anderb. | Accepted
+Ozothamnus whitei (N.T.Burb.) Anderb. | Accepted
+Pachylaena atriplicifolia D.Don ex Hook. & Arn. | Accepted
+Pachylaena rosea I.M.Johnst. | Accepted
+Pachystegia insignis (Hook.f.) Cheeseman | Accepted
+Pachystegia minor (Cheeseman) Molloy | Accepted
+Pachystegia rufa Molloy | Accepted
+Packera anonyma (Alph.Wood) W.A.Weber & Á.Löve | Accepted
+Packera antennariifolia (Britton) W.A.Weber & Á.Löve | Accepted
+Packera aurea (L.) Á.Löve & D.Löve | Accepted
+Packera bellidifolia (Kunth) W.A.Weber & Á.Löve | Accepted
+Packera bernardina (Greene) W.A.Weber & Á.Löve | Accepted
+Packera bolanderi (A.Gray) W.A.Weber & Á.Löve | Accepted
+Packera breweri (Burtt Davy) W.A.Weber & Á.Löve | Accepted
+Packera cana (Hook.) W.A.Weber & Á.Löve | Accepted
+Packera candidissima (Greene) W.A.Weber & Á.Löve | Accepted
+Packera cardamine (Greene) W.A.Weber & Á.Löve | Accepted
+Packera castoreus (S.L.Welsh) Kartesz | Accepted
+Packera clevelandii (Greene) W.A.Weber & Á.Löve | Accepted
+Packera coahuilensis (Greenm.) C.Jeffrey | Accepted
+Packera contermina (Greenm.) J.F.Bain | Accepted
+Packera crocata (Rydb.) W.A.Weber & Á.Löve | Accepted
+Packera cymbalaria (Pursh) W.A.Weber & Á.Löve | Accepted
+Packera cynthioides (Greene) W.A.Weber & Á.Löve | Accepted
+Packera debilis (Nutt.) W.A.Weber & Á.Löve | Accepted
+Packera dimorphophylla (Greene) W.A.Weber & Á.Löve | Accepted
+Packera eurycephala (Torr. & A.Gray ex Torr. & A.Gray) W.A.Weber & Á.Löve | Accepted
+Packera fendleri (A.Gray) W.A.Weber & Á.Löve | Accepted
+Packera flettii (Wiegand) W.A.Weber & Á.Löve | Accepted
+Packera franciscana (Greene) W.A.Weber & Á.Löve | Accepted
+Packera ganderi (T.M.Barkley & R.M.Beauch.) W.A.Weber & Á.Löve | Accepted
+Packera glabella (Poir.) C.Jeffrey | Accepted
+Packera greenei (A.Gray) W.A.Weber & Á.Löve | Accepted
+Packera hartiana W.A.Weber & Á.Löve | Accepted
+Packera hesperia (Greene) W.A.Weber & Á.Löve | Accepted
+Packera heterophylla (Fisch.) E.Wiebe | Accepted
+Packera hintoniorum (B.L.Turner) C.Jeffrey | Accepted
+Packera hyperborealis (Greenm.) Á.Löve & D.Löve | Accepted
+Packera indecora (Greene) Á.Löve & D.Löve | Accepted
+Packera ionophylla (Greene) W.A.Weber & Á.Löve | Accepted
+Packera layneae (Greene) W.A.Weber & Á.Löve | Accepted
+Packera macounii (Greene) W.A.Weber & Á.Löve | Accepted
+Packera malmstenii (S.F.Blake ex Tidestr.) Kartesz | Accepted
+Packera millefolium (Torr. & A.Gray) W.A.Weber & Á.Löve | Accepted
+Packera millelobata (Rydb.) W.A.Weber & Á.Löve | Accepted
+Packera montereyana (S.Watson) C.Jeffrey | Accepted
+Packera moranii (T.M.Barkley) C.Jeffrey | Accepted
+Packera multilobata (Torr. & A.Gray ex A.Gray) W.A.Weber & Á.Löve | Accepted
+Packera musiniensis (S.L.Welsh) Trock | Accepted
+Packera neomexicana (A.Gray) W.A.Weber & Á.Löve | Accepted
+Packera obovata (Muhl. ex Willd.) W.A.Weber & Á.Löve | Accepted
+Packera ogotorukensis (Packer) Á.Löve & D.Löve | Accepted
+Packera pauciflora (Pursh) Á.Löve & D.Löve | Accepted
+Packera paupercula (Michx.) Á.Löve & D.Löve | Accepted
+Packera plattensis (Nutt.) W.A.Weber & Á.Löve | Accepted
+Packera porteri (Greene) C.Jeffrey | Accepted
+Packera pseudaurea (Rydb.) W.A.Weber & Á.Löve | Accepted
+Packera quebradensis (Greenm.) W.A.Weber & Á.Löve | Accepted
+Packera quercetorum (Greene) C.Jeffrey | Accepted
+Packera sanguisorbae (DC.) C.Jeffrey | Accepted
+Packera sanguisorboides (Rydb.) W.A.Weber & Á.Löve | Accepted
+Packera scalaris (Greene) C.Jeffrey | Accepted
+Packera schweinitziana (Nutt.) W.A.Weber & Á.Löve | Accepted
+Packera spellenbergii (T.M.Barkley) C.Jeffrey | Accepted
+Packera streptanthifolia (Greene) W.A.Weber & Á.Löve | Accepted
+Packera subnuda (DC.) Trock & T.M.Barkley | Accepted
+Packera tampicana (DC.) C.Jeffrey | Accepted
+Packera texensis O'Kennon & Trock | Accepted
+Packera tomentosa (Michx.) C.Jeffrey | Accepted
+Packera tridenticulata (Rydb.) W.A.Weber & Á.Löve | Accepted
+Packera werneriifolia (A.Gray) W.A.Weber & Á.Löve | Accepted
+Packera zimapanica (Hemsl.) C.C.Freeman & T.M.Barkley | Accepted
+Pacourina edulis Aubl. | Accepted
+Paenula storyi Orchard | Accepted
+Palafoxia arida B.L.Turner & M.I.Morris | Accepted
+Palafoxia callosa (Nutt.) Torr. & A.Gray | Accepted
+Palafoxia feayi A.Gray | Accepted
+Palafoxia hookeriana Torr. & A.Gray | Accepted
+Palafoxia integrifolia (Nutt.) Torr. & A.Gray | Accepted
+Palafoxia lindenii A.Gray | Accepted
+Palafoxia linearis (Cav.) Lag. | Accepted
+Palafoxia reverchonii (Bush) Cory | Accepted
+Palafoxia riograndensis Cory | Accepted
+Palafoxia rosea (Bush) Cory | Accepted
+Palafoxia sphacelata (Nutt. ex Torr.) Cory | Accepted
+Palafoxia texana DC. | Accepted
+Paleaepappus patagonicus Cabrera | Accepted
+Pallenis cuspidata Pomel | Accepted
+Pallenis cyrenaica Alavi | Accepted
+Pallenis hierochuntica (Michon) Greuter | Accepted
+Pallenis maritima (L.) Greuter | Accepted
+Pallenis teknensis (Dobignard & Jacquemoud) Greuter & Jury | Accepted
+Pamphalea cardaminefolia Less. | Accepted
+Paneroa stachyofolia (B.L. Rob.) E.E. Schill. | Accepted
+Panphalea araucariophila Cabrera | Accepted
+Panphalea bupleurifolia Less. | Accepted
+Panphalea commersonii Cass. | Accepted
+Panphalea heterophylla Less. | Accepted
+Panphalea maxima Less. | Accepted
+Panphalea missionum Cabrera | Accepted
+Panphalea ramboi Cabrera | Accepted
+Panphalea smithii Cabrera | Accepted
+Pappobolus acuminatus (S.F.Blake) Panero | Accepted
+Pappobolus acutifolia (S.F.Blake) Panero | Accepted
+Pappobolus argenteus Panero | Accepted
+Pappobolus decumbens Panero | Accepted
+Pappobolus discolor (S.F.Blake) Panero | Accepted
+Pappobolus hutchisonii (H.Rob.) Panero | Accepted
+Pappobolus hypargyreus (S.F.Blake) Panero | Accepted
+Pappobolus imbaburensis (Hieron.) Panero | Accepted
+Pappobolus jelskii (Hieron.) Panero | Accepted
+Pappobolus lanatus (Heiser) Panero | Accepted
+Pappobolus lehmannii (Hieron.) Panero | Accepted
+Pappobolus lodicatus (Cuatrec.) Panero | Accepted
+Pappobolus matthewsii (Hochr.) Panero | Accepted
+Pappobolus microphyllus (Kunth) Panero | Accepted
+Pappobolus nigrescens (Heiser) Panero | Accepted
+Pappobolus sagasteguii (H.Rob.) Panero | Accepted
+Pappobolus senex (S.F.Blake) Panero | Accepted
+Pappobolus smithii (Ferreyra) Panero | Accepted
+Pappobolus stuebelii (Hieron.) Panero | Accepted
+Pappobolus subniveus (S.F.Blake) Panero | Accepted
+Pappobolus szyszylowiczii (Hieron.) Panero | Accepted
+Pappobolus verbesinoides Panero | Accepted
+Pappobolus viridior (S.F.Blake) Panero | Accepted
+Papuacalia aurea Veldkamp | Accepted
+Papuacalia carstenszensis (P.Royen) Veldkamp | Accepted
+Papuacalia dindondl (P.Royen) Veldkamp | Accepted
+Papuacalia gandin (P.Royen) Veldkamp | Accepted
+Papuacalia glossophylla (Mattf.) Veldkamp | Accepted
+Papuacalia kandambren (P.Royen) Veldkamp | Accepted
+Papuacalia kukul (P.Royen) Veldkamp | Accepted
+Papuacalia milleri D.J.N.Hind & R.J.Johns | Accepted
+Papuacalia mogrere (P.Royen) Veldkamp | Accepted
+Papuacalia ottoensis (P.Royen) Veldkamp | Accepted
+Papuacalia sandsii D.J.N.Hind & R.J.Johns | Accepted
+Papuacalia saruwagedensis (Mattf.) Veldkamp | Accepted
+Papuacalia titoi D.J.N.Hind & R.J.Johns | Accepted
+Papuacalia valentini Veldkamp | Accepted
+Papuacalia veldkampii D.J.N.Hind | Accepted
+Papuacalia versteegii (Mattf.) Veldkamp | Accepted
+Papuacalia yuleensis Veldkamp | Accepted
+Paquerina graminea (Labill.) Cass. ex Less. | Accepted
+Paracalia jungioides (Hook. & Arn.) Cuatrec. | Accepted
+Paracalia lopezii (M.O.Dillon & Sagást.) A.Correa | Accepted
+Parafaujasia fontinalis (Cordem.) C.Jeffrey | Accepted
+Paragynoxys angosturae (Cuatrec.) Cuatrec. | Accepted
+Paragynoxys corei (Cuatrec.) Cuatrec. | Accepted
+Paragynoxys martingrantii (Cuatrec.) Cuatrec. | Accepted
+Paragynoxys meridana (Cuatrec.) Cuatrec. | Accepted
+Paragynoxys neodendroides (Cuatrec.) Cuatrec. | Accepted
+Paragynoxys pileolanata S.Díaz | Accepted
+Paragynoxys regis (H.Rob. & Cuatrec.) H.Rob. & Cuatrec. | Accepted
+Paragynoxys santurbanensis (Cuatrec.) Cuatrec. | Accepted
+Paragynoxys undatifolia Cuatrec. | Accepted
+Paragynoxys uribei Cuatrec. | Accepted
+Paragynoxys venezuelae (V.M.Badillo) Cuatrec. | Accepted
+Paraixeris chelidoniifolia (Makino) Nakai | Accepted
+Paraixeris denticulata (Houtt.) Nakai | Accepted
+Paraixeris humifusa (Dunn) C.Shih | Accepted
+Paraixeris koidzumiana (Kitam.) Tzvelev | Accepted
+Paraixeris pinnatipartita (Makino) Tzvelev | Accepted
+Paraixeris saxatilis (A.I.Baranov) Tzvelev | Accepted
+Paraixeris serotina (Maxim.) Tzvelev | Accepted
+Paraixeris yoshinoi (Makino) Nakai | Accepted
+Paralychnophora harleyi (H.Rob.) D.J.N.Hind | Accepted
+Paralychnophora santosii (H.Rob.) D.J.N.Hind | Accepted
+Paramicrorhynchus procumbens (Roxb.) Kirp. | Accepted
+Paramiflos glandulosus (Cuatrec.) Cuatrec. | Accepted
+Paranephelius bullatus A.Gray ex Wedd. | Accepted
+Paranephelius ferreyrii H.Rob. | Accepted
+Paranephelius jelskii (Hieron.) H.Rob. & Brettell | Accepted
+Paranephelius ovatus A.Gray ex Wedd. | Accepted
+Paranephelius uniflorus Poepp. & Endl. | Accepted
+Paranephelius wurdackii H.Rob. | Accepted
+Parantennaria uniceps (F.Muell.) Beauverd | Accepted
+Parapolydora fastigita (Oliv. & Hiern) H.Rob. | Accepted
+Paraprenanthes auriculiformis C.Shih | Accepted
+Paraprenanthes glandulosissima (C.C.Chang) C.Shih | Accepted
+Paraprenanthes gracilipes C.Shih | Accepted
+Paraprenanthes hastata C.Shih | Accepted
+Paraprenanthes heptantha C.Shih & D.J. Liou | Accepted
+Paraprenanthes longiloba Ling & C.Shih | Accepted
+Paraprenanthes luchunensis C.Shih | Accepted
+Paraprenanthes multiformis C.Shih | Accepted
+Paraprenanthes pilipes (Migo) C.Shih | Accepted
+Paraprenanthes polypodifolia (Franch.) C.C.Chang ex C.Shih | Accepted
+Paraprenanthes prenanthoides (Hemsl.) C.Shih | Accepted
+Paraprenanthes sagittiformis C.Shih | Accepted
+Paraprenanthes sororia (Miq.) C.Shih | Accepted
+Paraprenanthes sylvicola C.Shih | Accepted
+Paraprenanthes yunnanensis (Franch.) C.Shih | Accepted
+Parasenecio adenostyloides (Franch. & Sav. ex Maxim.) H.Koyama | Accepted
+Parasenecio ainsliiflorus (Franch.) Y.L.Chen | Accepted
+Parasenecio amagiensis (Kitam.) H.Koyama | Accepted
+Parasenecio ambiguus (Ling) Y.L.Chen | Accepted
+Parasenecio auriculatus (DC.) J.R.Grant | Accepted
+Parasenecio begoniifolius (Franch.) Y.L.Chen | Accepted
+Parasenecio bulbiferoides (Hand.-Mazz.) Y.L.Chen | Accepted
+Parasenecio chenopodiifolia Grierson | Accepted
+Parasenecio cuneata  | Accepted
+Parasenecio cyclotus (Bureau & Franch.) Y.L.Chen | Accepted
+Parasenecio dasythyrsus (Hand.-Mazz.) Y.L.Chen | Accepted
+Parasenecio delphiniifolia H.Koyama | Accepted
+Parasenecio delphiniphyllus (H.Lév.) Y.L.Chen | Accepted
+Parasenecio deltophyllus (Maxim.) Y.L.Chen | Accepted
+Parasenecio farfarifolia H.Koyama | Accepted
+Parasenecio firmus (Kom.) Y.L.Chen | Accepted
+Parasenecio forrestii W.W.Sm. & Small | Accepted
+Parasenecio gansuensis Y.L.Chen | Accepted
+Parasenecio hastatus (L.) H.Koyama | Accepted
+Parasenecio hastiformis Y.L.Chen | Accepted
+Parasenecio hwangshanicus (Ling) C.I Peng & S.W.Chung | Accepted
+Parasenecio ianthophyllus (Franch.) Y.L.Chen | Accepted
+Parasenecio jiulongensis Y.L.Chen | Accepted
+Parasenecio kangxianensis (Z.Y.Zhang & Y.H.Guo) Y.L.Chen | Accepted
+Parasenecio kiusiana (Makino) H.Koyama | Accepted
+Parasenecio koidzumiana (Kitam.) H.Koyama | Accepted
+Parasenecio komarovianus (Pojark.) Y.L.Chen | Accepted
+Parasenecio koualapensis (Franch.) Y.L.Chen | Accepted
+Parasenecio lancifolius (Franch.) Y.L.Chen | Accepted
+Parasenecio latipes (Franch.) Y.L.Chen | Accepted
+Parasenecio leucocephalus (Franch.) Y.L.Chen | Accepted
+Parasenecio lidjiangensis (Hand.-Mazz.) Y.L.Chen | Accepted
+Parasenecio longispicus (Hand.-Mazz.) Y.L.Chen | Accepted
+Parasenecio maowenensis Y.L.Chen | Accepted
+Parasenecio matsudai (Kitam.) Y.L.Chen | Accepted
+Parasenecio maximowicziana (Nakai & F.Maek. ex Hara) H.Koyama | Accepted
+Parasenecio monanthus (Diels) C.I Peng & S.W.Chung | Accepted
+Parasenecio nikomontana (Matsum.) H.Koyama | Accepted
+Parasenecio nipponica (Miq.) H.Koyama | Accepted
+Parasenecio nokoensis (Masam. & Suzuki) C.I Peng & S.W.Chung | Accepted
+Parasenecio otopteryx (Hand.-Mazz.) Y.L.Chen | Accepted
+Parasenecio palmatisectus (Jeffrey) Y.L.Chen | Accepted
+Parasenecio peltifolia (Makino) H.Koyama | Accepted
+Parasenecio pentaloba R.C.Srivast., C.Jeffrey | Accepted
+Parasenecio petasitoides (H.Lév.) Y.L.Chen | Accepted
+Parasenecio phyllolepis (Franch.) Y.L.Chen | Accepted
+Parasenecio pilgerianus (Diels) Y.L.Chen | Accepted
+Parasenecio praetermissus (Pojark.) Y.L.Chen | Accepted
+Parasenecio profundorum (Dunn) Y.L.Chen | Accepted
+Parasenecio quinquelobus (Wall. ex DC.) Y.L.Chen | Accepted
+Parasenecio roborowskii (Maxim.) Y.L.Chen | Accepted
+Parasenecio rockianus (Hand.-Mazz.) Y.L.Chen | Accepted
+Parasenecio rubescens (S.Moore) Y.L.Chen | Accepted
+Parasenecio rufipilis (Franch.) Y.L.Chen | Accepted
+Parasenecio shikokiana (Makino) H.Koyama | Accepted
+Parasenecio shiroumamontana  | Accepted
+Parasenecio shiroumensis (Shizuo Ito & H.Koyama) H.Koyama | Accepted
+Parasenecio sinicus (Ling) Y.L.Chen | Accepted
+Parasenecio souliei (Franch.) Y.L.Chen | Accepted
+Parasenecio subglaber (C.C.Chang) Y.L.Chen | Accepted
+Parasenecio taliensis (Franch.) Y.L.Chen | Accepted
+Parasenecio tebakoensis (Makino) H.Koyama | Accepted
+Parasenecio tenianus (Hand.-Mazz.) Y.L.Chen | Accepted
+Parasenecio tripteris (Hand.-Mazz.) Y.L.Chen | Accepted
+Parasenecio tsinlingensis (Hand.-Mazz.) Y.L.Chen | Accepted
+Parasenecio vespertilio (Franch.) Y.L.Chen | Accepted
+Parasenecio weiningensis S.Z.He & H.Peng | Accepted
+Parasenecio xinjiashanensis (Z.Y.Zhang & Y.H.Guo) Y.L.Chen | Accepted
+Parasenecio yakusimensis (Masam.) H.Koyama | Accepted
+Parasenecio yatabei (Matsum. & Koidz.) H.Koyama | Accepted
+Parastrephia lepidophylla (Wedd.) Cabrera | Accepted
+Parastrephia lucida (Meyen) Cabrera | Accepted
+Parastrephia quadrangularis (Meyen) Cabrera | Accepted
+Parastrephia teretiuscula (Kuntze) Cabrera | Accepted
+Parthenice mollis A.Gray | Accepted
+Parthenium alpinum (Nutt.) Torr. & A.Gray | Accepted
+Parthenium argentatum A.Gray | Accepted
+Parthenium bipinnatifidum (Ortega) Rollins | Accepted
+Parthenium cineraceum Rollins | Accepted
+Parthenium confertum A.Gray | Accepted
+Parthenium fruticosum Less. ex Schltdl. & Cham. | Accepted
+Parthenium hysterophorus L. | Accepted
+Parthenium incanum Kunth | Accepted
+Parthenium integrifolium L. | Accepted
+Parthenium ligulatum (M.E.Jones) Barneby | Accepted
+Parthenium rollinsianum Rzed. | Accepted
+Parthenium schottii Greenm. ex Millsp. & Chase | Accepted
+Parthenium tomentosum DC. | Accepted
+Pasaccardoa baumii O.Hoffm. | Accepted
+Pasaccardoa grantii (Benth. ex Oliv.) Kuntze | Accepted
+Pasaccardoa jeffreyi Wild | Accepted
+Pasaccardoa procumbens (Lisowski) G.V.Pope | Accepted
+Pascalia glauca Ortega | Accepted
+Paurolepis filifolia (R.E.Fr.) Wild & G.V.Pope | Accepted
+Pechuel-loeschea leubnitziae (Kuntze) O.Hoffm. | Accepted
+Pectis amplifolia D.J.Keil | Accepted
+Pectis angustifolia Torr. | Accepted
+Pectis barberi Greenm. | Accepted
+Pectis berlandieri DC. | Accepted
+Pectis bonplandiana Kunth | Accepted
+Pectis brachycephala Urb. | Accepted
+Pectis brevicaulis Urb. | Accepted
+Pectis canescens Kunth | Accepted
+Pectis capillipes (Benth.) Hemsl. | Accepted
+Pectis carthusianorum Less. | Accepted
+Pectis caymanensis (Urb.) Rydb. | Accepted
+Pectis christii Urb. | Accepted
+Pectis ciliaris L. | Accepted
+Pectis coulteri Harv. & A.Gray | Accepted
+Pectis cubensis (A.Rich.) Griseb. | Accepted
+Pectis cylindrica (Fernald) Rydb. | Accepted
+Pectis decemcarinata McVaugh | Accepted
+Pectis depressa Fernald | Accepted
+Pectis diffusa Hook. & Arn. | Accepted
+Pectis domingensis Urb. | Accepted
+Pectis elongata Kunth | Accepted
+Pectis ericifolia D.J.Keil | Accepted
+Pectis exilis D.J.Keil | Accepted
+Pectis exserta McVaugh | Accepted
+Pectis febrifuga Van Hall | Accepted
+Pectis filipes Harv. & A.Gray | Accepted
+Pectis glaucescens (Cass.) D.J.Keil | Accepted
+Pectis graveolens Klatt | Accepted
+Pectis guaranitica Chodat | Accepted
+Pectis haenkeana (DC.) Sch.Bip. | Accepted
+Pectis havanensis Urb. | Accepted
+Pectis holochaeta (S.F.Blake) D.J.Keil | Accepted
+Pectis humifusa Sw. | Accepted
+Pectis imberbis A.Gray | Accepted
+Pectis incisifolia I.M.Johnst. | Accepted
+Pectis juniperina Rydb. | Accepted
+Pectis latisquama Sch.Bip. ex Greenm. | Accepted
+Pectis leavenworthii Standl. | Accepted
+Pectis leonis Rydb. | Accepted
+Pectis liebmannii Sch.Bip. ex Hemsl. | Accepted
+Pectis linearifolia Urb. | Accepted
+Pectis linearis La Llave | Accepted
+Pectis linifolia L. | Accepted
+Pectis longipes A.Gray | Accepted
+Pectis luckoviae D.J.Keil | Accepted
+Pectis masonii Cuatrec. | Accepted
+Pectis monocephala Cuatrec. | Accepted
+Pectis mornicola Urb. & Ekman | Accepted
+Pectis multiceps Urb. | Accepted
+Pectis multiflosculosa (DC.) Sch.Bip. | Accepted
+Pectis multiseta Benth. | Accepted
+Pectis odorata Griseb. | Accepted
+Pectis papposa Harv. & A.Gray | Accepted
+Pectis pimana Laferr. & D.J.Keil | Accepted
+Pectis pinosia Urb. | Accepted
+Pectis pringlei Fernald | Accepted
+Pectis propetes Greenm. | Accepted
+Pectis prostrata Cav. | Accepted
+Pectis pumila D.J.Keil | Accepted
+Pectis purpurascens Urb. & Ekman | Accepted
+Pectis purpurea Brandegee | Accepted
+Pectis pusilla Urb. | Accepted
+Pectis pygmaea Kunth | Accepted
+Pectis repens Brandegee | Accepted
+Pectis ritlandii R.A.Howard & W.R.Briggs | Accepted
+Pectis rusbyi Greene ex A.Gray | Accepted
+Pectis samanensis Urb. | Accepted
+Pectis saturejaoides (Mill.) Sch.Bip. ex Seem. | Accepted
+Pectis saturejoides (Mill.) Sch. Bip. | Accepted
+Pectis satureloides (Mill.) Sch.Bip. | Accepted
+Pectis schaffneri Sch.Bip. ex Fernald | Accepted
+Pectis serpyllifolia Less. | Accepted
+Pectis sessiliflora (Less.) Sch.Bip. | Accepted
+Pectis sinaloensis Fernald | Accepted
+Pectis stenophylla A.Gray | Accepted
+Pectis subeglandulosa Urb. & Ekman | Accepted
+Pectis subsquarrosa (Hook.f.) Sch.Bip. | Accepted
+Pectis substriata Rusby | Accepted
+Pectis tenuicaulis Urb. | Accepted
+Pectis tenuifolia (DC.) Sch.Bip. | Accepted
+Pectis uniaristata DC. | Accepted
+Pectis vandevenderi B.L.Turner | Accepted
+Pectis venezuelensis Steyerm. | Accepted
+Pectis vollmeri Wiggins | Accepted
+Pegolettia baccharidifolia Less. | Accepted
+Pegolettia gariepina Anderb. | Accepted
+Pegolettia lanceolata Harv. | Accepted
+Pegolettia oxyodonta DC. | Accepted
+Pegolettia pinnatilobata (Klatt) O.Hoffm. ex Dinter | Accepted
+Pegolettia plumosa M.D.Hend. | Accepted
+Pegolettia retrofracta (Thunb.) Kies | Accepted
+Pegolettia senegalensis Cass. | Accepted
+Pegolettia tenuifolia Bolus | Accepted
+Peltidium apargioides Zollikof | Accepted
+Pelucha trifida S.Watson | Accepted
+Pembertonia latisquamea (F.Muell.) P.S.Short | Accepted
+Pentacalia abietina (Willd. ex Wedd.) Cuatrec. | Accepted
+Pentacalia aclydiphylla (Cuatrec.) Cuatrec. | Accepted
+Pentacalia acunae Borhidi | Accepted
+Pentacalia albi-panquei S.Díaz & Cuatrec. | Accepted
+Pentacalia albotecta (Cuatrec.) Cuatrec. | Accepted
+Pentacalia almironcillo Proctor | Accepted
+Pentacalia almorzana S.Díaz & Cuatrec. | Accepted
+Pentacalia americana (L.f.) Cuatrec. | Accepted
+Pentacalia amplexicaulis (Kunth) Cuatrec. | Accepted
+Pentacalia andicola (Turcz.) Cuatrec. | Accepted
+Pentacalia andrei (Greenm.) Cuatrec. | Accepted
+Pentacalia antioquensis (Cuatrec.) Cuatrec. | Accepted
+Pentacalia apiculata (Sch.Bip. ex Wedd.) Cuatrec. | Accepted
+Pentacalia arborea (Kunth) H.Rob. & Cuatrec. | Accepted
+Pentacalia arbutifolia (Kunth) Cuatrec. | Accepted
+Pentacalia archeri (Cuatrec.) Cuatrec. | Accepted
+Pentacalia asplundii (Cabrera) Cuatrec. | Accepted
+Pentacalia axillariflora S.Díaz & Pedraza | Accepted
+Pentacalia bacopoides (Greenm. & Cuatrec.) Cuatrec. | Accepted
+Pentacalia badilloi (Cuatrec.) Cuatrec. | Accepted
+Pentacalia barahonensis (Urb.) Borhidi | Accepted
+Pentacalia barkleyana (Cuatrec.) Cuatrec. | Accepted
+Pentacalia batallonensis (Cuatrec.) Cuatrec. | Accepted
+Pentacalia befarioides (Cuatrec.) Cuatrec. | Accepted
+Pentacalia breviligulata (Hieron.) Cuatrec. | Accepted
+Pentacalia brittoniana (Hieron.) Cuatrec. | Accepted
+Pentacalia cacaosensis (Cuatrec.) Cuatrec. | Accepted
+Pentacalia cachacoensis (Cuatrec.) Cuatrec. | Accepted
+Pentacalia cadiriensis (Cuatrec.) Cuatrec. | Accepted
+Pentacalia calyculata (Greenm.) H.Rob. & Cuatrec. | Accepted
+Pentacalia campii (Cuatrec.) Cuatrec. | Accepted
+Pentacalia candelaria (Benth. ex Oersted) H.Rob. & Cuatrec. | Accepted
+Pentacalia caracasana (Klatt) Cuatrec. | Accepted
+Pentacalia carchiensis (Cuatrec.) Cuatrec. | Accepted
+Pentacalia carpishensis (Cuatrec.) Cuatrec. | Accepted
+Pentacalia carrikeri (Cuatrec.) Cuatrec. | Accepted
+Pentacalia carupana S.Díaz | Accepted
+Pentacalia chachapoyensis (Greenm.) Cuatrec. | Accepted
+Pentacalia chaquiroensis (Greenm.) Cuatrec. | Accepted
+Pentacalia chimborazensis Sklenář | Accepted
+Pentacalia cleefii (Cuatrec.) Cuatrec. | Accepted
+Pentacalia colombiana (Cuatrec.) Cuatrec. | Accepted
+Pentacalia corazonensis (Hieron.) Cuatrec. | Accepted
+Pentacalia corymbosa (Benth.) Cuatrec. | Accepted
+Pentacalia cuatrecasana S.Díaz | Accepted
+Pentacalia cutervonis H.Rob. & Cuatrec. | Accepted
+Pentacalia danielis (Cuatrec.) Cuatrec. | Accepted
+Pentacalia davidsmithii H.Rob. & Cuatrec. | Accepted
+Pentacalia decomposita (Sch.Bip. ex Hieron.) Cuatrec. | Accepted
+Pentacalia diamantensis (Cuatrec.) Cuatrec. | Accepted
+Pentacalia diplostephioides (Cuatrec.) Cuatrec. | Accepted
+Pentacalia disciformis (Hieron.) Cuatrec. | Accepted
+Pentacalia divisoria (Cabrera) Cuatrec. | Accepted
+Pentacalia elatoides (Wedd.) Cuatrec. | Accepted
+Pentacalia ellipticifolia (Hieron.) Cuatrec. | Accepted
+Pentacalia empetroides (Cuatrec.) Cuatrec. | Accepted
+Pentacalia encanoana S.Díaz & G.P.Méndez | Accepted
+Pentacalia epidendra (L.O.Williams) H.Rob. & Cuatrec. | Accepted
+Pentacalia epiphytica (Kuntze) Cuatrec. | Accepted
+Pentacalia favillosa (Cuatrec.) Cuatrec. | Accepted
+Pentacalia fimbriifera S.Díaz & G.P.Méndez | Accepted
+Pentacalia firmipes (Greenm.) Cuatrec. | Accepted
+Pentacalia flocculidens (Sch.Bip. ex Wedd.) Cuatrec. | Accepted
+Pentacalia flosfragrans (Cuatrec.) Cuatrec. | Accepted
+Pentacalia freemanii (Britton & Greenm.) Cuatrec. | Accepted
+Pentacalia gelida (Wedd.) Cuatrec. | Accepted
+Pentacalia genuflexa (Greenm.) Cuatrec. | Accepted
+Pentacalia gibbiflora (Cuatrec.) Cuatrec. | Accepted
+Pentacalia greenmaniana (Hieron.) Cuatrec. | Accepted
+Pentacalia guadalupe (Cuatrec.) Cuatrec. | Accepted
+Pentacalia guambiana S.Díaz | Accepted
+Pentacalia guicanensis (Cuatrec.) Cuatrec. | Accepted
+Pentacalia hachana (Cuatrec.) Cuatrec. | Accepted
+Pentacalia hammenii S.Díaz & Cuatrec. | Accepted
+Pentacalia harrietae (Cuatrec.) Cuatrec. | Accepted
+Pentacalia haticoensis (Cuatrec.) Cuatrec. | Accepted
+Pentacalia haughtii (Cuatrec.) Cuatrec. | Accepted
+Pentacalia hillii (Greenm.) Cuatrec. | Accepted
+Pentacalia hitchcockii (Cuatrec.) Cuatrec. | Accepted
+Pentacalia horickii H.Rob. | Accepted
+Pentacalia huallagana (Cuatrec.) Cuatrec. | Accepted
+Pentacalia huamaliensis (Cabrera) Cuatrec. | Accepted
+Pentacalia huilensis (Cuatrec.) Cuatrec. | Accepted
+Pentacalia iguaquensis S.Díaz & Cuatrec. | Accepted
+Pentacalia imbricatifolia (Sch.Bip. ex Wedd.) Cuatrec. | Accepted
+Pentacalia inornata H.Rob. | Accepted
+Pentacalia jalcana (Cuatrec.) Cuatrec. | Accepted
+Pentacalia jelskii (Hieron.) Cuatrec. | Accepted
+Pentacalia juajibioy S.Díaz & Cuatrec. | Accepted
+Pentacalia karstenii (Hieron.) Cuatrec. | Accepted
+Pentacalia kleinioides (Kunth) Cuatrec. | Accepted
+Pentacalia lanceolifolia (Cuatrec.) Cuatrec. | Accepted
+Pentacalia ledifolia (Kunth) Cuatrec. | Accepted
+Pentacalia leioclada (Cuatrec.) Cuatrec. | Accepted
+Pentacalia lindenii (Sch.Bip. ex Wedd.) Cuatrec. | Accepted
+Pentacalia lophophilus (Greenm.) Cuatrec. | Accepted
+Pentacalia loretensis (Cuatrec.) Cuatrec. | Accepted
+Pentacalia lucidissima (Cuatrec.) Cuatrec. | Accepted
+Pentacalia magistri (Standl. & L.O.Williams) H.Rob. & Cuatrec. | Accepted
+Pentacalia magnicaliculata (V.M.Badillo) Cuatrec. | Accepted
+Pentacalia magnusii (Hieron.) Cuatrec. | Accepted
+Pentacalia mamancanacana (Cuatrec.) Cuatrec. | Accepted
+Pentacalia marinii (Cabrera) Cuatrec. | Accepted
+Pentacalia mason-halei (Ruíz-Terán & López-Fig.) Cuatrec. | Accepted
+Pentacalia matagalpensis H.Rob. | Accepted
+Pentacalia maynasensis H.Rob. & Cuatrec. | Accepted
+Pentacalia megaphlebia (Greenm. & Cuatrec.) Cuatrec. | Accepted
+Pentacalia microdon (Wedd.) Cuatrec. | Accepted
+Pentacalia micropachyphylla (Cuatrec.) Cuatrec. | Accepted
+Pentacalia millei (Greenm.) Cuatrec. | Accepted
+Pentacalia miniaurita (Sagást. & M.O.Dillon) Cuatrec. | Accepted
+Pentacalia moaensis (Alain) Borhidi | Accepted
+Pentacalia morazensis (Greenm.) H.Rob. & Cuatrec. | Accepted
+Pentacalia mucronatifolia H.Rob. & Cuatrec. | Accepted
+Pentacalia munchiquensis S.Díaz & Cuatrec. | Accepted
+Pentacalia mutisii (Cuatrec.) Cuatrec. | Accepted
+Pentacalia myrsinites (Turcz.) Cuatrec. | Accepted
+Pentacalia neblinensis Pruski | Accepted
+Pentacalia nigrostagnosa (Cuatrec.) Cuatrec. | Accepted
+Pentacalia nitida (Kunth) Cuatrec. | Accepted
+Pentacalia novolanata (Cuatrec.) Cuatrec. | Accepted
+Pentacalia nunezii H.Rob. & Cuatrec. | Accepted
+Pentacalia ocanensis (Greenm. & Cuatrec.) Cuatrec. | Accepted
+Pentacalia odorata S.Díaz & G.P.Méndez | Accepted
+Pentacalia onae (Cuatrec.) Cuatrec. | Accepted
+Pentacalia oronocensis (DC.) Cuatrec. | Accepted
+Pentacalia pachypus (Greenm.) Cuatrec. | Accepted
+Pentacalia pavonii (Wedd.) Cuatrec. | Accepted
+Pentacalia perijaensis (Cuatrec.) Cuatrec. | Accepted
+Pentacalia peruviana (Pers.) Cuatrec. | Accepted
+Pentacalia petiolincrassata (Cabrera & Zardini) H.Beltrán | Accepted
+Pentacalia phanerandra (Cufod.) H.Rob. & Cuatrec. | Accepted
+Pentacalia phelpsiae (Cuatrec.) Cuatrec. | Accepted
+Pentacalia pleniaurita (Cuatrec.) Cuatrec. | Accepted
+Pentacalia polymera (Klatt) Cuatrec. | Accepted
+Pentacalia pomacochana (Cuatrec.) Cuatrec. | Accepted
+Pentacalia popayanensis (Hieron.) Cuatrec. | Accepted
+Pentacalia prunifolia (Wedd.) Cuatrec. | Accepted
+Pentacalia ptariana (Cuatrec.) Cuatrec. | Accepted
+Pentacalia pulchella (Kunth) Cuatrec. | Accepted
+Pentacalia purpurivenosa (Cuatrec.) Cuatrec. | Accepted
+Pentacalia quirorana (Cuatrec.) Cuatrec. | Accepted
+Pentacalia ramentosa (Cuatrec.) Cuatrec. | Accepted
+Pentacalia reflexa (Kunth) Cuatrec. | Accepted
+Pentacalia reissiana (Hieron.) Cuatrec. | Accepted
+Pentacalia retroflexa S.Díaz | Accepted
+Pentacalia rex (Sandwith) Cuatrec. | Accepted
+Pentacalia ricoana (Cuatrec.) Cuatrec. | Accepted
+Pentacalia ricoensis (Cuatrec.) Cuatrec. | Accepted
+Pentacalia rigidifolia (V.M.Badillo) Cuatrec. | Accepted
+Pentacalia riotintis (Cuatrec.) Cuatrec. | Accepted
+Pentacalia robertii S.Díaz & Obando | Accepted
+Pentacalia romeroana S.Díaz & M.L.Bueno | Accepted
+Pentacalia rosmarinifolia (Benth.) Cuatrec. | Accepted
+Pentacalia ruficaulis (Greenm. & Cuatrec.) Cuatrec. | Accepted
+Pentacalia rufohirsuta (Cabrera) Cuatrec. | Accepted
+Pentacalia rugosa (Cuatrec.) Cuatrec. | Accepted
+Pentacalia ruiteranii (Cuatrec.) Cuatrec. | Accepted
+Pentacalia sagasteguii H.Rob. & Cuatrec. | Accepted
+Pentacalia saugetii (Alain) Borhidi | Accepted
+Pentacalia scaphiformis (Greenm.) Cuatrec. | Accepted
+Pentacalia schultzei Cuatrec. | Accepted
+Pentacalia sclerosa (Cuatrec.) Cuatrec. | Accepted
+Pentacalia scortifolia (Greenm.) Cuatrec. | Accepted
+Pentacalia sevillana (Cuatrec.) Cuatrec. | Accepted
+Pentacalia silvascandens (Cuatrec.) Cuatrec. | Accepted
+Pentacalia sinforosi S.Díaz & G.P.Méndez | Accepted
+Pentacalia sisavitensis S.Díaz & Obando | Accepted
+Pentacalia sonsonensis (Cuatrec.) Cuatrec. | Accepted
+Pentacalia sotarensis (Hieron.) Cuatrec. | Accepted
+Pentacalia streptothamna H.Rob. & Cuatrec. | Accepted
+Pentacalia stuebelii (Hieron.) Cuatrec. | Accepted
+Pentacalia subarachnoidea (Wedd.) Cuatrec. | Accepted
+Pentacalia subdiscolor H.Rob. | Accepted
+Pentacalia suboppositifolia (Cuatrec.) Cuatrec. | Accepted
+Pentacalia summapacis (Cuatrec.) Cuatrec. | Accepted
+Pentacalia supernitens (Cuatrec.) Cuatrec. | Accepted
+Pentacalia sylvicola (Greenm.) Cuatrec. | Accepted
+Pentacalia taironae S.Díaz & Cuatrec. | Accepted
+Pentacalia tarapotensis (Cabrera) Cuatrec. | Accepted
+Pentacalia teretifolia (Kunth) Cuatrec. | Accepted
+Pentacalia theifolia (Benth.) Cuatrec. | Accepted
+Pentacalia tillettii H.Rob. & Cuatrec. | Accepted
+Pentacalia todziae H.Rob. & Cuatrec. | Accepted
+Pentacalia tolimensis (Sch.Bip. ex Wedd.) Cuatrec. | Accepted
+Pentacalia tomasiana (Cuatrec.) Cuatrec. | Accepted
+Pentacalia trianae (Klatt) Cuatrec. | Accepted
+Pentacalia trichopus (Benth.) Cuatrec. | Accepted
+Pentacalia trineura (Griseb.) Borhidi | Accepted
+Pentacalia tunamensis (Cuatrec.) Cuatrec. | Accepted
+Pentacalia ucumariana S.Díaz & G.P.Méndez | Accepted
+Pentacalia ullucosana (Hieron.) S.Díaz & Cuatrec. | Accepted
+Pentacalia urbanii (Hieron.) Cuatrec. | Accepted
+Pentacalia uribei Cuatrec. | Accepted
+Pentacalia urubambensis (Cabrera) Cuatrec. | Accepted
+Pentacalia vaccinioides (Kunth) Cuatrec. | Accepted
+Pentacalia vallecaucana (Cuatrec.) Cuatrec. | Accepted
+Pentacalia vargasiana (Cabrera) H.Rob. & Cuatrec. | Accepted
+Pentacalia velezii S.Díaz & Cuatrec. | Accepted
+Pentacalia venezuelensis (Sandwith) Cuatrec. | Accepted
+Pentacalia vernicifolia (Cuatrec.) Cuatrec. | Accepted
+Pentacalia vernicosa (Sch.Bip. ex Wedd.) Cuatrec. | Accepted
+Pentacalia verticillata (Klatt) Cuatrec. | Accepted
+Pentacalia vicelliptica (Cuatrec.) Cuatrec. | Accepted
+Pentacalia viridi-alba (Cuatrec.) Cuatrec. | Accepted
+Pentacalia weinmannifolia (Cuatrec.) Cuatrec. | Accepted
+Pentacalia wilburii H.Rob. | Accepted
+Pentacalia wurdackii (Cuatrec.) Cuatrec. | Accepted
+Pentacalia yanetharum S.Díaz & Obando | Accepted
+Pentacalia yapacana (Aristeg.) Cuatrec. | Accepted
+Pentachaeta alsinoides Greene | Accepted
+Pentachaeta aurea Nutt. | Accepted
+Pentachaeta bellidiflora Greene | Accepted
+Pentachaeta fragilis Brandegee | Accepted
+Pentachaeta lyonii A.Gray | Accepted
+Pentalepis ecliptoides F.Muell. | Accepted
+Pentalepis trichodesmoides F.Muell. | Accepted
+Pentanema albertoregelia (C.Winkl.) Gorschk. | Accepted
+Pentanema cernuum (Dalzell) Ling | Accepted
+Pentanema chodzhakasiani Kinzik. | Accepted
+Pentanema discoideum Nabiev | Accepted
+Pentanema divaricatum Cass. | Accepted
+Pentanema glanduligerum (Krasch.) Gorschk. | Accepted
+Pentanema indicum (L.) Ling | Accepted
+Pentanema krascheninnikovii (Kamelin) Czerep. | Accepted
+Pentanema ligneum Mesfin | Accepted
+Pentanema parietarioides (Nevski) Gorschk. | Accepted
+Pentanema propinquum Nevski | Accepted
+Pentanema rupicola (Krasch.) Gorschk. | Accepted
+Pentanema varzobicum Kamelin & Kinzik. | Accepted
+Pentanema vestita (Wall. ex DC.) Ling | Accepted
+Pentatrichia alata S.Moore | Accepted
+Pentatrichia avasmontana Merxm. | Accepted
+Pentatrichia petrosa Klatt | Accepted
+Pentatrichia rehmii (Merxm.) Merxm. | Accepted
+Pentzia argentea Hutch. | Accepted
+Pentzia bolusii Hutch. | Accepted
+Pentzia calcarea Kies | Accepted
+Pentzia calva S.Moore | Accepted
+Pentzia cooperi Harv. | Accepted
+Pentzia dentata (L.) Kuntze | Accepted
+Pentzia elegans DC. | Accepted
+Pentzia globosa Less. | Accepted
+Pentzia hesperidum Maire & Wilczek | Accepted
+Pentzia incana (Thunb.) Kuntze | Accepted
+Pentzia lanata Hutch. | Accepted
+Pentzia monocephala S.Moore | Accepted
+Pentzia monodiana Maire | Accepted
+Pentzia nana Burch. | Accepted
+Pentzia peduncularis B.Nord. | Accepted
+Pentzia pinnatisecta Hutch. | Accepted
+Pentzia punctata Harv. | Accepted
+Pentzia quinquefida (Thunb.) Less. | Accepted
+Pentzia somalensis E.A.Bruce ex Thulin | Accepted
+Pentzia sphaerocephala DC. | Accepted
+Pentzia spinescens Less. | Accepted
+Pentzia tomentosa B.Nord. | Accepted
+Pentzia tortuosa (DC.) Fenzl ex Harv. | Accepted
+Pentzia viridis Kies | Accepted
+Perdicium capense L. | Accepted
+Perdicium leiocarpum DC. | Accepted
+Perezia atacamensis (Phil.) Reiche | Accepted
+Perezia bellidifolia (Phil.) Reiche | Accepted
+Perezia calophylla (Phil.) Reiche | Accepted
+Perezia carduncelloides Griseb. | Accepted
+Perezia carthamoides (D.Don) Hook. & Arn. | Accepted
+Perezia catharinensis Cabrera | Accepted
+Perezia ciliaris D.Don | Accepted
+Perezia ciliosa (Phil.) Reiche | Accepted
+Perezia delicata Vuilleum. | Accepted
+Perezia dicephala Less. | Accepted
+Perezia eryngioides (Cabrera) Crisci & Martic. | Accepted
+Perezia fonkii (Phil.) Reiche | Accepted
+Perezia fosbergii Tovar | Accepted
+Perezia kingii Baker | Accepted
+Perezia lactucoides (Vahl) Less. | Accepted
+Perezia linearis Less. | Accepted
+Perezia lyrata Wedd. | Accepted
+Perezia macrocephala Sch.Bip. | Accepted
+Perezia mandoni Rusby | Accepted
+Perezia megalantha Speg. | Accepted
+Perezia multiflora (Humb. & Bonpl.) Less. | Accepted
+Perezia nutans Less. | Accepted
+Perezia pedicularidifolia Less. | Accepted
+Perezia pilifera Hook. & Arn. | Accepted
+Perezia pinnatifida Wedd. | Accepted
+Perezia poeppigii Less. | Accepted
+Perezia prenanthoides Less. | Accepted
+Perezia pungens (Bonpl.) Less. | Accepted
+Perezia purpurata Wedd. | Accepted
+Perezia pygmaea Wedd. | Accepted
+Perezia recurvata Less. | Accepted
+Perezia spathulata (Lag. ex D.Don) Hook. & Arn. | Accepted
+Perezia squarrosa (Vahl) Less. | Accepted
+Perezia sublyrata Domke | Accepted
+Perezia virens (D.Don) Hook. & Arn. | Accepted
+Perezia volcanensis Cabrera | Accepted
+Pericallis appendiculata (L.f.) B.Nord. | Accepted
+Pericallis aurita (L'Hér.) B.Nord. | Accepted
+Pericallis cruenta (L'Hér.) Bolle | Accepted
+Pericallis echinata (L.f.) B.Nord. | Accepted
+Pericallis hadrosoma (Svent.) B.Nord. | Accepted
+Pericallis hansenii (G.Kunkel) Sunding | Accepted
+Pericallis hybrida (Regel) B.Nord. | Accepted
+Pericallis lanata (L'Hér.) B.Nord. | Accepted
+Pericallis malvifolia (L'Hér.) B.Nord. | Accepted
+Pericallis multiflora (L'Hér.) B.Nord. | Accepted
+Pericallis murrayi (Bornm.) B.Nord. | Accepted
+Pericallis papyracea (DC.) B.Nord. | Accepted
+Pericallis steetzii (Bolle) B.Nord. | Accepted
+Pericallis tussilaginis (L'Hér.) D.Don | Accepted
+Pericallis webbii (Sch.Bip.) Bolle | Accepted
+Pericome caudata A.Gray | Accepted
+Pericome macrocephala B.L.Rob. | Accepted
+Pericome spilanthoides (Sch.Bip.) Benth. & Hook.f. ex Hemsl. | Accepted
+Peripleura bicolor (N.T.Burb.) G.L.Nesom | Accepted
+Peripleura diffusa (N.T.Burb.) G.L.Nesom | Accepted
+Peripleura hispidula (F.Muell. ex A.Gray) G.L.Nesom | Accepted
+Peripleura scabra (DC.) G.L.Nesom | Accepted
+Peripleura sericea (N.T.Burb.) G.L.Nesom | Accepted
+Perityle aglossa A.Gray | Accepted
+Perityle ajoensis Todsen | Accepted
+Perityle ambrosiifolia Greene ex A.M.Powell & S.C.Yarborough | Accepted
+Perityle angustifolia (A.Gray) Shinners | Accepted
+Perityle aurea Rose | Accepted
+Perityle bisetosa (Torr. ex A.Gray) Shinners | Accepted
+Perityle californica Benth. | Accepted
+Perityle canescens Everly | Accepted
+Perityle carmenensis A.M.Powell | Accepted
+Perityle castillonii I.M.Johnst. | Accepted
+Perityle cernua (Greene) Shinners | Accepted
+Perityle ciliata (L.H.Dewey) Rydb. | Accepted
+Perityle cinerea (A.Gray) A.M.Powell | Accepted
+Perityle coahuilensis A.M.Powell | Accepted
+Perityle cochisensis A.M.Powell | Accepted
+Perityle congesta (M.E.Jones) Shinners | Accepted
+Perityle cordifolia (Rydb.) S.F.Blake | Accepted
+Perityle coronopifolia A.Gray | Accepted
+Perityle crassifolia Brandegee | Accepted
+Perityle cuneata Brandegee | Accepted
+Perityle discoidea (Phil.) Johnston | Accepted
+Perityle dissecta (Torr.) A.Gray | Accepted
+Perityle emoryi Torr. | Accepted
+Perityle feddemae McVaugh | Accepted
+Perityle fosteri A.M.Powell | Accepted
+Perityle gentryi A.M.Powell | Accepted
+Perityle gilensis (M.E.Jones) J.F.Macbr. | Accepted
+Perityle glaucescens B.L.Turner | Accepted
+Perityle gracilis (M.E.Jones) Rydb. | Accepted
+Perityle grandifolia Brandegee | Accepted
+Perityle hofmeisteria Rydb. | Accepted
+Perityle huecoensis A.M.Powell | Accepted
+Perityle incana A.Gray | Accepted
+Perityle intricata (Brandegee) Shinners | Accepted
+Perityle inyoensis (Ferris) A.M.Powell | Accepted
+Perityle jaliscana A.Gray | Accepted
+Perityle lemmonii (A.Gray) J.F.Macbr. | Accepted
+Perityle leptoglossa Harv. & Gray ex Harv. & A.Gray | Accepted
+Perityle lindheimeri (A.Gray) Shinners | Accepted
+Perityle lineariloba Rydb. | Accepted
+Perityle lloydii B.L.Rob. & Fernald | Accepted
+Perityle lobata (Rydb.) I.M.Johnst. | Accepted
+Perityle megalocephala (S.Watson) J.F.Macbr. | Accepted
+Perityle microcephala A.Gray | Accepted
+Perityle microglossa Benth. | Accepted
+Perityle montana (A.M.Powell) B.G.Baldwin | Accepted
+Perityle palmeri S.Watson | Accepted
+Perityle parryi A.Gray | Accepted
+Perityle pennellii B.L.Turner | Accepted
+Perityle quinqueflora (Steyerm.) Shinners | Accepted
+Perityle rosei Greenm. | Accepted
+Perityle rupestris (A.Gray) Shinners | Accepted
+Perityle saxicola (Eastw.) Shinners | Accepted
+Perityle scopulorum (M.E.Jones) A.M.Powell & B.L.Turner | Accepted
+Perityle socorrosensis Rose | Accepted
+Perityle specuicola S.L.Welsh & Neese | Accepted
+Perityle stansburyi (A.Gray) J.F.Macbr. | Accepted
+Perityle staurophylla (Barneby) Shinners | Accepted
+Perityle stevensii B.L.Turner | Accepted
+Perityle tenella (M.E.Jones) J.F.Macbr. | Accepted
+Perityle trichodonta S.F.Blake | Accepted
+Perityle turneri A.M.Powell | Accepted
+Perityle vandevenderi B.L.Turner | Accepted
+Perityle vaseyi J.M.Coult. | Accepted
+Perityle vigilans Spellenb. & A.M.Powell | Accepted
+Perityle villosa (S.F.Blake) Shinners | Accepted
+Perityle vitreomontana Warnock | Accepted
+Perityle warnockii A.M.Powell | Accepted
+Perplexia microcephala (Boiss.) Iljin | Accepted
+Perralderia coronopifolia Coss. | Accepted
+Perralderia garamantum Asch. | Accepted
+Perralderia paui Font Quer | Accepted
+Pertya angustifolia Y.Q.Tseng | Accepted
+Pertya berberidoides (Hand.-Mazz.) Y.Q.Tseng | Accepted
+Pertya bodinieri Vaniot | Accepted
+Pertya cordifolia Mattf. | Accepted
+Pertya corymbosa Y.Q.Tseng | Accepted
+Pertya discolor Rehder | Accepted
+Pertya glabrescens Sch.Bip. | Accepted
+Pertya henanensis Y.Q.Tseng | Accepted
+Pertya hybrida Makino | Accepted
+Pertya monocephala W.W.Sm. | Accepted
+Pertya phylicoides Jeffrey | Accepted
+Pertya pubescens Ling | Accepted
+Pertya pungens Y.Q.Tseng | Accepted
+Pertya rigidula (Miq.) Makino | Accepted
+Pertya robusta (Maxim.) Beauverd | Accepted
+Pertya scandens (Thunb. ex Thunb.) Sch.Bip. | Accepted
+Pertya simozawai Masam. | Accepted
+Pertya sinensis Oliv. | Accepted
+Pertya suzukii Kitam. | Accepted
+Pertya triloba (Makino) Matsum. | Accepted
+Pertya tsoongiana Ling | Accepted
+Pertya uniflora (Maxim.) Mattf. | Accepted
+Pertya yakushimensis H.Koyama & Nagam. | Accepted
+Perymeniopsis ovalifolia (A.Gray) H.Rob. | Accepted
+Perymenium acuminatum (La Llave) S.F.Blake | Accepted
+Perymenium alticola McVaugh | Accepted
+Perymenium asperifolium Sch.Bip. ex Klatt | Accepted
+Perymenium basaseachicanum B.L.Turner | Accepted
+Perymenium beckeri J.J.Fay | Accepted
+Perymenium berlandieri DC. | Accepted
+Perymenium buphthalmoides DC. | Accepted
+Perymenium chloroleucum S.F.Blake | Accepted
+Perymenium colombianum B.L.Turner | Accepted
+Perymenium cornutum Brandegee | Accepted
+Perymenium croceum B.L.Rob. & Greenm. | Accepted
+Perymenium cualense B.L.Turner | Accepted
+Perymenium discolor Schrad. | Accepted
+Perymenium episcopale J.J.Fay | Accepted
+Perymenium fayi B.L.Turner | Accepted
+Perymenium ghiesbreghtii B.L.Rob. & Greenm. | Accepted
+Perymenium glandulosum Brandegee | Accepted
+Perymenium globosum B.L.Rob. | Accepted
+Perymenium gracile Hemsl. | Accepted
+Perymenium grande Hemsl. | Accepted
+Perymenium gymnolomoides (Less.) DC. | Accepted
+Perymenium hintonii McVaugh | Accepted
+Perymenium hintoniorum B.L.Turner | Accepted
+Perymenium huentitanum B.L.Turner | Accepted
+Perymenium jalapanum Standl. & Steyerm. | Accepted
+Perymenium jaliscense B.L.Rob. & Greenm. | Accepted
+Perymenium jelskii (Hieron.) S.F.Blake | Accepted
+Perymenium klattianum J.J.Fay | Accepted
+Perymenium lancifolium S.F.Blake | Accepted
+Perymenium macrocephalum Greenm. | Accepted
+Perymenium mendezii DC. | Accepted
+Perymenium nicaraguense S.F.Blake | Accepted
+Perymenium oaxacanum B.L.Turner | Accepted
+Perymenium ovatum Brandegee | Accepted
+Perymenium oxycarphum S.F.Blake | Accepted
+Perymenium paneroi B.L.Turner | Accepted
+Perymenium pinetorum Brandegee | Accepted
+Perymenium pringlei B.L.Rob. & Greenm. | Accepted
+Perymenium reticulatum J.J.Fay | Accepted
+Perymenium sedasanum J.J.Fay | Accepted
+Perymenium stenophyllum S.F.Blake | Accepted
+Perymenium subsquarrosum B.L.Rob. & Greenm. | Accepted
+Perymenium tamaulipense B.L.Turner | Accepted
+Perymenium tehuacanum Villaseñor & Panero | Accepted
+Perymenium uxoris McVaugh | Accepted
+Perymenium wilburorum McVaugh | Accepted
+Perymenium yanezii B.L.Turner | Accepted
+Petalacte coronata (L.) D.Don | Accepted
+Petasites albus (L.) Gaertn. | Accepted
+Petasites fominii Bordz. | Accepted
+Petasites formosanus Kitam. | Accepted
+Petasites fragrans (Vill.) C.Presl | Accepted
+Petasites frigidus (L.) Fr. | Accepted
+Petasites hybridus (L.) "G.Gaertn., B.Mey. & Scherb." | Accepted
+Petasites japonicus (Siebold & Zucc.) Maxim. | Accepted
+Petasites kablikianus Tausch ex Bercht. | Accepted
+Petasites paradoxus (Retz.) Baumg. | Accepted
+Petasites pyrenaicus (L.) G.López | Accepted
+Petasites radiatus (J.F.Gmel.) J.Toman | Accepted
+Petasites rubellus (J.F.Gmel.) Toman | Accepted
+Petasites saxatilis (Turcz.) Kom. | Accepted
+Petasites spurius (Retz.) Rchb. | Accepted
+Petasites tatewakianus Kitam. | Accepted
+Petasites tricholobus Franch. | Accepted
+Petasites versipilus Hand.-Mazz. | Accepted
+Peteravenia malvifolia (DC.) R.M.King & H.Rob. | Accepted
+Peteravenia phoenicolepis (B.L.Rob.) R.M.King & H.Rob. | Accepted
+Peteravenia schultzii (Schnittsp.) R.M.King & H.Rob. | Accepted

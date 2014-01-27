@@ -1,0 +1,140 @@
+speciname | taxstat
+Xerocladia viridiramis (Burch.) Taub. | Accepted
+Xeroderris chevalieri (Dunn) Roberty | Accepted
+Xeroderris stuhlmannii (Taub.) Mendonca & Sousa | Accepted
+Xipotheca canescens (Thunb.) A.L.Schutte & B.-E.van | Accepted
+Xipotheca elliptica (DC.) A.L.Schutte & B.-E.van Wy | Accepted
+Xipotheca fruticosa (L.) A.L.Schutte & B.-E.van Wyk | Accepted
+Xipotheca guthriei (L.Bolus) A.L.Schutte & B.-E.va | Accepted
+Xipotheca lanceolata (E.Mey.) Eckl. & Zeyh. | Accepted
+Xipotheca tecta (Thunb.) A.L.Schutte & B.-E.van | Accepted
+Xylia africana Harms | Accepted
+Xylia evansii Hutch. | Accepted
+Xylia fraterna (Vatke) Drake | Accepted
+Xylia ghesquierei Robyns | Accepted
+Xylia hoffmannii (Vatke) Drake | Accepted
+Xylia mendoncae Torre | Accepted
+Xylia schliebenii Harms | Accepted
+Xylia torreana Brenan | Accepted
+Xylia xylocarpa (Roxb.) Taub. | Accepted
+Xylophacos castaneiformis (S. Watson) Rydb. | Accepted
+Xylophacos iodanthus (S. Watson) Rydb. | Accepted
+Xylophacos watsonianus (Kuntze) Rydb. | Accepted
+Zapoteca aculeata (Benth.) H.M.Hern. | Accepted
+Zapoteca alinae H.M.Hern. | Accepted
+Zapoteca amazonica (Benth.) H.M.Hern. | Accepted
+Zapoteca andina H.M.Hern. | Accepted
+Zapoteca caracasana (Jacq.) H.M.Hern. | Accepted
+Zapoteca costaricensis (Britton & Rose) H.M.Hern. | Accepted
+Zapoteca filipes (Benth.) H.M.Hern. | Accepted
+Zapoteca formosa (Kunth) H.M.Hern. | Accepted
+Zapoteca lambertiana (G.Don) H.M.Hern. | Accepted
+Zapoteca media (M.Martens & Galeotti) H.M.Hern | Accepted
+Zapoteca microcephala (Britton & Killip) H.M.Hern. | Accepted
+Zapoteca mollis (Standl.) H.M.Hern. | Accepted
+Zapoteca nervosa (Urb.) H.M.Hern. | Accepted
+Zapoteca portoricensis (Jacq.) H.M.Hern. | Accepted
+Zapoteca ravenii H.M.Hern. | Accepted
+Zapoteca scutellifera (Benth.) H.M.Hern. | Accepted
+Zapoteca tehuana H.M.Hern. | Accepted
+Zapoteca tetragona (Willd.) H.M.Hern. | Accepted
+Zenia insignis Chun | Accepted
+Zenkerella capparidacea (Taub.) J.Leonard | Accepted
+Zenkerella citrina Taub. | Accepted
+Zenkerella egregia J.Leonard | Accepted
+Zenkerella grotei (Harms) J.Leonard | Accepted
+Zenkerella schliebenii (Harms) J.Leonard | Accepted
+Zingania fleuryana (A. Chev.) A. Chev. | Accepted
+Zollernia glabra (Spreng.) Yakovlev | Accepted
+Zollernia glaziovii Yakovlev | Accepted
+Zollernia grandifolia Schery | Accepted
+Zollernia ilicifolia (Brongn.) Vogel | Accepted
+Zollernia kanukuensis Cowan | Accepted
+Zollernia latifolia Benth. | Accepted
+Zollernia paraensis Huber | Accepted
+Zollernia splendens Wied-Neuw. & Nees | Accepted
+Zornia acuta S.T.Reynolds & A.E.Holland | Accepted
+Zornia adenophora (Domin) Mohlenbr. | Accepted
+Zornia albiflora Mohlenbr. | Accepted
+Zornia albolutescens Mohlenbr. | Accepted
+Zornia apiculata Milne-Redh. | Accepted
+Zornia areolata Mohlenbr. | Accepted
+Zornia baliensis Mohlenbr. | Accepted
+Zornia bracteata J.F.Gmel. | Accepted
+Zornia brasiliensis Vogel | Accepted
+Zornia brevipes Milne-Redh. | Accepted
+Zornia burkartii Vanni | Accepted
+Zornia cantoniensis Mohlenbr. | Accepted
+Zornia capensis Pers. | Accepted
+Zornia cearensis Huber | Accepted
+Zornia chaetophora F.Muell. | Accepted
+Zornia contorta Mohlenbr. | Accepted
+Zornia crinita (Mohlenbr.) Vanni | Accepted
+Zornia cryptantha Arechav. | Accepted
+Zornia curvata Mohlenbr. | Accepted
+Zornia diphylla (L.) Pers. | Accepted
+Zornia disticha S.T.Reynolds & A.E.Holland | Accepted
+Zornia durumuensis De Wild. | Accepted
+Zornia echinata Mohlenbr. | Accepted
+Zornia echinocarpa (Meissner) Benth. | Accepted
+Zornia filifolia Domin | Accepted
+Zornia filifoliola Pittier | Accepted
+Zornia fimbriata Mohlenbr. | Accepted
+Zornia flemmingioides Moric. | Accepted
+Zornia floribunda S.T.Reynolds & A.E.Holland | Accepted
+Zornia gardneriana Moric. | Accepted
+Zornia gemella (Willd.) Vogel | Accepted
+Zornia gibbosa Span. | Accepted
+Zornia glabra Desv. | Accepted
+Zornia glaziovii Harms | Accepted
+Zornia glochidiata DC. | Accepted
+Zornia harmsiana Standl. | Accepted
+Zornia hebecarpa Mohlenbr. | Accepted
+Zornia herbacea Pittier | Accepted
+Zornia intecta Mohlenbr. | Accepted
+Zornia laevis Schltdl. & Cham. | Accepted
+Zornia lasiocarpa A.R.Molina | Accepted
+Zornia latifolia Sm. | Accepted
+Zornia leptophylla (Benth.) Pittier | Accepted
+Zornia linearis E.Mey. | Accepted
+Zornia marajoara Huber | Accepted
+Zornia maritima S.T.Reynolds & A.E.Holland | Accepted
+Zornia megistocarpa Mohlenbr. | Accepted
+Zornia microphylla Desv. | Accepted
+Zornia milneana Mohlenbr. | Accepted
+Zornia muelleriana Mohlenbr. | Accepted
+Zornia multinervosa Bacigalupo | Accepted
+Zornia muriculata Mohlenbr. | Accepted
+Zornia myriadena Benth. | Accepted
+Zornia nuda Vogel | Accepted
+Zornia oligantha S.T.Reynolds & A.E.Holland | Accepted
+Zornia orbiculata Mohlenbr. | Accepted
+Zornia pallida Mohlenbr. | Accepted
+Zornia papuensis Mohlenbr. | Accepted
+Zornia pardina Mohlenbr. | Accepted
+Zornia pedunculata S.T.Reynolds & A.E.Holland | Accepted
+Zornia piurensis Mohlenbr. | Accepted
+Zornia pratensis Milne-Redh. | Accepted
+Zornia puberula Mohlenbr. | Accepted
+Zornia punctatissima Milne-Redh. | Accepted
+Zornia quilonensis Ravi | Accepted
+Zornia ramboiana Mohlenbr. | Accepted
+Zornia ramosa S.T.Reynolds & A.E.Holland | Accepted
+Zornia reptans Harms | Accepted
+Zornia reticulata Sm. | Accepted
+Zornia sericea Moric. | Accepted
+Zornia setosa Baker f. | Accepted
+Zornia sinaloensis Mohlenbr. | Accepted
+Zornia songeensis Milne-Redh. | Accepted
+Zornia stirlingii Domin | Accepted
+Zornia tenuifolia Moric. | Accepted
+Zornia thymifolia Kunth | Accepted
+Zornia trachycarpa Vogel | Accepted
+Zornia ulei Harms | Accepted
+Zornia vaughaniana Mohlenbr. | Accepted
+Zornia venosa Mohlenbr. | Accepted
+Zornia vestita Mohlenbr. | Accepted
+Zornia virgata Moric. | Accepted
+Zornia walkeri Arn. | Accepted
+Zornia zollingeri Mohlenbr. | Accepted
+Zuccagnia punctata Cav. | Accepted

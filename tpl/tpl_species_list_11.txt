@@ -1,0 +1,155 @@
+speciname | taxstat
+Augea capensis Thunb. | Accepted
+Balanites aegyptiaca (L.) Delile | Accepted
+Balanites angolensis (Welw.) Mildbr. & Schltr. | Accepted
+Balanites glabra Mildbr. & Schltr. | Accepted
+Balanites maughamii Sprague | Accepted
+Balanites pedicellaris Mildbr. & Schltr. | Accepted
+Balanites rotundifolia (Tiegh.) Blatt. | Accepted
+Balanites roxburghii Planch. | Accepted
+Balanites triflora Tiegh. | Accepted
+Balanites wilsoniana Dawe & Sprague | Accepted
+Balanites wilsonianus Dawe & Sprague | Accepted
+Bulnesia arborea (Jacq.) Engl. | Accepted
+Bulnesia bonariensis Griseb. | Accepted
+Bulnesia carrapo Killip & Dugand | Accepted
+Bulnesia chilensis Gay | Accepted
+Bulnesia foliosa Griseb. | Accepted
+Bulnesia retamo (Gillies ex Hook. & Arn.) Griseb. | Accepted
+Bulnesia rivas-martinezii G.Navarro | Accepted
+Bulnesia sarmientoi Lorentz ex Griseb. | Accepted
+Bulnesia schichendanzii Hieron. ex Griseb. | Accepted
+Bulnesia schickendantzii Hieron. | Accepted
+Fagonia acerosa Boiss. | Accepted
+Fagonia arabica L. | Accepted
+Fagonia bruguieri DC. | Accepted
+Fagonia californica Benth. | Accepted
+Fagonia charoides Chiov. | Accepted
+Fagonia chilensis Hook. & Arn. | Accepted
+Fagonia cretica L. | Accepted
+Fagonia densa I.M.Johnst. | Accepted
+Fagonia densispina Beier & Thulin | Accepted
+Fagonia glutinosa Delile | Accepted
+Fagonia gypsophila Beier & Thulin | Accepted
+Fagonia hadramautica Beier & Thulin | Accepted
+Fagonia harpago Emb. & Maire | Accepted
+Fagonia indica Burm.f. | Accepted
+Fagonia laevis Standl. | Accepted
+Fagonia lahovarii Volkens & Schweinf. | Accepted
+Fagonia latifolia Delile | Accepted
+Fagonia latistipulata Beier & Thulin | Accepted
+Fagonia luntii Baker | Accepted
+Fagonia mahrana Beier | Accepted
+Fagonia minutistipula Engl. | Accepted
+Fagonia mollis Delile | Accepted
+Fagonia olivieri DC. | Accepted
+Fagonia orientalis C.Presl | Accepted
+Fagonia pachyacantha Rydb. | Accepted
+Fagonia palmeri Vasey & Rose | Accepted
+Fagonia paulayana J.Wagner & Vierh. | Accepted
+Fagonia rangei Loes. ex Engl. | Accepted
+Fagonia scabra Forssk. | Accepted
+Fagonia scoparia Brandegee | Accepted
+Fagonia spinosissima Blatt. & Hallb | Accepted
+Fagonia subinermis Boiss. | Accepted
+Fagonia villosa D.M.Porter | Accepted
+Fagonia zilloides Humbert | Accepted
+Guaiacum coulteri A.Gray | Accepted
+Guaiacum officinale L. | Accepted
+Guaiacum palmeri Vail | Accepted
+Guaiacum sanctum L. | Accepted
+Guaiacum unijugum Brandegee | Accepted
+Kallstroemia adscendens (Andersson) B.L. Rob. | Accepted
+Kallstroemia angustifolia (R. Br.) Engl. | Accepted
+Kallstroemia bicolor (F. Muell.) Engl. | Accepted
+Kallstroemia boliviana Standl. | Accepted
+Kallstroemia californica (S. Watson) Vail | Accepted
+Kallstroemia curta Rydb. | Accepted
+Kallstroemia grandiflora Torr. ex A. Gray | Accepted
+Kallstroemia hintonii D.M. Porter | Accepted
+Kallstroemia hirsuta (Benth.) Engl. | Accepted
+Kallstroemia hirsutissima Vail | Accepted
+Kallstroemia hystrix (R. Br.) Engl. | Accepted
+Kallstroemia macrocarpa (F. Muell.) Engl. | Accepted
+Kallstroemia maxima (L.) Hook. & Arn. | Accepted
+Kallstroemia mexicana Hook. & Arn. | Accepted
+Kallstroemia minuta (Leichh. ex Benth.) Engl. | Accepted
+Kallstroemia parviflora Norton | Accepted
+Kallstroemia peninsularis D.M. Porter | Accepted
+Kallstroemia pennellii D.M. Porter | Accepted
+Kallstroemia pentandra (R. Br.) Engl. | Accepted
+Kallstroemia perennans B.L. Turner | Accepted
+Kallstroemia platyptera (Benth.) Engl. | Accepted
+Kallstroemia pubescens (G.Don) Dandy | Accepted
+Kallstroemia ranunculiflora (F. Muell.) Engl. | Accepted
+Kallstroemia rosei Rydb. | Accepted
+Kallstroemia solandri (R. Br.) Engl. | Accepted
+Kallstroemia tribuloides (Mart.) Steud. | Accepted
+Larrea ameghinoi Speg. | Accepted
+Larrea cuneifolia Cav. | Accepted
+Larrea divaricata Cav. | Accepted
+Larrea mexicana Moric. | Accepted
+Larrea nitida Cav. | Accepted
+Larrea tridentata (Sessé & Moc. ex DC.) Coville | Accepted
+Malacocarpus crithmifolius (Retz.) C.A. Mey. | Accepted
+Metharme lanata Phil. ex Engl. | Accepted
+Morkillia acuminata Rose & Painter | Accepted
+Morkillia mexicana (DC.) Rose & Painter | Accepted
+Neoschroetera tridentata (Sessé & Moc. ex DC.) Briq. | Accepted
+Pintoa chilensis Gay | Accepted
+Plectrocarpa rougesii Descole, O'Donell & Lourteig | Accepted
+Plectrocarpa tetracantha Gillies ex Hook. & Arn. | Accepted
+Porlieria angustifolia (Engelm.) A. Gray | Accepted
+Porlieria chilensis I.M. Johnst. | Accepted
+Porlieria hygrometra Ruiz & Pav. | Accepted
+Porlieria microphylla (Baill.) Descole, O'Donell & Lourteig | Accepted
+Sarcozygium kaschgaricum (Boriss.) Y.X. Liou | Accepted
+Seetzenia lanata (Willd.) Bullock | Accepted
+Sericodes greggii A. Gray | Accepted
+Tetraena madagascariensis (Baill.) Beier & Thulin | Accepted
+Tetraena madecassa (H. Perrier) Beier & Thulin | Accepted
+Tetraena mongolica Maxim. | Accepted
+Tribulus cistoides L. | Accepted
+Tribulus echinops Kers | Accepted
+Tribulus excrucians Wawra | Accepted
+Tribulus longipetalus Viv. | Accepted
+Tribulus macropterus Boiss. | Accepted
+Tribulus terrestris L. | Accepted
+Tribulus zeyheri Sond. | Accepted
+Viscainoa pinnata (I.M. Johnst.) Gentry | Accepted
+Zygophyllum album L.f. | Accepted
+Zygophyllum atriplicoides Fisch. & C.A. Mey. | Accepted
+Zygophyllum brachypterum Kar. & Kir. | Accepted
+Zygophyllum cordifolium L. f. | Accepted
+Zygophyllum darvasicum Boriss. | Accepted
+Zygophyllum dregeanum Sond. | Accepted
+Zygophyllum eurypterum Boiss. & Buhse | Accepted
+Zygophyllum fabago L. | Accepted
+Zygophyllum fabagoides Popov | Accepted
+Zygophyllum gobicum Maxim. | Accepted
+Zygophyllum gontscharovii Boriss | Accepted
+Zygophyllum iliense Popov | Accepted
+Zygophyllum jaxarticum Popov | Accepted
+Zygophyllum kansuense Y.X. Liou | Accepted
+Zygophyllum loczyi Kanitz | Accepted
+Zygophyllum longicapsulare Schinz | Accepted
+Zygophyllum macrophyllum Regel & Schmalh. | Accepted
+Zygophyllum macropodum Boriss. | Accepted
+Zygophyllum macropterum C.A.Mey. | Accepted
+Zygophyllum megacarpum Boriss. | Accepted
+Zygophyllum mucronatum Maxim. | Accepted
+Zygophyllum obliquum Popov | Accepted
+Zygophyllum orbiculatum Welw. ex Oliv. | Accepted
+Zygophyllum ovigerum Fisch. & C.A.Mey. ex Bunge | Accepted
+Zygophyllum oxianum Boriss. | Accepted
+Zygophyllum oxycarpum Popov | Accepted
+Zygophyllum pinnatum Cham. | Accepted
+Zygophyllum potaninii Maxim. | Accepted
+Zygophyllum pterocarpum Bunge | Accepted
+Zygophyllum pubescens Schinz | Accepted
+Zygophyllum rosowii Bunge | Accepted
+Zygophyllum simplex L. | Accepted
+Zygophyllum sinkiangense Y.X. Liou | Accepted
+Zygophyllum sonderi H. Eichler | Accepted
+Zygophyllum suffruticosum Schinz | Accepted
+Zygophyllum xanthoxylon (Bunge) Maxim. | Accepted

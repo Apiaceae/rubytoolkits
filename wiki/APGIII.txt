@@ -1,0 +1,516 @@
+被子植物 angiosperm
+
+    †无油樟目 Amborellales Melikyan, A.V.Bobrov & Zaytzeva (1999)
+        无油樟科 Amborellaceae Pichon (1948), nom. cons.
+    †睡莲目 Nymphaeales Salisb. ex Bercht. & J.Presl (1820)
+        $$莼菜科 Cabombaceae Rich. ex A.Rich. (1822), nom. cons.
+        *独蕊草科 Hydatellaceae U.Hamann (1976)
+        $$睡莲科 Nymphaeaceae Salisb. (1805), nom. cons.
+    木兰藤目 Austrobaileyales Takht. ex Reveal (1992)
+        木兰藤科 Austrobaileyaceae Croizat (1943), nom. cons.
+        $五味子科 Schisandraceae Blume (1830), nom. cons. (包含八角茴香科 Illiciaceae A.C.Sm., nom. cons.)
+        腺齿木科 Trimeniaceae L.S.Gibbs (1917), nom. cons.
+    †金粟兰目 Chloranthales R.Br. (1835) - 很可能是木兰类的旁系群
+        金粟兰科 Chloranthaceae R.Br. ex Sims (1820), nom. cons.
+
+木兰类植物 magnoliids
+
+    白桂皮目 Canellales Cronquist (1957)
+        白桂皮科 Canellaceae Mart. (1832), nom. cons.
+        林仙科 Winteraceae R.Br. ex Lindl. (1830), nom. cons.
+    樟目 Laurales Juss. ex Bercht. & J.Presl (1820)
+        香皮茶科 Atherospermataceae R.Br. (1814)
+        腊梅科 Calycanthaceae Lindl. (1819), nom. cons.
+        腺蕊花科 Gomortegaceae Reiche (1896), nom. cons.
+        莲叶桐科 Hernandiaceae Blume (1826), nom. cons.
+        樟科 Lauraceae Juss. (1789), nom. cons.
+        杯轴花科 Monimiaceae Juss. (1809), nom. cons.
+        坛罐花科 Siparunaceae Schodde (1970)
+    木兰目 Magnoliales Juss. ex Bercht. & J.Presl (1820)
+        番荔枝科 Annonaceae Juss. (1789), nom. cons.
+        单室木兰科 Degeneriaceae I.W.Bailey & A.C.Sm. (1942), nom. cons.
+        帽花木科 Eupomatiaceae Orb. (1845), nom. cons.
+        舌蕊花科 Himantandraceae Diels (1917), nom. cons.
+        木兰科 Magnoliaceae Juss. (1789), nom. cons.
+        肉豆蔻科 Myristicaceae R.Br. (1810), nom. cons.
+    胡椒目 Piperales Bercht. & J.Presl (1820)
+        马兜铃科 Aristolochiaceae Juss. (1789), nom. cons.
+        菌花科 Hydnoraceae C.Agardh (1821), nom. cons.
+        短蕊花科 Lactoridaceae Engl. (1888), nom. cons.
+        胡椒科 Piperaceae Giseke (1792), nom. cons.
+        三白草科 Saururaceae F.Voigt (1811), nom. cons.
+
+单子叶植物 monocots
+
+    菖蒲目 Acorales Link (1835)
+        菖蒲科 Acoraceae Martinov (1820)
+    泽泻目 Alismatales R.Br. ex Bercht. & J.Presl (1820)
+        §泽泻科 Alismataceae Vent. (1799), nom. cons.（包含黄花绒叶草科 Limnocharitaceae Takht. ex Cronquist）
+        水蕹科 Aponogetonaceae Planch. (1856), nom. cons.
+        天南星科 Araceae Juss. (1789), nom. cons.
+        花蔺科 Butomaceae Mirb. (1804), nom. cons.
+        丝粉藻科 Cymodoceaceae Vines (1895), nom. cons.
+        水鳖科 Hydrocharitaceae Juss. (1789), nom. cons.
+        水麦冬科 Juncaginaceae Rich. (1808), nom. cons.
+        波喜荡草科 Posidoniaceae Vines (1895), nom. cons.
+        眼子菜科 Potamogetonaceae Bercht. & J.Presl (1823), nom. cons.
+        川蔓藻科 Ruppiaceae Horan. (1834), nom. cons.
+        芝菜科 Scheuchzeriaceae F.Rudolphi (1830), nom. cons.
+        岩菖蒲科 Tofieldiaceae Takht. (1995)
+        大叶藻科 Zosteraceae Dumort. (1829), nom. cons.
+    †无叶莲目 Petrosaviales Takht. (1997)
+        无叶莲科 Petrosaviaceae Hutch. (1934), nom. cons.
+    薯蓣目 Dioscoreales R.Br. (1835)
+        水玉簪科 Burmanniaceae Blume (1827), nom. cons.
+        薯蓣科 Dioscoreaceae R.Br. (1810), nom. cons.
+        纳茜菜科 Nartheciaceae Fr. ex Bjurzon (1846)
+    露兜树目 Pandanales R.Br. ex Bercht. & J.Presl (1820)
+        环花草科 Cyclanthaceae Poit. ex A.Rich. (1824), nom. cons.
+        露兜树科 Pandanaceae R.Br. (1810), nom. cons.
+        百部科 Stemonaceae Caruel (1878), nom. cons.
+        霉草科 Triuridaceae Gardner (1843), nom. cons.
+        翡若翠科 Velloziaceae J.Agardh (1858), nom. cons.
+    百合目 Liliales Perleb (1826)
+        §六出花科 Alstroemeriaceae Dumort. (1829), nom. cons. (包含菝葜木科 Luzuriagaceae Lotsy)
+        金梅草科 Campynemataceae Dumort. (1829)
+        秋水仙科 Colchicaceae DC. (1804), nom. cons.
+        白玉簪科 Corsiaceae Becc. (1878), nom. cons.
+        百合科 Liliaceae Juss. (1789), nom. cons.
+        黑药花科 Melanthiaceae Batsch ex Borkh. (1797), nom. cons.
+        *刺藤科 Petermanniaceae Hutch. (1934), nom. cons.
+        垂花科 Philesiaceae Dumort. (1829), nom. cons.
+        菝葜藤科 Ripogonaceae Conran & Clifford (1985)
+        菝葜科 Smilacaceae Vent. (1799), nom. cons.
+    天门冬目 Asparagales Link (1829)
+        $石蒜科 Amaryllidaceae J.St.-Hil., nom. cons.（包含百子莲科 Agapanthaceae F.Voigt及葱科 Alliaceae Borkh., nom. cons.）
+        $天门冬科 Asparagaceae Juss. (1789), nom. cons.（包含龙舌兰科 Agavaceae Dumort., nom. cons.、星捧月科 Aphyllanthaceae Burnett、西丽草科 Hesperocallidaceae Traub、风信子科 Hyacinthaceae Batsch ex Borkh.、异蕊草科 Laxmanniaceae Bubani、假叶树科 Ruscaceae M.Roem., nom. cons.、紫灯花科 Themidaceae Salisb.）
+        芳香草科 Asteliaceae Dumort. (1829)
+        香水花科 Blandfordiaceae R.Dahlgren & Clifford (1985)
+        澳韭兰科 Boryaceae M.W.Chase, Rudall & Conran (1997)
+        矛花科 Doryanthaceae R.Dahlgren & Clifford (1985)
+        仙茅科 Hypoxidaceae R.Br. (1814), nom. cons.
+        鸢尾科 Iridaceae Juss. (1789), nom. cons.
+        鸢尾蒜科 Ixioliriaceae Nakai (1943)
+        毛石蒜科 Lanariaceae R.Dahlgren & A.E.van Wyk (1988)
+        兰科 Orchidaceae Juss. (1789), nom. cons.
+        蓝星科 Tecophilaeaceae Leyb. (1862), nom. cons.
+        $刺叶树科 Xanthorrhoeaceae Dumort. (1829), nom. cons.（包含独尾草科 Asphodelaceae Juss.及萱草科 Hemerocallidaceae R.Br.）
+        血剑草科 Xeronemataceae M.W.Chase, Rudall & M.F.Fay (2000)
+
+鸭跖草类植物 commelinids
+
+    多须草科 Dasypogonaceae Dumort. (1829)（保留多须草目 Dasypogonales Doweld，可能与其它目合并）
+    棕榈目 Arecales Bromhead (1840)
+        棕榈科 Arecaceae Bercht. & J.Presl (1820), nom. cons.
+    鸭趾草目 Commelinales Mirb. ex Bercht. & J.Presl (1820)
+        鸭跖草科 Commelinaceae Mirb. (1804), nom. cons.
+        血皮草科 Haemodoraceae R.Br. (1810), nom. cons.
+        匍茎草科 Hanguanaceae Airy Shaw (1965)
+        田葱科 Philydraceae Link (1821), nom. cons.
+        雨久花科 Pontederiaceae Kunth (1816), nom. cons.
+    禾本目 Poales Small (1903)
+        苞穗草科 Anarthriaceae D.F.Cutler & Airy Shaw (1965)
+        凤梨科 Bromeliaceae Juss. (1789), nom. cons.
+        刺鳞草科 Centrolepidaceae Endl. (1836), nom. cons.
+        莎草科 Cyperaceae Juss. (1789), nom. cons.
+        二柱草科 Ecdeiocoleaceae D.F.Cutler & Airy Shaw (1965)
+        谷精草科 Eriocaulaceae Martinov (1820), nom. cons.
+        须叶藤科 Flagellariaceae Dumort. (1829), nom. cons.
+        拟苇科 Joinvilleaceae Toml. & A.C.Sm. (1970)
+        灯心草科 Juncaceae Juss. (1789), nom. cons.
+        苔草科 Mayacaceae Kunth (1842), nom. cons.
+        禾本科 Poaceae Barnhart (1895), nom. cons.
+        偏穗草科 Rapateaceae Dumort. (1829), nom. cons.
+        帚灯草科 Restionaceae R.Br. (1810), nom. cons.
+        梭子草科 Thurniaceae Engl. (1907), nom. cons.
+        §香蒲科 Typhaceae Juss. (1789), nom. cons.（包含黑三棱科 Sparganiaceae Hanin, nom. cons.)
+        黄眼草科 Xyridaceae C.Agardh (1823), nom. cons.
+    姜目 Zingiberales Griseb. (1854)
+        美人蕉科 Cannaceae Juss. (1789), nom. cons.
+        闭鞘姜科 Costaceae Nakai (1941)
+        蝎尾蕉科 Heliconiaceae Vines (1895)
+        兰花蕉科 Lowiaceae Ridl. (1924), nom. cons.
+        竹芋科 Marantaceae R.Br. (1814), nom. cons.
+        芭蕉科 Musaceae Juss. (1789), nom. cons.
+        鹤望兰科 Strelitziaceae Hutch. (1934), nom. cons.
+        姜科 Zingiberaceae Martinov (1820), nom. cons.
+
+真双子叶植物的可能旁系群
+
+    金鱼藻目 Ceratophyllales Link (1829)
+        金鱼藻科 Ceratophyllaceae Gray (1822), nom. cons.
+
+真双子叶植物 eudicots
+
+    毛茛目 Ranunculales Juss. ex Bercht. & J.Presl (1820)
+        小檗科 Berberidaceae Juss. (1789), nom. cons.
+        $星叶草科 Circaeasteraceae Hutch. (1926), nom. cons.（包含独叶草科 Kingdoniaceae Airy Shaw）
+        领春木科 Eupteleaceae K.Wilh. (1910), nom. cons.
+        木通科 Lardizabalaceae R.Br. (1821), nom. cons.
+        防己科 Menispermaceae Juss. (1789), nom. cons.
+        $罂粟科 Papaveraceae Juss. (1789), nom. cons.（包含荷包牡丹科 Fumariaceae Marquis, nom. cons.、蕨叶草科 Pteridophyllaceae Nakai ex Reveal & Hoogland）
+        毛茛科 Ranunculaceae Juss. (1789), nom. cons.
+    清风藤科 Sabiaceae Blume (1851), nom. cons.（可能置于山龙眼目 Proteales）
+    山龙眼目 Proteales Juss. ex Bercht. & J.Presl (1820)
+        莲科 Nelumbonaceae A.Rich. (1827), nom. cons.
+        $$悬铃木科 Platanaceae T.Lestib. (1826), nom. cons.
+        $$山龙眼科 Proteaceae Juss. (1789), nom. cons.
+    †昆栏树目 Trochodendrales Takht. ex Cronquist (1981)
+        $昆栏树科 Trochodendraceae Eichler (1865), nom. cons.（包含水青树科 Tetracentraceae A.C.Sm., nom. cons.）
+    †黄杨目 Buxales Takht. ex Reveal (1996)
+        $黄杨科 Buxaceae Dumort. (1822), nom. cons.（包含双颊果科 Didymelaceae Leandri）
+        *无知果科 Haptanthaceae C.Nelson (2002)
+
+核心真双子叶植物 core eudicots
+
+    洋二仙草目 Gunnerales Takht. ex Reveal (1992)
+        $$洋二仙草科 Gunneraceae Meisn. (1842), nom. cons.
+        $$香灌木科 Myrothamnaceae Nied. (1891), nom. cons.
+    五桠果科 Dilleniaceae Salisb. (1807), nom. cons.（地位未定，五桠果目 Dilleniales DC. ex Bercht. & J.Presl保留）
+    虎耳草目 Saxifragales Bercht. & J.Presl (1820)
+        枫香科 Altingiaceae Horan. (1841), nom. cons.
+        胶藤科 Aphanopetalaceae　Doweld (2001)
+        连香树科 Cercidiphyllaceae Engl. (1907), nom. cons.
+        景天科 Crassulaceae J.St.-Hil. (1805), nom. cons.
+        交让木科 Daphniphyllaceae Müll.-Arg. (1869), nom. cons.
+        茶藨子科 Grossulariaceae DC. (1805), nom. cons.
+        $$小二仙草科 Haloragaceae R.Br. (1814), nom. cons.
+        金缕梅科 Hamamelidaceae R.Br. (1818), nom. cons.
+        $鼠刺科 Iteaceae J.Agardh (1858), nom. cons.（包含齿蕊科 Pterostemonaceae Small, nom. cons.）
+        芍药科 Paeoniaceae Raf. (1815), nom. cons.
+        $$扯根菜科 Penthoraceae Rydb. ex Britt. (1901), nom. cons.
+        *§围盘树科 Peridiscaceae Kuhlm. (1950), nom. cons.（包含毛丝花科 Medusandraceae Brenan, nom. cons.及非洲盘树属 Soyauxia Oliver）
+        虎耳草科 Saxifragaceae Juss. (1789), nom. cons.
+        $$四果木科 Tetracarpaeaceae Nakai (1943)
+    †智利藤目 Berberidopsidales Doweld (2001)
+        鳞枝树科 Aextoxicaceae Engl. & Gilg (1920), nom. cons.
+        智利藤科 Berberidopsidaceae Takht. (1985)
+    檀香目 Santalales R.Br. ex Bercht. & J.Presl (1820)
+        *蛇菰科 Balanophoraceae Rich. (1822), nom. cons.
+        桑寄生科 Loranthaceae Juss. (1808), nom. cons.
+        羽毛果科 Misodendraceae J.Agardh (1858), nom. cons.
+        檀香科 Santalaceae R.Br. (1810), nom. cons.
+        铁青树科 Olacaceae R.Br. (1818), nom. cons.
+        山柚子科 Opiliaceae Valeton (1886), nom. cons.
+        *青皮木科 Schoepfiaceae Blume (1850)
+    石竹目 Caryophyllales Juss. ex Bercht. & J.Presl (1820)
+        玛瑙果科 Achatocarpaceae Heimerl (1934), nom. cons.
+        番杏科 Aizoaceae Martinov (1820), nom. cons.
+        苋科 Amaranthaceae Juss. (1789), nom. cons.
+        *回欢草科 Anacampserotaceae Eggli & Nyffeler (2010, 发表于报章)
+        钩枝藤科 Ancistrocladaceae Planch. ex Walp. (1851), nom. cons.
+        翼萼茶科 Asteropeiaceae Takht. ex Reveal & Hoogland (1990)
+        节柄科 Barbeuiaceae Nakai (1942)
+        落葵科 Basellaceae Raf. (1837), nom. cons.
+        仙人掌科 Cactaceae Juss. (1789), nom. cons.
+        石竹科 Caryophyllaceae Juss. (1789), nom. cons.
+        §龙树科 Didiereaceae Radlk. (1896), nom. cons.
+        双钩叶科 Dioncophyllaceae Airy Shaw (1952), nom. cons.
+        茅膏菜科 Droseraceae Salisb. (1808), nom. cons.
+        露叶毛毡苔科 Drosophyllaceae Chrtek, Slavíková & Studnicˇka (1989)
+        瓣鳞花科 Frankeniaceae Desv. (1817), nom. cons.
+        吉粟草科 Gisekiaceae Nakai (1942)
+        浜藜叶科 Halophytaceae A.Soriano (1984)
+        *粟麦草科 Limeaceae Shipunov ex Reveal (2005)
+        *南商陆科 Lophiocarpaceae Doweld & Reveal (2008)
+        §粟米草科 Molluginaceae Bartl. (1825), nom. cons.
+        *小鸡草科 Montiaceae Raf. (1820)
+        猪笼草科 Nepenthaceae Dumort. (1829), nom. cons.
+        紫茉莉科 Nyctaginaceae Juss. (1789), nom. cons.
+        非洲桐科 Physenaceae Takht. (1985)
+        商陆科 Phytolaccaceae R.Br. (1818), nom. cons.
+        蓝雪科 Plumbaginaceae Juss. (1789), nom. cons.
+        蓼科 Polygonaceae Juss. (1789), nom. cons.
+        §马齿苋科 Portulacaceae Juss. (1789), nom. cons.
+        棒木科 Rhabdodendraceae Prance (1968)
+        肉叶刺茎藜科 Sarcobataceae Behnke (1997)
+        油蜡树科 Simmondsiaceae Tiegh. (1900)
+        闭籽花科 Stegnospermataceae Nakai (1942)
+        *土人参科 Talinaceae Doweld (2001)
+        柽柳科 Tamaricaceae Link (1821), nom. cons.
+
+蔷薇类植物 rosids
+
+    †葡萄目 Vitales Juss. ex Bercht. & J.Presl (1820)
+        葡萄科 Vitaceae Juss. (1789), nom. cons.
+
+豆类植物 fabids
+
+    †蒺藜目 Zygophyllales Link (1829)
+        $$刺球果科 Krameriaceae Dumort. (1829), nom. cons.
+        $$蒺藜科 Zygophyllaceae R.Br. (1814), nom. cons.
+    卫矛目 Celastrales Link (1829)
+        $卫矛科 Celastraceae R.Br. (1814), nom. cons.（包含微形草科 Lepuropetalaceae Nakai、梅花草科 Parnassiaceae Martinov, nom. cons.、托叶假樟科 Pottingeriaceae Takht.）
+        洋酢浆草科 Lepidobotryaceae J.Léonard (1950), nom. cons.
+    酢浆草目 Oxalidales Bercht. & J.Presl (1820)
+        瓣裂果科 Brunelliaceae Engl. (1897), nom. cons.
+        土瓶草科 Cephalotaceae Dumort. (1829), nom. cons.
+        牛栓藤科 Connaraceae R.Br. (1818), nom. cons.
+        火把树科 Cunoniaceae R.Br. (1814), nom. cons.
+        杜英科 Elaeocarpaceae Juss. ex DC. (1816), nom. cons.
+        *蒜树科 Huaceae A.Chev. (1947)
+        酢浆草科 Oxalidaceae R.Br. (1818), nom. cons.
+    金虎尾目 Malpighiales Juss. ex Bercht. & J.Presl (1820)
+        钟花科 Achariaceae Harms (1897), nom. cons.
+        槲树果科 Balanopaceae Benth. & Hook.f. (1880), nom. cons.
+        多子科 Bonnetiaceae L.Beauvis. ex Nakai (1948)
+        *胡桐科 Calophyllaceae J.Agardh
+        油桃木科 Caryocaraceae Voigt (1845), nom. cons.
+        *裂药树科 Centroplacaceae Doweld & Reveal (2005)
+        $$金壳果科 Chrysobalanaceae R.Br. (1818), nom. cons.
+        §藤黄科 Clusiaceae Lindl. (1836), nom. cons.
+        垂籽树科 Ctenolophonaceae Exell & Mendonça (1951)
+        $$毒鼠子科 Dichapetalaceae Baill. (1886), nom. cons.
+        沟繁缕科 Elatinaceae Dumort. (1829), nom. cons.
+        $$§古柯科 Erythroxylaceae Kunth (1822), nom. cons.（包含 Aneulophus Benth.）
+        大戟科 Euphorbiaceae Juss. (1789), nom. cons.
+        $$合丝花科 Euphroniaceae Marc.-Berti (1989)
+        毛药树科 Goupiaceae Miers (1862)
+        香膏科 Humiriaceae A.Juss. (1829), nom. cons.
+        金丝桃科 Hypericaceae Juss. (1789), nom. cons.
+        包芽树科 Irvingiaceae Exell & Mendonça (1951), nom. cons.
+        粘木科 Ixonanthaceae Planch. ex Miq. (1858), nom. cons.
+        裂药花科 Lacistemataceae Mart. (1826), nom. cons.
+        亚麻科 Linaceae DC. ex Perleb (1818), nom. cons.
+        五翼果科 Lophopyxidaceae H.Pfeiff. (1951)
+        金虎尾科 Malpighiaceae Juss. (1789), nom. cons.
+        $金莲木科 Ochnaceae DC. (1811), nom. cons.（包含水母柱科 Medusagynaceae Engl. & Gilg, nom. cons.、羽叶树科 Quiinaceae Choisy, nom. cons.）
+        小盘木科 Pandaceae Engl. & Gilg (1912–1913), nom. cons.
+        $西番莲科 Passifloraceae Juss. ex Roussel (1806), nom. cons.（包含王冠草科 Malesherbiaceae D.Don, nom. cons.、时钟花科 Turneraceae Kunth ex DC. (1828), nom. cons.）
+        叶下珠科 Phyllanthaceae Martinov (1820), nom. cons.
+        苦胡桃科 Picrodendraceae Small (1917), nom. cons.
+        川苔草科 Podostemaceae Rich. ex Kunth (1816), nom. cons.
+        非洲核果木科 Putranjivaceae Meisn. (1842)
+        *大花草科 Rafflesiaceae Dumort. (1829), nom. cons.
+        $$红树科 Rhizophoraceae Pers. (1807), nom. cons.
+        杨柳科 Salicaceae Mirb. (1815), nom. cons.
+        $$三角果科 Trigoniaceae A.Juss. (1849), nom. cons.
+        堇菜科 Violaceae Batsch (1802), nom. cons.
+    葫芦目 Cucurbitales Juss. ex Bercht. & J.Presl (1820)
+        四柱木科 Anisophylleaceae Ridl. (1922)
+        秋海棠科 Begoniaceae C.Agardh (1824), nom. cons.
+        马桑科 Coriariaceae DC. (1824), nom. cons.
+        棒果木科 Corynocarpaceae Engl. (1897), nom. cons.
+        葫芦科 Cucurbitaceae Juss. (1789), nom. cons.
+        野麻科 Datiscaceae Dumort. (1829), nom. cons.
+        四数木科 Tetramelaceae Airy Shaw (1965)
+    豆目 Fabales Bromhead (1838)
+        豆科 Fabaceae Lindl. (1836), nom. cons.
+        远志科 Polygalaceae Hoffmanns. & Link (1809), nom. cons.
+        皂皮树科 Quillajaceae D.Don (1831)
+        海人树科 Surianaceae Arn. (1834), nom. cons.
+    壳斗目 Fagales Engl. (1892)
+        桦木科 Betulaceae Gray (1822), nom. cons.
+        木麻黄科 Casuarinaceae R.Br. (1814), nom. cons.
+        山毛榉科 Fagaceae Dumort. (1829), nom. cons.
+        §胡桃科 Juglandaceae DC. ex Perleb (1818), nom. cons.（包含马尾树科 Rhoipteleaceae Hand.-Mazz. (1932), nom. cons.）
+        杨梅科 Myricaceae A.Rich. ex Kunth (1817), nom. cons.
+        南青冈科 Nothofagaceae Kuprian (1962)
+        太果木科 Ticodendraceae Gómez-Laur. & L.D.Gómez (1991)
+    蔷薇目 Rosales Bercht. & J.Presl (1820)
+        钩毛树科 Barbeyaceae Rendle (1916), nom. cons.
+        大麻科 Cannabaceae Martinov (1820), nom. cons.
+        八瓣果科 Dirachmaceae Hutch. (1959)
+        胡颓子科 Elaeagnaceae Juss. (1789), nom. cons.
+        桑科 Moraceae Gaudich. (1835), nom. cons.
+        鼠李科 Rhamnaceae Juss. (1789), nom. cons.
+        蔷薇科 Rosaceae Juss. (1789), nom. cons.
+        榆科 Ulmaceae Mirb. (1815), nom. cons.
+        荨麻科 Urticaceae Juss. (1789), nom. cons.
+
+锦葵类植物 malvids
+
+    牻牛儿苗目 Geraniales Juss. ex Bercht. & J.Presl (1820)
+        $牻牛儿苗科 Geraniaceae Juss. (1789), nom. cons.（包含高柱花科 Hypseocharitaceae Wedd.)
+        $蜜花科 Melianthaceae Horan. (1834), nom. cons.（包含花茎草科 Francoaceae A.Juss., nom. cons.)
+        §曲胚科 Vivianiaceae Klotzsch, nom. cons. prop.（包含杜香果科 Ledocarpaceae Meyen)
+    桃金娘目 Myrtales Juss. ex Bercht. & J.Presl (1820)
+        双翼果科 AlzateaceaeS.A.Graham(1985)
+        使君子科 Combretaceae R.Br. (1810), nom. cons.
+        隐翼科 Crypteroniaceae A.DC. (1868), nom. cons.
+        千屈菜科 Lythraceae J.St.-Hil. (1805), nom. cons.
+        $野牡丹科 Melastomataceae Juss. (1789), nom. cons.（包含谷木科 Memecylaceae DC., nom. cons.）
+        §桃金娘科 Myrtaceae Juss. (1789), nom. cons.（包含异裂果科 Heteropyxidaceae Engl. & Gilg, nom. cons.、裸木科 Psiloxylaceae Croizat）
+        柳叶菜科 Onagraceae Juss. (1789), nom. cons.
+        §管萼科 Penaeaceae Sweet ex Guill. (1828), nom. cons.（包含方枝树科 Oliniaceae Arn., nom. cons.、喙萼花科 Rhynchocalycaceae L.A.S.Johnson & B.G.Briggs）
+        蜡烛树科 Vochysiaceae A.St.-Hil. (1820), nom. cons.
+    燧体木目 Crossosomatales Takht. ex Reveal (1993)
+        *单果树科 Aphloiaceae Takht. (1985)
+        燧体木科 Crossosomataceae Engl. (1897), nom. cons.
+        *四棱果科 Geissolomataceae A.DC. (1856)
+        *南线梅科 Guamatelaceae S.Oh & D.Potter (2006)
+        旌节花科 Stachyuraceae J.Agardh (1858), nom. cons.
+        省沽油科 Staphyleaceae Martinov (1820), nom. cons.
+        *§栓皮果科 Strasburgeriaceae Soler. (1908), nom. cons.（包含西兰木科 Ixerbaceae Griseb. ex Doweld & Reveal）
+    †美洲苦木目 Picramniales Doweld (2001)
+        *美洲苦木科 Picramniaceae Fernando & Quinn (1995)
+    †十齿花目 Huerteales Doweld (2001)
+        *十齿花科 Dipentodontaceae Merr. (1941), nom. cons.
+        *非杨柳科 Gerrardinaceae Alford (2006)
+        瘿椒树科 Tapisciaceae Takht. (1987)
+    十字花目 Brassicales Bromhead (1838)
+        $叠珠树科 Akaniaceae Stapf (1912), nom. cons.（包含钟萼木科 Bretschneideraceae Engl. & Gilg, nom. cons.）
+        藜木科 Bataceae Mart. ex Perleb (1838), nom. cons.
+        §十字花科 Brassicaceae Burnett (1835), nom. cons.
+        *山柑科 Capparaceae Juss. (1789), nom. cons.
+        番木瓜科 Caricaceae Dumort. (1829), nom. cons.
+        *醉蝶花科 Cleomaceae Bercht. & J.Presl (1825)
+        澳远志科 Emblingiaceae J.Agardh (1958)
+        环蕊科 Gyrostemonaceae A.Juss. (1845), nom. cons.
+        刺枝树科 Koeberliniaceae Engl. (1895), nom. cons.
+        池花科 Limnanthaceae R.Br. (1833), nom. cons.
+        辣木科 Moringaceae Martinov (1820), nom. cons.
+        瘤药树科 Pentadiplandraceae Hutch. & Dalziel (1928)
+        木犀草科 Resedaceae Martinov (1820), nom. cons.
+        刺茉莉科 Salvadoraceae Lindl. (1836), nom. cons.
+        夷白花菜科 Setchellanthaceae Iltis (1999)
+        烈味三叶草科 Tovariaceae Pax (1891), nom. cons.
+        旱金莲科 Tropaeolaceae Juss. ex DC. (1824), nom. cons.
+    锦葵目 Malvales Juss. ex Bercht. & J.Presl (1820)
+        $红木科 Bixaceae Kunth (1822), nom. cons.（包含弯子木科 Cochlospermaceae Planch., nom. cons.、地果莲木科 Diegodendraceae Capuron）
+        半日花科 Cistaceae Juss. (1789), nom. cons.
+        *簇花草科 Cytinaceae A.Rich. (1824)
+        龙脑香科 Dipterocarpaceae Blume (1825), nom. cons.
+        锦葵科 Malvaceae Juss. (1789), nom. cons.
+        文定果科 Muntingiaceae C.Bayer, M.W.Chase & M.F.Fay (1998)
+        沙莓科 Neuradaceae Kostel. (1835), nom. cons.
+        旋花树科 Sarcolaenaceae Caruel (1881), nom. cons.
+        球萼树科 Sphaerosepalaceae Tiegh. ex Bullock (1959)
+        瑞香科 Thymelaeaceae Juss. (1789), nom. cons.
+    无患子目 Sapindales Juss. ex Bercht. & J.Presl (1820)
+        漆树科 Anacardiaceae R.Br. (1818), nom. cons.
+        薰倒牛科 Biebersteiniaceae Schnizl. (1856)
+        橄榄科 Burseraceae Kunth (1824), nom. cons.
+        番苦木科 Kirkiaceae Takht. (1967)
+        楝科 Meliaceae Juss. (1789), nom. cons.
+        $白刺科 Nitrariaceae Lindl. (1835), nom. cons.（包含骆驼蓬科 Peganaceae Tiegh. ex Takht.、旱霸王科 Tetradiclidaceae Takht.）
+        芸香科 Rutaceae Juss. (1789), nom. cons.
+        无患子科 Sapindaceae Juss. (1789), nom. cons.
+        苦木科 Simaroubaceae DC. (1811), nom. cons.
+
+菊类植物 asterids
+
+    山茱萸目 Cornales Link. (1829)
+        山茱萸科 Cornaceae Bercht. & J.Presl (1825), nom. cons.（包含珙桐科 Nyssaceae Juss. ex Dumort.）
+        南非茱萸科 Curtisiaceae Takht. (1987)
+        假石南科 Grubbiaceae Endl. ex Meisn., (1841), nom. cons.
+        绣球花科 Hydrangeaceae Dumort. (1829), nom. cons.
+        水穗草科 Hydrostachyaceae Engl. (1894), nom. cons.
+        刺莲花科 Loasaceae Juss. (1804), nom. cons.
+    杜鹃花目 Ericales Bercht. & J.Presl (1820)
+        猕猴桃科 Actinidiaceae Engl. & Gilg. (1824), nom. cons.
+        凤仙花科 Balsaminaceae A.Rich. (1824), nom. cons.
+        山柳科 Clethraceae Klotzsch (1851), nom. cons.
+        翅萼树科 Cyrillaceae Lindl. (1846), nom. cons.
+        岩梅科 Diapensiaceae Lindl. (1836), nom. cons.
+        柿树科 Ebenaceae Gürke (1891), nom. cons.
+        杜鹃花科 Ericaceae Juss. (1789), nom. cons.
+        福桂花科 Fouquieriaceae DC. (1828), nom. cons.
+        玉蕊科 Lecythidaceae A.Rich. (1825), nom. cons.
+        蜜囊花科 Marcgraviaceae Bercht. & J.Presl (1820), nom. cons.
+        *帽蕊草科 Mitrastemonaceae Makino (1911), nom. cons.
+        $五列木科 Pentaphylacaceae Engl. (1897), nom. cons.（包含厚皮香科 Ternstroemiaceae Mirb. ex DC.）
+        花荵科 Polemoniaceae Juss. (1789), nom. cons.
+        §报春花科 Primulaceae Batsch ex Borkh. (1797), nom. cons.（包含杜茎山科 Maesaceae Anderb.、B.Ståhl & Källersjö、紫金牛科 Myrsinaceae R.Br., nom. cons.、假轮叶科 Theophrastaceae G.Don, nom. cons.）
+        捕蝇幌科 Roridulaceae Martinov (1820), nom. cons.
+        山榄科 Sapotaceae Juss. (1789), nom. cons.
+        瓶子草科 Sarraceniaceae Dumort. (1829), nom. cons.
+        $$肋果茶科 Sladeniaceae Airy Shaw (1965)
+        野茉莉科 Styracaceae DC. & Spreng. (1821), nom. cons.
+        山矾科 Symplocaceae Desf. (1820), nom. cons.
+        $四籽树科 Tetrameristaceae Hutch. (1959)（包含假红树科 Pellicieraceae L.Beauvis.）
+        山茶科 Theaceae Mirb. ex Ker Gawl. (1816), nom. cons.
+
+唇形类植物 lamiids
+
+    §*紫草科 Boraginaceae Juss. (1789), nom. cons.（包含单柱花科 Hoplestigmataceae Gilg, nom. cons.)
+    二歧草科 Vahliaceae Dandy (1959)
+    茶茱萸科 Icacinaceae Miers (1851), nom. cons.
+    管花木科 Metteniusaceae H.Karst. ex Schnizl. (1860–1870)
+    五蕊茶科 Oncothecaceae Kobuski ex Airy Shaw (1965)
+    绞木目 Garryales Lindl. (1835)
+        杜仲科 Eucommiaceae Engl. (1907), nom. cons.
+        $绞木科 Garryaceae Lindl. (1834), nom. cons.（包含桃叶珊瑚科 Aucubaceae Bercht. & J.Presl）
+    龙胆目 Gentianales Juss. ex Bercht. & J.Presl (1820)
+        夹竹桃科 Apocynaceae Juss. (1789), nom. cons.
+        胡蔓藤科 Gelsemiaceae Struwe & V.A.Albert (1995)
+        龙胆科 Gentianaceae Juss. (1789), nom. cons.
+        马钱科 Loganiaceae R.Br. ex Mart. (1827), nom. cons.
+        茜草科 Rubiaceae Juss. (1789), nom. cons.
+    唇形目 Lamiales Bromhead (1838)
+        §爵床科 Acanthaceae Juss. (1789), nom. cons.
+        紫葳科 Bignoniaceae Juss. (1789), nom. cons.
+        腺毛草科 Byblidaceae Domin (1922), nom. cons.
+        蒲包花科 Calceolariaceae Olmstead (2001)
+        香茜科 Carlemanniaceae Airy Shaw (1965)
+        苦苣苔科 Gesneriaceae Rich. & Juss. (1816), nom. cons.
+        唇形科 Lamiaceae Martinov (1820), nom. cons.
+        *母草科 Linderniaceae Borsch, K.Müll., & Eb.Fisch. (2005)
+        狸藻科 Lentibulariaceae Rich. (1808), nom. cons.
+        角胡麻科 Martyniaceae Horan. (1847), nom. cons.
+        木犀科 Oleaceae Hoffmanns. & Link (1809), nom. cons.
+        列当科 Orobanchaceae Vent. (1799), nom. cons.
+        泡桐科 Paulowniaceae Nakai (1949)
+        胡麻科 Pedaliaceae R.Br. (1810), nom. cons.
+        透骨草科 Phrymaceae Schauer (1847), nom. cons.
+        §车前科 Plantaginaceae Juss. (1789), nom. cons.
+        环生籽科 Plocospermataceae Hutch. (1973)
+        夷地黄科 Schlegeliaceae Reveal (1996)
+        玄参科 Scrophulariaceae Juss. (1789), nom. cons.
+        密穗草科 Stilbaceae Kunth (1831), nom. cons.
+        四粉草科 Tetrachondraceae Wettst. (1924)
+        *土蔓兜科 Thomandersiaceae Sreem. (1977)
+        马鞭草科 Verbenaceae J.St.-Hil. (1805), nom. cons.
+    茄目 Solanales Juss. ex Bercht. & J.Presl (1820)
+        旋花科 Convolvulaceae Juss. (1789), nom. cons.
+        田基麻科 Hydroleaceae R.Br. ex Edwards (1821)
+        山醋李科 Montiniaceae Nakai (1943), nom. cons.
+        茄科 Solanaceae Juss. (1789), nom. cons.
+        楔瓣花科 Sphenocleaceae T.Baskerv. (1839), nom. cons.
+
+桔梗类植物 campanulids
+
+    冬青目 Aquifoliales Senft (1856)
+        冬青科 Aquifoliaceae Bercht. & J.Presl (1820), nom. cons.
+        §心翼果科 Cardiopteridaceae Blume (1847), nom. cons.（包含科 Leptaulaceae Tiegh.）
+        青荚叶科 Helwingiaceae Decne. (1836)
+        叶茶藨科 Phyllonomaceae Small (1905)
+        金檀木科 Stemonuraceae Kårehed (2001)
+    菊目 Asterales Link (1829)
+        假海桐科 Alseuosmiaceae Airy Shaw (1965)
+        雪叶科 Argophyllaceae Takht. (1987)
+        菊科 Asteraceae Bercht. & J.Presl (1820), nom. cons.
+        头花草科 Calyceraceae R.Br. ex Rich. (1820), nom. cons.
+        $桔梗科 Campanulaceae Juss. (1789), nom. cons.（包含半边莲科 Lobeliaceae Juss., nom. cons）
+        草海桐科 Goodeniaceae R.Br. (1810), nom. cons.
+        睡菜科 Menyanthaceae Dumort. (1829), nom. cons.
+        五膜草科 Pentaphragmataceae J.Agardh (1858), nom. cons.
+        石冬青科 Phellinaceae Takht. (1967)
+        卢梭木科 Rousseaceae DC. (1839)
+        $花柱草科 Stylidiaceae R.Br. (1810), nom. cons.（包含陀螺果科 Donatiaceae B.Chandler, nom. cons.）
+    †南鼠刺目 Escalloniales R.Br. (1835)
+        §南鼠刺科 Escalloniaceae R.Br. ex Dumort. (1829), nom. cons.（包含寄奴花科 Eremosynaceae Dandy、多香木科 Polyosmaceae Blume、智利木科 Tribelaceae Airy Shaw）
+    †鳞叶树目 Bruniales Dumort. (1829)
+        鳞叶树科 Bruniaceae R.Br. ex DC. (1825), nom. cons.
+        §弯药树科 Columelliaceae D.Don (1828), nom. cons.（包含离水花科 Desfontainiaceae Endl., nom. cons.）
+    †盔瓣花目 Paracryphiales Takht. ex Reveal (1992)
+        §盔瓣花科 Paracryphiaceae Airy Shaw (1965)（包含*眠树科 Quintiniaceae Doweld、楔蕊花科 Sphenostemonaceae P.Royen & Airy Shaw (1972)）
+    川续断目 Dipsacales Juss. ex Bercht. & J.Presl (1820)
+        五福花科 Adoxaceae E.Mey. (1839), nom. cons.
+        §忍冬科 Caprifoliaceae Juss. (1789), nom. cons.（包含黄锦带科 Diervillaceae Pyck、川续断科 Dipsacaceae Juss., nom. cons.、北极花科 Linnaeaceae Backlund、刺续断科 Morinaceae Raf.、败酱科 Valerianaceae Batsch, nom. cons.）
+    伞形目 Apiales Nakai (1930)
+        伞形科 Apiaceae Lindl. (1836), nom. cons.
+        五加科 Araliaceae Juss. (1789), nom. cons.
+        夷茱萸科 Griseliniaceae J.R.Forst. & G.Forst. ex A.Cunn. (1839)
+        裂果红科 Myodocarpaceae Doweld (2001)
+        彭南特氏木科 Pennantiaceae J.Agardh (1858)
+        海桐花科 Pittosporaceae R.Br. (1814), nom. cons.
+        §鞘柄木科 Torricelliaceae Hu (1934)（包含假茱萸科 Aralidiaceae Philipson & B.C.Stone、番茱萸科 Melanophyllaceae Takht. ex Airy Shaw）
+
+地位未定 incertae sedis
+
+    离花科 Apodanthaceae Takhtajan（共三属）
+    锁阳科 Cynomoriaceae Endl. ex Lindl. (1833), nom. cons.
+    胶蘼属Gumillea Ruiz & Pav.
+    枇藤属Petenaea Lundell（可能属于锦葵目）
+    尼科巴缨花属Nicobariodendron（可能属于卫矛科）[2]

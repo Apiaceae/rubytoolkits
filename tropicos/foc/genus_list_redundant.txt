@@ -1,0 +1,3768 @@
+familyid | genusid | latinname | namezh | lowertaxa
+10002 | 100149 | Acanthus | 老鼠簕属 | 3
+10002 | 101685 | Andrographis | 穿心莲属 | 2
+10002 | 103025 | Asystasia | 十万错属 | 6
+10002 | 103517 | Barleria | 假杜鹃属 | 4
+10002 | 104077 | Blepharis | 百簕花属 | 1
+10002 | 106927 | Chroesthes | 色萼花属 | 1
+10002 | 107351 | Clinacanthus | 鳄嘴花属 | 1
+10002 | 107525 | Codonacanthus | 钟花草属 | 1
+10002 | 108143 | Cosmianthemum | 秋英爵床属 | 3
+10002 | 109107 | Cystacanthus | 鳔冠花属 | 8
+10002 | 109954 | Dicliptera | 狗肝菜属 | 4
+10002 | 111202 | Echinacanthus | 恋岩花属 | 3
+10002 | 111901 | Eranthemum | 可爱花属 | 4
+10002 | 114314 | Gymnostachyum | 裸柱草属 | 3
+10002 | 116043 | Hygrophila | 水蓑衣属 | 8
+10002 | 116236 | Hypoestes | 枪刀药属 | 3
+10002 | 116583 | Isoglossa | 叉序草属 | 2
+10002 | 116893 | Justicia | 爵床属 | 43
+10002 | 117307 | Kudoacanthus | 银脉爵床属 | 1
+10002 | 118024 | Lepidagathis | 鳞花草属 | 7
+10002 | 118261 | Leptostachya | 纤穗爵床属 | 1
+10002 | 119266 | Mackaya | 太平爵床属 | 1
+10002 | 121797 | Nelsonia | 瘤子草属 | 1
+10002 | 122997 | Ophiorrhiziphyllon | 蛇根叶属 | 1
+10002 | 123991 | Pararuellia | 地皮消属 | 5
+10002 | 124587 | Peristrophe | 观音草属 | 10
+10002 | 124929 | Phaulopsis | 肾苞草属 | 1
+10002 | 125051 | Phlogacanthus | 火焰花属 | 2
+10002 | 126943 | Pseuderanthemum | 山壳骨属 | 7
+10002 | 128303 | Rhinacanthus | 灵枝草属 | 2
+10002 | 128847 | Ruellia | 芦莉草属 | 4
+10002 | 128875 | Rungia | 孩儿草属 | 16
+10002 | 131222 | Staurogyne | 叉柱花属 | 17
+10002 | 131740 | Strobilanthes | 马蓝属 | 135
+10002 | 132906 | Thunbergia | 山牵牛属 | 6
+10005 | 100167 | Acer | 枫属 | 161
+10005 | 110509 | Dipteronia | 金钱枫属 | 2
+20008 | 100307 | Acorus | 菖蒲属 | 2
+10011 | 100431 | Actinidia | 猕猴桃属 | 87
+10011 | 107314 | Clematoclethra | 藤山柳属 | 5
+10011 | 129331 | Saurauia | 水东哥属 | 19
+10015 | 100629 | Adoxa | 五福花属 | 3
+10015 | 129102 | Sambucus | 接骨木属 | 4
+10015 | 130393 | Sinadoxa | 华福花属 | 1
+10015 | 134551 | Viburnum | 荚蒾属 | 115
+10020 | 130212 | Sesuvium | 海马齿属 | 1
+10020 | 132571 | Tetragonia | 番杏属 | 1
+10020 | 133376 | Trianthema | 假海马齿属 | 1
+10022 | 100931 | Alangium | 八角枫属 | 22
+10025 | 101042 | Alisma | 泽泻属 | 6
+10025 | 104916 | Butomopsis | 拟花蔺属 | 1
+10025 | 105055 | Caldesia | 泽薹草属 | 2
+10025 | 118588 | Limnocharis | 黄花蔺属 | 1
+10025 | 127963 | Ranalisma | 毛茛泽泻属 | 1
+10025 | 129016 | Sagittaria | 慈姑属 | 9
+10031 | 100227 | Achyranthes | 牛膝属 | 9
+10031 | 100701 | Aerva | 白花苋属 | 2
+10031 | 101087 | Allmania | 砂苋属 | 1
+10031 | 101216 | Alternanthera | 莲子草属 | 5
+10031 | 101257 | Amaranthus | 苋属 | 17
+10031 | 105991 | Celosia | 青葙属 | 3
+10031 | 108808 | Cyathula | 杯苋属 | 4
+10031 | 109463 | Deeringia | 浆果苋属 | 2
+10031 | 113845 | Gomphrena | 千日红属 | 2
+10031 | 116495 | Iresine | 血苋属 | 1
+10031 | 125014 | Philoxerus | 安旱苋属 | 1
+10031 | 127360 | Psilotrichopsis | 青花苋属 | 1
+10031 | 127361 | Psilotrichum | 林地苋属 | 5
+10031 | 131566 | Stilbanthus | 巨苋藤属 | 1
+10031 | 202777 | TRICHURIELLA | 针叶苋属 | 1
+10032 | 100088 | Acanthochlamys | 芒苞草属 | 1
+10032 | 100796 | Agave | 龙舌兰属 | 2
+10032 | 108369 | Crinum | 文殊兰属 | 2
+10032 | 108705 | Curculigo | 仙茅属 | 7
+10032 | 116263 | Hypoxis | 小金梅草属 | 1
+10032 | 116676 | Ixiolirion | 鸢尾蒜属 | 4
+10032 | 119162 | Lycoris | 石蒜属 | 17
+10032 | 121652 | Narcissus | 水仙属 | 1
+10032 | 123742 | Pancratium | 全能花属 | 1
+10032 | 135293 | Zephyranthes | 葱莲属 | 2
+10038 | 20792 | Anacardiaceae Tribe ANACARDIEAE | 腰果族 | 3
+10038 | 20793 | Anacardiaceae Tribe DOBINEEAE | 九子母族 | 1
+10038 | 20795 | Anacardiaceae Tribe RHOEAE | 漆树族 | 5
+10038 | 20794 | Anacardiaceae Tribe SEMECARPEAE | 肉托果族 | 2
+10038 | 20791 | Anacardiaceae Tribe SPONDIADEAE | 槟榔青族 | 6
+10038 | 101536 | Anacardium | 腰果属 | 1
+10038 | 104776 | Buchanania | 山檨子属 | 4
+10038 | 106828 | Choerospondias | 南酸枣属 | 3
+10038 | 108168 | Cotinus | 黄栌属 | 6
+10038 | 110719 | Dobinea | 九子母属 | 2
+10038 | 110895 | Dracontomelon | 人面子属 | 2
+10038 | 110941 | Drimycarpus | 辛果漆属 | 2
+10038 | 317171 | Haplospondias | 单叶槟榔青属 | 1
+10038 | 117589 | Lannea | 厚皮树属 | 1
+10038 | 119606 | Mangifera | 杧果属 | 5
+10038 | 124259 | Pegia | 藤漆属 | 2
+10038 | 125608 | Pistacia | 黄连木属 | 2
+10038 | 128455 | Rhus | 盐麸木属 | 10
+10038 | 130051 | Semecarpus | 肉托果属 | 4
+10038 | 131065 | Spondias | 槟榔青属 | 4
+10038 | 200188 | Terminthia | 三叶漆属 | 1
+10038 | 133197 | Toxicodendron | 漆树属 | 31
+10039 | 101634 | Ancistrocladus | 钩枝藤属 | 1
+10047 | 101186 | Alphonsea | 藤春属 | 6
+10047 | 101613 | Anaxagorea | 蒙蒿子属 | 1
+10047 | 101891 | Annona | 番荔枝属 | 7
+10047 | 102676 | Artabotrys | 鹰爪花属 | 8
+10047 | 105496 | Cananga | 依兰属 | 3
+10047 | 106656 | Chieniodendron | 蕉木属 | 1
+10047 | 108805 | Cyathostemma | 杯冠木属 | 1
+10047 | 109347 | Dasymaschalon | 皂帽花属 | 6
+10047 | 109703 | Desmos | 假鹰爪属 | 5
+10047 | 110602 | Disepalum | 异萼花属 | 2
+10047 | 112832 | Fissistigma | 瓜馥木属 | 23
+10047 | 113024 | Friesodielsia | 尖花藤属 | 1
+10047 | 113894 | Goniothalamus | 哥纳香属 | 11
+10047 | 120029 | Meiogyne | 鹿茸木属 | 1
+10047 | 120720 | Miliusa | 野独活属 | 7
+10047 | 120840 | Mitrephora | 银钩花属 | 3
+10047 | 123222 | Orophea | 澄广花属 | 6
+10047 | 126338 | Polyalthia | 暗罗属 | 17
+10047 | 126534 | Popowia | 嘉陵花属 | 1
+10047 | 127309 | Pseuduvaria | 金钩花属 | 1
+10047 | 128714 | Rollinia | 娄林果属 | 1
+10047 | 133843 | Trivalvaria | 海岛木属 | 1
+10047 | 134273 | Uvaria | 紫玉盘属 | 8
+10047 | 135174 | Xylopia | 木瓣树属 | 1
+10052 | 100373 | Acronema | 丝瓣芹属 | 24
+10052 | 100665 | Aegopodium | 羊角芹属 | 5
+10052 | 101368 | Ammi | 阿米芹属 | 2
+10052 | 101743 | Anethum | 莳萝属 | 1
+10052 | 101754 | Angelica | 当归属 | 54
+10052 | 102071 | Anthriscus | 峨参属 | 3
+10052 | 102208 | Aphanopleura | 隐棱芹属 | 2
+10052 | 102257 | Apium | 芹属 | 1
+10052 | 102455 | Archangelica | 古当归属 | 2
+10052 | 102500 | Arcuatopterus | 弓翅芹属 | 3
+10052 | 103870 | Berula | 天山泽芹属 | 1
+10052 | 104853 | Bupleurum | 柴胡属 | 70
+10052 | 105665 | Carlesia | 山茴香属 | 1
+10052 | 105759 | Carum | 葛缕子属 | 4
+10052 | 106008 | Cenolophium | 空棱芹属 | 1
+10052 | 106022 | Centella | 积雪草属 | 1
+10052 | 106315 | Chaerophyllopsis | 滇藏细叶芹属 | 1
+10052 | 106316 | Chaerophyllum | 细叶芹属 | 2
+10052 | 106468 | Chamaesciadium | 矮伞芹属 | 1
+10052 | 106471 | Chamaesium | 矮泽芹属 | 7
+10052 | 106508 | Changium | 明党参属 | 1
+10052 | 200112 | Chuanminshen | 川明参属 | 1
+10052 | 107076 | Cicuta | 毒芹属 | 3
+10052 | 107435 | Cnidium | 蛇床属 | 7
+10052 | 107576 | Coelopleurum | 高山芹属 | 2
+10052 | 107853 | Conioselinum | 山芎属 | 3
+10052 | 107860 | Conium | 毒参属 | 1
+10052 | 108011 | Coriandrum | 芫荽属 | 1
+10052 | 108073 | Cortia | 喜峰芹属 | 1
+10052 | 108075 | Cortiella | 栓果芹属 | 3
+10052 | 108587 | Cryptotaenia | 鸭儿芹属 | 1
+10052 | 108672 | Cuminum | 孜然芹属 | 1
+10052 | 200117 | Cyclorhiza | 环根芹属 | 2
+10052 | 200352 | Cyclospermum | 细叶旱芹属 | 1
+10052 | 109163 | Czernaevia | 柳叶芹属 | 3
+10052 | 109376 | Daucus | 胡萝卜属 | 3
+10052 | 109943 | Dickinsia | 马蹄芹属 | 1
+10052 | 112036 | Eriocycla | 绒果芹属 | 7
+10052 | 112140 | Eryngium | 刺芹属 | 2
+10052 | 112746 | Ferula | 阿魏属 | 28
+10052 | 112896 | Foeniculum | 茴香属 | 1
+10052 | 113624 | Glehnia | 珊瑚菜属 | 1
+10052 | 114639 | Haplosphaera | 单球芹属 | 2
+10052 | 114712 | Harrysmithia | 细裂芹属 | 2
+10052 | 115150 | Heracleum | 独活属 | 36
+10052 | 115929 | Hyalolaena | 斑膜芹属 | 2
+10052 | 115990 | Hydrocotyle | 天胡荽属 | 20
+10052 | 116080 | Hymenidium |   | 5
+10052 | 117272 | Krasnovia | 块茎芹属 | 1
+10052 | 118476 | Levisticum | 欧当归属 | 1
+10052 | 118498 | Libanotis | 岩风属 | 18
+10052 | 118546 | Ligusticum | 藁本属 | 46
+10052 | 118744 | Lithosciadium | 石蛇床属 | 1
+10052 | 119964 | Meeboldia | 滇芹属 | 2
+10052 | 120102 | Melanosciadium | 紫伞芹属 | 3
+10052 | 122441 | Nothosmyrnium | 白苞芹属 | 6
+10052 | 122472 | Notopterygium | 羌活属 | 6
+10052 | 122730 | Oenanthe | 水芹属 | 11
+10052 | 202506 | Oreocomopsis | 羽苞芹属 | 1
+10052 | 123123 | Oreomyrrhis | 山茉莉芹属 | 1
+10052 | 123340 | Osmorhiza | 香根芹属 | 3
+10052 | 123357 | Ostericum | 山芹属 | 15
+10052 | 123611 | Pachypleurum | 厚棱芹属 | 5
+10052 | 124135 | Pastinaca | 欧防风属 | 1
+10052 | 124743 | Petroselinum | 欧芹属 | 1
+10052 | 124750 | Peucedanum | 前胡属 | 47
+10052 | 125055 | Phlojodicarpus | 胀果芹属 | 2
+10052 | 125347 | Physospermopsis | 滇芎属 | 8
+10052 | 125493 | Pimpinella | 茴芹属 | 49
+10052 | 126044 | Pleurospermopsis | 簇苞芹属 | 1
+10052 | 126045 | Pleurospermum | 棱子芹属 | 42
+10052 | 126675 | Prangos | 栓翅芹属 | 4
+10052 | 127435 | Pternopetalum | 囊瓣芹属 | 34
+10052 | 127542 | Pterygopleurum | 翅棱芹属 | 1
+10052 | 128386 | Rhododendron | 杜鹃属 | 908
+10052 | 129131 | Sanicula | 变豆菜属 | 24
+10052 | 129162 | Saposhnikovia | 防风属 | 1
+10052 | 129372 | Scaligeria | 丝叶芹属 | 1
+10052 | 129381 | Scandix | 针果芹属 | 1
+10052 | 129676 | Schrenkia | 双球芹属 | 1
+10052 | 200507 | Schulzia | 苞裂芹属 | 4
+10052 | 129694 | Schumannia | 球根阿魏属 | 1
+10052 | 130033 | Selinum | 亮蛇床属 | 3
+10052 | 130057 | Semenovia | 大瓣芹属 | 4
+10052 | 130198 | Seseli | 西风芹属 | 21
+10052 | 130200 | Seselopsis | 西归芹属 | 1
+10052 | 130346 | Silaum | 亮叶芹属 | 1
+10052 | 130418 | Sinocarum | 小芹属 | 12
+10052 | 130429 | Sinolimprichtia | 舟瓣芹属 | 3
+10052 | 130526 | Sium | 泽芹属 | 5
+10052 | 130712 | Soranthus | 簇花芹属 | 1
+10052 | 130949 | Sphallerocarpus | 迷果芹属 | 1
+10052 | 131369 | Stenocoelium | 狭腔芹属 | 2
+10052 | 200186 | Talassia | 伊犁芹属 | 1
+10052 | 133122 | Tongoloa | 东俄芹属 | 15
+10052 | 133135 | Tordyliopsis | 阔翅芹属 | 1
+10052 | 133141 | Torilis | 窃衣属 | 2
+10052 | 133231 | Trachydium | 瘤果芹属 | 6
+10052 | 133252 | Trachyspermum | 糙果芹属 | 6
+10052 | 134009 | Turgenia | 刺果芹属 | 1
+10052 | 134552 | Vicatia | 凹乳芹属 | 3
+10052 | 135357 | Zosima | 艾叶芹属 | 1
+10053 | 100290 | Acokanthera | 长药花属 | 1
+10053 | 100773 | Aganosma | 香花藤属 | 5
+10053 | 101055 | Allamanda | 黄蝉属 | 2
+10053 | 101211 | Alstonia | 鸡骨常山属 | 8
+10053 | 101239 | Alyxia | 琏珠藤属 | 12
+10053 | 101245 | Amalocalyx | 毛车藤属 | 1
+10053 | 101507 | Amsonia | 水甘草属 | 1
+10053 | 101896 | Anodendron | 鳝藤属 | 5
+10053 | 102290 | Apocynum | 罗布麻属 | 2
+10053 | 103662 | Beaumontia | 清明花属 | 5
+10053 | 104385 | Bousigonia | 奶子藤属 | 2
+10053 | 105383 | Cameraria | 鸭蛋花属 | 1
+10053 | 105660 | Carissa | 假虎刺属 | 4
+10053 | 105876 | Catharanthus | 长春花属 | 1
+10053 | 106213 | Cerbera | 海芒果属 | 1
+10053 | 106868 | Chonemorpha | 鹿角藤属 | 8
+10053 | 107279 | Cleghornia | 金平藤属 | 1
+10053 | 111836 | Epigynum | 思茅藤属 | 1
+10053 | 113083 | Funtumia | 丝胶树属 | 1
+10053 | 115580 | Holarrhena | 止泻木属 | 1
+10053 | 115885 | Hunteria | 仔榄树属 | 1
+10053 | 116321 | Ichnocarpus | 腰骨藤属 | 4
+10053 | 117087 | Kibatalia | 倒缨木属 | 1
+10053 | 117237 | Kopsia | 蕊木属 | 3
+10053 | 119595 | Mandevilla | 文藤属 | 1
+10053 | 120187 | Melodinus | 山橙属 | 12
+10053 | 122175 | Nerium | 夹竹桃属 | 1
+10053 | 122595 | Ochrosia | 玫瑰树属 | 3
+10053 | 123934 | Parameria | 长节珠属 | 1
+10053 | 124045 | Parepigynum | 富宁藤属 | 1
+10053 | 124102 | Parsonsia | 同心结属 | 2
+10053 | 126110 | Plumeria | 鸡蛋花属 | 2
+10053 | 126649 | Pottsia | 帘子藤属 | 2
+10053 | 128021 | Rauvolfia | 萝芙木属 | 7
+10053 | 130401 | Sindechites | 毛药藤属 | 2
+10053 | 131774 | Strophanthus | 羊角拗属 | 6
+10053 | 132175 | Tabernaemontana | 狗牙花属 | 5
+10053 | 132815 | Thevetia | 黄花夹竹桃属 | 2
+10053 | 133220 | Trachelospermum | 络石属 | 6
+10053 | 134192 | Urceola | 水壶藤属 | 8
+10053 | 134324 | Vallaris | 纽子花属 | 2
+10053 | 134598 | Vinca | 蔓长春花属 | 2
+10053 | 134659 | Voacanga | 马铃果属 | 2
+10053 | 134988 | Wrightia | 倒吊笔属 | 6
+10054 | 102317 | Aponogeton | 水蕹属 | 1
+10055 | 116366 | Ilex | 冬青属 | 268
+10056 | 100818 | Aglaonema | 广东万年青属 | 2
+10056 | 101160 | Alocasia | 海芋属 | 8
+10056 | 101404 | Amorphophallus | 蘑芋属 | 16
+10056 | 101508 | Amydrium | 雷公连属 | 2
+10056 | 101553 | Anadendrum | 上树南星属 | 2
+10056 | 102590 | Arisaema | 天南星属 | 95
+10056 | 317553 | Arisaema sect. Anomala | 根茎组 | 
+10056 | 317564 | Arisaema sect. Arisaema | 天南星组 | 
+10056 | 317565 | Arisaema sect. Clavata | 云台南星组 | 
+10056 | 317559 | Arisaema sect. Decipientia | 雪里见组 | 1
+10056 | 317560 | Arisaema sect. Dochafa | 黄檐组 | 1
+10056 | 317566 | Arisaema sect. Fimbriata | 线花组 | 
+10056 | 317562 | Arisaema sect. Franchetiana | 象头花组 | 
+10056 | 317563 | Arisaema sect. Nepenthoidea | 猪笼南星组 | 
+10056 | 317558 | Arisaema sect. Pistillata | 花南星组 | 
+10056 | 317556 | Arisaema sect. Sinarisaema | 伞叶组 | 
+10056 | 317557 | Arisaema sect. Tenuipistillata | 细柄组 | 
+10056 | 317561 | Arisaema sect. Tortuosa | 曲序组 | 
+10056 | 102736 | Arum | 疆南星属 | 1
+10056 | 105084 | Calla | 水芋属 | 1
+10056 | 107697 | Colocasia | 芋属 | 6
+10056 | 108525 | Cryptocoryne | 隐棒花属 | 5
+10056 | 111866 | Epipremnum | 麒麟叶属 | 1
+10056 | 114584 | Hapaline | 细柄芋属 | 1
+10056 | 115676 | Homalomena | 千年健属 | 4
+10056 | 117642 | Lasia | 刺芋属 | 1
+10056 | 125511 | Pinellia | 半夏属 | 9
+10056 | 125611 | Pistia | 大漂属 | 1
+10056 | 126640 | Pothoidium | 假石柑属 | 1
+10056 | 126642 | Pothos | 石柑属 | 5
+10056 | 128128 | Remusatia | 岩芋属 | 4
+10056 | 128261 | Rhaphidophora | 崖角藤属 | 12
+10056 | 129334 | Sauromatum | 斑龙芋属 | 7
+10056 | 129481 | Schismatoglottis | 落檐属 | 2
+10056 | 129739 | Scindapsus | 藤芋属 | 1
+10056 | 131508 | Steudnera | 泉七属 | 4
+10056 | 132033 | Symplocarpus | 臭菘属 | 2
+10056 | 134067 | Typhonium | 犁头尖属 | 9
+10058 | 102427 | Aralia | 楤木属 | 33
+10058 | 104539 | Brassaiopsis | 罗伞属 | 24
+10058 | 202369 | Chengiopanax | 人参木属 | 1
+10058 | 109584 | Dendropanax | 树参属 | 14
+10058 | 111440 | Eleutherococcus | 五加属 | 26
+10058 | 112669 | Fatsia | 八角金盘属 | 2
+10058 | 113215 | Gamblea | 萸叶五加属 | 4
+10058 | 114808 | Hedera | 常春藤属 | 2
+10058 | 115330 | Heteropanax | 幌伞枫属 | 6
+10058 | 116938 | Kalopanax | 刺楸属 | 1
+10058 | 119358 | Macropanax | 大参属 | 7
+10058 | 120304 | Merrilliopanax | 常春木属 | 3
+10058 | 123027 | Oplopanax | 刺参属 | 1
+10058 | 123342 | Osmoxylon | 兰屿加属 | 1
+10058 | 123736 | Panax | 人参属 | 11
+10058 | 124403 | Pentapanax | 羽叶参属 | 22
+10058 | 126450 | Polyscias | 南洋参属 | 5
+10058 | 129428 | Schefflera | 鹅掌柴属 | 35
+10058 | 130433 | Sinopanax | 华参属 | 1
+10058 | 132603 | Tetrapanax | 通脱木属 | 1
+10058 | 133344 | Trevesia | 刺通草属 | 1
+10058 | 133996 | Tupidanthus | 多蕊木属 | 1
+10059 | 100786 | Agathis | 贝壳杉属 | 1
+10059 | 102440 | Araucaria | 南洋杉属 | 3
+10061 | 102513 | Areca | 槟榔属 | 1
+10061 | 102521 | Arenga | 桄榔属 | 6
+10061 | 105020 | Calamus | 省藤属 | 28
+10061 | 105780 | Caryota | 鱼尾葵属 | 4
+10061 | 107034 | Chuniophoenix | 琼棕属 | 2
+10061 | 107508 | Cocos | 椰子属 | 1
+10061 | 109227 | Daemonorops | 黄藤属 | 1
+10061 | 200137 | Guihaia | 石山棕属 | 2
+10061 | 118522 | Licuala | 轴榈属 | 3
+10061 | 118760 | Livistona | 蒲葵属 | 3
+10061 | 122536 | Nypa | 水椰属 | 1
+10061 | 125080 | Phoenix | 刺葵属 | 3
+10061 | 125497 | Pinanga | 山槟榔属 | 5
+10061 | 125865 | Plectocomia | 钩叶藤属 | 3
+10061 | 128277 | Rhapis | 棕竹属 | 5
+10061 | 129040 | Salacca | 蛇皮果属 | 1
+10061 | 133227 | Trachycarpus | 棕榈属 | 3
+10061 | 134740 | Wallichia | 瓦理棕属 | 5
+10063 | 102606 | Aristolochia | 马兜铃属 | 48
+10063 | 102755 | Asarum | 细辛属 | 47
+10063 | 129303 | Saruma | 马蹄香属 | 1
+10063 | 132872 | Thottea | 线果兜铃属 | 1
+10066 | 100517 | Adelostemma | 乳突果属 | 1
+10066 | 102770 | Asclepias | 马利筋属 | 1
+10066 | 103762 | Belostemma | 箭药藤属 | 3
+10066 | 103964 | Biondia | 秦岭藤属 | 13
+10066 | 104490 | Brachystelma | 润肺草属 | 2
+10066 | 105246 | Calotropis | 牛角瓜属 | 2
+10066 | 106259 | Ceropegia | 吊灯花属 | 17
+10066 | 108152 | Cosmostigma | 荟蔓藤属 | 1
+10066 | 108539 | Cryptolepis | 白叶藤属 | 2
+10066 | 108969 | Cynanchum | 鹅绒藤属 | 60
+10066 | 110545 | Dischidanthus | 马兰藤属 | 1
+10066 | 110546 | Dischidia | 眼树莲属 | 5
+10066 | 110758 | Dolichopetalum | 金凤藤属 | 1
+10066 | 110912 | Dregea | 南山藤属 | 6
+10066 | 113404 | Genianthus | 须花藤属 | 1
+10066 | 113836 | Gomphocarpus | 钉头果属 | 2
+10066 | 113860 | Gongronema | 纤冠藤属 | 2
+10066 | 113893 | Goniostemma | 勐腊藤属 | 1
+10066 | 114016 | Graphistemma | 天星藤属 | 1
+10066 | 114237 | Gymnanthera | 海岛藤属 | 1
+10066 | 114243 | Gymnema | 匙羹藤属 | 7
+10066 | 115363 | Heterostemma | 醉魂藤属 | 11
+10066 | 115638 | Holostemma | 铰剪藤属 | 1
+10066 | 115819 | Hoya | 球兰属 | 39
+10066 | 116767 | Jasminanthes | 黑鳗藤属 | 4
+10066 | 119171 | Lygisma | 折冠藤属 | 1
+10066 | 119745 | Marsdenia | 牛奶菜属 | 25
+10066 | 120300 | Merrillanthus | 驼峰藤属 | 1
+10066 | 120385 | Metaplexis | 萝藦属 | 2
+10066 | 120464 | Micholitzia | 扇叶藤属 | 1
+10066 | 121480 | Myriopteron | 翅果藤属 | 1
+10066 | 123527 | Oxystelma | 尖槐藤属 | 1
+10066 | 200199 | Pentasachme | 石萝藦属 | 1
+10066 | 200086 | Pentastelma | 白水藤属 | 1
+10066 | 124567 | Periploca | 杠柳属 | 7
+10066 | 127991 | Raphistemma | 大花藤属 | 2
+10066 | 129256 | Sarcostemma | 肉珊瑚属 | 1
+10066 | 129968 | Secamone | 鲫鱼藤属 | 6
+10066 | 200200 | Sichuania | 四川藤属 | 1
+10066 | 200201 | Stelmocrypton | 须药藤属 | 1
+10066 | 131700 | Streptocaulon | 马莲鞍属 | 1
+10066 | 132420 | Telosma | 夜来香属 | 3
+10066 | 133200 | Toxocarpus | 弓果藤属 | 13
+10066 | 134048 | Tylophora | 娃儿藤属 | 36
+10074 | 100132 | Acanthospermum | 刺苞果属 | 1
+10074 | 100191 | Achillea | 蓍属 | 11
+10074 | 100279 | Acmella | 金钮扣属 | 6
+10074 | 100541 | Adenocaulon | 和尚菜属 | 1
+10074 | 100591 | Adenostemma | 下田菊属 | 4
+10074 | 100803 | Ageratina | 紫茎泽兰属 | 1
+10074 | 100805 | Ageratum | 藿香蓟属 | 2
+10074 | 100885 | Ainsliaea | 兔儿风属 | 50
+10074 | 100912 | Ajania | 亚菊属 | 35
+10074 | 100913 | Ajaniopsis | 画笔菊属 | 1
+10074 | 101015 | Alfredia | 翅膜菊属 | 5
+10074 | 101065 | Allardia | 扁毛菊属 | 8
+10074 | 101284 | Amberboa | 珀菊属 | 2
+10074 | 101325 | Ambrosia | 豚草属 | 3
+10074 | 101580 | Anaphalis | 香青属 | 82
+10074 | 101617 | Ancathia | 肋果蓟属 | 1
+10074 | 101844 | Anisopappus | 山黄菊属 | 1
+10074 | 101977 | Antennaria | 蝶须属 | 1
+10074 | 102004 | Anthemis | 春黄菊属 | 1
+10074 | 317643 | Archiserratula | 滇麻花头属 | 1
+10074 | 102484 | Arctium | 牛蒡属 | 2
+10074 | 102490 | Arctogeron | 莎菀属 | 1
+10074 | 102682 | Artemisia | 蒿属 | 275
+10074 | 102829 | Askellia | 假苦菜属 | 6
+10074 | 102902 | Aster | 紫菀属 | 176
+10074 | 20893 | Asteraceae (Tribe CARDUEAE) ARCTIUM Group | 牛蒡群 | 
+10074 | 20894 | Asteraceae (Tribe CARDUEAE) ONOPORDUM Group | 大翅蓟群 | 2
+10074 | 20892 | Asteraceae (Tribe CARDUEAE) SAUSSUREA Group | 风毛菊群 | 
+10074 | 20895 | Asteraceae (Tribe CARDUEAE) Subtribe CARDUINAE | 飞廉亚族 | 3
+10074 | 20896 | Asteraceae (Tribe CARDUEAE) Subtribe CENTAUREINAE | 矢车菊亚族 | 17
+10074 | 20899 | Asteraceae (Tribe SENECIONEAE) Subtribe SENECIONINAE | 千里光亚族 | 10
+10074 | 20898 | Asteraceae (Tribe SENECIONEAE) Subtribe TEPHROSERIDINAE | 狗舌草亚族 | 4
+10074 | 20897 | Asteraceae (Tribe SENECIONEAE) Subtribe TUSSILAGININAE | 款冬亚族 | 12
+10074 | 20703 | Asteraceae tribe Anthemideae | 春黄菊族 | 29
+10074 | 20538 | ASTERACEAE tribe ASTEREAE | 紫菀族 | 30
+10074 | 20900 | Asteraceae Tribe ATHROISMEAE | 山黄菊族 | 1
+10074 | 20702 | Asteraceae tribe Calenduleae | 金盏花族 | 1
+10074 | 20706 | Asteraceae tribe Cardueae | 飞廉族 | 24
+10074 | 20891 | Asteraceae Tribe CARLINEAE | 刺苞菊族 | 3
+10074 | 20701 | Asteraceae tribe Cichorieae | 菊苣族 | 35
+10074 | 20890 | Asteraceae Tribe ECHINOPEAE | 蓝刺头族 | 1
+10074 | 20539 | ASTERACEAE tribe EUPATORIEAE | 泽兰族 | 13
+10074 | 20582 | Asteraceae tribe Gnaphalieae | 鼠麴草族 | 12
+10074 | 20704 | Asteraceae tribe Heliantheae | 向日葵族 | 34
+10074 | 20541 | Asteraceae tribe Inuleae | 旋覆花族 | 14
+10074 | 20543 | ASTERACEAE tribe MUTISIEAE | 帚菊木族 | 9
+10074 | 20544 | ASTERACEAE tribe SENECIONEAE | 千里光族 | 3
+10074 | 20545 | ASTERACEAE tribe VERNONIEAE | 斑鸠菊族 | 6
+10074 | 102957 | Asterothamnus | 紫菀木属 | 5
+10074 | 103101 | Atractylodes | 苍术属 | 4
+10074 | 103136 | Aucklandia | 云木香属 | 1
+10074 | 103220 | Austroeupatorium | 南泽兰属 | 1
+10074 | 103738 | Bellis | 雏菊属 | 1
+10074 | 103917 | Bidens | 鬼针草属 | 10
+10074 | 104032 | Blainvillea | 百能葳属 | 1
+10074 | 104121 | Blumea | 艾纳香属 | 30
+10074 | 104208 | Bolocephalus | 球菊属 | 1
+10074 | 104414 | Brachanthemum | 短舌菊属 | 6
+10074 | 104852 | Buphthalmum | 牛眼菊属 | 1
+10074 | 105062 | Calendula | 金盏花属 | 1
+10074 | 105136 | Callistephus | 翠菊属 | 1
+10074 | 105245 | Calotis | 刺冠菊属 | 1
+10074 | 105320 | Calyptocarpus | 金腰箭舅属 | 1
+10074 | 105378 | Camchaya | 凋缨菊属 | 1
+10074 | 105505 | Cancrinia | 小甘菊属 | 5
+10074 | 105640 | Carduus | 飞廉属 | 3
+10074 | 105666 | Carlina | 刺苞菊属 | 1
+10074 | 105695 | Carpesium | 天名精属 | 18
+10074 | 105754 | Carthamus | 红花属 | 1
+10074 | 105958 | Cavea | 葶菊属 | 1
+10074 | 106012 | Centaurea | 矢车菊属 | 7
+10074 | 106025 | Centipeda | 石胡荽属 | 1
+10074 | 106840 | Chondrilla | 粉苞菊属 | 10
+10074 | 106935 | Chromolaena | 飞机草属 | 1
+10074 | 106957 | Chrysanthemum | 菊属 | 27
+10074 | 107067 | Cicerbita | 岩参属 | 7
+10074 | 107071 | Cichorium | 菊苣属 | 1
+10074 | 107139 | Cirsium | 蓟属 | 50
+10074 | 107143 | Cissampelopsis | 藤菊属 | 6
+10074 | 107339 | Clibadium | 苏利南野菊属 | 1
+10074 | 107871 | Conoclinium | 锥托泽兰属 | 1
+10074 | 108000 | Coreopsis | 金鸡菊属 | 3
+10074 | 108151 | Cosmos | 秋英属 | 2
+10074 | 108176 | Cotula | 山芫绥属 | 2
+10074 | 108214 | Cousinia | 刺头菊属 | 11
+10074 | 108269 | Crassocephalum | 野茼蒿属 | 2
+10074 | 108299 | Cremanthodium | 垂头菊属 | 78
+10074 | 108337 | Crepidiastrum | 假还阳参属 | 14
+10074 | 108351 | Crepis | 还阳参属 | 18
+10074 | 317707 | Crinitina | 麻菀属 | 2
+10074 | 108434 | Crossostephium | 芙蓉菊属 | 1
+10074 | 108471 | Crupina | 半毛菊属 | 1
+10074 | 108771 | Cyanus | 蓝花矢车菊属 | 1
+10074 | 108785 | Cyathocline | 杯菊属 | 1
+10074 | 109870 | Dicercoclados | 歧笔菊属 | 1
+10074 | 109933 | Dichrocephala | 鱼眼草属 | 3
+10074 | 110367 | Diplazoptilon | 重羽菊属 | 1
+10074 | 110645 | Distephanus | 黄花斑鸠菊属 | 2
+10074 | 110775 | Dolomiaea | 川木香属 | 14
+10074 | 110834 | Doronicum | 多榔菊属 | 7
+10074 | 111012 | Dubyaea | 厚喙菊属 | 12
+10074 | 111042 | Duhaldea | 羊耳菊属 | 7
+10074 | 111246 | Echinops | 蓝刺头属 | 17
+10074 | 111273 | Eclipta | 鳢肠属 | 1
+10074 | 111427 | Elephantopus | 地胆草属 | 2
+10074 | 111436 | Eleutheranthera | 离药金腰箭属 | 1
+10074 | 111550 | Emilia | 一点红属 | 7
+10074 | 111761 | Enydra | 沼菊属 | 1
+10074 | 111779 | Epaltes | 鹅不食草属 | 2
+10074 | 111839 | Epilasia | 鼠毛菊属 | 2
+10074 | 111911 | Erechtites | 菊芹属 | 2
+10074 | 112000 | Erigeron | 飞蓬属 | 48
+10074 | 112191 | Eschenbachia | 白酒草属 | 6
+10074 | 112231 | Ethulia | 都丽菊属 | 2
+10074 | 112351 | Eupatorium | 泽兰属 | 16
+10074 | 112402 | Eurybia | 北美紫菀属 | 1
+10074 | 112593 | Faberia | 花佩菊属 | 7
+10074 | 112648 | Farfugium | 大吴风草属 | 1
+10074 | 112780 | Filago | 絮菊属 | 2
+10074 | 112787 | Filifolium | 线叶菊属 | 1
+10074 | 112857 | Flaveria | 黄顶菊属 | 1
+10074 | 112938 | Formania | 复芒菊属 | 1
+10074 | 113038 | Frolovia | 齿冠属 | 1
+10074 | 113131 | Gaillardia | 天人菊属 | 1
+10074 | 113149 | Galatella | 乳菀属 | 11
+10074 | 113183 | Galinsoga | 牛膝菊属 | 2
+10074 | 113220 | Gamochaeta | 合冠鼠麴草属 | 7
+10074 | 113266 | Garhadiolus | 小疮菊属 | 1
+10074 | 113481 | Gerbera | 火石花属 | 9
+10074 | 113620 | Glebionis | 茼蒿属 | 3
+10074 | 113713 | Glossocardia | 鹿角草属 | 1
+10074 | 113778 | Gnaphalium | 鼠麴草属 | 6
+10074 | 317732 | Gnomophalium | 垫头鼠麴草属 | 1
+10074 | 114003 | Grangea | 田基黄属 | 1
+10074 | 114086 | Grindelia | 胶菀属 | 1
+10074 | 114186 | Guizotia | 小葵子属 | 1
+10074 | 114268 | Gymnocoronis | 裸冠菊属 | 1
+10074 | 114359 | Gynura | 菊三七属 | 10
+10074 | 317706 | Hainanecio | 海南菊属 | 1
+10074 | 114565 | Handelia | 天山蓍属 | 1
+10074 | 114871 | Helianthus | 向日葵属 | 3
+10074 | 114875 | Helichrysum | 拟蜡菊属 | 3
+10074 | 115077 | Hemisteptia | 泥胡菜属 | 1
+10074 | 115260 | Heteracia | 异喙菊属 | 1
+10074 | 115341 | Heteroplexis | 异裂菊属 | 3
+10074 | 115448 | Hieracium | 山柳菊属 | 6
+10074 | 317630 | Himalaiella | 须弥菊属 | 7
+10074 | 115511 | Hippolytia | 女蒿属 | 11
+10074 | 115623 | Hololeion | 全光菊属 | 1
+10074 | 116212 | Hypochaeris | 猫儿菊属 | 6
+10074 | 116442 | Inula | 旋覆花属 | 21
+10074 | 116667 | Ixeridium | 小苦荬属 | 8
+10074 | 116668 | Ixeris | 苦荬菜属 | 9
+10074 | 116886 | Jurinea | 苓菊属 | 10
+10074 | 116970 | Karelinia | 花花柴属 | 1
+10074 | 116989 | Kaschgaria | 喀什菊属 | 2
+10074 | 117146 | Klasea | 麻花头属 | 14
+10074 | 117199 | Koelpinia | 蝎尾菊属 | 1
+10074 | 117438 | Lactuca | 莴苣属 | 12
+10074 | 117472 | Lagascea | 单花葵属 | 1
+10074 | 117484 | Lagenophora | 瓶头草属 | 1
+10074 | 117491 | Laggera | 六棱菊属 | 2
+10074 | 202453 | Lapsanastrum | 稻槎菜属 | 4
+10074 | 117736 | Launaea | 栓果菊属 | 4
+10074 | 117867 | Leibnitzia | 大丁草属 | 4
+10074 | 117992 | Leontopodium | 火绒草属 | 40
+10074 | 118352 | Leucanthemella | 小滨菊属 | 1
+10074 | 118354 | Leucanthemum | 滨菊属 | 1
+10074 | 118406 | Leucomeris | 白菊木属 | 1
+10074 | 118542 | Ligularia | 橐吾属 | 138
+10074 | 317687 | Ligulariopsis | 假橐吾属 | 1
+10074 | 119860 | Matricaria | 母菊属 | 2
+10074 | 120104 | Melanoseris | 毛鳞菊属 | 25
+10074 | 120111 | Melanthera | 卤地菊属 | 1
+10074 | 120512 | Microcephala | 小花菊属 | 1
+10074 | 120554 | Microglossa | 小舌菊属 | 1
+10074 | 120704 | Mikania | 假泽兰属 | 2
+10074 | 121445 | Myriactis | 粘冠草属 | 5
+10074 | 121488 | Myripnois | 蚂蚱腿子属 | 1
+10074 | 121572 | Nabalus | 耳菊属 | 4
+10074 | 121619 | Nannoglottis | 毛冠菊属 | 9
+10074 | 121850 | Nemosenecio | 羽叶菊属 | 5
+10074 | 317708 | Neobrachyactis | 短星菊属 | 3
+10074 | 122037 | Neopallasia | 栉叶蒿属 | 1
+10074 | 122475 | Notoseris | 紫菊属 | 10
+10074 | 122488 | Nouelia | 栌菊木属 | 1
+10074 | 122780 | Olgaea | 蝟菊属 | 6
+10074 | 122792 | Oligochaeta | 寡毛菊属 | 1
+10074 | 122941 | Onopordum | 大翅蓟属 | 2
+10074 | 200163 | Opisthopappus | 太行菊属 | 1
+10074 | 200464 | Paraprenanthes | 假福王草属 | 12
+10074 | 124000 | Parasenecio | 蟹甲草属 | 69
+10074 | 124104 | Parthenium | 银胶菊属 | 1
+10074 | 124224 | Pectis | 香檬菊属 | 1
+10074 | 124398 | Pentanema | 苇谷草属 | 5
+10074 | 124518 | Pericallis | 瓜叶菊属 | 1
+10074 | 124636 | Pertya | 帚菊属 | 19
+10074 | 124686 | Petasites | 蜂斗菜属 | 6
+10074 | 124858 | Phagnalon | 绵毛菊属 | 1
+10074 | 125392 | Picris | 毛连菜属 | 7
+10074 | 125467 | Pilosella | 细毛菊属 | 2
+10074 | 125468 | Piloselloides | 兔耳一枝箭属 | 1
+10074 | 125681 | Plagiobasis | 斜果菊属 | 1
+10074 | 126103 | Pluchea | 阔苞菊属 | 5
+10074 | 126202 | Podospermum | 柄果菊属 | 1
+10074 | 126687 | Praxelis | 假臭草属 | 1
+10074 | 126902 | Psephellus | 矮小矢车菊属 | 1
+10074 | 126936 | Pseudelephantopus | 假地胆草属 | 1
+10074 | 127031 | Pseudoconyza | 假飞蓬属 | 1
+10074 | 127088 | Pseudognaphalium | 拟鼠麴草属 | 6
+10074 | 127101 | Pseudohandelia | 拟天山蓍属 | 1
+10074 | 127389 | Psychrogeton | 寒蓬属 | 2
+10074 | 127447 | Pterocaulon | 翼茎草属 | 1
+10074 | 127631 | Pulicaria | 蚤草属 | 6
+10074 | 317644 | Rhaponticoides | 欧亚矢车菊属 | 3
+10074 | 200175 | Rhaponticum | 漏芦属 | 6
+10074 | 128305 | Rhinactinidia | 岩菀属 | 2
+10074 | 128564 | Richteria | 灰叶匹菊属 | 1
+10074 | 128840 | Rudbeckia | 金光菊属 | 2
+10074 | 128897 | Russowia | 纹苞菊属 | 1
+10074 | 129338 | Saussurea | 风毛菊属 | 321
+10074 | 317632 | Saussurea Subg. Amphilaena | 雪莲亚属 | 27
+10074 | 317631 | Saussurea Subg. Eriocoryne | 雪兔子亚属 | 36
+10074 | 317634 | Saussurea Subg. Saussurea | 风毛菊亚属 | 231
+10074 | 317633 | Saussurea Subg. Theodorea | 附片风毛菊亚属 | 23
+10074 | 129477 | Schischkinia | 白刺菊属 | 1
+10074 | 129609 | Schmalhausenia | 虎头蓟属 | 1
+10074 | 129765 | Sclerocarpus | 硬果菊属 | 1
+10074 | 129894 | Scorzonera | 鸦葱属 | 26
+10074 | 130085 | Senecio | 千里光属 | 92
+10074 | 130166 | Seriphidium | 绢蒿属 | 40
+10074 | 130181 | Serratula | 伪泥胡菜属 | 1
+10074 | 130255 | Sheareria | 虾须草属 | 1
+10074 | 130334 | Sigesbeckia | 豨莶属 | 3
+10074 | 130392 | Sinacalia | 华蟹甲属 | 4
+10074 | 130428 | Sinoleontopodium | 君范菊属 | 1
+10074 | 130438 | Sinosenecio | 蒲儿根属 | 44
+10074 | 130559 | Smallanthus | 包果菊属 | 2
+10074 | 130659 | Solidago | 一枝黄花属 | 6
+10074 | 130663 | Soliva | 裸柱菊属 | 2
+10074 | 317668 | Sonchella | 小苦苣菜属 | 2
+10074 | 130683 | Sonchus | 苦苣菜属 | 5
+10074 | 130734 | Soroseris | 绢毛菊属 | 7
+10074 | 130863 | Sphaeranthus | 戴星草属 | 3
+10074 | 130944 | Sphagneticola | 蟛蜞菊属 | 2
+10074 | 131581 | Stilpnolepis | 百花蒿属 | 2
+10074 | 132006 | Symphyllocarpus | 含苞草属 | 1
+10074 | 132022 | Symphyotrichum | 联毛紫菀属 | 3
+10074 | 132065 | Syncalathium | 合头菊属 | 5
+10074 | 132087 | Synedrella | 金腰箭属 | 1
+10074 | 132089 | Syneilesis | 兔儿伞属 | 4
+10074 | 132114 | Synotis | 合耳菊属 | 43
+10074 | 132135 | Synurus | 山牛蒡属 | 1
+10074 | 132140 | Syreitschikovia | 疆菊属 | 1
+10074 | 132217 | Tagetes | 万寿菊属 | 2
+10074 | 132267 | Tanacetum | 菊蒿属 | 21
+10074 | 132314 | Taraxacum | 蒲公英属 | 139
+10074 | 132452 | Tephroseris | 狗舌草属 | 16
+10074 | 132813 | Thespis | 歧伞菊属 | 1
+10074 | 133067 | Tithonia | 肿柄菊属 | 1
+10074 | 133279 | Tragopogon | 婆罗门参属 | 19
+10074 | 133497 | Tricholepis | 镇苞菊属 | 3
+10074 | 133601 | Tridax | 羽芒菊属 | 1
+10074 | 133732 | Tripleurospermum | 三肋果属 | 5
+10074 | 133754 | Tripolium | 碱菀属 | 1
+10074 | 133966 | Tugarinovia | 革苞菊属 | 3
+10074 | 134005 | Turczaninovia | 女菀属 | 1
+10074 | 134025 | Tussilago | 款冬属 | 1
+10074 | 134497 | Vernonia | 斑鸠菊属 | 40
+10074 | 250075168 | Vitex aurata |   | 
+10074 | 134967 | Wollastonia | 孪花菊属 | 2
+10074 | 135017 | Xanthium | 苍耳属 | 2
+10074 | 135030 | Xanthopappus | 黄缨菊属 | 1
+10074 | 316901 | Xerochrysum | 蜡菊属 | 1
+10074 | 135219 | Youngia | 黄鹌菜属 | 31
+10074 | 135326 | Zinnia | 百日菊属 | 1
+20038 | 103138 | Aucuba | 桃叶珊瑚属 | 22
+10089 | 103395 | Balanophora | 蛇菰属 | 12
+10089 | 128440 | Rhopalocnemis | 盾片蛇菰属 | 1
+10092 | 115985 | Hydrocera | 水角属 | 1
+10092 | 116392 | Impatiens | 凤仙花属 | 266
+10096 | 101968 | Anredera | 落葵薯属 | 2
+10096 | 103570 | Basella | 落葵属 | 1
+10099 | 103695 | Begonia | 秋海棠属 | 221
+10100 | 103816 | Berberis | 小檗属 | 241
+10100 | 105942 | Caulophyllum | 红毛七属 | 1
+10100 | 110339 | Diphylleia | 山荷叶属 | 1
+10100 | 111136 | Dysosma | 鬼臼属 | 7
+10100 | 111847 | Epimedium | 淫羊藿属 | 44
+10100 | 114308 | Gymnospermium | 牡丹草属 | 3
+10100 | 117986 | Leontice | 囊果草属 | 1
+10100 | 119469 | Mahonia | 十大功劳属 | 33
+10100 | 121612 | Nandina | 南天竹属 | 1
+10100 | 125705 | Plagiorhegma | 鲜黄连属 | 1
+10100 | 200184 | Sinopodophyllum | 桃儿七属 | 1
+10101 | 101157 | Alnus | 桤木属 | 10
+10101 | 103887 | Betula | 桦木属 | 44
+10101 | 105705 | Carpinus | 鹅耳枥属 | 47
+10101 | 108088 | Corylus | 榛属 | 11
+10101 | 123370 | Ostrya | 铁木属 | 5
+10101 | 123373 | Ostryopsis | 虎榛子属 | 3
+20048 | 103918 | Biebersteinia | 熏倒牛属 | 2
+10102 | 105422 | Campsis | 凌霄花属 | 1
+10102 | 105851 | Catalpa | 梓属 | 4
+10102 | 112732 | Fernandoa | 厚膜树属 | 1
+10102 | 116396 | Incarvillea | 角蒿属 | 20
+10102 | 119726 | Markhamia | 猫尾木属 | 3
+10102 | 119915 | Mayodendron | 火烧花属 | 1
+10102 | 120727 | Millingtonia | 老鸦烟筒花属 | 1
+10102 | 122524 | Nyctocalos | 照夜白属 | 2
+10102 | 123228 | Oroxylum | 木蝴蝶属 | 1
+10102 | 124171 | Pauldopia | 翅叶木属 | 1
+10102 | 127894 | Radermachera | 菜豆树属 | 7
+10102 | 131490 | Stereospermum | 羽叶楸属 | 3
+10104 | 104016 | Bixa | 红木属 | 1
+10113 | 104221 | Bombax | 木棉属 | 3
+10113 | 105980 | Ceiba | 吉贝属 | 1
+10113 | 123560 | Pachira | 瓜栗属 | 1
+10115 | 100436 | Actinocarya | 锚刺果属 | 1
+10115 | 101300 | Amblynotus | 钝背草属 | 1
+10115 | 101622 | Anchusa | 牛舌草属 | 1
+10115 | 102095 | Antiotrema | 长蕊斑种草属 | 1
+10115 | 102632 | Arnebia | 软紫草属 | 6
+10115 | 102847 | Asperugo | 糙草属 | 1
+10115 | 104322 | Bothriospermum | 斑种草属 | 5
+10115 | 104428 | Brachybotrys | 山茄子属 | 1
+10115 | 105676 | Carmona | 基及树属 | 1
+10115 | 106709 | Chionocharis | 垫紫草属 | 1
+10115 | 107617 | Coldenia | 双柱紫草属 | 1
+10115 | 107975 | Cordia | 破布木属 | 5
+10115 | 108249 | Craniospermum | 颅果草属 | 3
+10115 | 108983 | Cynoglossum | 琉璃草属 | 18
+10115 | 111268 | Echium | 蓝蓟属 | 1
+10115 | 111336 | Ehretia | 厚壳树属 | 14
+10115 | 112098 | Eritrichium | 齿缘草属 | 45
+10115 | 113303 | Gastrocotyle | 腹脐草属 | 1
+10115 | 114425 | Hackelia | 假鹤虱属 | 3
+10115 | 114922 | Heliotropium | 天芥菜属 | 10
+10115 | 115282 | Heterocaryum | 异果鹤虱属 | 1
+10115 | 117617 | Lappula | 鹤虱属 | 46
+10115 | 117658 | Lasiocaryum | 毛果草属 | 3
+10115 | 118622 | Lindelofia | 长柱琉璃草属 | 3
+10115 | 118745 | Lithospermum | 紫草属 | 5
+10115 | 119463 | Maharanga | 胀萼紫草属 | 5
+10115 | 119873 | Mattiastrum | 盘果草属 | 1
+10115 | 120307 | Mertensia | 滨紫草属 | 8
+10115 | 200153 | Metaeritrichium | 颈果草属 | 1
+10115 | 120510 | Microcaryum | 微果草属 | 1
+10115 | 120690 | Microula | 微孔草属 | 47
+10115 | 121429 | Myosotis | 勿忘草属 | 6
+10115 | 122384 | Nonea | 假狼紫草属 | 1
+10115 | 200162 | Omphalotrigonotis | 皿果草属 | 2
+10115 | 122943 | Onosma | 滇紫草属 | 36
+10115 | 127635 | Pulmonaria | 肺草属 | 1
+10115 | 128602 | Rindera | 翅果草属 | 1
+10115 | 128660 | Rochelia | 孪果鹤虱属 | 5
+10115 | 128801 | Rotula | 轮冠木属 | 1
+10115 | 130426 | Sinojohnstonia | 车前紫草属 | 3
+10115 | 130630 | Solenanthus | 长蕊琉璃草属 | 2
+10115 | 131414 | Stenosolenium | 紫筒草属 | 1
+10115 | 132030 | Symphytum | 聚合草属 | 1
+10115 | 132944 | Thyrocarpus | 盾果草属 | 2
+10115 | 133177 | Tournefortia | 紫丹属 | 6
+10115 | 133475 | Trichodesma | 毛束草属 | 3
+10115 | 133653 | Trigonotis | 附地菜属 | 56
+10120 | 101080 | Alliaria | 葱芥属 | 1
+10120 | 101238 | Alyssum | 庭荠属 | 10
+10120 | 102225 | Aphragmus | 寒原荠属 | 2
+10120 | 102392 | Arabidopsis | 鼠耳芥属 | 3
+10120 | 102393 | Arabis | 南芥属 | 16
+10120 | 102627 | Armoracia | 辣根属 | 1
+10120 | 103041 | Atelanthera | 异药芥属 | 1
+10120 | 202101 | Baimashania | 白马芥属 | 2
+10120 | 103484 | Barbarea | 山芥属 | 5
+10120 | 103860 | Berteroa | 团扇荠属 | 1
+10120 | 103861 | Berteroella | 锥果芥属 | 1
+10120 | 104543 | Brassica | 芸苔属 | 22
+10120 | 104570 | Braya | 肉叶荠属 | 5
+10120 | 104846 | Bunias | 匙荠属 | 2
+10120 | 105379 | Camelina | 亚麻荠属 | 2
+10120 | 105575 | Capsella | 荠属 | 2
+10120 | 105607 | Cardamine | 碎米荠属 | 50
+10120 | 105610 | Cardaria | 群心菜属 | 1
+10120 | 106897 | Chorispora | 离子芥属 | 8
+10120 | 106924 | Christolea | 高原芥属 | 2
+10120 | 107154 | Cithareloma | 对枝菜属 | 1
+10120 | 107250 | Clausia | 香芥属 | 2
+10120 | 107572 | Coelonema | 穴丝荠属 | 
+10120 | 107900 | Conringia | 线果芥属 | 1
+10120 | 108057 | Coronopus | 臭荠属 | 
+10120 | 108244 | Crambe | 两节荠属 | 1
+10120 | 202102 | Crucihimalaya | 须弥芥属 | 6
+10120 | 108575 | Cryptospora | 隐子芥属 | 1
+10120 | 109671 | Descurainia | 播娘蒿属 | 1
+10120 | 109675 | Desideria | 扇叶芥属 | 9
+10120 | 110193 | Dilophia | 双脊荠属 | 2
+10120 | 110479 | Diplotaxis | 二行芥属 | 1
+10120 | 110494 | Dipoma | 蛇头荠属 | 1
+10120 | 110520 | Diptychocarpus | 异果芥属 | 1
+10120 | 110805 | Dontostemon | 花旗杆属 | 13
+10120 | 110884 | Draba | 葶苈属 | 54
+10120 | 110887 | Drabopsis | 假葶苈属 | 1
+10120 | 112128 | Eruca | 芝麻菜属 | 1
+10120 | 112142 | Erysimum | 糖芥属 | 19
+10120 | 112276 | Euclidium | 鸟头荠属 | 1
+10120 | 112404 | Eurycarpus | 宽果芥属 | 2
+10120 | 112471 | Eutrema | 山萮萮菜属 | 8
+10120 | 112758 | Fibigia |   | 1
+10120 | 202103 | Galitzkya | 翅籽荠属 | 2
+10120 | 113812 | Goldbachia | 四棱荠属 | 3
+10120 | 114812 | Hedinia | 藏荠属 | 1
+10120 | 115034 | Hemilophia | 半脊荠属 | 5
+10120 | 115229 | Hesperis | 香花芥属 | 2
+10120 | 115778 | Hornungia | 薄果荠属 | 1
+10120 | 202104 | Ianhedgea | 葶芥属 | 1
+10120 | 116530 | Isatis | 菘蓝属 | 4
+10120 | 117410 | Lachnoloma | 绵果荠属 | 1
+10120 | 117899 | Leiospora | 光籽芥属 | 4
+10120 | 118034 | Lepidium | 独行菜属 | 22
+10120 | 118072 | Lepidostemon | 鳞蕊芥属 | 3
+10120 | 118115 | Leptaleum | 丝叶芥属 | 1
+10120 | 118539 | Lignariella | 弯梗芥属 | 3
+10120 | 118759 | Litwinowia | 脱喙荠属 | 1
+10120 | 118786 | Lobularia | 香雪球属 | 1
+10120 | 119382 | Macropodium | 长柄芥属 | 1
+10120 | 119531 | Malcolmia | 涩芥属 | 4
+10120 | 119870 | Matthiola | 紫罗兰属 | 1
+10120 | 119972 | Megacarpaea | 高河菜属 | 3
+10120 | 119980 | Megadenia | 双果荠属 | 1
+10120 | 120667 | Microstigma | 小柱芥属 | 1
+10120 | 314393 | Microthlaspi |   | 1
+10120 | 121688 | Nasturtium | 豆瓣菜属 | 1
+10120 | 122016 | Neomartinella | 堇叶芥属 | 3
+10120 | 122106 | Neotorularia | 念珠芥属 | 5
+10120 | 122184 | Neslia | 球果荠属 | 1
+10120 | 122360 | Noccaea |   | 3
+10120 | 202106 | Olimarabidopsis | 无苞芥属 | 2
+10120 | 202107 | Oreoloma | 爪花芥属 | 3
+10120 | 123307 | Orychophragmus | 诸葛菜属 | 4
+10120 | 123601 | Pachyneurum |   | 1
+10120 | 123615 | Pachypterygium | 厚壁荠属 | 2
+10120 | 124097 | Parrya | 条果芥属 | 4
+10120 | 124257 | Pegaeophyton | 单花荠属 | 6
+10120 | 124835 | Phaeonychium | 藏芥属 | 6
+10120 | 125780 | Platycraspedum | 宽框荠属 | 2
+10120 | 202108 | Pseudoarabidopsis | 假鼠耳芥属 | 1
+10120 | 127024 | Pseudoclausia | 假香芥属 | 1
+10120 | 127623 | Pugionium | 沙芥属 | 2
+10120 | 127711 | Pycnoplinthopsis | 假簇芥属 | 1
+10120 | 127712 | Pycnoplinthus | 簇芥属 | 1
+10120 | 127983 | Raphanus | 萝卜属 | 2
+10120 | 128745 | Rorippa | 蔊菜属 | 9
+10120 | 316759 | Shangrilaia |   | 1
+10120 | 130395 | Sinapis | 白芥属 | 2
+10120 | 202110 | Sinosophiopsis | 华羽芥属 | 3
+10120 | 130511 | Sisymbriopsis | 假蒜芥属 | 4
+10120 | 130512 | Sisymbrium | 大蒜芥属 | 11
+10120 | 130564 | Smelowskia | 芹叶荠属 | 3
+10120 | 130666 | Solms-laubachia | 丛菔属 | 10
+10120 | 130694 | Sophiopsis | 羽裂叶荠属 | 2
+10120 | 131042 | Spirorhynchus | 螺果荠属 | 1
+10120 | 131497 | Sterigmostemum | 棒果芥属 | 1
+10120 | 131509 | Stevenia | 曙南芥属 | 1
+10120 | 131752 | Stroganowia | 革叶荠属 | 
+10120 | 132124 | Synstemon | 连蕊芥属 | 2
+10120 | 132293 | Taphrospermum | 沟子荠属 | 8
+10120 | 132342 | Tauscheria | 舟果荠属 | 1
+10120 | 132536 | Tetracme | 四齿芥 | 2
+10120 | 132767 | Thellungiella | 盐芥属 | 3
+10120 | 132841 | Thlaspi | 菥蓂属 | 2
+10120 | 134019 | Turritis | 旗杆芥属 | 1
+10120 | 135213 | Yinshania | 阴山荠属 | 21
+20002 | 104598 | Bretschneidera | 伯乐树属 | 1
+10123 | 101571 | Ananas | 凤梨属 | 1
+10133 | 104876 | Burmannia | 水玉簪属 | 10
+10133 | 114306 | Gymnosiphon | 腐草属 | 1
+10133 | 132837 | Thismia | 水玉杯属 | 3
+10134 | 105501 | Canarium | 橄榄属 | 7
+10134 | 113276 | Garuga | 白头树属 | 4
+10134 | 126829 | Protium | 马蹄果属 | 2
+10135 | 104917 | Butomus | 花蔺属 | 1
+10136 | 104926 | Buxus | 黄杨属 | 32
+10136 | 123622 | Pachysandra | 板凳果属 | 4
+10136 | 129205 | Sarcococca | 野扇花属 | 11
+10140 | 104529 | Brasenia | 莼菜属 | 1
+10140 | 104954 | Cabomba | 水盾草属 | 1
+10141 | 111859 | Epiphyllum | 昙花属 | 1
+10141 | 116057 | Hylocereus | 量天尺属 | 1
+10141 | 123045 | Opuntia | 仙人掌属 | 4
+10141 | 124499 | Pereskia | 木麒麟属 | 1
+10143 | 105145 | Callitriche | 水马齿属 | 13
+10148 | 105270 | Calycanthus | 夏蜡梅属 | 1
+10148 | 106698 | Chimonanthus | 蜡梅属 | 6
+10152 | 100573 | Adenophora | 沙参属 | 63
+10152 | 103023 | Asyneuma | 牧根草属 | 3
+10152 | 105395 | Campanula | 风铃草属 | 28
+10152 | 105399 | Campanumoea | 金钱豹属 | 4
+10152 | 107542 | Codonopsis | 党参属 | 53
+10152 | 108748 | Cyananthus | 蓝钟花属 | 24
+10152 | 108836 | Cyclocodon | 轮钟花属 | 3
+10152 | 111220 | Echinocodon | 刺萼参属 | 1
+10152 | 115501 | Hippobroma | 马醉草属 | 1
+10152 | 200143 | Homocodon | 同钟花属 | 2
+10152 | 118163 | Leptocodon | 细钟花属 | 2
+10152 | 118775 | Lobelia | 半边莲属 | 30
+10152 | 124479 | Peracarpa | 袋果草属 | 1
+10152 | 125778 | Platycodon | 桔梗属 | 1
+10152 | 133694 | Triodanis | 异檐花属 | 3
+10152 | 134719 | Wahlenbergia | 蓝花参属 | 2
+10154 | 105522 | Cannabis | 大麻属 | 1
+10154 | 115880 | Humulus | 葎草属 | 3
+10155 | 105521 | Canna | 美人蕉属 | 1
+10158 | 104292 | Borthwickia | 节蒴木属 | 1
+10158 | 105567 | Capparis | 山柑属 | 38
+10158 | 108287 | Crateva | 鱼木属 | 5
+10158 | 131605 | Stixis | 班果藤属 | 3
+10159 | 115135 | Heptacodium | 七子花属 | 1
+10159 | 118484 | Leycesteria | 鬼吹箫属 | 4
+10159 | 118877 | Lonicera | 忍冬属 | 81
+10159 | 131997 | Symphoricarpos | 毛核木属 | 1
+10159 | 133705 | Triosteum | 莛子藨属 | 3
+10160 | 105630 | Cardiopteris | 心翼果属 | 1
+10161 | 105651 | Carica | 番木瓜属 | 1
+10162 | 105663 | Carlemannia | 香茜属 | 2
+10162 | 130364 | Silvianthus | 蜘蛛花属 | 2
+10166 | 100117 | Acanthophyllum | 刺叶属 | 1
+10166 | 100851 | Agrostemma | 麦仙翁属 | 1
+10166 | 102519 | Arenaria | 无心菜属 | 132
+10166 | 104492 | Brachystemma | 短瓣花属 | 1
+10166 | 106150 | Cerastium | 卷耳属 | 30
+10166 | 109796 | Dianthus | 石竹属 | 19
+10166 | 110972 | Drymaria | 荷莲豆草属 | 2
+10166 | 114254 | Gymnocarpos | 裸果木属 | 1
+10166 | 114363 | Gypsophila | 石头花属 | 19
+10166 | 115180 | Herniaria | 治疝草属 | 3
+10166 | 115639 | Holosteum | 硬骨草属 | 1
+10166 | 118298 | Lepyrodiclis | 薄蒴草属 | 2
+10166 | 119133 | Lychnis | 剪秋罗属 | 6
+10166 | 120768 | Minuartia | 米努草属 | 9
+10166 | 120902 | Moehringia | 种阜草属 | 3
+10166 | 121430 | Myosoton | 鹅肠菜属 | 1
+10166 | 124740 | Petrorhagia | 膜萼花属 | 1
+10166 | 126355 | Polycarpaea | 白鼓钉属 | 2
+10166 | 126356 | Polycarpon | 多荚草属 | 1
+10166 | 200166 | Psammosilene | 金铁锁属 | 1
+10166 | 202201 | Pseudocerastium | 假卷耳属 | 1
+10166 | 127262 | Pseudostellaria | 孩儿参属 | 12
+10166 | 129013 | Sagina | 漆姑草属 | 4
+10166 | 129161 | Saponaria | 肥皂草属 | 1
+10166 | 130349 | Silene | 蝇子草属 | 126
+10166 | 130837 | Spergula | 大爪草属 | 1
+10166 | 130838 | Spergularia | 拟漆姑属 | 5
+10166 | 131299 | Stellaria | 繁缕属 | 88
+10166 | 132927 | Thylacospermum | 囊种草属 | 1
+10166 | 134283 | Vaccaria | 麦蓝菜属 | 1
+10167 | 105837 | Casuarina | 木麻黄属 | 3
+10170 | 103898 | Bhesa | 膝柄木属 | 1
+10170 | 105874 | Catha | 巧茶属 | 1
+10170 | 105982 | Celastrus | 南蛇藤属 | 35
+10170 | 112340 | Euonymus | 卫矛属 | 97
+10170 | 113773 | Glyptopetalum | 沟瓣属 | 10
+10170 | 114311 | Gymnosporia | 裸实属 | 11
+10170 | 118811 | Loeseneriella | 翅子藤属 | 5
+10170 | 119916 | Maytenus | 美登木属 | 7
+10170 | 120689 | Microtropis | 假卫矛属 | 32
+10170 | 121009 | Monimopetalum | 永瓣藤属 | 1
+10170 | 126053 | Pleurostylia | 盾柱属 | 1
+10170 | 126759 | Pristimera | 扁蒴藤属 | 4
+10170 | 129041 | Salacia | 五层龙属 | 10
+10170 | 133768 | Tripterygium | 雷公藤属 | 1
+10171 | 106045 | Centrolepis | 刺鳞草属 | 1
+10174 | 106119 | Cephalotaxus | 三尖杉属 | 10
+10178 | 106192 | Ceratophyllum | 金鱼藻属 | 3
+10180 | 106219 | Cercidiphyllum | 连香树属 | 1
+10185 | 100363 | Acroglochin | 千针苋属 | 1
+10185 | 100837 | Agriophyllum | 沙蓬属 | 3
+10185 | 101527 | Anabasis | 假木贼属 | 8
+10185 | 102465 | Archiatriplex | 单性滨藜属 | 1
+10185 | 102711 | Arthrophytum | 节节木属 | 3
+10185 | 103110 | Atriplex | 滨藜属 | 21
+10185 | 103273 | Axyris | 轴藜属 | 4
+10185 | 103468 | Baolia | 苞藜属 | 1
+10185 | 103589 | Bassia | 雾冰藜属 | 3
+10185 | 103882 | Beta | 甜菜属 | 5
+10185 | 202348 | Borszczowia | 异子蓬属 | 1
+10185 | 105412 | Camphorosma | 樟味藜属 | 3
+10185 | 106165 | Ceratocarpus | 角果藜属 | 1
+10185 | 106630 | Chenopodium | 藜属 | 20
+10185 | 108022 | Corispermum | 虫实属 | 31
+10185 | 108040 | Cornulaca | 单刺蓬属 | 1
+10185 | 111141 | Dysphania | 刺藜属 | 4
+10185 | 113575 | Girgensohnia | 对叶盐蓬属 | 1
+10185 | 114494 | Halimocnemis | 盐蓬属 | 3
+10185 | 114510 | Halocnemum | 盐节木属 | 1
+10185 | 114514 | Halogeton | 盐生草属 | 4
+10185 | 114518 | Halopeplis | 盐千屈菜属 | 1
+10185 | 114531 | Halostachys | 盐穗木属 | 1
+10185 | 114532 | Halothamnus | 新疆藜属 | 1
+10185 | 114536 | Haloxylon | 琐琐属 | 2
+10185 | 115745 | Horaninovia | 对节刺属 | 1
+10185 | 116369 | Iljinia | 戈壁藜属 | 1
+10185 | 116926 | Kalidium | 盐爪爪属 | 7
+10185 | 117125 | Kirilowia | 棉藜属 | 1
+10185 | 117182 | Kochia | 地肤属 | 10
+10185 | 117271 | Krascheninnikovia | 驼绒藜属 | 6
+10185 | 118873 | Londesia | 绒藜属 | 1
+10185 | 120560 | Microgynoecium | 小果滨藜属 | 1
+10185 | 121633 | Nanophyton | 小蓬属 | 2
+10185 | 123749 | Panderia | 兜藜属 | 1
+10185 | 124744 | Petrosimonia | 叉毛蓬属 | 4
+10185 | 126373 | Polycnemum | 多节草属 | 1
+10185 | 129055 | Salicornia | 盐角草属 | 1
+10185 | 129079 | Salsola | 猪毛菜属 | 36
+10185 | 131008 | Spinacia | 菠菜属 | 1
+10185 | 131865 | Suaeda | 碱蓬属 | 22
+10185 | 131984 | Sympegma | 合头草属 | 1
+10187 | 106776 | Chloranthus | 金粟兰属 | 22
+10187 | 114826 | Hedyosmum | 雪香兰属 | 1
+10187 | 129181 | Sarcandra | 草珊瑚属 | 3
+10193 | 107127 | Circaeaster | 星叶草属 | 1
+10194 | 114866 | Helianthemum | 半日花属 | 1
+10199 | 102610 | Arivela | 黄花草属 | 3
+10199 | 107324 | Cleome | 白花菜属 | 1
+10199 | 317305 | Cleoserrata | 西洋白花菜属 | 1
+10199 | 114333 | Gynandropsis | 羊角菜属 | 1
+10199 | 132319 | Tarenaya | 醉蝶花属 | 1
+10200 | 107333 | Clethra | 桤叶树属 | 7
+10203 | 105209 | Calophyllum | 红厚壳属 | 4
+10203 | 108291 | Cratoxylum | 黄牛木属 | 4
+10203 | 113257 | Garcinia | 藤黄属 | 20
+10203 | 116180 | Hypericum | 金丝桃属 | 93
+10203 | 202460 | Lianthus | 惠林花属 | 1
+10203 | 119584 | Mammea | 格脉树属 | 1
+10203 | 120363 | Mesua | 铁力木属 | 1
+10203 | 133357 | Triadenum | 三腺金丝桃属 | 2
+10205 | 114711 | Harrisonia | 牛筋果属 | 1
+10211 | 101905 | Anogeissus | 榆绿木属 | 1
+10211 | 107762 | Combretum | 风车子属 | 12
+10211 | 113503 | Getonia | 萼翅藤属 | 1
+10211 | 119094 | Lumnitzera | 榄李属 | 2
+10211 | 127863 | Quisqualis | 使君子属 | 2
+10211 | 132477 | Terminalia | 诃子属 | 12
+10212 | 101362 | Amischotolype | 穿鞘花属 | 2
+10212 | 103763 | Belosynapsis | 假紫万年青属 | 1
+10212 | 105131 | Callisia | 洋竹草属 | 1
+10212 | 107770 | Commelina | 鸭跖草属 | 8
+10212 | 108768 | Cyanotis | 蓝耳草属 | 5
+10212 | 110041 | Dictyospermum | 网籽草属 | 1
+10212 | 112882 | Floscopa | 聚花草属 | 2
+10212 | 121330 | Murdannia | 水竹叶属 | 20
+10212 | 126324 | Pollia | 杜若属 | 8
+10212 | 126539 | Porandra | 孔药花属 | 3
+10212 | 128436 | Rhopalephora | 钩毛子草属 | 1
+10212 | 130810 | Spatholirion | 竹叶吉祥草属 | 2
+10212 | 131707 | Streptolirion | 竹叶子属 | 3
+10212 | 133268 | Tradescantia | 紫万年青属 | 2
+10212 | 133401 | Tricarpelema | 三瓣果属 | 2
+10214 | 100798 | Agelaea | 栗豆藤属 | 1
+10214 | 107430 | Cnestis | 螫毛果属 | 1
+10214 | 107862 | Connarus | 牛栓藤属 | 3
+10214 | 111471 | Ellipanthus | 单叶豆属 | 1
+10214 | 128813 | Rourea | 红叶藤属 | 4
+10214 | 128814 | Roureopsis | 朱果藤属 | 1
+10216 | 102554 | Argyreia | 银背藤属 | 28
+10216 | 104106 | Blinkworthia | 苞叶藤属 | 1
+10216 | 105355 | Calystegia | 打碗花属 | 9
+10216 | 107909 | Convolvulus | 旋花属 | 8
+10216 | 108730 | Cuscuta | 菟丝子属 | 15
+10216 | 109913 | Dichondra | 马蹄金属 | 1
+10216 | 110254 | Dinetus | 飞蛾藤属 | 6
+10216 | 112136 | Erycibe | 丁公藤属 | 10
+10216 | 112507 | Evolvulus | 土丁桂属 | 5
+10216 | 200076 | Hewittia | 猪菜藤属 | 1
+10216 | 116482 | Ipomoea | 番薯属 | 33
+10216 | 116708 | Jacquemontia | 小牵牛属 | 3
+10216 | 118103 | Lepistemon | 鳞蕊藤属 | 4
+10216 | 120299 | Merremia | 鱼黄草属 | 31
+10216 | 122234 | Neuropeltis | 盾苞藤属 | 1
+10216 | 122967 | Operculina | 盒果藤属 | 1
+10216 | 126540 | Poranopsis | 白花叶属 | 3
+10216 | 131536 | Stictocardia | 腺叶藤属 | 1
+10216 | 133613 | Tridynamia | 三翅藤属 | 4
+10216 | 135072 | Xenostegia | 地旋花属 | 1
+10218 | 108012 | Coriaria | 马桑属 | 3
+10219 | 108042 | Cornus | 山茱萸属 | 46
+10219 | 316357 | Cornus subg. Arctocrania | 草茱萸亚属 | 1
+10219 | 316355 | Cornus subg. Cornus | 山茱萸亚属 | 2
+10219 | 316354 | Cornus subg. Kraniopsis | 梾木亚属 | 15
+10219 | 316353 | Cornus subg. Mesomora | 灯台树亚属 | 1
+10219 | 316356 | Cornus subg. Syncarpea | 四照花亚属 | 5
+10219 | 316352 | Cornus subg. Yinquania | 长圆叶梾木亚属 | 1
+10220 | 317540 | Corsiopsis | 白玉簪属 | 1
+10224 | 108165 | Costus | 闭鞘姜属 | 5
+10225 | 104753 | Bryophyllum | 落地生根属 | 1
+10225 | 200077 | Hylotelephium | 八宝属 | 22
+10225 | 116917 | Kalanchoe | 伽蓝菜属 | 5
+10225 | 200149 | Kungia | 孔岩草属 | 6
+10225 | 202105 | Ohbaea | 岷江景天属 | 1
+10225 | 123226 | Orostachys | 瓦松属 | 10
+10225 | 124932 | Phedimus | 费菜属 | 12
+10225 | 127241 | Pseudosedum | 合景天属 | 2
+10225 | 128370 | Rhodiola | 红景天属 | 76
+10225 | 128787 | Rosularia | 瓦莲属 | 3
+10225 | 129989 | Sedum | 景天属 | 152
+10225 | 130420 | Sinocrassula | 石莲属 | 14
+10225 | 133012 | Tillaea | 东爪草属 | 5
+10229 | 108505 | Crypteronia | 隐翼属 | 1
+10233 | 100469 | Actinostemma | 盒子草属 | 3
+10233 | 103786 | Benincasa | 冬瓜属 | 1
+10233 | 104007 | Biswarea | 三裂瓜属 | 1
+10233 | 104190 | Bolbostemma | 假贝母属 | 4
+10233 | 107163 | Citrullus | 西瓜属 | 1
+10233 | 107451 | Coccinia | 红瓜属 | 1
+10233 | 108642 | Cucumis | 黄瓜属 | 8
+10233 | 108644 | Cucurbita | 南瓜属 | 3
+10233 | 108824 | Cyclanthera | 小雀瓜属 | 1
+10233 | 110404 | Diplocyclos | 毒瓜属 | 1
+10233 | 111177 | Ecballium | 喷瓜属 | 1
+10233 | 111304 | Edgaria | 三棱瓜属 | 1
+10233 | 113837 | Gomphogyne | 锥形果属 | 3
+10233 | 114291 | Gymnopetalum | 金瓜属 | 2
+10233 | 114356 | Gynostemma | 绞股蓝属 | 18
+10233 | 115089 | Hemsleya | 雪胆属 | 44
+10233 | 115188 | Herpetospermum | 波棱瓜属 | 1
+10233 | 115553 | Hodgsonia | 油渣果属 | 1
+10233 | 116404 | Indofevillea | 藏瓜属 | 1
+10233 | 117477 | Lagenaria | 葫芦属 | 1
+10233 | 119075 | Luffa | 丝瓜属 | 2
+10233 | 120202 | Melothria | 美洲马(瓜交)儿属 | 1
+10233 | 120957 | Momordica | 苦瓜属 | 5
+10233 | 121298 | Mukia | 帽儿瓜属 | 2
+10233 | 121867 | Neoalsomitra | 棒锤瓜属 | 1
+10233 | 129552 | Schizopepon | 裂瓜属 | 11
+10233 | 317601 | Scopellaria | 云南马(瓜交)儿属 | 1
+10233 | 129971 | Sechium | 佛手瓜属 | 1
+10233 | 317599 | Sinobaijiania | 白兼果属 | 3
+10233 | 130488 | Siraitia | 罗汉果属 | 3
+10233 | 130624 | Solena | 茅瓜属 | 3
+10233 | 132838 | Thladiantha | 赤瓟属 | 29
+10233 | 133535 | Trichosanthes | 栝楼属 | 41
+10233 | 135258 | Zanonia | 翅子瓜属 | 3
+10233 | 135274 | Zehneria | 马(瓜交)儿属 | 4
+10237 | 105165 | Calocedrus | 翠柏属 | 3
+10237 | 106431 | Chamaecyparis | 扁柏属 | 7
+10237 | 108697 | Cupressus | 柏木属 | 11
+10237 | 112899 | Fokienia | 福建柏属 | 1
+10237 | 116875 | Juniperus | 刺柏属 | 42
+10237 | 125775 | Platycladus | 侧柏属 | 1
+10237 | 132902 | Thuja | 崖柏属 | 5
+10237 | 132903 | Thujopsis | 罗汉柏属 | 1
+10241 | 108817 | Cycas | 苏铁属 | 18
+10244 | 108962 | Cymodocea | 丝粉藻属 | 1
+10244 | 114513 | Halodule | 二药藻属 | 2
+10244 | 132147 | Syringodium | 针叶藻属 | 1
+10245 | 108988 | Cynomorium | 锁阳属 | 1
+10246 | 100463 | Actinoschoenus | 星穗莎属 | 2
+10246 | 200301 | Actinoscirpus | 大藨草属 | 1
+10246 | 104131 | Blysmus | 扁穗草属 | 6
+10246 | 104189 | Bolboschoenus | 三棱草属 | 4
+10246 | 104829 | Bulbostylis | 球柱草属 | 3
+10246 | 105644 | Carex | 薹草属 | 720
+10246 | 302673 | CAREX sect. ACROCYSTIS | 玉簪薹草组 | 5
+10246 | 302674 | CAREX sect. ALBAE | 白鳞薹草组 | 2
+10246 | 302676 | CAREX sect. ANOMALAE | 异囊薹草组 | 4
+10246 | 302677 | CAREX sect. AULOCYSTIS | 冻原薹草组 | 39
+10246 | 302679 | CAREX sect. CAPITULIGERAE | 头穗薹草组 | 1
+10246 | 302680 | CAREX sect. CAREX | 薹草组 | 12
+10246 | 302681 | CAREX sect. CAREYANAE | 疏花薹草组 | 11
+10246 | 302683 | CAREX sect. CHLOROSTACHYAE | 绿穗薹草组 | 7
+10246 | 302686 | CAREX sect. CLANDESTINAE | 指状薹草组 | 29
+10246 | 317591 | Carex sect. Confertiflorae | 密花薹草组 | 16
+10246 | 317543 | Carex sect. Cryptostachyae | 隐穗薹草组 | 1
+10246 | 302688 | CAREX sect. CYPEROIDEAE | 莎薹草组 | 1
+10246 | 317592 | Carex sect. Debiles | 瘦果薹草组 | 8
+10246 | 317555 | Carex sect. Decorae | 美穗薹草组 | 11
+10246 | 302690 | CAREX sect. DISPERMAE | 二籽薹草组 | 1
+10246 | 317574 | Carex sect. Echinochloomorphae | 类稗薹草组 | 1
+10246 | 317550 | Carex sect. Euprepes | 菰叶薹草组 | 1
+10246 | 302695 | CAREX sect. FOETIDAE | 烈味薹草组 | 6
+10246 | 317596 | Carex sect. Forficulae | 溪水薹草组 | 7
+10246 | 317570 | Carex sect. Gibbae | 穹隆薹草组 | 1
+10246 | 302696 | CAREX sect. GLAREOSAE | 白山薹草组 | 4
+10246 | 317545 | Carex sect. Glauciformes | 米柱薹草组 | 1
+10246 | 317578 | Carex sect. Graciles | 细柄薹草组 | 21
+10246 | 317576 | Carex sect. Grallatoriae | 短喙薹草组 | 1
+10246 | 317567 | Carex sect. Hangzhouenses | 杭州薹草组 | 1
+10246 | 302701 | CAREX sect. HELEOGLOCHIN | 圆锥薹草组 | 1
+10246 | 317549 | Carex sect. Hemiscaposae | 花葶薹草组 | 9
+10246 | 317544 | Carex sect. Hirtae | 糙果薹草组 | 3
+10246 | 302704 | CAREX sect. HOLARRHENAE | 二柱薹草组 | 11
+10246 | 302705 | CAREX sect. HYMENOCHLAENAE | 膜囊薹草组 | 15
+10246 | 317547 | Carex sect. Hypolytroides | 宝兴薹草组 | 1
+10246 | 317551 | Carex sect. Indicae | 印度薹草组 | 13
+10246 | 317541 | Carex sect. Japonicae | 日本薹草组 | 1
+10246 | 317542 | Carex sect. Lageniformes | 匏囊薹草组 | 8
+10246 | 302707 | CAREX sect. LAMPROCHLAENAE | 黄囊薹草组 | 7
+10246 | 302710 | CAREX sect. LEUCOGLOCHIN | 尖苞薹草组 | 2
+10246 | 302711 | CAREX sect. LIMOSAE | 湿生薹草组 | 2
+10246 | 302714 | CAREX sect. MACROCEPHALAE | 筛草组 | 1
+10246 | 302715 | CAREX sect. Mitratae | 灰帽薹草组 | 27
+10246 | 317590 | Carex sect. Molliculae | 柔果薹草组 | 18
+10246 | 317554 | Carex sect. Mundae | 秀丽薹草组 | 2
+10246 | 317585 | Carex sect. Occlusae | 硬毛果薹草组 | 7
+10246 | 302719 | CAREX sect. OVALES | 卵果薹草组 | 2
+10246 | 302720 | CAREX sect. PALUDOSAE | 沼生薹草组 | 12
+10246 | 302721 | CAREX sect. PANICEAE | 少花薹草组 | 1
+10246 | 302722 | CAREX sect. PHACOCYSTIS | 急尖薹草组 | 30
+10246 | 317572 | Carex sect. Phleoideae | 多花薹草组 | 6
+10246 | 317586 | Carex sect. Physocarpae | 胀囊薹草组 | 10
+10246 | 317571 | Carex sect. Physodeae | 囊果薹草组 | 1
+10246 | 302725 | CAREX sect. PHYSOGLOCHIN | 异株薹草组 | 1
+10246 | 317595 | Carex sect. Planatae | 高秆薹草组 | 2
+10246 | 317552 | Carex sect. Polystachyae | 多穗薹草组 | 4
+10246 | 317580 | Carex sect. Praelongae | 帚状薹草组 | 17
+10246 | 317587 | Carex sect. Pseudocypereae | 似莎薹草组 | 2
+10246 | 302728 | CAREX sect. RACEMOSAE | 褐穗薹草组 | 27
+10246 | 317581 | Carex sect. Radicales | 根穗薹草组 | 13
+10246 | 317577 | Carex sect. Rarae | 单穗薹草组 | 9
+10246 | 317569 | Carex sect. Remotae | 薮薹草组 | 3
+10246 | 317575 | Carex sect. Rhizopodae | 根足薹草组 | 3
+10246 | 317588 | Carex sect. Rhomboidales | 菱形果薹草组 | 42
+10246 | 302731 | CAREX sect. RUPESTRES | 石薹草组 | 2
+10246 | 317546 | Carex sect. Scabrellae | 粗糙薹草组 | 1
+10246 | 317589 | Carex sect. Secalinae | 离穗薹草组 | 1
+10246 | 317583 | Carex sect. Siderostictae | 宽叶薹草组 | 8
+10246 | 302738 | CAREX sect. STELLULATAE | 星穗薹草组 | 2
+10246 | 317548 | Carex sect. Surculosae | 蘖枝薹草组 | 3
+10246 | 317573 | Carex sect. Thomsonianae | 高节薹草组 | 1
+10246 | 317579 | Carex sect. Tuminenses | 图们薹草组 | 1
+10246 | 302742 | CAREX sect. VULPINAE | 海绵基薹草组 | 4
+10246 | 312131 | Carex subg. Carex | 薹草亚属 | 
+10246 | 312133 | Carex subg. Vignea | 二柱薹草亚属 | 
+10246 | 312134 | Carex subg. Vigneastra | 复序薹草亚属 | 
+10246 | 317582 | Carex subsect. Caespitosae | 丛薹草亚组 | 
+10246 | 317593 | Carex subsect. Ferrugineae | 锈色薹草亚组 | 
+10246 | 317594 | Carex subsect. Fuliginosae | 黑色薹草亚组 | 
+10246 | 317584 | Carex subsect. Gynaecandrae | 雌雄序薹草亚组 | 1
+10246 | 317568 | Carex subsect. Rigidae | 坚挺薹草亚组 | 
+10246 | 107172 | Cladium | 克拉莎属 | 1
+10246 | 108213 | Courtoisina | 翅鳞莎属 | 1
+10246 | 109010 | Cyperus | 莎草属 | 74
+10246 | 110347 | Diplacrum | 裂颖茅属 | 2
+10246 | 111420 | Eleocharis | 荸荠属 | 43
+10246 | 112065 | Eriophorum | 羊胡子草属 | 7
+10246 | 112803 | Fimbristylis | 飘拂草属 | 69
+10246 | 113057 | Fuirena | 芙兰草属 | 3
+10246 | 113129 | Gahnia | 黑莎草属 | 3
+10246 | 116247 | Hypolytrum | 割鸡芒属 | 4
+10246 | 116586 | Isolepis | 细莞属 | 1
+10246 | 117180 | Kobresia | 嵩草属 | 48
+10246 | 117357 | Kyllinga | 水蜈蚣属 | 10
+10246 | 118070 | Lepidosperma | 鳞籽莎属 | 1
+10246 | 118095 | Lepironia | 石龙刍属 | 1
+10246 | 118685 | Lipocarpha | 湖瓜草属 | 4
+10246 | 119255 | Machaerina | 剑叶莎属 | 3
+10246 | 119651 | Mapania | 擂鼓苈属 | 3
+10246 | 127734 | Pycreus | 扁莎属 | 15
+10246 | 128125 | Remirea | 海滨莎属 | 1
+10246 | 128495 | Rhynchospora | 刺子莞属 | 9
+10246 | 129637 | Schoenoplectus | 水葱属 | 24
+10246 | 129642 | Schoenus | 赤箭莎属 | 4
+10246 | 129748 | Scirpus | 藨草属 | 14
+10246 | 129760 | Scleria | 珍珠茅属 | 26
+10246 | 133521 | Trichophorum | 针蔺属 | 6
+10246 | 133591 | Tricostularia | 三肋果莎属 | 1
+10254 | 109299 | Daphniphyllum | 虎皮楠属 | 10
+10265 | 103849 | Berneuxia | 岩匙属 | 1
+10265 | 109798 | Diapensia | 岩梅属 | 3
+10265 | 130272 | Shortia | 岩扇属 | 2
+10267 | 109888 | Dichapetalum | 毒鼠子属 | 2
+20466 | 134805 | Weigela | 锦带花属 | 2
+10277 | 110185 | Dillenia | 五桠果属 | 3
+10277 | 132524 | Tetracera | 锡叶藤属 | 2
+10280 | 110295 | Dioscorea | 薯蓣属 | 77
+20095 | 110318 | Dipentodon | 十齿花属 | 1
+20095 | 124626 | Perrottetia | 核子木属 | 2
+10282 | 110498 | Dipsacus | 川续断属 | 7
+10282 | 127451 | Pterocephalus | 翼首花属 | 2
+10282 | 129360 | Scabiosa | 蓝盆花属 | 6
+10282 | 133746 | Triplostegia | 双参属 | 2
+10284 | 110505 | Dipterocarpus | 龙脑香属 | 4
+10284 | 115736 | Hopea | 坡垒属 | 4
+10284 | 124002 | Parashorea | 柳安属 | 1
+10284 | 130271 | Shorea | 娑罗双属 | 2
+10284 | 134413 | Vatica | 青梅属 | 3
+10290 | 100980 | Aldrovanda | 貉藻属 | 1
+10290 | 110951 | Drosera | 茅膏菜属 | 6
+10293 | 110299 | Diospyros | 柿树属 | 67
+10298 | 111375 | Elaeagnus | 胡颓子属 | 84
+10298 | 115515 | Hippophae | 沙棘属 | 14
+10299 | 111377 | Elaeocarpus | 杜英属 | 55
+10299 | 130556 | Sloanea | 猴欢喜属 | 16
+10302 | 103833 | Bergia | 田繁缕属 | 3
+10302 | 111398 | Elatine | 沟繁缕属 | 3
+10313 | 111784 | Ephedra | 麻黄属 | 17
+10316 | 100775 | Agapetes | 树萝卜属 | 56
+10316 | 101689 | Andromeda |   | 1
+10316 | 102499 | Arctous | 北极果属 | 3
+10316 | 105809 | Cassiope | 锦绦花属 | 11
+10316 | 106434 | Chamaedaphne | 地桂属 | 1
+10316 | 106695 | Chimaphila | 喜冬草属 | 5
+10316 | 108242 | Craibiodendron | 假木荷属 | 4
+10316 | 110355 | Diplarche | 杉叶杜鹃属 | 2
+10316 | 111565 | Empetrum | 岩高兰属 | 1
+10316 | 111714 | Enkianthus | 吊钟花属 | 9
+10316 | 113331 | Gaultheria | 白珠树属 | 52
+10316 | 117842 | Ledum | 杜香属 | 4
+10316 | 118461 | Leucothoe | 木藜芦属 | 2
+10316 | 119184 | Lyonia | 珍珠花属 | 13
+10316 | 120999 | Moneses | 独丽花属 | 1
+10316 | 121121 | Monotropa | 水晶兰属 | 2
+10316 | 121123 | Monotropastrum | 沙晶兰属 | 2
+10316 | 123245 | Orthilia | 单侧花属 | 2
+10316 | 125218 | Phyllodoce | 松毛翠属 | 2
+10316 | 125410 | Pieris | 马醉木属 | 3
+10316 | 127777 | Pyrola | 鹿蹄草属 | 26
+10316 | 128386 | Rhododendron | 杜鹃属 | 908
+10316 | 316375 | Rhododendron sect. Azaleastrum | 马银花组 | 8
+10316 | 316369 | Rhododendron sect. Brachycalyx | 轮生叶组 | 4
+10316 | 316366 | Rhododendron sect. Choniastrum | 长蕊杜鹃组 | 18
+10316 | 316371 | Rhododendron sect. Pentanthera | 五花药组 | 1
+10316 | 316378 | Rhododendron sect. Pogonanthum | 髯花杜鹃组 | 20
+10316 | 316377 | Rhododendron sect. Rhabdorhodion | 帚枝杜鹃组 | 1
+10316 | 316373 | Rhododendron sect. Rhodobotrys | 腋花杜鹃组 | 2
+10316 | 316372 | Rhododendron sect. Rhododendron | 杜鹃组 | 20
+10316 | 316370 | Rhododendron sect. Sciadorhodion | 十花药组 | 1
+10316 | 316376 | Rhododendron sect. Trachyrhodion | 糙叶杜鹃组 | 7
+10316 | 316367 | Rhododendron sect. Tsusiopsis | 假映山红组 | 1
+10316 | 316368 | Rhododendron sect. Tsutsusi | 映山红组 | 76
+10316 | 316374 | Rhododendron sect. Vireya | 越桔杜鹃组 | 11
+10316 | 316365 | Rhododendron subg. Azaleastrum | 马银花亚属 | 2
+10316 | 316351 | Rhododendron subg. Hymenanthes | 常绿杜鹃亚属 | 23
+10316 | 316364 | Rhododendron subg. Pentanthera | 羊踯躅亚属 | 2
+10316 | 316359 | Rhododendron subg. Pseudazalea | 毛枝杜鹃亚属 | 6
+10316 | 316360 | Rhododendron subg. Pseudorhodorastrum | 糙叶杜鹃亚属 | 3
+10316 | 316358 | Rhododendron subg. Rhododendron | 杜鹃亚属 | 3
+10316 | 316361 | Rhododendron subg. Rhodorastrum | 迎红杜鹃亚属 | 2
+10316 | 316362 | Rhododendron subg. Therorhodion | 叶状苞亚属 | 1
+10316 | 316363 | Rhododendron subg. Tsutsusi | 映山红亚属 | 3
+10316 | 316415 | Rhododendron subsect. Arborea | 树形杜鹃亚组 | 4
+10316 | 316414 | Rhododendron subsect. Argyrophylla | 银叶杜鹃亚组 | 21
+10316 | 316405 | Rhododendron subsect. Auriculata | 耳叶杜鹃亚组 | 2
+10316 | 316416 | Rhododendron subsect. Baileya | 辐花杜鹃亚组 | 1
+10316 | 316393 | Rhododendron subsect. Barbata | 硬刺杜鹃亚组 | 4
+10316 | 316387 | Rhododendron subsect. Boothia | 黄花杜鹃亚组 | 7
+10316 | 316389 | Rhododendron subsect. Camelliiflora | 茶花杜鹃亚组 | 1
+10316 | 316390 | Rhododendron subsect. Campanulata | 钟花杜鹃亚组 | 3
+10316 | 316401 | Rhododendron subsect. Campylocarpa | 弯果杜鹃亚组 | 6
+10316 | 316419 | Rhododendron subsect. Campylogyna | 弯柱杜鹃亚组 | 1
+10316 | 316396 | Rhododendron subsect. Cinnabarina | 朱砂杜鹃亚组 | 6
+10316 | 316386 | Rhododendron subsect. Edgeworthia | 泡泡叶杜鹃亚组 | 3
+10316 | 316403 | Rhododendron subsect. Falconera | 杯毛杜鹃亚组 | 10
+10316 | 316406 | Rhododendron subsect. Fortunea | 云锦杜鹃亚组 | 31
+10316 | 316398 | Rhododendron subsect. Fragariiflora | 草莓杜鹃亚组 | 1
+10316 | 316413 | Rhododendron subsect. Fulgensia | 猩红杜鹃亚组 | 3
+10316 | 316388 | Rhododendron subsect. Fulva | 镰果杜鹃亚组 | 2
+10316 | 316418 | Rhododendron subsect. Genestieriana | 灰白杜鹃亚组 | 1
+10316 | 316420 | Rhododendron subsect. Glauca | 苍白杜鹃亚组 | 5
+10316 | 316410 | Rhododendron subsect. Glischra | 粘毛杜鹃亚组 | 6
+10316 | 316404 | Rhododendron subsect. Grandia | 大叶杜鹃亚组 | 10
+10316 | 316391 | Rhododendron subsect. Griersoniana | 朱红大杜鹃亚组 | 1
+10316 | 316381 | Rhododendron subsect. Heliolepida | 亮鳞杜鹃亚组 | 5
+10316 | 316400 | Rhododendron subsect. Irrorata | 露珠杜鹃亚组 | 21
+10316 | 316379 | Rhododendron subsect. Lanata | 黄钟杜鹃亚组 | 4
+10316 | 316380 | Rhododendron subsect. Lapponica | 高山杜鹃亚组 | 40
+10316 | 316417 | Rhododendron subsect. Lepidota | 鳞腺杜鹃亚组 | 1
+10316 | 316411 | Rhododendron subsect. Maculifera | 麻花杜鹃亚组 | 13
+10316 | 316385 | Rhododendron subsect. Maddenia | 有鳞大花亚组 | 34
+10316 | 316409 | Rhododendron subsect. Micrantha | 照山白亚组 | 3
+10316 | 316383 | Rhododendron subsect. Monantha | 黄绿杜鹃亚组 | 3
+10316 | 316384 | Rhododendron subsect. Moupinensia | 川西杜鹃亚组 | 3
+10316 | 316394 | Rhododendron subsect. Neriiflora | 火红杜鹃亚组 | 27
+10316 | 316392 | Rhododendron subsect. Parishia | 星毛杜鹃亚组 | 7
+10316 | 316412 | Rhododendron subsect. Pontica | 长序杜鹃亚组 | 2
+10316 | 316421 | Rhododendron subsect. Saluenensia | 怒江杜鹃亚组 | 4
+10316 | 316408 | Rhododendron subsect. Selensia | 漏斗杜鹃亚组 | 9
+10316 | 316399 | Rhododendron subsect. Taliensia | 大理杜鹃亚组 | 56
+10316 | 316395 | Rhododendron subsect. Tephropepla | 灰背杜鹃亚组 | 6
+10316 | 316407 | Rhododendron subsect. Thomsonia | 蜜腺杜鹃亚组 | 15
+10316 | 316382 | Rhododendron subsect. Triflora | 三花杜鹃亚组 | 24
+10316 | 316397 | Rhododendron subsect. Uniflora | 单花杜鹃亚组 | 4
+10316 | 316402 | Rhododendron subsect. Williamsiana | 圆叶杜鹃亚组 | 2
+10316 | 134285 | Vaccinium | 越桔属 | 129
+10317 | 112020 | Eriocaulon | 谷精草属 | 43
+10322 | 112187 | Erythroxylum | 古柯属 | 2
+10322 | 116684 | Ixonanthes | 粘木属 | 1
+10325 | 112284 | Eucommia | 杜仲属 | 1
+10327 | 100064 | Acalypha | 铁苋菜属 | 18
+10327 | 100424 | Actephila | 喜光花属 | 3
+10327 | 100965 | Alchornea | 山麻杆属 | 12
+10327 | 101000 | Aleurites | 石栗属 | 1
+10327 | 102083 | Antidesma | 五月茶属 | 15
+10327 | 102334 | Aporosa | 银柴属 | 4
+10327 | 103313 | Baccaurea | 木奶果属 | 2
+10327 | 317174 | Balakata | 浆果乌桕属 | 1
+10327 | 103423 | Baliospermum | 斑籽木属 | 5
+10327 | 103984 | Bischofia | 秋枫属 | 2
+10327 | 104024 | Blachia | 留萼木属 | 4
+10327 | 104612 | Breynia | 黑面神属 | 5
+10327 | 104621 | Bridelia | 土蜜树属 | 7
+10327 | 106097 | Cephalomappa | 肥牛树属 | 1
+10327 | 106332 | Chaetocarpus | 刺果树属 | 1
+10327 | 106944 | Chrozophora | 沙戟属 | 1
+10327 | 107184 | Cladogynos | 白大凤属 | 1
+10327 | 107217 | Claoxylon | 白桐树属 | 6
+10327 | 107280 | Cleidiocarpon | 蝴蝶果属 | 1
+10327 | 107281 | Cleidion | 棒柄花属 | 3
+10327 | 107294 | Cleistanthus | 闭花木属 | 7
+10327 | 200113 | Cnesmone | 粗毛藤属 | 3
+10327 | 107516 | Codiaeum | 变叶木属 | 1
+10327 | 108445 | Croton | 巴豆属 | 24
+10327 | 109241 | Dalechampia | 黄蓉花属 | 1
+10327 | 109729 | Deutzianthus | 东京桐属 | 1
+10327 | 110229 | Dimorphocalyx | 异萼木属 | 1
+10327 | 110566 | Discocleidion | 丹麻杆属 | 2
+10327 | 110999 | Drypetes | 核果木属 | 13
+10327 | 111667 | Endospermum | 黄桐属 | 1
+10327 | 111867 | Epiprinus | 风轮桐属 | 1
+10327 | 112096 | Erismanthus | 轴花木属 | 1
+10327 | 112355 | Euphorbia | 大戟属 | 84
+10327 | 112534 | Excoecaria | 海漆属 | 9
+10327 | 112638 | Falconeria | 异序乌桕属 | 1
+10327 | 112889 | Flueggea | 白饭树属 | 4
+10327 | 113657 | Glochidion | 算盘子属 | 30
+10327 | 114238 | Gymnanthes | 裸花树属 | 1
+10327 | 114561 | Hancea | 粗毛野桐属 | 1
+10327 | 115389 | Hevea | 橡胶树属 | 1
+10327 | 200141 | Homalanthus | 澳杨属 | 1
+10327 | 115707 | Homonoia | 水柳属 | 1
+10327 | 115891 | Hura | 响盒子属 | 1
+10327 | 116774 | Jatropha | 麻风树属 | 3
+10327 | 117210 | Koilodepas | 白茶树属 | 1
+10327 | 117663 | Lasiococca | 轮叶戟属 | 1
+10327 | 118234 | Leptopus | 雀舌木属 | 6
+10327 | 119234 | Macaranga | 血桐属 | 10
+10327 | 119552 | Mallotus | 野桐属 | 46
+10327 | 119615 | Manihot | 木薯属 | 2
+10327 | 119699 | Margaritaria | 蓝子木属 | 1
+10327 | 120016 | Megistostigma | 大柱藤属 | 2
+10327 | 120084 | Melanolepis | 墨鳞属 | 1
+10327 | 120266 | Mercurialis | 山靛属 | 1
+10327 | 120654 | Microstachys | 地杨桃属 | 1
+10327 | 317172 | Neoshirakia | 白木乌桕属 | 2
+10327 | 123360 | Ostodes | 叶轮木属 | 2
+10327 | 123636 | Pachystylidium | 粗柱藤属 | 1
+10327 | 124238 | Pedilanthus | 红雀珊瑚属 | 1
+10327 | 125178 | Phyllanthodendron | 珠子木属 | 10
+10327 | 125179 | Phyllanthus | 叶下珠属 | 36
+10327 | 127674 | Putranjiva | 假黄杨属 | 1
+10327 | 128189 | Reutealis | 三籽桐属 | 1
+10327 | 200178 | Richeriella | 龙胆木属 | 1
+10327 | 128572 | Ricinus | 蓖麻属 | 1
+10327 | 129335 | Sauropus | 守宫木属 | 15
+10327 | 317173 | Shirakiopsis | 齿叶乌桕属 | 1
+10327 | 130835 | Speranskia | 地构叶属 | 2
+10327 | 131776 | Strophioblachia | 宿萼木属 | 4
+10327 | 131906 | Sumbaviopsis | 白叶桐属 | 1
+10327 | 131915 | Suregada | 白树属 | 2
+10327 | 202588 | Trevia | 滑桃树属 | 1
+10327 | 133358 | Triadica | 乌桕属 | 3
+10327 | 133651 | Trigonostemon | 三宝木属 | 9
+10327 | 134493 | Vernicia | 油桐属 | 2
+10329 | 112375 | Euptelea | 领春木属 | 1
+10335 | 100045 | Abrus | 相思子属 | 5
+10335 | 100060 | Acacia | 金合欢属 | 24
+10335 | 100339 | Acrocarpus | 顶果木属 | 1
+10335 | 100525 | Adenanthera | 海红豆属 | 1
+10335 | 100705 | Aeschynomene | 合萌属 | 2
+10335 | 100729 | Afgekia | 猪腰豆属 | 3
+10335 | 100759 | Afzelia | 缅茄属 | 1
+10335 | 100772 | Aganope | 双束鱼藤属 | 3
+10335 | 100949 | Albizia | 合欢属 | 16
+10335 | 101023 | Alhagi | 骆驼刺属 | 1
+10335 | 101234 | Alysicarpus | 链荚豆属 | 7
+10335 | 101378 | Ammodendron | 银砂槐属 | 1
+10335 | 101385 | Ammopiptanthus | 沙冬青属 | 1
+10335 | 101403 | Amorpha | 紫穗槐属 | 1
+10335 | 101440 | Amphicarpaea | 两型豆属 | 3
+10335 | 102013 | Antheroporum | 肿荚豆属 | 2
+10335 | 102232 | Aphyllodium | 两节豆属 | 1
+10335 | 102249 | Apios | 土圞儿属 | 6
+10335 | 102396 | Arachis | 落花生属 | 1
+10335 | 102468 | Archidendron | 猴耳环属 | 18
+10335 | 102978 | Astragalus | 黄耆属 | 472
+10335 | 317480 | Astragalus "Caprini group" | 短缩茎群 | 14
+10335 | 317481 | Astragalus "Purpurascentes group" | 布河黄耆群 | 4
+10335 | 103634 | Bauhinia | 羊蹄甲属 | 60
+10335 | 104404 | Bowringia | 藤槐属 | 1
+10335 | 104910 | Butea | 紫矿属 | 3
+10335 | 104988 | Caesalpinia | 云实属 | 20
+10335 | 105001 | Cajanus | 木豆属 | 7
+10335 | 105088 | Callerya | 鸡血藤属 | 26
+10335 | 105091 | Calliandra | 朱缨花属 | 2
+10335 | 105205 | Calophaca | 丽豆属 | 3
+10335 | 105214 | Calopogonium | 毛蔓豆属 | 1
+10335 | 105483 | Campylotropis | 杭子梢属 | 44
+10335 | 105502 | Canavalia | 刀豆属 | 5
+10335 | 105589 | Caragana | 锦鸡儿属 | 77
+10335 | 105803 | Cassia | 决明属 | 4
+10335 | 106056 | Centrosema | 距瓣豆属 | 1
+10335 | 106187 | Ceratonia | 长角豆属 | 1
+10335 | 106222 | Cercis | 紫荆属 | 5
+10335 | 106429 | Chamaecrista | 山扁豆属 | 3
+10335 | 106635 | Chesneya | 雀儿豆属 | 9
+10335 | 106636 | Chesniella | 旱雀豆属 | 2
+10335 | 106920 | Christia | 蝙蝠草属 | 5
+10335 | 107066 | Cicer | 鹰嘴豆属 | 2
+10335 | 107210 | Cladrastis | 香槐属 | 6
+10335 | 107378 | Clitoria | 蝶豆属 | 5
+10335 | 107491 | Cochlianthus | 旋花豆属 | 4
+10335 | 107548 | Codoriocalyx | 舞草属 | 2
+10335 | 107734 | Colutea | 鱼鳔槐属 | 4
+10335 | 108005 | Corethrodendron | 山竹子属 | 9
+10335 | 108258 | Craspedolobium | 巴豆藤属 | 1
+10335 | 108442 | Crotalaria | 猪屎豆属 | 52
+10335 | 108661 | Cullen | 补骨脂属 | 1
+10335 | 108745 | Cyamopsis | 瓜儿豆属 | 1
+10335 | 109237 | Dalbergia | 黄檀属 | 29
+10335 | 109510 | Delonix | 凤凰木属 | 1
+10335 | 109581 | Dendrolobium | 假木豆属 | 7
+10335 | 109665 | Derris | 鱼藤属 | 20
+10335 | 109678 | Desmanthus | 合欢草属 | 1
+10335 | 109693 | Desmodium | 山蚂蝗属 | 41
+10335 | 110762 | Dolichos | 镰扁豆属 | 4
+10335 | 111052 | Dumasia | 山黑豆属 | 9
+10335 | 111060 | Dunbaria | 野扁豆属 | 8
+10335 | 111133 | Dysolobium | 镰瓣豆属 | 2
+10335 | 111731 | Entada | 榼藤属 | 4
+10335 | 111738 | Enterolobium | 象耳豆属 | 1
+10335 | 200369 | Eremosparton | 无叶豆属 | 1
+10335 | 112073 | Eriosema | 鸡头薯属 | 1
+10335 | 112153 | Erythrina | 刺桐属 | 6
+10335 | 112171 | Erythrophleum | 格木属 | 1
+10335 | 112271 | Euchresta | 山豆根属 | 7
+10335 | 112502 | Eversmannia | 刺枝豆属 | 1
+10335 | 20839 | Fabaceae Tribe ABREAE | 相思子族 | 1
+10335 | 20826 | Fabaceae Tribe ACACIEAE | 金合欢族 | 1
+10335 | 20821 | Fabaceae Tribe AESCHYNOMENEAE | 合萌族 | 7
+10335 | 20849 | Fabaceae Tribe AMORPHEAE | 紫穗槐族 | 1
+10335 | 20824 | Fabaceae Tribe CAESALPINIEAE | 云实族 | 11
+10335 | 20823 | Fabaceae Tribe CASSIEAE | 决明族 | 4
+10335 | 20834 | Fabaceae Tribe CERCIDEAE | 紫荆族 | 2
+10335 | 20848 | Fabaceae Tribe CICEREAE | 鹰嘴豆族 | 1
+10335 | 20832 | Fabaceae Tribe CROTALARIEAE | 猪屎豆族 | 3
+10335 | 20835 | Fabaceae Tribe DALBERGIEAE | 黄檀族 | 2
+10335 | 20841 | Fabaceae Tribe DESMODIEAE | 山蚂蝗族 | 18
+10335 | 20822 | Fabaceae Tribe DETARIEAE | 甘豆族 | 6
+10335 | 20830 | Fabaceae Tribe EUCHRESTEAE | 山豆根族 | 1
+10335 | 20846 | Fabaceae Tribe FABEAE | 野豌豆族 | 4
+10335 | 20845 | Fabaceae Tribe GALEGEAE | 山羊豆族 | 95
+10335 | 20833 | Fabaceae Tribe GENISTEAE | 染料木族 | 
+10335 | 20847 | Fabaceae Tribe HEDYSAREAE | 岩黄耆族 | 8
+10335 | 20837 | Fabaceae Tribe INDIGOFEREAE | 木蓝族 | 2
+10335 | 20828 | Fabaceae Tribe INGEAE | 印加树族 | 7
+10335 | 20827 | Fabaceae Tribe LOTEAE | 百脉根族 | 1
+10335 | 20838 | Fabaceae Tribe MILLETTIEAE | 崖豆藤族 | 13
+10335 | 20825 | Fabaceae Tribe MIMOSEAE | 含羞草族 | 7
+10335 | 20840 | Fabaceae Tribe PHASEOLEAE | 菜豆族 | 37
+10335 | 20842 | Fabaceae Tribe PSORALEEAE | 补骨脂族 | 1
+10335 | 20844 | Fabaceae Tribe ROBINIEAE | 刺槐族 | 1
+10335 | 20843 | Fabaceae Tribe SESBANIEAE | 田菁族 | 1
+10335 | 20829 | Fabaceae Tribe SOPHOREAE | 槐族 | 7
+10335 | 20831 | Fabaceae Tribe THERMOPSIDEAE | 野决明族 | 3
+10335 | 20836 | Fabaceae Tribe TRIFOLIEAE | 车轴草族 | 6
+10335 | 316993 | Falcataria | 南洋楹属 | 1
+10335 | 112865 | Flemingia | 千斤拔属 | 17
+10335 | 112928 | Fordia | 干花豆属 | 2
+10335 | 113137 | Galactia | 乳豆属 | 2
+10335 | 113370 | Geissaspis | 睫苞豆属 | 1
+10335 | 113623 | Gleditsia | 皂荚属 | 9
+10335 | 113750 | Glycine | 大豆属 | 6
+10335 | 113758 | Glycyrrhiza | 甘草属 | 8
+10335 | 114153 | Gueldenstaedtia | 米口袋属 | 3
+10335 | 114261 | Gymnocladus | 肥皂荚属 | 1
+10335 | 114446 | Haematoxylum | 采木属 | 1
+10335 | 114495 | Halimodendron | 铃铛刺属 | 1
+10335 | 114830 | Hedysarum | 岩黄耆属 | 51
+10335 | 202781 | Hylodesmum | 长柄山蚂蝗属 | 17
+10335 | 116070 | Hymenaea | 孪叶豆属 | 2
+10335 | 116399 | Indigofera | 木蓝属 | 88
+10335 | 117326 | Kummerowia | 鸡眼草属 | 2
+10335 | 117367 | Lablab | 扁豆属 | 1
+10335 | 117720 | Lathyrus | 山黧豆属 | 21
+10335 | 117956 | Lens | 兵豆属 | 1
+10335 | 118322 | Lespedeza | 胡枝子属 | 32
+10335 | 118345 | Leucaena | 银合欢属 | 1
+10335 | 118986 | Lotononis | 罗顿豆属 | 1
+10335 | 118989 | Lotus | 百脉根属 | 10
+10335 | 119203 | Lysidice | 仪花属 | 2
+10335 | 119223 | Maackia | 马鞍树属 | 7
+10335 | 119386 | Macroptilium | 大翼豆属 | 2
+10335 | 119416 | Macrotyloma | 硬皮豆属 | 1
+10335 | 119823 | Mastersia | 闭荚藤属 | 1
+10335 | 119935 | Mecopus | 长柄荚属 | 1
+10335 | 119947 | Medicago | 苜蓿属 | 17
+10335 | 120149 | Melilotus | 草木犀属 | 4
+10335 | 120724 | Millettia | 崖豆藤属 | 25
+10335 | 120751 | Mimosa | 含羞草属 | 5
+10335 | 121278 | Mucuna | 黧豆属 | 20
+10335 | 122168 | Neptunia | 假含羞草属 | 1
+10335 | 122367 | Nogra | 土黄芪属 | 1
+10335 | 202782 | Ohwia | 小槐花属 | 2
+10335 | 122934 | Onobrychis | 驴食豆属 | 3
+10335 | 122940 | Ononis | 芒柄花属 | 4
+10335 | 123008 | Ophrestia | 拟大豆属 | 1
+10335 | 123181 | Ormocarpum | 链荚木属 | 1
+10335 | 123186 | Ormosia | 红豆属 | 39
+10335 | 123537 | Oxytropis | 棘豆属 | 166
+10335 | 317483 | Oxytropis subg. Oxytropis | 棘豆亚属 | 
+10335 | 317482 | Oxytropis subg. Ptiloxytropis | 柔毛棘豆亚属 | 
+10335 | 317484 | Oxytropis subg. Traganthoxytropis | 猫刺棘豆亚属 | 
+10335 | 123619 | Pachyrhizus | 豆薯属 | 1
+10335 | 314598 | Paraderris | 拟鱼藤属 | 6
+10335 | 124062 | Parkia | 球花豆属 | 2
+10335 | 124063 | Parkinsonia | 扁轴木属 | 1
+10335 | 124075 | Parochetus | 紫雀花属 | 1
+10335 | 124322 | Peltophorum | 盾柱木属 | 2
+10335 | 124927 | Phaseolus | 菜豆属 | 3
+10335 | 125162 | Phylacium | 苞护豆属 | 1
+10335 | 125217 | Phyllodium | 排钱树属 | 4
+10335 | 125228 | Phyllolobium | 膨果豆属 | 21
+10335 | 125543 | Piptanthus | 黄花木属 | 2
+10335 | 125615 | Pisum | 豌豆属 | 1
+10335 | 125620 | Pithecellobium | 牛蹄豆属 | 1
+10335 | 126518 | Pongamia | 水黄皮属 | 1
+10335 | 127371 | Psophocarpus | 四棱豆属 | 1
+10335 | 127444 | Pterocarpus | 紫檀属 | 1
+10335 | 127482 | Pterolobium | 老虎刺属 | 2
+10335 | 127620 | Pueraria | 葛属 | 13
+10335 | 127724 | Pycnospora | 密子豆属 | 1
+10335 | 128490 | Rhynchosia | 鹿藿属 | 15
+10335 | 128644 | Robinia | 刺槐属 | 2
+10335 | 128794 | Rothia | 落地豆属 | 1
+10335 | 129092 | Salweenia | 冬麻豆属 | 2
+10335 | 129096 | Samanea | 雨树属 | 1
+10335 | 129172 | Saraca | 无忧花属 | 2
+10335 | 129215 | Sarcodum | 耀花豆属 | 1
+10335 | 130094 | Senna | 番泻决明属 | 15
+10335 | 130197 | Sesbania | 田菁属 | 6
+10335 | 130279 | Shuteria | 宿苞豆属 | 4
+10335 | 130403 | Sindora | 油楠属 | 2
+10335 | 130422 | Sinodolichos | 华扁豆属 | 1
+10335 | 130571 | Smithia | 坡油甘属 | 5
+10335 | 130696 | Sophora | 槐属 | 37
+10335 | 130811 | Spatholobus | 密花豆属 | 10
+10335 | 130912 | Sphaerophysa | 苦马豆属 | 1
+10335 | 131846 | Stylosanthes | 笔花豆属 | 2
+10335 | 200519 | Tadehagi | 葫芦茶属 | 2
+10335 | 132253 | Tamarindus | 酸豆属 | 1
+10335 | 132453 | Tephrosia | 灰毛豆属 | 14
+10335 | 132461 | Teramnus | 软荚豆属 | 1
+10335 | 132673 | Teyleria | 琼豆属 | 1
+10335 | 132798 | Thermopsis | 野决明属 | 12
+10335 | 202584 | Tibetia | 高山豆属 | 7
+10335 | 133617 | Trifidacanthus | 三叉刺属 | 1
+10335 | 133620 | Trifolium | 车轴草属 | 13
+10335 | 133632 | Trigonella | 胡卢巴属 | 8
+10335 | 134175 | Uraria | 狸尾豆属 | 7
+10335 | 134176 | Urariopsis | 算珠豆属 | 2
+10335 | 134554 | Vicia | 野豌豆属 | 44
+10335 | 134572 | Vigna | 豇豆属 | 19
+10335 | 134945 | Wisteria | 紫藤属 | 4
+10335 | 135284 | Zenia | 任豆属 | 1
+10335 | 135356 | Zornia | 丁癸草属 | 2
+10338 | 105816 | Castanea | 栗属 | 4
+10338 | 105821 | Castanopsis | 锥栗属 | 66
+10338 | 108828 | Cyclobalanopsis | 青冈属 | 76
+10338 | 112623 | Fagus | 水青冈属 | 5
+10338 | 200196 | Formanodendron | 三棱栎属 | 1
+10338 | 118733 | Lithocarpus | 属 | 145
+10338 | 127839 | Quercus | 栎属 | 40
+10343 | 103793 | Bennettiodendron | 山桂花属 | 1
+10343 | 105737 | Carrierea | 山羊角树属 | 2
+10343 | 105791 | Casearia | 脚骨脆属 | 9
+10343 | 112845 | Flacourtia | 刺篱木属 | 5
+10343 | 114342 | Gynocardia | 马蛋果属 | 1
+10343 | 115665 | Homalium | 天料木属 | 10
+10343 | 115964 | Hydnocarpus | 大风子属 | 3
+10343 | 200145 | Idesia | 山桐子属 | 4
+10343 | 116647 | Itoa | 栀子皮属 | 3
+10343 | 126320 | Poliothyrsis | 山拐枣属 | 1
+10343 | 129856 | Scolopia | 箣柊属 | 4
+10343 | 135180 | Xylosma | 柞木属 | 5
+10344 | 112846 | Flagellaria | 须叶藤属 | 1
+10349 | 112990 | Frankenia | 瓣鳞花属 | 1
+10362 | 101557 | Anagallidium |   | 1
+10362 | 105527 | Canscora | 穿心草属 | 3
+10362 | 106016 | Centaurium | 白金花属 | 4
+10362 | 107753 | Comastoma | 喉花草属 | 14
+10362 | 108177 | Cotylanthera | 杯药草属 | 1
+10362 | 108294 | Crawfurdia | 蔓龙胆属 | 20
+10362 | 112520 | Exacum | 藻百年属 | 2
+10362 | 113422 | Gentiana | 龙胆属 | 317
+10362 | 301007 | Gentiana Sect. Chondrophyllae | 小龙胆组 | 117
+10362 | 108457 | Gentiana Sect. Cruciata | 秦艽组 | 19
+10362 | 301011 | Gentiana Sect. Dolichocarpa | 柱果组 | 12
+10362 | 301013 | Gentiana Sect. Fimbricorona | 喉毛组 | 2
+10362 | 301016 | Gentiana Sect. Frigida | 高山龙胆组 | 17
+10362 | 301023 | Gentiana Sect. Isomeria | 匍茎组 | 16
+10362 | 117306 | Gentiana Sect. Kudoa | 多枝组 | 30
+10362 | 120647 | Gentiana Sect. Microsperma | 微籽组 | 9
+10362 | 123421 | Gentiana Sect. Otophora | 爪耳木属 | 9
+10362 | 125196 | Gentiana Sect. Phyllocalyx | 叶萼组 | 1
+10362 | 126121 | Gentiana Sect. Pneumonanthe | 龙胆草组 | 4
+10362 | 131384 | Gentiana Sect. Stenogyne | 狭蕊组 | 12
+10362 | 113423 | Gentianella | 假龙胆属 | 9
+10362 | 113425 | Gentianopsis | 扁蕾属 | 11
+10362 | 114483 | Halenia | 花锚属 | 4
+10362 | 116719 | Jaeschkea | 口药花属 | 2
+10362 | 117723 | Latouchea | 匙叶草属 | 1
+10362 | 200080 | Lomatogoniopsis | 辐花属 | 3
+10362 | 118845 | Lomatogonium | 肋柱花属 | 23
+10362 | 119977 | Megacodon | 大钟花属 | 2
+10362 | 127535 | Pterygocalyx | 翼萼蔓属 | 1
+10362 | 129957 | Sebaea | 小黄管属 | 1
+10362 | 131945 | Swertia | 獐牙菜属 | 95
+10362 | 133766 | Tripterospermum | 双蝴蝶属 | 21
+10362 | 134471 | Veratrilla | 黄秦艽属 | 2
+10367 | 112116 | Erodium | 牻牛儿苗属 | 4
+10367 | 113475 | Geranium | 老鹳草属 | 51
+10368 | 100704 | Aeschynanthus | 芒毛苣苔属 | 38
+10368 | 101097 | Allocheilos | 异唇苣苔属 | 2
+10368 | 101137 | Allostigma | 异片苣苔属 | 1
+10368 | 101651 | Ancylostemon | 直瓣苣苔属 | 18
+10368 | 101881 | Anna | 大苞苣苔属 | 3
+10368 | 103674 | Beccarinda | 横蒴苣苔属 | 5
+10368 | 104148 | Boea | 旋蒴苣苔属 | 3
+10368 | 104159 | Boeica | 短筒苣苔属 | 7
+10368 | 104383 | Bournea | 四数苣苔属 | 2
+10368 | 104623 | Briggsia | 粗筒苣苔属 | 28
+10368 | 104624 | Briggsiopsis | 筒花苣苔属 | 1
+10368 | 105042 | Calcareoboea | 朱红苣苔属 | 1
+10368 | 105885 | Cathayanthe | 扁蒴苣苔属 | 1
+10368 | 106730 | Chirita | 唇柱苣苔属 | 132
+10368 | 106731 | Chiritopsis | 小花苣苔属 | 18
+10368 | 107806 | Conandron | 苦苣苔属 | 1
+10368 | 107955 | Corallodiscus | 珊瑚苣苔属 | 3
+10368 | 109060 | Cyrtandra | 浆果苣苔属 | 1
+10368 | 109394 | Dayaoshania | 瑶山苣苔属 | 1
+10368 | 109483 | Deinocheilos | 全唇苣苔属 | 2
+10368 | 110072 | Didissandra | 漏斗苣苔属 | 5
+10368 | 110088 | Didymocarpus | 长蒴苣苔属 | 36
+10368 | 110118 | Didymostigma | 双片苣苔属 | 3
+10368 | 200123 | Dolicholoma | 长檐苣苔属 | 1
+10368 | 111886 | Epithema | 盾座苣苔属 | 2
+10368 | 114374 | Gyrocheilos | 圆唇苣苔属 | 8
+10368 | 114379 | Gyrogyne | 圆果苣苔属 | 1
+10368 | 114994 | Hemiboea | 半蒴苣苔属 | 36
+10368 | 114995 | Hemiboeopsis | 密序苣苔属 | 1
+10368 | 116597 | Isometrum | 金盏苣苔属 | 18
+10368 | 117470 | Lagarosolen | 细筒苣苔属 | 4
+10368 | 118136 | Leptobaea | 细蒴苣苔属 | 1
+10368 | 119033 | Loxostigma | 紫花苣苔属 | 7
+10368 | 119210 | Lysionotus | 吊石苣苔属 | 35
+10368 | 120370 | Metabriggsia | 单座苣苔属 | 2
+10368 | 120384 | Metapetrocosmea | 盾叶苣苔属 | 1
+10368 | 123021 | Opithandra | 后蕊苣苔属 | 10
+10368 | 123105 | Oreocharis | 马铃苣苔属 | 39
+10368 | 123193 | Ornithoboea | 喜雀苣苔属 | 5
+10368 | 123842 | Paraboea | 蛛毛苣苔属 | 24
+10368 | 200198 | Paraisometrum | 弥勒苣苔属 | 1
+10368 | 316334 | Paralagarosolen |   | 1
+10368 | 124723 | Petrocodon | 石山苣苔属 | 5
+10368 | 124726 | Petrocosmea | 石蝴蝶属 | 36
+10368 | 125836 | Platystemma | 堇叶苣苔属 | 1
+10368 | 126721 | Primulina | 报春苣苔属 | 20
+10368 | 200167 | Pseudochirita | 异裂苣苔属 | 2
+10368 | 127987 | Raphiocarpus |   | 1
+10368 | 128213 | Rhabdothamnopsis | 长冠苣苔属 | 1
+10368 | 128472 | Rhynchoglossum | 尖舌苣苔属 | 2
+10368 | 128506 | Rhynchotechum | 线柱苣苔属 | 9
+10368 | 131216 | Stauranthera | 十字苣苔属 | 1
+10368 | 132440 | Tengia | 世纬苣苔属 | 3
+10368 | 132699 | Thamnocharis | 辐花苣苔属 | 1
+10368 | 133066 | Titanotrichum | 台闽苣苔属 | 1
+10368 | 133314 | Tremacron | 短檐苣苔属 | 8
+10368 | 133785 | Trisepalum | 唇萼苣苔属 | 1
+10368 | 316335 | Wentsaiboea |   | 3
+10368 | 134873 | Whytockia | 异叶苣苔属 | 12
+10370 | 113565 | Ginkgo | 银杏属 | 1
+10375 | 113783 | Gnetum | 买麻藤属 | 9
+10380 | 113925 | Goodenia | 离根香属 | 1
+10380 | 129368 | Scaevola | 草海桐属 | 2
+10394 | 113899 | Gonocarpus | 小二仙草属 | 2
+10394 | 121478 | Myriophyllum | 狐尾藻属 | 12
+10396 | 101223 | Altingia | 蕈树属 | 8
+10396 | 107032 | Chunia | 山铜材属 | 1
+10396 | 108087 | Corylopsis | 蜡瓣花属 | 24
+10396 | 110535 | Disanthus | 双花木属 | 1
+10396 | 110667 | Distyliopsis | 假蚊母树属 | 5
+10396 | 110669 | Distylium | 蚊母树属 | 12
+10396 | 112447 | Eustigma | 秀柱花属 | 3
+10396 | 112528 | Exbucklandia | 马蹄荷属 | 3
+10396 | 112955 | Fortunearia | 牛鼻栓属 | 1
+10396 | 114541 | Hamamelis | 金缕梅属 | 1
+10396 | 118701 | Liquidambar | 枫香树属 | 2
+10396 | 118978 | Loropetalum | 木继木属 | 5
+10396 | 121544 | Mytilaria | 壳菜果属 | 1
+10396 | 124095 | Parrotia | 银缕梅属 | 1
+10396 | 128394 | Rhodoleia | 红花荷属 | 6
+10396 | 200091 | Semiliquidambar | 半枫荷属 | 3
+10396 | 130441 | Sinowilsonia | 山白树属 | 3
+10396 | 131962 | Sycopsis | 水丝梨属 | 2
+20143 | 114973 | Helwingia | 青荚叶属 | 10
+10407 | 115178 | Hernandia | 莲叶桐属 | 1
+10407 | 116375 | Illigera | 青藤属 | 19
+10412 | 100706 | Aesculus | 七叶树属 | 6
+10412 | 114567 | Handeliodendron | 掌叶木属 | 1
+10414 | 115519 | Hippuris | 杉叶藻属 | 2
+10426 | 104135 | Blyxa | 水筛属 | 5
+10426 | 111329 | Egeria | 水蕴草属 | 1
+10426 | 111708 | Enhalus | 海菖蒲属 | 1
+10426 | 114519 | Halophila | 喜盐草属 | 4
+10426 | 115981 | Hydrilla | 黑藻属 | 3
+10426 | 115986 | Hydrocharis | 水鳖属 | 1
+10426 | 121596 | Najas | 茨藻属 | 17
+10426 | 121747 | Nechamandra | 虾子草属 | 1
+10426 | 123432 | Ottelia | 海菜花属 | 9
+10426 | 132680 | Thalassia | 泰来藻属 | 1
+10426 | 134329 | Vallisneria | 苦草属 | 3
+10428 | 116001 | Hydrolea | 田基麻属 | 1
+10447 | 102304 | Apodytes | 柴龙树属 | 1
+10447 | 113829 | Gomphandra | 粗丝木属 | 3
+10447 | 113900 | Gonocaryum | 琼榄属 | 2
+10447 | 115793 | Hosiea | 无须藤属 | 1
+10447 | 200078 | Iodes | 微花藤属 | 4
+10447 | 119656 | Mappianthus | 定心藤属 | 1
+10447 | 121695 | Natsiatopsis | 麻核藤属 | 1
+10447 | 121696 | Natsiatum | 薄核藤属 | 1
+10447 | 122412 | Nothapodytes | 假柴龙树属 | 6
+10447 | 125637 | Pittosporopsis | 假海桐属 | 1
+10447 | 125748 | Platea | 肖榄属 | 2
+10447 | 127759 | Pyrenacantha | 刺核藤属 | 1
+10450 | 116374 | Illicium | 八角属 | 27
+10452 | 103713 | Belamcanda | 射干属 | 1
+10452 | 108403 | Crocus | 番红花属 | 2
+10452 | 116503 | Iris | 鸢尾属 | 74
+10460 | 101883 | Annamocarya | 喙核桃属 | 1
+10460 | 105766 | Carya | 山核桃属 | 5
+10460 | 108834 | Cyclocarya | 青钱柳属 | 1
+10460 | 111689 | Engelhardia | 黄杞属 | 7
+10460 | 116860 | Juglans | 胡桃属 | 3
+10460 | 125766 | Platycarya | 化香树属 | 2
+10460 | 127445 | Pterocarya | 枫杨属 | 8
+10462 | 116870 | Juncus | 灯心草属 | 95
+10462 | 119122 | Luzula | 地杨梅属 | 24
+10463 | 133624 | Triglochin | 水麦冬属 | 2
+10476 | 100237 | Achyrospermum | 鳞果草属 | 2
+10476 | 100341 | Acrocephalus | 尖头花属 | 1
+10476 | 100780 | Agastache | 藿香属 | 1
+10476 | 100916 | Ajuga | 筋骨草属 | 36
+10476 | 100929 | Alajja | 菱叶元宝草属 | 2
+10476 | 101354 | Amethystea | 水棘针属 | 1
+10476 | 101824 | Anisochilus | 排香草属 | 2
+10476 | 101839 | Anisomeles | 广防风属 | 1
+10476 | 103578 | Basilicum | 小冠熏属 | 1
+10476 | 103886 | Betonica | 药水苏属 | 1
+10476 | 104314 | Bostrychanthera | 毛药花属 | 2
+10476 | 105012 | Calamintha | 新风轮菜属 | 1
+10476 | 106155 | Ceratanthus | 角花属 | 1
+10476 | 106398 | Chaiturus | 鬃尾草属 | 1
+10476 | 106473 | Chamaesphacos | 矮刺苏属 | 1
+10476 | 202204 | Changruicaoia |   | 
+10476 | 106624 | Chelonopsis | 铃子香属 | 18
+10476 | 107331 | Clerodendranthus | 肾茶属 | 1
+10476 | 107356 | Clinopodium | 风轮菜属 | 11
+10476 | 107623 | Colebrookea | 羽萼木属 | 1
+10476 | 107649 | Coleus | 鞘蕊花属 | 8
+10476 | 107716 | Colquhounia | 火把花属 | 13
+10476 | 107747 | Comanthosphace | 绵穗苏属 | 5
+10476 | 108250 | Craniotome | 簇序草属 | 1
+10476 | 108929 | Cymaria | 歧伞花属 | 2
+10476 | 110891 | Dracocephalum | 青兰属 | 43
+10476 | 111134 | Dysophylla | 水蜡烛属 | 7
+10476 | 111493 | Elsholtzia | 香薷属 | 42
+10476 | 111963 | Eremostachys | 沙穗属 | 5
+10476 | 112067 | Eriophyton | 绵参属 | 2
+10476 | 112425 | Eurysolen | 宽管花属 | 1
+10476 | 200133 | Galeobdolon | 小野芝麻属 | 8
+10476 | 113170 | Galeopsis | 鼬瓣花属 | 1
+10476 | 113407 | Geniosporum | 网萼木属 | 1
+10476 | 113621 | Glechoma | 活血丹属 | 8
+10476 | 113841 | Gomphostemma | 锥花属 | 21
+10476 | 114562 | Hanceola | 四轮香属 | 8
+10476 | 115314 | Heterolamium | 异野芝麻属 | 4
+10476 | 115608 | Holocheila | 全唇花属 | 1
+10476 | 116280 | Hyptis | 山香属 | 4
+10476 | 116284 | Hyssopus | 神香草属 | 3
+10476 | 116577 | Isodon | 香茶菜属 | 95
+10476 | 117022 | Keiskea | 香简草属 | 5
+10476 | 117116 | Kinostemon | 动蕊花属 | 3
+10476 | 117497 | Lagochilus | 兔唇花属 | 11
+10476 | 117502 | Lagopsis | 夏至草属 | 3
+10476 | 117521 | Lallemantia | 扁柄草属 | 1
+10476 | 117534 | Lamiophlomis | 独一味属 | 1
+10476 | 117535 | Lamium | 野芝麻属 | 4
+10476 | 117756 | Lavandula | 薰衣草属 | 2
+10476 | 117993 | Leonurus | 益母草属 | 12
+10476 | 118356 | Leucas | 绣球防风属 | 11
+10476 | 118441 | Leucosceptrum | 米团花属 | 1
+10476 | 118886 | Lophanthus | 扭藿香属 | 4
+10476 | 119016 | Loxocalyx | 斜萼草属 | 4
+10476 | 119161 | Lycopus | 地笋属 | 9
+10476 | 119735 | Marmoritis | 扭连钱属 | 5
+10476 | 119743 | Marrubium | 欧夏至草属 | 1
+10476 | 119966 | Meehania | 龙头草属 | 13
+10476 | 120163 | Melissa | 蜜蜂花属 | 4
+10476 | 120248 | Mentha | 薄荷属 | 12
+10476 | 120339 | Mesona | 凉粉草属 | 2
+10476 | 120393 | Metastachydium | 箭叶水苏属 | 1
+10476 | 120580 | Micromeria | 姜味草属 | 5
+10476 | 120685 | Microtoena | 冠唇花属 | 28
+10476 | 120984 | Monarda | 美国薄荷属 | 2
+10476 | 121236 | Mosla | 石荠苎属 | 14
+10476 | 122138 | Nepeta | 荆芥属 | 42
+10476 | 122402 | Nosema | 龙船草属 | 1
+10476 | 122455 | Notochaete | 钩萼属 | 2
+10476 | 122604 | Ocimum | 罗勒属 | 7
+10476 | 122851 | Ombrocharis | 喜雨草属 | 1
+10476 | 123162 | Origanum | 牛至属 | 1
+10476 | 123284 | Orthosiphon | 鸡脚参属 | 5
+10476 | 123787 | Panzerina | 脓疮草属 | 7
+10476 | 123915 | Paralamium | 假野芝麻属 | 1
+10476 | 123971 | Paraphlomis | 假糙苏属 | 36
+10476 | 124553 | Perilla | 紫苏属 | 4
+10476 | 124612 | Perovskia | 分药花属 | 2
+10476 | 125058 | Phlomis | 糙苏属 | 58
+10476 | 126277 | Pogostemon | 刺蕊草属 | 18
+10476 | 126862 | Prunella | 夏枯草属 | 6
+10476 | 128770 | Rosmarinus | 迷迭香属 | 1
+10476 | 128783 | Rostrinucula | 钩子木属 | 2
+10476 | 128836 | Rubiteucris | 掌叶石蚕属 | 1
+10476 | 129087 | Salvia | 鼠尾草属 | 126
+10476 | 129910 | Scutellaria | 黄芩属 | 142
+10476 | 130315 | Sideritis | 毒马草属 | 2
+10476 | 130458 | Siphocranion | 筒冠花属 | 2
+10476 | 130528 | Skapanthus | 子宫草属 | 3
+10476 | 131150 | Stachyopsis | 假水苏属 | 3
+10476 | 131154 | Stachys | 水苏属 | 36
+10476 | 131929 | Suzukia | 台钱草属 | 2
+10476 | 132670 | Teucrium | 香科科属 | 32
+10476 | 132935 | Thymus | 百里香属 | 14
+10476 | 134825 | Wenchengia | 保亭花属 | 1
+10476 | 135332 | Ziziphora | 新塔花属 | 4
+10477 | 100921 | Akebia | 木通属 | 7
+10477 | 102454 | Archakebia | 长萼木通属 | 1
+10477 | 109410 | Decaisnea | 猫儿屎属 | 1
+10477 | 115581 | Holboellia | 八月瓜属 | 15
+10477 | 129274 | Sargentodoxa | 大血藤属 | 1
+10477 | 130423 | Sinofranchetia | 串果藤属 | 1
+10477 | 131212 | Stauntonia | 野木瓜属 | 22
+10479 | 100442 | Actinodaphne | 黄肉楠属 | 17
+10479 | 101195 | Alseodaphne | 油丹属 | 10
+10479 | 103704 | Beilschmiedia | 琼楠属 | 43
+10479 | 105770 | Caryodaphnopsis | 檬果樟属 | 3
+10479 | 105813 | Cassytha | 无根藤属 | 1
+10479 | 107109 | Cinnamomum | 樟属 | 49
+10479 | 108511 | Cryptocarya | 厚壳桂属 | 21
+10479 | 109471 | Dehaasia | 莲桂属 | 3
+10479 | 110725 | Dodecadenia | 单花木姜子属 | 3
+10479 | 111620 | Endiandra | 土楠属 | 3
+10479 | 116641 | Iteadaphne | 单花山胡椒属 | 1
+10479 | 117749 | Laurus | 月桂属 | 1
+10479 | 118626 | Lindera | 山胡椒属 | 53
+10479 | 118754 | Litsea | 木姜子属 | 104
+10479 | 119262 | Machilus | 润楠属 | 94
+10479 | 121914 | Neocinnamomum | 新樟属 | 5
+10479 | 122004 | Neolitsea | 新木姜子属 | 54
+10479 | 122411 | Nothaphoebe | 赛楠属 | 2
+10479 | 123994 | Parasassafras | 拟檫木属 | 1
+10479 | 124627 | Persea | 鳄梨属 | 1
+10479 | 125072 | Phoebe | 楠属 | 40
+10479 | 129310 | Sassafras | 檫木属 | 2
+10479 | 317302 | Sinopora | 孔药楠属 | 1
+10479 | 130437 | Sinosassafras | 华檫木属 | 1
+10479 | 132084 | Syndiclis | 油果樟属 | 9
+10482 | 103540 | Barringtonia | 玉蕊属 | 3
+10484 | 117843 | Leea | 火筒树属 | 10
+10488 | 316695 | Landoltia | 兰氏萍属 | 1
+10488 | 117936 | Lemna | 浮萍属 | 6
+10488 | 131033 | Spirodela | 紫萍属 | 1
+10488 | 134961 | Wolffia | 无根萍属 | 1
+10490 | 125513 | Pinguicula | 捕虫堇属 | 2
+10490 | 134270 | Utricularia | 狸藻属 | 29
+10507 | 100995 | Aletris | 粉条儿菜属 | 18
+10507 | 101086 | Allium | 葱属 | 164
+10507 | 101163 | Aloe | 芦荟属 | 1
+10507 | 101247 | Amana |   | 1
+10507 | 101725 | Anemarrhena | 知母属 | 1
+10507 | 102837 | Asparagus | 天门冬属 | 31
+10507 | 102857 | Aspidistra | 蜘蛛抱蛋属 | 67
+10507 | 103526 | Barnardia | 绵枣儿属 | 1
+10507 | 105448 | Campylandra | 开口箭属 | 16
+10507 | 105621 | Cardiocrinum | 大百合属 | 4
+10507 | 106712 | Chionographis | 白丝草属 | 2
+10507 | 106807 | Chlorophytum | 吊兰属 | 4
+10507 | 107362 | Clintonia | 七筋菇属 | 1
+10507 | 107908 | Convallaria | 铃兰属 | 1
+10507 | 107989 | Cordyline | 朱蕉属 | 1
+10507 | 109790 | Dianella | 山菅属 | 1
+10507 | 110621 | Disporopsis | 竹根七属 | 6
+10507 | 110622 | Disporum | 万寿竹属 | 15
+10507 | 110706 | Diuranthera | 鹭鸶兰属 | 4
+10507 | 110888 | Dracaena | 龙血树属 | 6
+10507 | 111968 | Eremurus | 独尾草属 | 4
+10507 | 112169 | Erythronium | 猪牙花属 | 2
+10507 | 113029 | Fritillaria | 贝母属 | 28
+10507 | 113125 | Gagea | 顶冰花属 | 19
+10507 | 113703 | Gloriosa | 嘉兰属 | 1
+10507 | 114957 | Heloniopsis | 胡麻花属 | 1
+10507 | 114981 | Hemerocallis | 萱草属 | 17
+10507 | 201262 | Heteropolygonatum | 异黄精属 | 6
+10507 | 115355 | Heterosmilax | 肖菝葜属 | 9
+10507 | 115795 | Hosta | 玉簪属 | 4
+10507 | 116475 | Iphigenia | 山慈菇属 | 1
+10507 | 118558 | Lilium | 百合属 | 82
+10507 | 118708 | Liriope | 山麦冬属 | 7
+10507 | 118768 | Lloydia | 洼瓣花属 | 10
+10507 | 119474 | Maianthemum | 舞鹤草属 | 22
+10507 | 120744 | Milula | 穗花韭属 | 1
+10507 | 122380 | Nomocharis | 豹子花属 | 6
+10507 | 200085 | Notholirion | 假百合属 | 3
+10507 | 122994 | Ophiopogon | 沿阶草属 | 49
+10507 | 124055 | Paris | 重楼属 | 39
+10507 | 124279 | Peliosanthes | 球子草属 | 9
+10507 | 124741 | Petrosavia | 无叶莲属 | 2
+10507 | 126394 | Polygonatum | 黄精属 | 39
+10507 | 128105 | Reineckea | 吉祥草属 | 1
+10507 | 128697 | Rohdea | 万年青属 | 1
+10507 | 130567 | Smilax | 菝葜属 | 93
+10507 | 130828 | Speirantha | 白穗花属 | 1
+10507 | 131714 | Streptopus | 扭柄花属 | 5
+10507 | 132802 | Theropogon | 夏须草属 | 1
+10507 | 132980 | Thysanotus | 异蕊草属 | 1
+10507 | 133087 | Tofieldia | 岩菖蒲属 | 3
+10507 | 133597 | Tricyrtis | 油点草属 | 15
+10507 | 133668 | Trillium | 延龄草属 | 4
+10507 | 133974 | Tulipa | 郁金香属 | 18
+10507 | 133997 | Tupistra | 长柱开口箭属 | 4
+10507 | 134473 | Veratrum | 藜芦属 | 15
+10507 | 135220 | Ypsilandra | 丫蕊花属 | 5
+10507 | 135314 | Zigadenus | 棋盘花属 | 1
+10510 | 101808 | Anisadenia | 异腺草属 | 2
+10510 | 118675 | Linum | 亚麻属 | 9
+10510 | 128110 | Reinwardtia | 石海椒属 | 1
+10510 | 133050 | Tirpitzia | 青篱柴属 | 2
+20472 | 100018 | Abelia | 糯米条属 | 5
+20472 | 317598 | Diabelia | 双六道木属 | 2
+20472 | 110317 | Dipelta | 双盾木属 | 3
+20472 | 117217 | Kolkwitzia | 蝟实属 | 1
+20472 | 118652 | Linnaea | 北极花属 | 1
+20472 | 135239 | Zabelia | 六道木属 | 3
+10515 | 201209 | Buddleja | 醉鱼草属 | 22
+10515 | 112621 | Fagraea | 灰莉属 | 1
+10515 | 113262 | Gardneria | 蓬莱葛属 | 5
+10515 | 113391 | Gelsemium | 断肠草属 | 1
+10515 | 113409 | Geniostoma | 髯管花 | 1
+10515 | 120832 | Mitrasacme | 尖帽花属 | 5
+10515 | 120839 | Mitreola | 度量草属 | 4
+10515 | 131802 | Strychnos | 马钱子属 | 13
+10520 | 109588 | Dendrophthoe | 五蕊寄生属 | 1
+10520 | 111519 | Elytranthe | 大苞鞘花属 | 2
+10520 | 114928 | Helixanthera | 离瓣寄生属 | 7
+10520 | 118960 | Loranthus | 桑寄生属 | 6
+10520 | 119396 | Macrosolen | 鞘花属 | 5
+10520 | 129908 | Scurrula | 梨果寄生属 | 16
+10520 | 132349 | Taxillus | 钝果寄生属 | 31
+10520 | 133097 | Tolypanthus | 大苞寄生属 | 2
+10521 | 123067 | Orchidantha | 兰花蕉属 | 4
+10529 | 101366 | Ammannia | 水苋菜属 | 4
+10529 | 111003 | Duabanga | 八宝树属 | 2
+10529 | 117489 | Lagerstroemia | 紫薇属 | 16
+10529 | 119221 | Lythrum | 千屈菜属 | 2
+10529 | 124331 | Pemphis | 水芫花属 | 1
+10529 | 124472 | Peplis | 荸艾属 | 1
+10529 | 127653 | Punica | 石榴属 | 1
+10529 | 128789 | Rotala | 节节菜属 | 10
+10529 | 130690 | Sonneratia | 海桑属 | 6
+10529 | 134970 | Woodfordia | 虾子花属 | 1
+10530 | 100968 | Alcimandra | 长蕊木兰属 | 1
+10530 | 317304 | Houpoëa | 厚朴属 | 3
+10530 | 118706 | Lirianthe | 长喙木兰属 | 10
+10530 | 118707 | Liriodendron | 鹅掌楸属 | 1
+10530 | 119452 | Magnolia | 木兰属 | 2
+10530 | 119610 | Manglietia | 木莲属 | 32
+10530 | 120458 | Michelia | 含笑属 | 50
+10530 | 317301 | Oyama | 天女花属 | 4
+10530 | 123590 | Pachylarnax | 厚壁木属 | 1
+10530 | 123911 | Parakmeria | 拟单性木兰属 | 5
+10530 | 132234 | Talauma | 盖裂木属 | 1
+10530 | 202599 | Woonyoungia | 焕镛木属 | 1
+10530 | 135227 | Yulania | 玉兰属 | 20
+10533 | 102865 | Aspidopterys | 盾翅藤属 | 11
+10533 | 115520 | Hiptage | 风筝果属 | 14
+10533 | 200179 | Ryssopterys | 翅实藤属 | 1
+10533 | 133800 | Tristellateia | 三星果属 | 1
+10534 | 100020 | Abelmoschus | 秋葵属 | 8
+10534 | 100054 | Abutilon | 苘麻属 | 15
+10534 | 100963 | Alcea | 蜀葵属 | 2
+10534 | 101219 | Althaea | 药葵属 | 1
+10534 | 106005 | Cenocentrum | 大萼葵属 | 1
+10534 | 109434 | Decaschistia | 十裂葵属 | 3
+10534 | 113948 | Gossypium | 棉属 | 8
+10534 | 115162 | Herissantia | 泡果苘属 | 1
+10534 | 115438 | Hibiscus | 木槿属 | 29
+10534 | 117356 | Kydia | 翅果麻属 | 4
+10534 | 117757 | Lavatera | 花葵属 | 1
+10534 | 119571 | Malva | 锦葵属 | 6
+10534 | 119573 | Malvastrum | 赛葵属 | 2
+10534 | 119574 | Malvaviscus | 悬铃花属 | 2
+10534 | 314455 | Nayariophyton | 枣叶槿属 | 1
+10534 | 130307 | Sida | 黄花稔属 | 18
+10534 | 132809 | Thespesia | 桐棉属 | 2
+10534 | 134202 | Urena | 梵天花属 | 10
+10534 | 134943 | Wissadula | 隔蒴苘属 | 1
+10535 | 110794 | Donax | 竹叶蕉属 | 1
+10535 | 119663 | Maranta | 竹芋属 | 1
+10535 | 125146 | Phrynium | 柊叶属 | 5
+10535 | 131152 | Stachyphrynium | 穗花柊叶属 | 1
+10540 | 119786 | Martynia | 角胡麻属 | 1
+20180 | 110440 | Diplopanax | 马蹄参属 | 1
+20180 | 119839 | Mastixia | 单室茱萸属 | 6
+10554 | 101112 | Allomorphia | 异形木属 | 4
+10554 | 103004 | Astronia | 褐鳞木属 | 1
+10554 | 103548 | Barthea | 棱果花属 | 3
+10554 | 104051 | Blastus | 柏拉木属 | 9
+10554 | 104579 | Bredia | 野海棠属 | 11
+10554 | 109042 | Cyphotheca | 药囊花属 | 1
+10554 | 110369 | Diplectria | 藤牡丹属 | 1
+10554 | 112929 | Fordiophyton | 异药花属 | 10
+10554 | 119951 | Medinilla | 酸脚杆属 | 11
+10554 | 120122 | Melastoma | 野牡丹属 | 7
+10554 | 120207 | Memecylon | 谷木属 | 14
+10554 | 123317 | Osbeckia | 金锦香属 | 9
+10554 | 123525 | Oxyspora | 尖子木属 | 6
+10554 | 125172 | Phyllagathis | 锦香草属 | 28
+10554 | 125699 | Plagiopetalum | 偏瓣花属 | 2
+10554 | 129247 | Sarcopyramis | 肉穗草属 | 2
+10554 | 129888 | Scorpiothyrsus | 卷花丹属 | 3
+10554 | 130688 | Sonerila | 蜂斗草属 | 6
+10554 | 131105 | Sporoxeia | 八蕊花属 | 2
+10554 | 131862 | Styrophyton | 长穗花属 | 1
+10554 | 200097 | Tigridiopalma | 虎颜花属 | 1
+10555 | 100813 | Aglaia | 米仔兰属 | 8
+10555 | 102185 | Aphanamixis | 山楝属 | 1
+10555 | 105974 | Cedrela | 洋椿属 | 1
+10555 | 106736 | Chisocheton | 溪桫属 | 1
+10555 | 107027 | Chukrasia | 麻楝属 | 1
+10555 | 107120 | Cipadessa | 浆果楝属 | 1
+10555 | 111139 | Dysoxylum | 木属 | 11
+10555 | 115430 | Heynea | 鹧鸪花属 | 2
+10555 | 117082 | Khaya | 非洲楝属 | 1
+10555 | 120129 | Melia | 楝属 | 1
+10555 | 121317 | Munronia | 地黄连属 | 3
+10555 | 128111 | Reinwardtiodendron | 雷楝属 | 1
+10555 | 131948 | Swietenia | 桃花心木属 | 1
+10555 | 133129 | Toona | 香椿属 | 5
+10555 | 134014 | Turraea | 杜楝属 | 1
+10555 | 134746 | Walsura | 割舌树属 | 2
+10555 | 135155 | Xylocarpus | 木果楝属 | 1
+10561 | 100942 | Albertisia | 崖藤属 | 1
+10561 | 102449 | Arcangelisia | 古山龙属 | 1
+10561 | 102860 | Aspidocarya | 球果藤属 | 1
+10561 | 107144 | Cissampelos | 锡生藤属 | 1
+10561 | 107477 | Cocculus | 木防己属 | 4
+10561 | 108827 | Cyclea | 轮环藤属 | 15
+10561 | 110394 | Diploclisia | 秤钩风属 | 2
+10561 | 111434 | Eleutharrhena | 藤枣属 | 1
+10561 | 112759 | Fibraurea | 天仙藤属 | 1
+10561 | 116270 | Hypserpa | 夜花藤属 | 1
+10561 | 120237 | Menispermum | 蝙蝠葛属 | 1
+10561 | 123586 | Pachygone | 粉绿藤属 | 3
+10561 | 123833 | Parabaena | 连蕊藤属 | 1
+10561 | 124521 | Pericampylus | 细圆藤属 | 1
+10561 | 127684 | Pycnarrhena | 密花藤属 | 2
+10561 | 130431 | Sinomenium | 风龙属 | 1
+10561 | 131433 | Stephania | 千斤藤属 | 42
+10561 | 133037 | Tinomiscium | 大叶藤属 | 1
+10561 | 133039 | Tinospora | 青牛胆属 | 9
+10562 | 120253 | Menyanthes | 睡菜属 | 1
+10562 | 122533 | Nymphoides | 荇菜属 | 7
+20193 | 113578 | Gisekia | 吉粟草属 | 2
+20193 | 113632 | Glinus | 星粟草属 | 2
+20193 | 120942 | Mollugo | 粟米草属 | 4
+10583 | 102076 | Antiaris | 见血封喉属 | 1
+10583 | 102731 | Artocarpus | 波罗蜜属 | 16
+10583 | 104684 | Broussonetia | 构属 | 4
+10583 | 112666 | Fatoua | 水蛇麻属 | 2
+10583 | 112770 | Ficus | 榕属 | 137
+10583 | 119276 | Maclura | 柘属 | 5
+10583 | 119522 | Malaisia | 牛筋藤属 | 1
+10583 | 121220 | Morus | 桑属 | 15
+10583 | 131674 | Streblus | 鹊肾树属 | 7
+10584 | 100079 | Acanthocalyx | 刺续断属 | 4
+10584 | 121191 | Morina | 刺参属 | 8
+10585 | 121194 | Moringa | 辣木属 | 1
+10588 | 111727 | Ensete | 象腿蕉属 | 2
+10588 | 121345 | Musa | 芭蕉属 | 23
+10588 | 200084 | Musella | 地涌金莲属 | 2
+10592 | 124369 | Pentacoelium | 苦槛蓝属 | 1
+10594 | 121458 | Myrica | 杨梅属 | 4
+10596 | 115781 | Horsfieldia | 风吹楠属 | 3
+10596 | 117167 | Knema | 红光树属 | 6
+10596 | 121489 | Myristica | 肉豆蔻属 | 2
+10598 | 100650 | Aegiceras | 蜡烛果属 | 1
+10598 | 102511 | Ardisia | 紫金牛属 | 71
+10598 | 111532 | Embelia | 酸藤子属 | 18
+10598 | 119441 | Maesa | 杜茎山属 | 31
+10598 | 121522 | Myrsine | 铁仔属 | 11
+10598 | 128999 | Sadiria |   | 
+10599 | 103344 | Baeckea | 岗松属 | 1
+10599 | 109435 | Decaspermum | 子楝树属 | 8
+10599 | 112247 | Eucalyptus | 桉属 | 27
+10599 | 112307 | Eugenia | 番樱桃属 | 1
+10599 | 118943 | Lophostemon | 红胶木属 | 1
+10599 | 120051 | Melaleuca | 白千层属 | 1
+10599 | 127317 | Psidium | 番石榴属 | 2
+10599 | 128366 | Rhodamnia | 玫瑰木属 | 3
+10599 | 128396 | Rhodomyrtus | 桃金娘属 | 1
+10599 | 132166 | Syzygium | 蒲桃属 | 90
+10608 | 121800 | Nelumbo | 莲属 | 1
+10610 | 122137 | Nepenthes | 猪笼草属 | 1
+20209 | 122347 | Nitraria | 白刺属 | 5
+10617 | 104164 | Boerhavia | 黄细心属 | 5
+10617 | 104374 | Bougainvillea | 叶子花属 | 2
+10617 | 107777 | Commicarpus | 粘腺果属 | 2
+10617 | 120783 | Mirabilis | 紫茉莉属 | 1
+10617 | 123476 | Oxybaphus | 山紫茉莉属 | 1
+10617 | 125604 | Pisonia | 腺果藤属 | 3
+10618 | 112398 | Euryale | 芡属 | 1
+10618 | 122507 | Nuphar | 萍蓬草属 | 4
+10618 | 122531 | Nymphaea | 睡莲属 | 5
+10619 | 105440 | Camptotheca | 喜树属 | 2
+10619 | 109383 | Davidia | 珙桐属 | 3
+10619 | 122537 | Nyssa | 蓝果树属 | 7
+10620 | 105475 | Campylospermum | 赛金莲木属 | 2
+10620 | 122576 | Ochna | 金莲木属 | 1
+10620 | 129342 | Sauvagesia | 合柱金莲木属 | 1
+10624 | 112170 | Erythropalum | 赤苍藤属 | 1
+10624 | 119524 | Malania | 蒜头果属 | 1
+10624 | 122768 | Olax | 铁青树属 | 3
+10624 | 129643 | Schoepfia | 青皮木属 | 6
+10624 | 135125 | Ximenia | 海檀木属 | 1
+10625 | 106706 | Chionanthus | 流苏树属 | 9
+10625 | 112917 | Fontanesia | 雪柳属 | 1
+10625 | 112951 | Forsythia | 连翘属 | 6
+10625 | 113002 | Fraxinus | 陉属 | 24
+10625 | 116771 | Jasminum | 茉莉属 | 51
+10625 | 118549 | Ligustrum | 女贞属 | 43
+10625 | 121559 | Myxopyrum | 胶核木属 | 2
+10625 | 122774 | Olea | 木犀榄属 | 15
+10625 | 123328 | Osmanthus | 木犀属 | 28
+10625 | 132143 | Syringa | 丁香属 | 30
+10630 | 106488 | Chamerion | 柳兰属 | 6
+10630 | 107126 | Circaea | 露珠草属 | 17
+10630 | 111844 | Epilobium | 柳叶菜属 | 39
+10630 | 113335 | Gaura | 山桃草属 | 1
+10630 | 119063 | Ludwigia | 丁香蓼属 | 9
+10630 | 122735 | Oenothera | 月见草属 | 10
+10636 | 105529 | Cansjera | 山柑藤属 | 1
+10636 | 106501 | Champereia | 台湾山柚属 | 3
+10636 | 118092 | Lepionurus | 鳞尾木属 | 1
+10636 | 123018 | Opilia | 山柚子属 | 1
+10636 | 134213 | Urobotrya | 尾球木属 | 1
+10638 | 100067 | Acampe | 脆兰属 | 3
+10638 | 200100 | Acanthephippium | 坛花兰属 | 3
+10638 | 100328 | Acriopsis | 合萼兰属 | 1
+10638 | 100684 | Aerides | 指甲兰属 | 5
+10638 | 313139 | Aeridostachya | 气穗兰属 | 1
+10638 | 100857 | Agrostophyllum | 禾叶兰属 | 3
+10638 | 101363 | Amitostigma | 无柱兰属 | 22
+10638 | 101681 | Androcorys | 兜蕊兰属 | 5
+10638 | 101904 | Anoectochilus | 金线兰属 | 11
+10638 | 102043 | Anthogonium | 筒瓣兰属 | 1
+10638 | 102234 | Aphyllorchis | 无叶兰属 | 5
+10638 | 102345 | Apostasia | 拟兰属 | 3
+10638 | 102352 | Appendicula | 牛齿兰属 | 4
+10638 | 102403 | Arachnis | 蜘蛛兰属 | 3
+10638 | 102739 | Arundina | 竹叶兰属 | 1
+10638 | 102778 | Ascocentrum | 鸟舌兰属 | 3
+10638 | 135437 | Bhutanthera | 高山兰属 | 1
+10638 | 103921 | Biermannia | 胼胝兰属 | 1
+10638 | 104100 | Bletilla | 白及属 | 4
+10638 | 104442 | Brachycorythis | 苞叶兰属 | 4
+10638 | 104730 | Bryobium | 藓兰属 | 1
+10638 | 104827 | Bulbophyllum | 石豆兰属 | 134
+10638 | 104836 | Bulleyia | 蜂腰兰属 | 1
+10638 | 105024 | Calanthe | 虾脊兰属 | 59
+10638 | 105155 | Callostylis | 美柱兰属 | 2
+10638 | 105315 | Calypso | 布袋兰属 | 1
+10638 | 313452 | Campanulorchis | 钟兰属 | 1
+10638 | 106075 | Cephalanthera | 头蕊兰属 | 10
+10638 | 106076 | Cephalantheropsis | 黄兰属 | 3
+10638 | 106209 | Ceratostylis | 牛角兰属 | 3
+10638 | 106414 | Chamaeanthus | 低药兰属 | 1
+10638 | 106439 | Chamaegastrodia | 叠鞘兰属 | 3
+10638 | 106509 | Changnienia | 独花兰属 | 1
+10638 | 106614 | Cheirostylis | 叉柱兰属 | 18
+10638 | 106689 | Chiloschista | 异型兰属 | 3
+10638 | 106940 | Chroniochilus |   | 1
+10638 | 106990 | Chrysoglossum | 金唇兰属 | 2
+10638 | 107290 | Cleisostoma | 隔距兰属 | 18
+10638 | 135432 | Cleisostomopsis | 拟隔距兰属 | 1
+10638 | 107571 | Coelogyne | 贝母兰属 | 32
+10638 | 107655 | Collabium | 吻兰属 | 3
+10638 | 107816 | Conchidium | 蛤兰属 | 4
+10638 | 200853 | Corallorhiza | 珊瑚兰属 | 1
+10638 | 108083 | Corybas | 铠兰属 | 6
+10638 | 108091 | Corymborkis | 管花兰属 | 1
+10638 | 108306 | Cremastra | 杜鹃兰属 | 5
+10638 | 108339 | Crepidium | 沼兰属 | 18
+10638 | 108517 | Cryptochilus | 宿苞兰属 | 3
+10638 | 108586 | Cryptostylis | 隐柱兰属 | 2
+10638 | 108910 | Cylindrolobus | 柱兰属 | 3
+10638 | 108941 | Cymbidium | 兰属 | 63
+10638 | 109046 | Cypripedium | 杓兰属 | 36
+10638 | 109096 | Cyrtosia | 肉果兰属 | 3
+10638 | 109214 | Dactylorhiza | 掌裂兰属 | 6
+10638 | 109553 | Dendrobium | 石斛属 | 96
+10638 | 109560 | Dendrochilum | 足柱兰属 | 1
+10638 | 109580 | Dendrolirium | 绒兰属 | 2
+10638 | 110108 | Didymoplexiella | 锚柱兰属 | 1
+10638 | 135435 | Didymoplexiopsis | 拟锚柱兰属 | 1
+10638 | 110109 | Didymoplexis | 双唇兰属 | 3
+10638 | 110136 | Dienia | 无耳沼兰属 | 2
+10638 | 110161 | Diglyphosa | 密花兰属 | 1
+10638 | 110336 | Diphylax | 尖药兰属 | 3
+10638 | 202395 | Diplandrorchis | 双蕊兰属 | 1
+10638 | 110430 | Diplomeris | 合柱兰属 | 2
+10638 | 110452 | Diploprora | 蛇舌兰属 | 1
+10638 | 110615 | Disperis | 双袋兰属 | 1
+10638 | 200364 | Dithrix |   | 1
+10638 | 110832 | Doritis | 五唇兰属 | 1
+10638 | 111832 | Epigeneium | 厚唇兰属 | 11
+10638 | 111851 | Epipactis | 火烧兰属 | 12
+10638 | 111863 | Epipogium | 虎舌兰属 | 3
+10638 | 111973 | Eria | 毛兰属 | 7
+10638 | 112038 | Eriodes | 毛梗兰属 | 1
+10638 | 112165 | Erythrodes | 钳唇兰属 | 3
+10638 | 112178 | Erythrorchis | 倒吊兰属 | 1
+10638 | 112207 | Esmeralda | 花蜘蛛兰属 | 2
+10638 | 112324 | Eulophia | 美冠兰属 | 15
+10638 | 112872 | Flickingeria | 金石斛属 | 9
+10638 | 135436 | Frigidorchis | 冷兰属 | 1
+10638 | 113161 | Galearis | 盔花兰属 | 5
+10638 | 113169 | Galeola | 山珊瑚属 | 4
+10638 | 113301 | Gastrochilus | 盆距兰属 | 30
+10638 | 113305 | Gastrodia | 天麻属 | 18
+10638 | 113447 | Geodorum | 地宝兰属 | 6
+10638 | 113928 | Goodyera | 斑叶兰属 | 30
+10638 | 114107 | Grosourdya | 火炬兰属 | 1
+10638 | 114226 | Gymnadenia | 手参属 | 7
+10638 | 114408 | Habenaria | 玉凤花属 | 57
+10638 | 114563 | Hancockia | 滇兰属 | 1
+10638 | 114656 | Haraella | 香兰属 | 1
+10638 | 115052 | Hemipilia | 舌喙兰属 | 8
+10638 | 135438 | Hemipiliopsis | 紫斑兰属 | 1
+10638 | 115173 | Herminium | 角盘兰属 | 18
+10638 | 115196 | Herpysma | 爬兰属 | 1
+10638 | 115256 | Hetaeria | 翻唇兰属 | 6
+10638 | 115584 | Holcoglossum | 槽舌兰属 | 12
+10638 | 115630 | Holopogon | 无喙兰属 | 2
+10638 | 116035 | Hygrochilus | 湿唇兰属 | 1
+10638 | 116068 | Hylophila | 袋唇兰属 | 1
+10638 | 116541 | Ischnogyne | 瘦房兰属 | 1
+10638 | 117316 | Kuhlhasseltia | 旗唇兰属 | 1
+10638 | 117802 | Lecanorchis | 盂兰属 | 5
+10638 | 200419 | Lesliea |   | 1
+10638 | 118682 | Liparis | 羊耳蒜属 | 68
+10638 | 119058 | Ludisia | 血叶兰属 | 1
+10638 | 119086 | Luisia | 钗子股属 | 11
+10638 | 119529 | Malaxis | 原沼兰属 | 2
+10638 | 119542 | Malleola | 槌柱兰属 | 1
+10638 | 120597 | Micropera | 小囊兰属 | 1
+10638 | 120673 | Microtatorchis | 拟蜘蛛兰属 | 1
+10638 | 120684 | Microtis | 葱叶兰属 | 1
+10638 | 121064 | Monomeria | 短瓣兰属 | 2
+10638 | 121374 | Mycaranthes | 拟毛兰属 | 2
+10638 | 121492 | Myrmechis | 全唇兰属 | 5
+10638 | 121944 | Neofinetia | 风兰属 | 3
+10638 | 121961 | Neogyna | 新型兰属 | 1
+10638 | 122112 | Neottia | 鸟巢兰属 | 37
+10638 | 122113 | Neottianthe | 兜被兰属 | 9
+10638 | 122139 | Nephelaphyllum | 云叶兰属 | 1
+10638 | 122179 | Nervilia | 芋兰属 | 10
+10638 | 122248 | Neuwiedia | 三蕊兰属 | 2
+10638 | 200454 | Nothodoritis | 象鼻兰属 | 1
+10638 | 122553 | Oberonia | 鸢尾兰属 | 36
+10638 | 135433 | Oberonioides | 小沼兰属 | 1
+10638 | 122672 | Odontochilus | 齿唇兰属 | 11
+10638 | 20816 | ORCHIDACEAE subfam. APOSTASIOIDEAE | 拟兰亚科 | 
+10638 | 20506 | Orchidaceae subfam. Cypripedioideae | 杓兰亚科 | 
+10638 | 20507 | Orchidaceae subfam. Epidendroideae | 树兰亚科 | 
+10638 | 20508 | Orchidaceae subfam. Orchidoideae | 兰亚科 | 
+10638 | 20509 | Orchidaceae subfam. Vanilloideae | 香荚兰亚科 | 
+10638 | 123078 | Orchis | 红门兰属 | 1
+10638 | 123134 | Oreorchis | 山兰属 | 11
+10638 | 123197 | Ornithochilus | 羽唇兰属 | 2
+10638 | 123407 | Otochilus | 耳唇兰属 | 4
+10638 | 123530 | Oxystophyllum | 拟石斛属 | 1
+10638 | 123633 | Pachystoma | 粉口兰属 | 2
+10638 | 123764 | Panisea | 曲唇兰属 | 6
+10638 | 123796 | Paphiopedilum | 兜兰属 | 36
+10638 | 123803 | Papilionanthe | 凤蝶兰属 | 4
+10638 | 200465 | Parapteroceras | 虾尾兰属 | 1
+10638 | 124216 | Pecteilis | 白蝶兰属 | 3
+10638 | 124272 | Pelatantheria | 钻柱兰属 | 4
+10638 | 124277 | Pelexia | 肥根兰属 | 1
+10638 | 135431 | Penkimia | 心启兰属 | 1
+10638 | 124349 | Pennilabium | 巾唇兰属 | 1
+10638 | 124588 | Peristylus | 阔蕊兰属 | 21
+10638 | 124866 | Phaius | 鹤顶兰属 | 10
+10638 | 124878 | Phalaenopsis | 蝴蝶兰属 | 15
+10638 | 125087 | Pholidota | 石仙桃属 | 12
+10638 | 125138 | Phreatia | 馥兰属 | 4
+10638 | 125496 | Pinalia | 苹兰属 | 19
+10638 | 125746 | Platanthera | 舌唇兰属 | 51
+10638 | 125914 | Pleione | 独蒜兰属 | 25
+10638 | 126163 | Podochilus | 柄唇兰属 | 2
+10638 | 126258 | Pogonia | 朱兰属 | 3
+10638 | 126456 | Polystachya | 多穗兰属 | 1
+10638 | 126497 | Pomatocalpa | 鹿角兰属 | 2
+10638 | 126517 | Ponerorchis | 小红门兰属 | 13
+10638 | 126557 | Porolabium | 孔唇兰属 | 1
+10638 | 126577 | Porpax | 盾柄兰属 | 1
+10638 | 127452 | Pteroceras | 长足兰属 | 2
+10638 | 128139 | Renanthera | 火焰兰属 | 3
+10638 | 128428 | Rhomboda | 菱兰属 | 4
+10638 | 128505 | Rhynchostylis | 钻喙兰属 | 2
+10638 | 128618 | Risleya | 紫茎兰属 | 1
+10638 | 128649 | Robiquetia | 寄树兰属 | 2
+10638 | 128981 | Saccolabiopsis | 拟囊唇兰属 | 2
+10638 | 129217 | Sarcoglyphis | 大喙兰属 | 2
+10638 | 129240 | Sarcophyton | 肉兰属 | 1
+10638 | 129323 | Satyrium | 鸟足兰属 | 4
+10638 | 129640 | Schoenorchis | 匙唇兰属 | 3
+10638 | 129987 | Sedirea | 萼脊兰属 | 2
+10638 | 130576 | Smithorchis | 反唇兰属 | 1
+10638 | 130578 | Smitinandia | 盖喉兰属 | 1
+10638 | 130809 | Spathoglottis | 苞舌兰属 | 3
+10638 | 131021 | Spiranthes | 绶草属 | 4
+10638 | 131219 | Staurochilus | 掌唇兰属 | 3
+10638 | 131479 | Stereochilus | 坚唇兰属 | 2
+10638 | 131488 | Stereosandra | 肉药兰属 | 1
+10638 | 131550 | Stigmatodactylus | 指柱兰属 | 1
+10638 | 131912 | Sunipia | 大苞兰属 | 11
+10638 | 132206 | Taeniophyllum | 带叶兰属 | 3
+10638 | 132220 | Tainia | 带唇兰属 | 14
+10638 | 132273 | Tangtsinia | 金佛山兰属 | 1
+10638 | 132750 | Thelasis | 矮柱兰属 | 2
+10638 | 132891 | Thrixspermum | 白点兰属 | 16
+10638 | 132909 | Thunia | 笋兰属 | 1
+10638 | 133044 | Tipularia | 筒距兰属 | 4
+10638 | 133382 | Trias |   | 1
+10638 | 133490 | Trichoglottis | 毛舌兰属 | 2
+10638 | 133575 | Trichotosia | 毛鞘兰属 | 4
+10638 | 133886 | Tropidia | 竹茎兰属 | 7
+10638 | 133921 | Tsaiorchis | 长喙兰属 | 1
+10638 | 133946 | Tuberolabium | 管唇兰属 | 1
+10638 | 134139 | Uncifera | 叉喙兰属 | 2
+10638 | 134346 | Vanda | 万代兰属 | 10
+10638 | 134365 | Vandopsis | 拟万代兰属 | 2
+10638 | 134375 | Vanilla | 香荚兰属 | 4
+10638 | 134700 | Vrydagzynea | 二尾兰属 | 1
+10638 | 135215 | Yoania | 宽距兰属 | 1
+10638 | 135434 | Ypsilorchis | 丫瓣兰属 | 1
+10638 | 135303 | Zeuxine | 线柱兰属 | 15
+10639 | 100657 | Aeginetia | 野菰属 | 3
+10639 | 104302 | Boschniakia | 草苁蓉属 | 3
+10639 | 106923 | Christisonia | 假野菰属 | 1
+10639 | 107147 | Cistanche | 肉苁蓉属 | 5
+10639 | 113618 | Gleadovia | 藨寄生属 | 2
+10639 | 117714 | Lathraea | 齿鳞草属 | 1
+10639 | 119625 | Mannagettaea | 豆列当属 | 2
+10639 | 123211 | Orobanche | 列当属 | 31
+10639 | 124770 | Phacellanthus | 黄筒花属 | 1
+10644 | 103253 | Averrhoa | 阳桃属 | 2
+10644 | 103966 | Biophytum | 感应草属 | 3
+10644 | 123464 | Oxalis | 酢浆草属 | 8
+10646 | 123659 | Paeonia | 芍药属 | 27
+10648 | 120544 | Microdesmis | 小盘木属 | 1
+10649 | 113016 | Freycinetia | 藤露兜树属 | 1
+10649 | 123748 | Pandanus | 露兜树属 | 6
+10650 | 100616 | Adlumia | 荷包藤属 | 1
+10650 | 102532 | Argemone | 蓟罂粟属 | 1
+10650 | 106616 | Chelidonium | 白屈菜属 | 1
+10650 | 108085 | Corydalis | 紫堇属 | 456
+10650 | 109191 | Dactylicapnos | 紫金龙属 | 10
+10650 | 109991 | Dicranostigma | 秃疮花属 | 3
+10650 | 111768 | Eomecon | 血水草属 | 1
+10650 | 112192 | Eschscholzia | 花菱草属 | 1
+10650 | 113071 | Fumaria | 烟堇属 | 2
+10650 | 113604 | Glaucium | 海罂粟属 | 3
+10650 | 116064 | Hylomecon | 荷青花属 | 4
+10650 | 116168 | Hypecoum | 角茴香属 | 4
+10650 | 317303 | Ichtyoselmis | 黄药属 | 1
+10650 | 117544 | Lamprocapnos | 荷包牡丹属 | 1
+10650 | 119273 | Macleaya | 博落回属 | 2
+10650 | 119934 | Meconopsis | 绿绒蒿属 | 63
+10650 | 123791 | Papaver | 罂粟属 | 7
+10650 | 20797 | Papaveraceae subfam. FUMARIOIDEAE | 荷包牡丹亚科 | 7
+10650 | 20796 | Papaveraceae subfam. PAPAVEROIDEAE | 罂粟亚科 | 12
+10650 | 128683 | Roemeria | 疆罂粟属 | 2
+10650 | 131844 | Stylophorum | 金罂粟属 | 2
+10656 | 100532 | Adenia | 蒴莲属 | 3
+10656 | 124132 | Passiflora | 西番莲属 | 20
+10658 | 130195 | Sesamum | 胡麻属 | 1
+10658 | 133289 | Trapella | 茶菱属 | 1
+20222 | 124258 | Peganum | 骆驼蓬属 | 3
+10661 | 124409 | Pentaphragma | 五膜草属 | 2
+10662 | 124411 | Pentaphylax | 五列木属 | 1
+10676 | 125015 | Philydrum | 田葱属 | 1
+20234 | 112149 | Erythranthe |   | 9
+20234 | 125144 | Phryma | 透骨草属 | 1
+10687 | 125362 | Phytolacca | 商陆属 | 4
+10687 | 128629 | Rivina | 数珠珊瑚属 | 1
+10691 | 100024 | Abies | 冷杉属 | 35
+10691 | 105883 | Cathaya | 银杉属 | 1
+10691 | 105979 | Cedrus | 雪松属 | 2
+10691 | 117075 | Keteleeria | 油杉属 | 11
+10691 | 117628 | Larix | 落叶松属 | 16
+10691 | 125375 | Picea | 云杉属 | 31
+10691 | 125519 | Pinus | 松属 | 66
+10691 | 127117 | Pseudolarix | 金钱松属 | 1
+10691 | 127289 | Pseudotsuga | 黄杉属 | 7
+10691 | 133931 | Tsuga | 铁杉属 | 9
+10692 | 124469 | Peperomia | 草胡椒属 | 7
+10692 | 125531 | Piper | 胡椒属 | 71
+10692 | 135328 | Zippelia | 齐头绒属 | 1
+10695 | 125638 | Pittosporum | 海桐花属 | 74
+20242 | 125702 | Plagiopteron | 斜翼属 | 1
+10701 | 125735 | Plantago | 车前属 | 27
+10703 | 125747 | Platanus | 悬铃木属 | 3
+10710 | 100101 | Acantholimon | 彩花属 | 12
+10710 | 106206 | Ceratostigma | 蓝雪花属 | 5
+10710 | 113881 | Goniolimon | 驼舌草属 | 6
+10710 | 116360 | Ikonnikovia | 伊犁花属 | 1
+10710 | 118606 | Limonium | 补血草属 | 27
+10710 | 126106 | Plumbagella | 鸡娃草属 | 1
+10710 | 126108 | Plumbago | 白花丹属 | 5
+10711 | 100203 | Achnatherum | 芨芨草属 | 20
+10711 | 100251 | Acidosasa | 酸竹属 | 11
+10711 | 100316 | Acrachne | 尖稃草属 | 1
+10711 | 100342 | Acroceras | 凤头黍属 | 2
+10711 | 100654 | Aegilops | 山羊草属 | 1
+10711 | 100671 | Aeluropus | 獐毛属 | 6
+10711 | 100844 | Agropyron | 冰草属 | 13
+10711 | 100853 | Agrostis | 剪股颖属 | 25
+10711 | 100893 | Aira | 银须草属 | 1
+10711 | 101140 | Alloteropsis | 毛颖草属 | 4
+10711 | 101178 | Alopecurus | 看麦娘属 | 8
+10711 | 101410 | Ampelocalamus | 悬竹属 | 13
+10711 | 101693 | Andropogon | 须芒草属 | 2
+10711 | 101816 | Aniselytron | 沟稃草属 | 2
+10711 | 102065 | Anthoxanthum | 黄花茅属 | 12
+10711 | 102279 | Apluda | 水蔗草属 | 1
+10711 | 102287 | Apocopis | 楔颖草属 | 4
+10711 | 102601 | Aristida | 三芒草属 | 10
+10711 | 102660 | Arrhenatherum | 燕麦草属 | 3
+10711 | 102691 | Arthraxon | 荩草属 | 14
+10711 | 102740 | Arundinaria | 青篱竹属 | 12
+10711 | 102741 | Arundinella | 野古草属 | 25
+10711 | 102743 | Arundo | 芦竹属 | 2
+10711 | 103247 | Avena | 燕麦属 | 7
+10711 | 103271 | Axonopus | 地毯草属 | 2
+10711 | 103452 | Bambusa | 簕竹属 | 118
+10711 | 103682 | Beckmannia | 菵草属 | 3
+10711 | 104244 | Bonia | 单枝竹属 | 6
+10711 | 104319 | Bothriochloa | 孔颖草属 | 5
+10711 | 104387 | Bouteloua | 格兰马草属 | 2
+10711 | 104416 | Brachiaria | 臂形草属 | 13
+10711 | 104447 | Brachyelytrum | 短颖草属 | 1
+10711 | 104468 | Brachypodium | 短柄草属 | 5
+10711 | 104645 | Briza | 凌风草属 | 3
+10711 | 104664 | Bromus | 雀麦属 | 59
+10711 | 104725 | Brylkinia | 扁穗草属 | 1
+10711 | 104783 | Buchloe | 野牛草属 | 1
+10711 | 105009 | Calamagrostis | 拂子茅属 | 8
+10711 | 105549 | Capillipedium | 细柄草属 | 5
+10711 | 105839 | Catabrosa | 沿沟草属 | 4
+10711 | 106002 | Cenchrus | 蒺藜草属 | 4
+10711 | 106027 | Centotheca | 假淡竹叶属 | 1
+10711 | 106116 | Cephalostachyum | 空竹属 | 9
+10711 | 106661 | Chikusichloa | 山涧草属 | 2
+10711 | 106699 | Chimonobambusa | 方竹属 | 37
+10711 | 200109 | Chimonocalamus | 香竹属 | 12
+10711 | 106704 | Chionachne | 葫芦草属 | 1
+10711 | 106781 | Chloris | 虎尾草属 | 5
+10711 | 107007 | Chrysopogon | 金须茅属 | 4
+10711 | 107104 | Cinna | 单蕊草属 | 1
+10711 | 107302 | Cleistogenes | 隐子草属 | 12
+10711 | 107551 | Coelachne | 小丽草属 | 1
+10711 | 107608 | Coix | 薏苡属 | 6
+10711 | 107621 | Coleanthus | 莎禾属 | 1
+10711 | 107710 | Colpodium | 小沿沟草属 | 5
+10711 | 108070 | Cortaderia | 蒲苇属 | 1
+10711 | 108491 | Crypsis | 隐花草属 | 2
+10711 | 108800 | Cyathopus | 杯禾属 | 1
+10711 | 108952 | Cymbopogon | 香茅属 | 26
+10711 | 108978 | Cynodon | 狗牙根属 | 4
+10711 | 108998 | Cynosurus | 洋狗尾草属 | 1
+10711 | 109075 | Cyrtococcum | 弓果黍属 | 4
+10711 | 109194 | Dactylis | 鸭茅属 | 1
+10711 | 109201 | Dactyloctenium | 龙爪茅属 | 1
+10711 | 109285 | Danthonia | 扁芒草属 | 2
+10711 | 200119 | Dendrocalamopsis |   | 1
+10711 | 109555 | Dendrocalamus | 牡竹属 | 42
+10711 | 109669 | Deschampsia | 发草属 | 7
+10711 | 109706 | Desmostachya | 羽穗草属 | 1
+10711 | 109740 | Deyeuxia | 野青茅属 | 36
+10711 | 109816 | Diarrhena | 龙常草属 | 3
+10711 | 109887 | Dichanthium | 双花草属 | 3
+10711 | 110153 | Digitaria | 马唐属 | 27
+10711 | 110205 | Dimeria | 觿茅属 | 10
+10711 | 110247 | Dinebra | 弯穗草属 | 1
+10711 | 200125 | Drepanostachyum | 镰序竹属 | 5
+10711 | 111098 | Duthiea | 毛蕊草属 | 1
+10711 | 111218 | Echinochloa | 稗属 | 14
+10711 | 111337 | Ehrharta | 皱稃草属 | 1
+10711 | 111432 | Eleusine | 穇属 | 2
+10711 | 111513 | Elymus | 披碱草属 | 132
+10711 | 111521 | Elytrigia | 偃麦草属 | 5
+10711 | 111524 | Elytrophorus | 总苞草属 | 1
+10711 | 111718 | Enneapogon | 九顶草属 | 2
+10711 | 111739 | Enteropogon | 肠须草属 | 2
+10711 | 111899 | Eragrostiella | 细画眉草属 | 1
+10711 | 111900 | Eragrostis | 画眉草属 | 32
+10711 | 111931 | Eremochloa | 蜈蚣草属 | 5
+10711 | 111957 | Eremopyrum | 旱麦草属 | 4
+10711 | 111975 | Eriachne | 鹧鸪草属 | 1
+10711 | 112027 | Eriochloa | 野黍属 | 2
+10711 | 112317 | Eulalia | 黄金茅属 | 16
+10711 | 112318 | Eulaliopsis | 拟金茅属 | 1
+10711 | 112439 | Eustachys | 真穗草属 | 1
+10711 | 112649 | Fargesia | 箭竹属 | 81
+10711 | 200132 | Ferrocalamus | 铁竹属 | 2
+10711 | 112750 | Festuca | 羊茅属 | 79
+10711 | 202421 | Gaoligongshania | 贡山竹属 | 1
+10711 | 113269 | Garnotia | 耳稃草属 | 7
+10711 | 202423 | Gelidocalamus | 短枝竹属 | 9
+10711 | 113483 | Germainia | 吉曼草属 | 1
+10711 | 113533 | Gigantochloa | 巨竹属 | 6
+10711 | 113749 | Glyceria | 甜茅属 | 10
+10711 | 114426 | Hackelochloa | 球穗草属 | 2
+10711 | 114683 | Harpachne | 镰稃草属 | 1
+10711 | 114903 | Helictotrichon | 异燕麦属 | 20
+10711 | 114977 | Hemarthria | 牛鞭草属 | 6
+10711 | 115342 | Heteropogon | 黄茅属 | 3
+10711 | 203035 | Himalayacalamus | 喜马拉雅筱竹属 | 2
+10711 | 115591 | Holcus | 绒毛草属 | 1
+10711 | 115751 | Hordeum | 大麦属 | 21
+10711 | 116046 | Hygroryza | 水禾属 | 1
+10711 | 116069 | Hymenachne | 膜稃草属 | 3
+10711 | 116166 | Hyparrhenia | 苞茅属 | 5
+10711 | 116301 | Hystrix | 猬草属 | 4
+10711 | 116320 | Ichnanthus | 距花黍属 | 1
+10711 | 116394 | Imperata | 白茅属 | 5
+10711 | 116401 | Indocalamus | 箬竹属 | 33
+10711 | 116411 | Indosasa | 大节竹属 | 17
+10711 | 116518 | Isachne | 柳叶箬属 | 20
+10711 | 116533 | Ischaemum | 鸭嘴草属 | 14
+10711 | 202449 | Kengyilia | 以礼草属 | 34
+10711 | 117194 | Koeleria | 草属 | 6
+10711 | 117845 | Leersia | 假稻属 | 4
+10711 | 118124 | Leptaspis | 囊稃竹属 | 1
+10711 | 118153 | Leptochloa | 千金子属 | 3
+10711 | 118294 | Lepturus | 细穗草属 | 1
+10711 | 118489 | Leymus | 赖草属 | 36
+10711 | 118647 | Lingnania |   | 3
+10711 | 118756 | Littledalea | 扇穗茅属 | 4
+10711 | 118826 | Lolium | 黑麦草属 | 8
+10711 | 118888 | Lophatherum | 淡竹叶属 | 2
+10711 | 120133 | Melica | 臭草属 | 25
+10711 | 120151 | Melinis | 糖蜜草属 | 2
+10711 | 120183 | Melocalamus | 梨籐竹属 | 7
+10711 | 120184 | Melocanna | 梨竹属 | 1
+10711 | 120521 | Microchloa | 小草属 | 3
+10711 | 120657 | Microstegium | 莠竹属 | 17
+10711 | 120719 | Milium | 粟草属 | 1
+10711 | 120798 | Miscanthus | 芒属 | 8
+10711 | 120873 | Mnesithea | 毛俭草属 | 8
+10711 | 120930 | Molinia | 麦氏草属 | 1
+10711 | 121292 | Muhlenbergia | 乱子草属 | 6
+10711 | 202495 | Neomicrocalamus | 新小竹属 | 2
+10711 | 122264 | Neyraudia | 类芦属 | 4
+10711 | 200160 | Oligostachyum | 少穗竹属 | 17
+10711 | 123007 | Ophiuros | 蛇尾草属 | 1
+10711 | 123025 | Oplismenus | 求米草属 | 18
+10711 | 123165 | Orinus | 固沙草属 | 6
+10711 | 123278 | Orthoraphium | 直芒草属 | 1
+10711 | 123313 | Oryza | 稻属 | 5
+10711 | 123436 | Ottochloa | 露籽草属 | 3
+10711 | 123762 | Panicum | 黍属 | 21
+10711 | 123972 | Parapholis | 假牛鞭草属 | 1
+10711 | 124123 | Paspalidium | 类雀稗属 | 2
+10711 | 124125 | Paspalum | 雀稗属 | 19
+10711 | 124350 | Pennisetum | 狼尾草属 | 11
+10711 | 124610 | Perotis | 茅根属 | 3
+10711 | 124774 | Phacelurus | 束尾草属 | 3
+10711 | 124798 | Phaenosperma | 显子草属 | 1
+10711 | 124884 | Phalaris | 草属 | 5
+10711 | 125044 | Phleum | 梯牧草属 | 4
+10711 | 125116 | Phragmites | 芦苇属 | 3
+10711 | 125246 | Phyllostachys | 刚竹属 | 67
+10711 | 125545 | Piptatherum | 落芒草属 | 15
+10711 | 125899 | Pleioblastus | 苦竹属 | 25
+10711 | 126123 | Poa | 早熟禾属 | 156
+10711 | 20755 | POACEAE Tribe ANDROPOGONEAE | 高粱族 | 41
+10711 | 20759 | POACEAE Tribe ARISTIDEAE | 三芒草族 | 2
+10711 | 20583 | Poaceae Tribe Arundineae | 芦竹族 | 3
+10711 | 20766 | POACEAE Tribe ARUNDINELLEAE | 野古草族 | 2
+10711 | 20752 | POACEAE Tribe AVENEAE | 燕麦族 | 21
+10711 | 20753 | POACEAE Tribe BAMBUSEAE | 簕竹族 | 34
+10711 | 20745 | POACEAE Tribe BRACHYELYTREAE | 短颖草族 | 1
+10711 | 20767 | POACEAE Tribe BRACHYPODIEAE | 短柄草族 | 1
+10711 | 20754 | POACEAE Tribe BROMEAE | 雀麦族 | 2
+10711 | 20748 | POACEAE Tribe BRYLKINIEAE | 扁穗草族 | 1
+10711 | 20756 | POACEAE Tribe CENTOTHECEAE | 假淡竹叶族 | 2
+10711 | 20762 | POACEAE Tribe CYNODONTEAE | 虎尾草族 | 12
+10711 | 20758 | POACEAE Tribe DANTHONIEAE | 扁芒草族 | 4
+10711 | 20750 | POACEAE Tribe DIARRHENEAE | 龙常草族 | 1
+10711 | 20743 | POACEAE Tribe EHRHARTEAE | 皱稃草族 | 1
+10711 | 20761 | POACEAE Tribe ERAGROSTIDEAE | 画眉草族 | 17
+10711 | 20765 | POACEAE Tribe ERIACHNEAE | 鹧鸪草族 | 1
+10711 | 20764 | POACEAE Tribe ISACHNEAE | 柳叶箬族 | 3
+10711 | 20749 | POACEAE Tribe MELICEAE | 臭草族 | 3
+10711 | 20744 | POACEAE Tribe ORYZEAE | 稻族 | 5
+10711 | 20763 | POACEAE Tribe PANICEAE | 黍族 | 27
+10711 | 20760 | POACEAE Tribe PAPPOPHOREAE | 冠芒草族 | 1
+10711 | 20746 | POACEAE Tribe PHAENOSPERMATEAE | 显子草族 | 1
+10711 | 20742 | POACEAE Tribe PHAREAE | 囊稃竹族 | 1
+10711 | 20751 | POACEAE Tribe POEAE | 早熟禾族 | 16
+10711 | 20747 | POACEAE Tribe STIPEAE | 针茅族 | 10
+10711 | 20757 | POACEAE Tribe THYSANOLAENEAE | 粽叶芦族 | 1
+10711 | 20741 | POACEAE Tribe TRITICEAE | 小麦族 | 13
+10711 | 126255 | Pogonatherum | 金发草属 | 3
+10711 | 126432 | Polypogon | 棒头草属 | 6
+10711 | 126478 | Polytoca | 多裔草属 | 1
+10711 | 126480 | Polytrias | 单序草属 | 3
+10711 | 126881 | Psammochloa | 沙鞭属 | 1
+10711 | 126896 | Psathyrostachys | 新麦草属 | 7
+10711 | 126925 | Pseudanthistiria | 假铁秆草属 | 1
+10711 | 126934 | Pseudechinolaena | 钩毛草属 | 1
+10711 | 127203 | Pseudopogonatherum | 假金发草属 | 5
+10711 | 127214 | Pseudoraphis | 伪针茅属 | 3
+10711 | 127223 | Pseudoroegneria | 假鹅观草属 | 1
+10711 | 127232 | Pseudosasa | 矢竹属 | 27
+10711 | 316885 | Pseudosclerochloa | 假硬草属 | 1
+10711 | 127253 | Pseudosorghum | 假高粱属 | 1
+10711 | 127260 | Pseudostachyum | 泡竹属 | 1
+10711 | 127547 | Ptilagrostis | 细柄茅属 | 7
+10711 | 127609 | Puccinellia | 碱茅属 | 51
+10711 | 128798 | Rottboellia | 筒轴茅属 | 2
+10711 | 128968 | Saccharum | 甘蔗属 | 14
+10711 | 128973 | Sacciolepis | 囊颖草属 | 5
+10711 | 129304 | Sasa | 赤竹属 | 10
+10711 | 129485 | Schismus | 齿稃草属 | 2
+10711 | 129507 | Schizachne | 裂稃茅属 | 1
+10711 | 129508 | Schizachyrium | 裂稃草属 | 4
+10711 | 129567 | Schizostachyum | 竹属 | 13
+10711 | 129772 | Sclerochloa | 硬草属 | 1
+10711 | 129851 | Scolochloa | 水茅属 | 1
+10711 | 129967 | Secale | 黑麦属 | 3
+10711 | 129995 | Sehima | 沟颖草属 | 1
+10711 | 130062 | Semiarundinaria | 业平竹属 | 3
+10711 | 130214 | Setaria | 狗尾草属 | 23
+10711 | 200182 | Setiacis | 刺毛头黍属 | 1
+10711 | 130263 | Shibataea | 鹅毛竹属 | 11
+10711 | 130413 | Sinobambusa | 唐竹属 | 15
+10711 | 130419 | Sinochasea | 三蕊草属 | 1
+10711 | 130722 | Sorghum | 高粱属 | 9
+10711 | 130777 | Spartina | 米草属 | 2
+10711 | 130877 | Sphaerocaryum | 稗荩属 | 1
+10711 | 131011 | Spinifex | 鬣刺属 | 1
+10711 | 131063 | Spodiopogon | 大油芒属 | 11
+10711 | 131091 | Sporobolus | 鼠尾粟属 | 8
+10711 | 131421 | Stenotaphrum | 钝叶草属 | 3
+10711 | 131429 | Stephanachne | 冠毛草属 | 3
+10711 | 131591 | Stipa | 针茅属 | 35
+10711 | 131592 | Stipagrostis | 针禾属 | 2
+10711 | 132698 | Thamnocalamus | 筱竹属 | 4
+10711 | 132780 | Themeda | 菅属 | 13
+10711 | 132896 | Thuarea | 蒭雷草属 | 1
+10711 | 132963 | Thyrsostachys | 泰竹属 | 2
+10711 | 132971 | Thysanolaena | 粽叶芦属 | 1
+10711 | 133281 | Tragus | 锋芒草属 | 2
+10711 | 133659 | Trikeraia | 三角草属 | 5
+10711 | 133753 | Tripogon | 草沙蚕属 | 11
+10711 | 133790 | Trisetum | 三毛草属 | 17
+10711 | 133826 | Triticum | 小麦属 | 10
+10711 | 134217 | Urochloa | 尾稃草属 | 6
+10711 | 134702 | Vulpia | 鼠茅属 | 1
+10711 | 317030 | x_AGROPOGON | 剪棒草属 | 1
+10711 | 135232 | Yushania | 玉山竹属 | 63
+10711 | 135271 | Zea | 玉蜀黍属 | 1
+10711 | 135329 | Zizania | 菰属 | 1
+10711 | 135364 | Zoysia | 结缕草属 | 5
+10713 | 109168 | Dacrycarpus | 鸡毛松属 | 1
+10713 | 109169 | Dacrydium | 陆均松属 | 1
+10713 | 121590 | Nageia | 竹柏属 | 3
+10713 | 126161 | Podocarpus | 罗汉松属 | 12
+10714 | 107194 | Cladopus | 川苔草属 | 2
+10714 | 109253 | Dalzellia | 川藻属 | 1
+10714 | 115984 | Hydrobryum | 水石衣属 | 1
+10715 | 126309 | Polemonium | 花荵属 | 7
+10716 | 111869 | Epirixanthes | 寄生鳞叶草属 | 1
+10716 | 115351 | Heterosamara |   | 3
+10716 | 126390 | Polygala | 远志属 | 57
+10716 | 129066 | Salomonia | 齿果草属 | 2
+10716 | 129976 | Securidaca | 蝉翼藤属 | 2
+10716 | 135031 | Xanthophyllum | 黄叶树属 | 4
+10717 | 101984 | Antenoron | 金线草属 | 4
+10717 | 103103 | Atraphaxis | 木蓼属 | 14
+10717 | 105115 | Calligonum | 沙拐枣属 | 24
+10717 | 112620 | Fagopyrum | 荞麦属 | 16
+10717 | 112640 | Fallopia | 首乌属 | 15
+10717 | 117203 | Koenigia | 冰岛蓼属 | 1
+10717 | 123520 | Oxyria | 山蓼属 | 2
+10717 | 123979 | Parapteropyrum | 翅果蓼属 | 1
+10717 | 126398 | Polygonum | 蓼属 | 172
+10717 | 127529 | Pteroxygonum | 红药子属 | 1
+10717 | 128197 | Reynoutria | 虎杖属 | 1
+10717 | 128294 | Rheum | 大黄属 | 40
+10717 | 128864 | Rumex | 酸模属 | 29
+10722 | 111338 | Eichhornia | 凤眼蓝属 | 1
+10722 | 121033 | Monochoria | 雨久花属 | 4
+10724 | 126612 | Portulaca | 马齿苋属 | 5
+10724 | 132245 | Talinum | 土人参属 | 1
+20251 | 126616 | Posidonia | 波喜荡属 | 1
+10726 | 126627 | Potamogeton | 眼子菜属 | 20
+10726 | 131808 | Stuckenia | 蓖齿眼子菜属 | 4
+10728 | 101558 | Anagallis | 琉璃繁缕属 | 1
+10728 | 101696 | Androsace | 点地梅属 | 86
+10728 | 104733 | Bryocarpum | 长果报春属 | 1
+10728 | 108078 | Cortusa | 假报春属 | 3
+10728 | 113611 | Glaux | 海乳草属 | 1
+10728 | 119206 | Lysimachia | 珍珠菜属 | 174
+10728 | 122874 | Omphalogramma | 独花报春属 | 9
+10728 | 126499 | Pomatosace | 羽叶点地梅属 | 1
+10728 | 126719 | Primula | 报春花属 | 389
+10728 | 129104 | Samolus | 水茴草属 | 1
+10728 | 131590 | Stimpsonia | 假婆婆纳属 | 1
+10728 | 133615 | Trientalis | 七瓣莲属 | 1
+10730 | 114876 | Helicia | 山龙眼属 | 24
+10730 | 114878 | Heliciopsis | 假山龙眼属 | 3
+10730 | 119230 | Macadamia | 澳洲坚果属 | 2
+10756 | 200083 | Mitrastemon | 帽蕊草属 | 3
+10756 | 129166 | Sapria | 寄生花属 | 1
+10757 | 100300 | Aconitum | 乌头属 | 366
+10757 | 100421 | Actaea | 类叶升麻属 | 2
+10757 | 100626 | Adonis | 侧金盏花属 | 12
+10757 | 101730 | Anemoclema | 罂粟莲花属 | 1
+10757 | 101733 | Anemone | 银莲花属 | 102
+10757 | 102388 | Aquilegia | 耧斗菜属 | 17
+10757 | 102947 | Asteropyrum | 星果草属 | 2
+10757 | 103619 | Batrachium | 水毛茛属 | 14
+10757 | 103691 | Beesia | 铁破锣属 | 2
+10757 | 105035 | Calathodes | 鸡爪草属 | 4
+10757 | 105095 | Callianthemum | 美花草属 | 5
+10757 | 105256 | Caltha | 驴蹄草属 | 10
+10757 | 106167 | Ceratocephala | 角果毛茛属 | 2
+10757 | 107092 | Cimicifuga | 升麻属 | 13
+10757 | 107312 | Clematis | 铁线莲属 | 278
+10757 | 107902 | Consolida | 飞燕草属 | 1
+10757 | 107946 | Coptis | 黄连属 | 8
+10757 | 109521 | Delphinium | 翠雀属 | 277
+10757 | 109905 | Dichocarpum | 人字果属 | 13
+10757 | 111685 | Enemion | 拟扁果草属 | 1
+10757 | 111902 | Eranthis | 菟葵属 | 5
+10757 | 114484 | Halerpestes | 碱毛茛属 | 11
+10757 | 114930 | Helleborus | 铁筷子属 | 1
+10757 | 115124 | Hepatica | 獐耳细辛属 | 2
+10757 | 116612 | Isopyrum | 扁果草属 | 2
+10757 | 117106 | Kingdonia | 独叶草属 | 1
+10757 | 118235 | Leptopyrum | 蓝堇草属 | 1
+10757 | 200081 | Metanemone | 毛茛莲花属 | 1
+10757 | 121649 | Naravelia | 锡兰莲属 | 2
+10757 | 123499 | Oxygraphis | 鸦跖花属 | 4
+10757 | 123983 | Paraquilegia | 拟耧斗菜属 | 3
+10757 | 127637 | Pulsatilla | 白头翁属 | 16
+10757 | 127971 | Ranunculus | 毛茛属 | 178
+10757 | 130061 | Semiaquilegia | 天葵属 | 1
+10757 | 130743 | Souliea | 黄三七属 | 1
+10757 | 132688 | Thalictrum | 唐松草属 | 110
+10757 | 133872 | Trollius | 金莲花属 | 26
+10757 | 134233 | Urophysa | 尾囊草属 | 2
+10760 | 122801 | Oligomeris | 川犀草属 | 1
+10760 | 128163 | Reseda | 木犀草属 | 3
+10761 | 201261 | Dapsilanthus | 薄果草属 | 1
+10763 | 101185 | Alphitonia | 麦珠子属 | 1
+10763 | 103817 | Berchemia | 勾儿茶属 | 30
+10763 | 103818 | Berchemiella | 小勾儿茶属 | 4
+10763 | 107722 | Colubrina | 蛇藤属 | 2
+10763 | 113952 | Gouania | 咀签属 | 5
+10763 | 115811 | Hovenia | 枳椇属 | 7
+10763 | 123701 | Paliurus | 马甲子属 | 5
+10763 | 128240 | Rhamnella | 猫乳属 | 8
+10763 | 128246 | Rhamnus | 鼠李属 | 85
+10763 | 129012 | Sageretia | 雀梅藤属 | 24
+10763 | 129913 | Scutia | 对刺藤属 | 1
+10763 | 134464 | Ventilago | 翼核果属 | 10
+10763 | 135333 | Ziziphus | 枣属 | 15
+10767 | 104699 | Bruguiera | 木榄属 | 3
+10767 | 105593 | Carallia | 竹节树属 | 4
+10767 | 106248 | Ceriops | 角果木属 | 1
+10767 | 116950 | Kandelia | 秋茄树属 | 1
+10767 | 124282 | Pellacalyx | 山红树属 | 1
+10767 | 128357 | Rhizophora | 红树属 | 3
+10769 | 128426 | Rhoiptelea | 马尾树属 | 1
+10776 | 100293 | Acomastylis | 羽叶花属 | 4
+10776 | 100836 | Agrimonia | 龙芽草属 | 6
+10776 | 100964 | Alchemilla | 羽衣草属 | 3
+10776 | 101333 | Amelanchier | 唐棣属 | 2
+10776 | 101512 | Amygdalus | 桃属 | 13
+10776 | 102618 | Armeniaca | 杏属 | 25
+10776 | 102737 | Aruncus | 假升麻属 | 2
+10776 | 106151 | Cerasus | 樱属 | 60
+10776 | 106309 | Chaenomeles | 木瓜属 | 5
+10776 | 106465 | Chamaerhodos | 地蔷薇属 | 5
+10776 | 107731 | Coluria | 无尾果属 | 6
+10776 | 107752 | Comarum | 沼委陵菜属 | 2
+10776 | 108169 | Cotoneaster | 栒子属 | 111
+10776 | 108272 | Crataegus | 山楂属 | 25
+10776 | 108886 | Cydonia | 榅桲属 | 1
+10776 | 109929 | Dichotomanthes | 牛筋条属 | 4
+10776 | 110722 | Docynia | 栘木衣属 | 2
+10776 | 110971 | Dryas | 仙女木属 | 1
+10776 | 111019 | Duchesnea | 蛇莓属 | 4
+10776 | 112012 | Eriobotrya | 枇杷属 | 15
+10776 | 112553 | Exochorda | 白鹃梅属 | 5
+10776 | 112789 | Filipendula | 蚊子草属 | 9
+10776 | 112975 | Fragaria | 草莓属 | 12
+10776 | 113505 | Geum | 路边青属 | 3
+10776 | 117070 | Kerria | 棣棠花属 | 1
+10776 | 117746 | Laurocerasus | 桂樱属 | 13
+10776 | 119431 | Maddenia | 臭樱属 | 6
+10776 | 119570 | Malus | 苹果属 | 38
+10776 | 121784 | Neillia | 绣线梅属 | 25
+10776 | 123353 | Osteomeles | 小石积属 | 7
+10776 | 123653 | Padus | 稠李属 | 20
+10776 | 125105 | Photinia | 石楠属 | 79
+10776 | 125317 | Physocarpus | 风箱果属 | 1
+10776 | 126632 | Potaninia | 绵刺属 | 1
+10776 | 126635 | Potentilla | 委陵菜属 | 173
+10776 | 126731 | Prinsepia | 扁核木属 | 6
+10776 | 126865 | Prunus | 李属 | 14
+10776 | 127735 | Pygeum | 臀果木属 | 8
+10776 | 127748 | Pyracantha | 火棘属 | 10
+10776 | 127801 | Pyrus | 梨属 | 22
+10776 | 128270 | Rhaphiolepis | 石斑木属 | 13
+10776 | 128419 | Rhodotypos | 鸡麻属 | 1
+10776 | 128746 | Rosa | 蔷薇属 | 166
+10776 | 20511 | ROSACEAE Subfam. MALOIDEAE | 苹果亚科 | 16
+10776 | 20512 | ROSACEAE Subfam. PRUNOIDEAE | 李亚科 | 9
+10776 | 20510 | ROSACEAE Subfam. ROSOIDEAE | 蔷薇亚科 | 22
+10776 | 20513 | ROSACEAE Subfam. SPIRAEOIDEAE | 绣线菊亚科 | 8
+10776 | 128837 | Rubus | 悬钩子属 | 380
+10776 | 129129 | Sanguisorba | 地榆属 | 16
+10776 | 130287 | Sibbaldia | 山莓草属 | 17
+10776 | 130290 | Sibiraea | 鲜卑花属 | 3
+10776 | 130714 | Sorbaria | 珍珠梅属 | 8
+10776 | 130718 | Sorbus | 花楸属 | 101
+10776 | 130833 | Spenceria | 马蹄黄属 | 3
+10776 | 131015 | Spiraea | 绣线菊属 | 135
+10776 | 131430 | Stephanandra | 小米空木属 | 2
+10776 | 131653 | Stranvaesia | 红果树属 | 9
+10776 | 200095 | Taihangia | 太行花属 | 3
+10776 | 134730 | Waldsteinia | 林石草属 | 1
+10778 | 100321 | Acranthera | 尖药花属 | 1
+10778 | 100606 | Adina | 水团花属 | 3
+10778 | 100873 | Aidia | 茜树属 | 8
+10778 | 101070 | Alleizettella | 白香楠属 | 1
+10778 | 102100 | Antirhea | 毛茶属 | 1
+10778 | 102547 | Argostemma | 雪花属 | 6
+10778 | 102848 | Asperula | 车叶草属 | 2
+10778 | 103792 | Benkara | 簕茜属 | 7
+10778 | 104499 | Brachytome | 短萼齿木属 | 5
+10778 | 104984 | Caelospermum | 穴果木属 | 1
+10778 | 105534 | Canthium | 鱼骨木属 | 4
+10778 | 105922 | Catunaregam | 山石榴属 | 1
+10778 | 106077 | Cephalanthus | 风箱树属 | 1
+10778 | 200333 | Ceriscoides | 木瓜榄属 | 1
+10778 | 106552 | Chassalia | 弯管花属 | 3
+10778 | 107094 | Cinchona | 金鸡纳属 | 2
+10778 | 107226 | Clarkella | 岩上珠属 | 1
+10778 | 107588 | Coffea | 咖啡属 | 5
+10778 | 107948 | Coptosapelta | 流苏子属 | 1
+10778 | 109263 | Damnacanthus | 虎刺属 | 11
+10778 | 109631 | Dentella | 小牙草属 | 1
+10778 | 110271 | Diodia | 双角草属 | 2
+10778 | 110463 | Diplospora | 狗骨柴属 | 3
+10778 | 111061 | Dunnia | 绣球茜属 | 1
+10778 | 111066 | Duperrea | 长柱山丹属 | 1
+10778 | 111556 | Emmenopterys | 香果树属 | 1
+10778 | 317597 | Fosbergia | 大果茜属 | 3
+10778 | 113187 | Galium | 拉拉藤属 | 103
+10778 | 113259 | Gardenia | 栀子属 | 7
+10778 | 113459 | Geophila | 爱地草属 | 1
+10778 | 114164 | Guettarda | 海岸桐属 | 1
+10778 | 202431 | Guihaiothamnus | 桂海木属 | 1
+10778 | 114479 | Haldina | 心叶木属 | 1
+10778 | 114545 | Hamelia | 长隔木属 | 1
+10778 | 114827 | Hedyotis | 耳草属 | 76
+10778 | 115478 | Himalrandia | 须弥茜树属 | 1
+10778 | 116102 | Hymenodictyon | 土连翘属 | 2
+10778 | 116277 | Hyptianthera | 藏药木属 | 1
+10778 | 116686 | Ixora | 龙船花属 | 18
+10778 | 117014 | Keenania | 溪楠属 | 2
+10778 | 117032 | Kelloggia | 钩毛草属 | 1
+10778 | 117175 | Knoxia | 红芽大戟属 | 2
+10778 | 117649 | Lasianthus | 粗叶木属 | 45
+10778 | 118172 | Leptodermis | 野丁香属 | 48
+10778 | 118206 | Leptomischus | 报春茜属 | 5
+10778 | 118289 | Leptunis | 乐土草属 | 1
+10778 | 118303 | Lerchea | 多轮草属 | 2
+10778 | 119053 | Luculia | 滇丁香属 | 5
+10778 | 120376 | Metadina | 黄棉木属 | 1
+10778 | 120604 | Microphysa | 泡果茜草属 | 1
+10778 | 120814 | Mitchella | 蔓虎刺属 | 1
+10778 | 120826 | Mitracarpus | 盖裂果属 | 1
+10778 | 120827 | Mitragyna | 帽蕊木属 | 3
+10778 | 121192 | Morinda | 巴戟天属 | 39
+10778 | 121250 | Mouretia | 杜丽草属 | 1
+10778 | 121358 | Mussaenda | 玉叶金花属 | 32
+10778 | 121381 | Mycetia | 腺萼木属 | 17
+10778 | 121476 | Myrioneuron | 密脉木属 | 4
+10778 | 121698 | Nauclea | 乌檀属 | 1
+10778 | 121733 | Neanotis | 新耳草属 | 8
+10778 | 200451 | Neohymenopogon | 石丁香属 | 2
+10778 | 121988 | Neolamarckia | 团花属 | 1
+10778 | 122032 | Neonauclea | 新乌檀属 | 4
+10778 | 122178 | Nertera | 薄柱草属 | 3
+10778 | 122772 | Oldenlandiopsis |   | 1
+10778 | 122996 | Ophiorrhiza | 蛇根草属 | 72
+10778 | 123655 | Paederia | 鸡矢藤属 | 9
+10778 | 124187 | Pavetta | 大沙叶属 | 6
+10778 | 124428 | Pentas | 五星花属 | 1
+10778 | 124635 | Pertusadina | 槽裂木属 | 1
+10778 | 125152 | Phuopsis | 长柱草属 | 1
+10778 | 126605 | Porterandia | 绢冠茜属 | 1
+10778 | 126756 | Prismatomeris | 南山花属 | 1
+10778 | 127212 | Pseudopyxis | 假盖果草属 | 1
+10778 | 127386 | Psychotria | 九节属 | 18
+10778 | 127393 | Psydrax | 假鱼骨木属 | 3
+10778 | 128552 | Richardia | 墨苜蓿属 | 2
+10778 | 128730 | Rondeletia | 郎德木属 | 1
+10778 | 128796 | Rothmannia | 野栀子属 | 1
+10778 | 128835 | Rubia | 茜草属 | 40
+10778 | 317600 | Rubovietnamia | 越南茜属 | 2
+10778 | 129170 | Saprosma | 染木树属 | 5
+10778 | 129547 | Schizomussaenda | 裂果金花属 | 1
+10778 | 129923 | Scyphiphora | 瓶花木属 | 1
+10778 | 130169 | Serissa | 白马骨属 | 2
+10778 | 130411 | Sinoadina | 鸡仔木属 | 1
+10778 | 130842 | Spermacoce | 丰花草属 | 7
+10778 | 130844 | Spermadictyon | 香叶木属 | 1
+10778 | 131014 | Spiradiclis | 螺序草属 | 37
+10778 | 132320 | Tarenna | 乌口树属 | 18
+10778 | 132321 | Tarennoidea | 岭罗脉属 | 1
+10778 | 132763 | Theligonum | 假繁缕属 | 3
+10778 | 133027 | Timonius | 海茜树属 | 1
+10778 | 133283 | Trailliaedoxa | 丁茜属 | 1
+10778 | 134135 | Uncaria | 钩藤属 | 12
+10778 | 134232 | Urophyllum | 尖叶木属 | 3
+10778 | 134829 | Wendlandia | 水锦树属 | 48
+10778 | 135033 | Xanthophytum | 岩黄树属 | 4
+20267 | 128882 | Ruppia | 川蔓藻属 | 1
+10781 | 100376 | Acronychia | 山油柑属 | 1
+10781 | 100659 | Aegle | 木橘属 | 1
+10781 | 103031 | Atalantia | 酒饼簕属 | 7
+10781 | 104163 | Boenninghausenia | 石椒草属 | 1
+10781 | 107164 | Citrus | 柑橘属 | 11
+10781 | 107247 | Clausena | 黄皮属 | 14
+10781 | 110003 | Dictamnus | 白鲜属 | 1
+10781 | 113754 | Glycosmis | 山小橘属 | 13
+10781 | 114631 | Haplophyllum | 拟芸香属 | 3
+10781 | 119118 | Luvunga | 三叶藤橘属 | 1
+10781 | 119277 | Maclurodendron | 贡甲属 | 1
+10781 | 120139 | Melicope | 蜜茱萸属 | 8
+10781 | 120579 | Micromelum | 小芸木属 | 4
+10781 | 121339 | Murraya | 九里香属 | 11
+10781 | 123173 | Orixa | 臭常山属 | 1
+10781 | 123941 | Paramignya | 单叶藤橘属 | 1
+10781 | 124944 | Phellodendron | 黄檗属 | 4
+10781 | 127349 | Psilopeganum | 裸芸香属 | 1
+10781 | 130535 | Skimmia | 茵芋属 | 5
+10781 | 132553 | Tetradium | 四数花属 | 7
+10781 | 133083 | Toddalia | 飞龙掌血属 | 1
+10781 | 135262 | Zanthoxylum | 花椒属 | 63
+10783 | 120161 | Meliosma | 泡花树属 | 42
+10783 | 128950 | Sabia | 清风藤属 | 25
+10787 | 106912 | Chosenia | 钻天柳属 | 1
+10787 | 126537 | Populus | 杨属 | 134
+10787 | 129059 | Salix | 柳属 | 460
+10788 | 103296 | Azima | 刺茉莉属 | 1
+10791 | 104796 | Buckleya | 米面蓊属 | 3
+10791 | 109612 | Dendrotrophe | 寄生藤属 | 8
+10791 | 123377 | Osyris | 沙针属 | 1
+10791 | 124771 | Phacellaria | 重寄生属 | 6
+10791 | 127800 | Pyrularia | 檀梨属 | 1
+10791 | 129811 | Scleropyrum | 硬核属 | 3
+10791 | 132808 | Thesium | 百蕊草属 | 18
+10792 | 101119 | Allophylus | 异木患属 | 11
+10792 | 101351 | Amesiodendron | 细子龙属 | 1
+10792 | 102748 | Arytera | 滨木患属 | 1
+10792 | 104250 | Boniodendron | 黄梨木属 | 1
+10792 | 105631 | Cardiospermum | 倒地铃属 | 1
+10792 | 109500 | Delavaya | 茶条木属 | 1
+10792 | 110222 | Dimocarpus | 龙眼属 | 4
+10792 | 110734 | Dodonaea | 车桑子属 | 1
+10792 | 112411 | Eurycorymbus | 伞花木属 | 1
+10792 | 114704 | Harpullia | 假山萝属 | 1
+10792 | 117200 | Koelreuteria | 栾树属 | 3
+10792 | 118096 | Lepisanthes | 鳞花木属 | 10
+10792 | 118729 | Litchi | 荔枝属 | 1
+10792 | 120800 | Mischocarpus | 柄果木属 | 3
+10792 | 122141 | Nephelium | 韶子属 | 3
+10792 | 123952 | Paranephelium | 假韶子属 | 2
+10792 | 124189 | Pavieasia | 檀栗属 | 2
+10792 | 126507 | Pometia | 番龙眼属 | 1
+10792 | 129159 | Sapindus | 无患子属 | 6
+10792 | 135019 | Xanthoceras | 文冠果属 | 1
+10792 | 135111 | Xerospermum | 干果木属 | 1
+10793 | 107005 | Chrysophyllum | 金叶树属 | 1
+10793 | 110421 | Diploknema | 藏榄属 | 2
+10793 | 111166 | Eberhardtia | 梭子果属 | 2
+10793 | 119432 | Madhuca | 紫荆木属 | 2
+10793 | 119617 | Manilkara | 铁线子属 | 1
+10793 | 123685 | Palaquium | 胶木属 | 1
+10793 | 125728 | Planchonella | 山榄属 | 2
+10793 | 126659 | Pouteria | 桃榄属 | 2
+10793 | 129254 | Sarcosperma | 肉实树属 | 6
+10793 | 130439 | Sinosideroxylon | 铁榄属 | 5
+10793 | 135045 | Xantolis | 刺榄属 | 6
+10799 | 114323 | Gymnotheca | 裸蒴属 | 2
+10799 | 115808 | Houttuynia | 蕺菜属 | 1
+10799 | 129337 | Saururus | 三白草属 | 1
+10800 | 102968 | Astilbe | 落新妇属 | 10
+10800 | 102969 | Astilboides | 大叶子属 | 1
+10800 | 103824 | Bergenia | 岩白菜属 | 10
+10800 | 105616 | Cardiandra | 草绣球属 | 4
+10800 | 107013 | Chrysosplenium | 金腰属 | 50
+10800 | 109459 | Decumaria | 赤壁木属 | 1
+10800 | 109481 | Deinanthe | 叉叶蓝属 | 1
+10800 | 109728 | Deutzia | 溲疏属 | 67
+10800 | 109931 | Dichroa | 常山属 | 6
+10800 | 115977 | Hydrangea | 绣球属 | 36
+10800 | 116640 | Itea | 鼠刺属 | 18
+10800 | 117123 | Kirengeshoma | 黄山梅属 | 1
+10800 | 120815 | Mitella | 唢呐草属 | 2
+10800 | 121297 | Mukdenia | 槭叶草属 | 1
+10800 | 123152 | Oresitrophe | 独根草属 | 1
+10800 | 124074 | Parnassia | 梅花草属 | 81
+10800 | 124313 | Peltoboykinia | 涧边草属 | 1
+10800 | 124450 | Penthorum | 扯根菜属 | 1
+10800 | 124975 | Philadelphus | 山梅花属 | 45
+10800 | 125431 | Pileostegia | 冠盖藤属 | 4
+10800 | 125781 | Platycrater | 蛛网萼属 | 1
+10800 | 126415 | Polyosma | 多香木属 | 1
+10800 | 128544 | Ribes | 茶藨子属 | 108
+10800 | 128667 | Rodgersia | 鬼灯檠属 | 10
+10800 | 202109 | Saniculiphyllum | 变豆叶草属 | 1
+10800 | 129353 | Saxifraga | 虎耳草属 | 307
+10800 | 129554 | Schizophragma | 钻地风属 | 13
+10800 | 132269 | Tanakaea | 峨屏草属 | 1
+10800 | 132985 | Tiarella | 黄水枝属 | 1
+10802 | 129446 | Scheuchzeria | 冰沼草属 | 1
+10803 | 116900 | Kadsura | 南五味子属 | 8
+10803 | 129475 | Schisandra | 五味子属 | 28
+20001 | 129731 | Sciadopitys | 金松属 | 1
+10811 | 100586 | Adenosma | 毛麝香属 | 4
+10811 | 100985 | Alectra | 黑蒴属 | 1
+10811 | 103328 | Bacopa | 假马齿苋属 | 3
+10811 | 104525 | Brandisia | 来江藤属 | 12
+10811 | 104785 | Buchnera | 黑草属 | 1
+10811 | 105833 | Castilleja | 火焰草属 | 1
+10811 | 106032 | Centranthera | 胡麻草属 | 6
+10811 | 108938 | Cymbaria | 芯芭属 | 2
+10811 | 109062 | Cyrtandromoea | 囊萼花属 | 1
+10811 | 109485 | Deinostema | 泽番椒属 | 2
+10811 | 110152 | Digitalis | 毛地黄属 | 1
+10811 | 110724 | Dodartia | 野胡麻属 | 1
+10811 | 110810 | Dopatrium | 虻眼属 | 1
+10811 | 111477 | Ellisiophyllum | 幌菊属 | 1
+10811 | 112361 | Euphrasia | 小米草属 | 19
+10811 | 114031 | Gratiola | 水八角属 | 3
+10811 | 115049 | Hemiphragma | 鞭打绣球属 | 4
+10811 | 117507 | Lagotis | 兔耳草属 | 20
+10811 | 117567 | Lancea | 肉果草属 | 2
+10811 | 117849 | Legazpia | 三翅萼属 | 1
+10811 | 118236 | Leptorhabdos | 方茎草属 | 1
+10811 | 118595 | Limnophila | 石龙尾属 | 10
+10811 | 118608 | Limosella | 水茫草属 | 1
+10811 | 118612 | Linaria | 柳穿鱼属 | 12
+10811 | 118623 | Lindenbergia | 钟萼草属 | 3
+10811 | 118628 | Lindernia | 母草属 | 30
+10811 | 119919 | Mazus | 通泉草属 | 31
+10811 | 120057 | Melampyrum | 山罗花属 | 7
+10811 | 120509 | Microcarpaea | 小果草属 | 1
+10811 | 200082 | Mimulicalyx | 虾子草属 | 2
+10811 | 120756 | Mimulus | 沟酸浆属 | 9
+10811 | 121029 | Monochasma | 鹿茸草属 | 2
+10811 | 121692 | Nathaliella | 石玄参属 | 1
+10811 | 200197 | Neopicrorhiza | 胡黄连属 | 1
+10811 | 122668 | Odontites | 疗齿草属 | 1
+10811 | 122883 | Omphalotrix | 脐草属 | 1
+10811 | 123140 | Oreosolen | 藏玄参属 | 1
+10811 | 124177 | Paulownia | 泡桐属 | 9
+10811 | 124237 | Pedicularis | 马先蒿属 | 632
+10811 | 305002 | Pedicularis ser. Abrotanifoliae | 蒿叶系 | 5
+10811 | 305003 | Pedicularis ser. Acaules | 无茎系 | 1
+10811 | 305004 | Pedicularis ser. Albiflorae | 白花系 | 3
+10811 | 305102 | Pedicularis ser. Aloenses | 阿洛系 | 5
+10811 | 305005 | Pedicularis ser. Amplitubae | 丰管系 | 1
+10811 | 305006 | Pedicularis ser. Asplenifoliae | 铁角蕨叶系 | 3
+10811 | 305007 | Pedicularis ser. Atrovirides | 深绿系 | 2
+10811 | 305008 | Pedicularis ser. Axillares | 腋花系 | 7
+10811 | 305009 | Pedicularis ser. Batangenses | 巴塘系 | 1
+10811 | 305010 | Pedicularis ser. Binariae | 双生系 | 1
+10811 | 305011 | Pedicularis ser. Brevifoliae | 短叶系 | 4
+10811 | 305012 | Pedicularis ser. Carnosae | 肉质系 | 9
+10811 | 305013 | Pedicularis ser. Caucasicae |   | 1
+10811 | 305014 | Pedicularis ser. Cernuae | 俯垂系 | 2
+10811 | 305015 | Pedicularis ser. Cheilanthifoliae | 碎米蕨叶系 | 5
+10811 | 305016 | Pedicularis ser. Collatae | 铺地系 | 1
+10811 | 305103 | Pedicularis ser. Comosae | 多毛系 | 11
+10811 | 305017 | Pedicularis ser. Coniferae | 结球系 | 1
+10811 | 305018 | Pedicularis ser. Corydaloides | 拟紫堇系 | 3
+10811 | 305019 | Pedicularis ser. Craspedotrichae | 缘毛系 | 10
+10811 | 305020 | Pedicularis ser. Cyathophyllae | 斗叶系 | 2
+10811 | 305021 | Pedicularis ser. Cyathophylloides | 拟斗叶系 | 1
+10811 | 305022 | Pedicularis ser. Debiles | 弱小系 | 9
+10811 | 305023 | Pedicularis ser. Denudatae | 秃裸系 | 1
+10811 | 305024 | Pedicularis ser. Dichotomae | 二岐系 | 1
+10811 | 305104 | Pedicularis ser. Dissectae | 细裂系 | 4
+10811 | 305025 | Pedicularis ser. Dolichocymbae | 长舟系 | 1
+10811 | 305026 | Pedicularis ser. Excelsae | 卓越系 | 1
+10811 | 305027 | Pedicularis ser. Filiculae | 拟蕨系 | 8
+10811 | 305028 | Pedicularis ser. Flammeae | 火焰系 | 3
+10811 | 305029 | Pedicularis ser. Flexuosae | 曲茎系 | 1
+10811 | 305030 | Pedicularis ser. Franchetianae | 佛氏系 | 2
+10811 | 305105 | Pedicularis ser. Furfurae | 糠秕系 | 5
+10811 | 305032 | Pedicularis ser. Galeatae | 显盔系 | 1
+10811 | 305033 | Pedicularis ser. Gloriosae | 灿烂系 | 2
+10811 | 305034 | Pedicularis ser. Graciles | 纤细系 | 2
+10811 | 305035 | Pedicularis ser. Grandiflorae | 野苏子系 | 1
+10811 | 305036 | Pedicularis ser. Hirtellae | 粗毛系 | 1
+10811 | 305037 | Pedicularis ser. Ikomanae | 生驹氏系 | 1
+10811 | 305038 | Pedicularis ser. Imbricatae | 复瓦系 | 1
+10811 | 305039 | Pedicularis ser. Infirmae | 孱弱系 | 1
+10811 | 305040 | Pedicularis ser. Integrifoliae | 全叶系 | 1
+10811 | 305041 | Pedicularis ser. Kialenses | 甲拉系 | 2
+10811 | 305042 | Pedicularis ser. Kongboenses | 宫布系 | 2
+10811 | 305043 | Pedicularis ser. Lachnoglossae | 绒舌系 | 1
+10811 | 305044 | Pedicularis ser. Lasiophrydes | 毛颏系 | 2
+10811 | 305045 | Pedicularis ser. Longicaules | 长茎系 | 2
+10811 | 305046 | Pedicularis ser. Longiflorae | 长花系 | 18
+10811 | 305047 | Pedicularis ser. Lyratae | 琴盔系 | 11
+10811 | 305048 | Pedicularis ser. Macranthae | 大花系 | 1
+10811 | 305049 | Pedicularis ser. Macrorhynchae | 长喙系 | 1
+10811 | 305050 | Pedicularis ser. Megalanthae | 硕花系 | 3
+10811 | 305051 | Pedicularis ser. Melampyriflorae | 山萝花系 | 3
+10811 | 305052 | Pedicularis ser. Merrillianae | 迈氏系 | 1
+10811 | 305054 | Pedicularis ser. Meteororhynchae | 翘喙系 | 1
+10811 | 305106 | Pedicularis ser. Microchilae | 后生轮叶系 | 6
+10811 | 305055 | Pedicularis ser. Microphyllae | 小叶系 | 3
+10811 | 305107 | Pedicularis ser. Molles | 柔毛系 | 1
+10811 | 305056 | Pedicularis ser. Moupinenses | 穆坪系 | 1
+10811 | 305057 | Pedicularis ser. Muscicolae | 藓生系 | 10
+10811 | 305058 | Pedicularis ser. Mychophilae | 菌生系 | 1
+10811 | 305108 | Pedicularis ser. Myriophyllae | 万叶系 | 8
+10811 | 305059 | Pedicularis ser. Neolatitubae | 新粗管系 | 1
+10811 | 305060 | Pedicularis ser. Odontophorae | 具齿系 | 1
+10811 | 305061 | Pedicularis ser. Oliganthae | 少花系 | 7
+10811 | 305062 | Pedicularis ser. Omiianae | 峨眉系 | 1
+10811 | 305109 | Pedicularis ser. Oxycarpae | 尖果系 | 9
+10811 | 305063 | Pedicularis ser. Paucifoliatae | 少叶系 | 6
+10811 | 305064 | Pedicularis ser. Pectinatae | 篦齿系 | 1
+10811 | 305065 | Pedicularis ser. Pectinatiformes | 拟篦齿系 | 2
+10811 | 305066 | Pedicularis ser. Pentagonae | 五角系 | 1
+10811 | 305111 | Pedicularis ser. Phaceliifoliae | 法且利亚叶系 | 2
+10811 | 305067 | Pedicularis ser. Pilostachyae | 绵穗系 | 2
+10811 | 305068 | Pedicularis ser. Plicatae | 皱褶系 | 3
+10811 | 305069 | Pedicularis ser. Polyphyllatae | 多叶系 | 5
+10811 | 305070 | Pedicularis ser. Proboscideae | 鼻喙系 | 1
+10811 | 305073 | Pedicularis ser. Pseudo-oederianae | 假欧氏系 | 2
+10811 | 305112 | Pedicularis ser. Pseudoasplenifoliae | 假铁角蕨叶系 | 1
+10811 | 305072 | Pedicularis ser. Pseudomacranthae | 假大花系 | 4
+10811 | 305074 | Pedicularis ser. Pteridifoliae | 蕨叶系 | 1
+10811 | 305114 | Pedicularis ser. Pumiliones | 低矮系 | 2
+10811 | 305076 | Pedicularis ser. Racemosae | 总花系 | 1
+10811 | 305077 | Pedicularis ser. Recurvae | 反曲系 | 3
+10811 | 305078 | Pedicularis ser. Reges | 大王系 | 2
+10811 | 305079 | Pedicularis ser. Remotilobae | 疏裂系 | 1
+10811 | 305080 | Pedicularis ser. Reptantes | 爬行系 | 1
+10811 | 305081 | Pedicularis ser. Rhinanthoides | 拟鼻花系 | 2
+10811 | 305115 | Pedicularis ser. Rhynchodontae | 喙齿系 | 1
+10811 | 305116 | Pedicularis ser. Rigidae | 坚挺系 | 4
+10811 | 305082 | Pedicularis ser. Robustae | 壮健系 | 3
+10811 | 305083 | Pedicularis ser. Roseae | 玫瑰系 | 1
+10811 | 305084 | Pedicularis ser. Rudes | 粗野系 | 5
+10811 | 305085 | Pedicularis ser. Salicifoliae | 柳叶系 | 1
+10811 | 305086 | Pedicularis ser. Salviiflorae | 丹参花系 | 1
+10811 | 305087 | Pedicularis ser. Semitortae | 半扭卷系 | 6
+10811 | 305088 | Pedicularis ser. Sikkimenses | 锡金系 | 2
+10811 | 305089 | Pedicularis ser. Simae | 矽镁系 | 1
+10811 | 305090 | Pedicularis ser. Striatae | 红纹系 | 2
+10811 | 305091 | Pedicularis ser. Strobilaceae | 球状系 | 5
+10811 | 305117 | Pedicularis ser. Subsurrectae | 亚举喙系 | 1
+10811 | 305092 | Pedicularis ser. Sudeticae | 苏台德系 | 2
+10811 | 305118 | Pedicularis ser. Superbae | 华丽系 | 2
+10811 | 305093 | Pedicularis ser. Tantalorhynchae | 颤喙系 | 1
+10811 | 305094 | Pedicularis ser. Tatsienenses | 打箭系 | 2
+10811 | 305095 | Pedicularis ser. Trichoglossae | 毛盔系 | 2
+10811 | 305096 | Pedicularis ser. Tristes | 阴郁系 | 3
+10811 | 305097 | Pedicularis ser. Tsekouenses | 茨口系 | 1
+10811 | 305098 | Pedicularis ser. Urceolatae | 坛萼系 | 1
+10811 | 305099 | Pedicularis ser. Vagantes | 蔓生系 | 2
+10811 | 305100 | Pedicularis ser. Verticillatae | 轮叶系 | 30
+10811 | 305101 | Pedicularis ser. Wilsoniae | 魏氏系 | 4
+10811 | 124707 | Petitmenginia | 钟山草属 | 2
+10811 | 125147 | Phtheirospermum | 松蒿属 | 2
+10811 | 125390 | Picria | 苦玄参属 | 1
+10811 | 200088 | Pseudobartsia | 五齿萼属 | 1
+10811 | 127139 | Pseudolysimachion | 穗花属 | 14
+10811 | 127533 | Pterygiella | 翅茎草属 | 5
+10811 | 128084 | Rehmannia | 地黄属 | 6
+10811 | 128307 | Rhinanthus | 鼻花属 | 1
+10811 | 129862 | Scoparia | 野甘草属 | 1
+10811 | 129903 | Scrofella | 细穗玄参属 | 1
+10811 | 129905 | Scrophularia | 玄参属 | 40
+10811 | 130479 | Siphonostegia | 阴行草属 | 2
+10811 | 130709 | Sopubia | 短冠草属 | 4
+10811 | 131326 | Stemodia |   | 1
+10811 | 131731 | Striga | 独脚金属 | 4
+10811 | 133137 | Torenia | 蝴蝶草属 | 10
+10811 | 133362 | Triaenophora | 崖白菜属 | 3
+10811 | 133719 | Triphysaria | 直果草属 | 1
+10811 | 134474 | Verbascum | 毛蕊花属 | 6
+10811 | 134499 | Veronica | 婆婆纳属 | 64
+10811 | 134500 | Veronicastrum | 腹水草属 | 25
+10811 | 134891 | Wightia | 美丽桐属 | 1
+10811 | 135139 | Xizangia | 马松嵩属 | 2
+10824 | 100879 | Ailanthus | 臭椿属 | 9
+10824 | 104693 | Brucea | 鸦胆子属 | 2
+10824 | 125388 | Picrasma | 苦木属 | 4
+20287 | 130553 | Sladenia | 肋果茶属 | 2
+10828 | 101832 | Anisodus | 山茛菪属 | 6
+10828 | 103113 | Atropanthe | 天蓬子属 | 1
+10828 | 105577 | Capsicum | 辣椒属 | 1
+10828 | 106283 | Cestrum | 夜香树属 | 3
+10828 | 109368 | Datura | 曼陀罗属 | 3
+10828 | 116158 | Hyoscyamus | 天仙子属 | 2
+10828 | 119140 | Lycianthes | 红丝线属 | 15
+10828 | 119146 | Lycium | 枸杞属 | 12
+10828 | 119154 | Lycopersicon | 番茄属 | 1
+10828 | 119600 | Mandragora | 茄参属 | 1
+10828 | 122271 | Nicandra | 假酸浆属 | 1
+10828 | 122284 | Nicotiana | 烟草属 | 3
+10828 | 124749 | Petunia | 碧冬茄属 | 1
+10828 | 125278 | Physaliastrum | 散血丹属 | 7
+10828 | 125280 | Physalis | 酸浆属 | 8
+10828 | 125320 | Physochlaina | 泡囊草属 | 6
+10828 | 126868 | Przewalskia | 马尿泡属 | 1
+10828 | 130618 | Solanum | 茄属 | 43
+10828 | 133953 | Tubocapsicum | 龙珠属 | 1
+10828 | 134946 | Withania | 睡茄属 | 2
+20289 | 130959 | Sphenoclea | 尖瓣花属 | 1
+10844 | 131157 | Stachyurus | 旌节花属 | 7
+10848 | 112434 | Euscaphis | 野鸦椿属 | 1
+10848 | 131204 | Staphylea | 省沽油属 | 8
+10848 | 134013 | Turpinia | 山香圆属 | 17
+10849 | 108414 | Croomia | 黄精叶钩吻属 | 1
+10849 | 131330 | Stemona | 百部属 | 7
+10850 | 200068 | Ambroma | 昂天莲属 | 1
+10850 | 104950 | Byttneria | 刺果藤属 | 3
+10850 | 107774 | Commersonia | 山麻树属 | 1
+10850 | 107966 | Corchoropsis | 田麻属 | 3
+10850 | 112048 | Eriolaena | 火绳树属 | 6
+10850 | 112820 | Firmiana | 梧桐属 | 8
+10850 | 114900 | Helicteres | 山芝麻属 | 10
+10850 | 115163 | Heritiera | 银叶树属 | 3
+10850 | 117149 | Kleinhovia | 鹧鸪麻属 | 1
+10850 | 120128 | Melhania | 梅蓝属 | 1
+10850 | 120185 | Melochia | 马松子属 | 1
+10850 | 123884 | Paradombeya | 平当树属 | 1
+10850 | 124406 | Pentapetes | 午时花属 | 1
+10850 | 127512 | Pterospermum | 翅子树属 | 9
+10850 | 127545 | Pterygota | 翅苹婆属 | 1
+10850 | 128071 | Reevesia | 梭罗树属 | 19
+10850 | 131474 | Sterculia | 苹婆属 | 30
+10850 | 132784 | Theobroma | 可可属 | 1
+10850 | 134748 | Waltheria | 蛇婆子属 | 1
+10860 | 131825 | Stylidium | 花柱草属 | 2
+10861 | 101156 | Alniphyllum | 赤杨叶属 | 3
+10861 | 104701 | Bruinsmia | 歧序安息香属 | 1
+10861 | 114485 | Halesia | 银钟花属 | 1
+10861 | 115889 | Huodendron | 山茉莉属 | 7
+10861 | 120175 | Melliodendron | 陀螺果属 | 1
+10861 | 124018 | Parastyrax | 茉莉果属 | 2
+10861 | 127523 | Pterostyrax | 白辛树属 | 2
+10861 | 128081 | Rehderodendron | 木瓜红属 | 5
+10861 | 130425 | Sinojackia | 秤锤树属 | 9
+10861 | 131861 | Styrax | 安息香属 | 43
+20299 | 131917 | Suriana | 海人树属 | 1
+10863 | 132035 | Symplocos | 山矾属 | 58
+10865 | 129520 | Schizocapsa | 裂果薯属 | 2
+10865 | 132180 | Tacca | 蒟蒻薯属 | 5
+10868 | 121460 | Myricaria | 水柏枝属 | 12
+10868 | 128043 | Reaumuria | 红砂属 | 4
+10868 | 132255 | Tamarix | 柽柳属 | 20
+20304 | 132304 | Tapiscia | 瘿椒树属 | 2
+10871 | 101339 | Amentotaxus | 穗花杉属 | 5
+10871 | 127274 | Pseudotaxus | 白豆杉属 | 1
+10871 | 132355 | Taxus | 红豆杉属 | 6
+10871 | 133154 | Torreya | 榧树属 | 9
+10872 | 108544 | Cryptomeria | 柳杉属 | 3
+10872 | 108681 | Cunninghamia | 杉木属 | 3
+10872 | 113775 | Glyptostrobus | 水松属 | 1
+10872 | 120390 | Metasequoia | 水杉属 | 2
+10872 | 130127 | Sequoia | 北美红杉属 | 1
+10872 | 130128 | Sequoiadendron | 巨杉属 | 1
+10872 | 132224 | Taiwania | 台湾杉属 | 1
+10872 | 132353 | Taxodium | 落羽杉属 | 4
+10877 | 132523 | Tetracentron | 水青树属 | 1
+20312 | 132587 | Tetrameles | 四数木属 | 1
+10882 | 100607 | Adinandra | 杨桐属 | 31
+10882 | 101886 | Anneslea | 茶梨属 | 1
+10882 | 200106 | Apterosperma | 圆籽荷属 | 1
+10882 | 105380 | Camellia | 山茶属 | 195
+10882 | 107337 | Cleyera | 红淡比属 | 13
+10882 | 112396 | Eurya | 柃木属 | 110
+10882 | 200130 | Euryodendron | 猪血木属 | 1
+10882 | 126455 | Polyspora | 大头茶属 | 6
+10882 | 127760 | Pyrenaria | 核果茶属 | 19
+10882 | 129462 | Schima | 木荷属 | 15
+10882 | 131518 | Stewartia | 紫茎属 | 24
+10882 | 132484 | Ternstroemia | 厚皮香属 | 15
+10882 | 20789 | THEACEAE subfam. TERNSTROEMIOIDEAE | 厚皮香亚科 | 6
+10882 | 20788 | THEACEAE subfam. THEOIDEAE | 山茶亚科 | 6
+10894 | 102387 | Aquilaria | 沉香属 | 2
+10894 | 109294 | Daphne | 瑞香属 | 69
+10894 | 109817 | Diarthron | 草瑞香属 | 4
+10894 | 111305 | Edgeworthia | 结香属 | 4
+10894 | 112075 | Eriosolena | 毛花瑞香属 | 1
+10894 | 128244 | Rhamnoneuron | 鼠皮树属 | 1
+10894 | 131303 | Stellera | 狼毒属 | 1
+10894 | 132930 | Thymelaea | 欧瑞香属 | 1
+10894 | 134894 | Wikstroemia | 荛花属 | 57
+10898 | 103858 | Berrya | 六翅木属 | 1
+10898 | 104885 | Burretiodendron | 柄翅果属 | 2
+10898 | 107704 | Colona | 一担柴属 | 2
+10898 | 107967 | Corchorus | 黄麻属 | 6
+10898 | 108243 | Craigia | 滇桐属 | 2
+10898 | 110410 | Diplodiscus | 海南椴属 | 1
+10898 | 200074 | Excentrodendron | 蚬木属 | 2
+10898 | 114070 | Grewia | 扁担杆属 | 30
+10898 | 120535 | Microcos | 破布叶属 | 3
+10898 | 133008 | Tilia | 椴树属 | 39
+10898 | 133837 | Triumfetta | 刺蒴麻属 | 9
+20576 | 133140 | Toricellia | 鞘柄木属 | 2
+10904 | 133288 | Trapa | 菱属 | 2
+10917 | 129733 | Sciaphila | 喜荫草属 | 6
+10918 | 133861 | Trochodendron | 昆栏树属 | 1
+10919 | 133877 | Tropaeolum | 旱金莲属 | 1
+10926 | 130772 | Sparganium | 黑三棱属 | 13
+10926 | 134063 | Typha | 香蒲属 | 12
+10928 | 102187 | Aphananthe | 糙叶树属 | 4
+10928 | 105995 | Celtis | 朴属 | 13
+10928 | 113576 | Gironniera | 白颜树属 | 1
+10928 | 115054 | Hemiptelea | 刺榆属 | 1
+10928 | 127449 | Pteroceltis | 青檀属 | 1
+10928 | 133312 | Trema | 山黄麻属 | 8
+10928 | 134116 | Ulmus | 榆属 | 32
+10928 | 135278 | Zelkova | 榉属 | 3
+10931 | 200107 | Archiboehmeria | 舌柱麻属 | 1
+10931 | 104157 | Boehmeria | 苎麻属 | 40
+10931 | 106411 | Chamabainia | 微柱麻属 | 1
+10931 | 109029 | Cypholophus | 瘤冠麻属 | 1
+10931 | 109401 | Debregeasia | 水麻属 | 6
+10931 | 109563 | Dendrocnide | 火麻树属 | 6
+10931 | 110946 | Droguetia | 单蕊麻属 | 1
+10931 | 111400 | Elatostema | 楼梯草属 | 255
+10931 | 113573 | Girardinia | 蝎子草属 | 4
+10931 | 113912 | Gonostegia | 糯米团属 | 3
+10931 | 117613 | Laportea | 艾麻属 | 7
+10931 | 117805 | Lecanthus | 假楼梯草属 | 5
+10931 | 118457 | Leucosyke | 四脉麻属 | 1
+10931 | 119649 | Maoutia | 水丝麻属 | 2
+10931 | 121625 | Nanocnide | 花点草属 | 2
+10931 | 123108 | Oreocnide | 紫麻属 | 15
+10931 | 124051 | Parietaria | 墙草属 | 1
+10931 | 124292 | Pellionia | 赤车属 | 25
+10931 | 125428 | Pilea | 冷水花属 | 116
+10931 | 125570 | Pipturus | 落尾木属 | 1
+10931 | 126288 | Poikilospermum | 锥头麻属 | 3
+10931 | 126661 | Pouzolzia | 雾水葛属 | 10
+10931 | 126777 | Procris | 藤麻属 | 1
+10931 | 129203 | Sarcochlamys | 肉被麻属 | 1
+10931 | 134249 | Urtica | 荨麻属 | 22
+10936 | 121658 | Nardostachys | 甘松属 | 1
+10936 | 124161 | Patrinia | 败酱属 | 13
+10936 | 134313 | Valeriana | 缬草属 | 21
+10941 | 103258 | Avicennia | 海榄雌属 | 1
+10941 | 105098 | Callicarpa | 紫珠属 | 71
+10941 | 105776 | Caryopteris | 莸属 | 18
+10941 | 107332 | Clerodendrum | 大青属 | 48
+10941 | 107836 | Congea | 绒苞藤属 | 2
+10941 | 111082 | Duranta | 假连翘属 | 1
+10941 | 113274 | Garrettia | 辣莸属 | 1
+10941 | 113776 | Gmelina | 石梓属 | 7
+10941 | 116130 | Hymenopyramis | 膜藻藤属 | 1
+10941 | 117596 | Lantana | 马缨丹属 | 1
+10941 | 125160 | Phyla | 过江藤属 | 1
+10941 | 126690 | Premna | 豆腐柴属 | 56
+10941 | 129617 | Schnabelia | 四棱草属 | 4
+10941 | 130960 | Sphenodesme | 楔翅藤属 | 4
+10941 | 131156 | Stachytarpheta | 假马鞭属 | 1
+10941 | 131996 | Symphorema | 六苞藤属 | 1
+10941 | 132372 | Tectona | 柚木属 | 1
+10941 | 133929 | Tsoongia | 假紫珠属 | 1
+10941 | 134475 | Verbena | 马鞭草属 | 2
+10941 | 134644 | Vitex | 牡荆属 | 26
+10944 | 115952 | Hybanthus | 鼠鞭草属 | 1
+10944 | 128604 | Rinorea | 三角车属 | 4
+10944 | 134607 | Viola | 堇菜属 | 131
+20330 | 102451 | Arceuthobium | 油杉寄生属 | 5
+20330 | 117245 | Korthalsella | 栗寄生属 | 1
+20330 | 134632 | Viscum | 槲寄生属 | 14
+10946 | 101412 | Ampelocissus | 酸蔹藤属 | 5
+10946 | 101418 | Ampelopsis | 蛇葡萄属 | 34
+10946 | 105965 | Cayratia | 乌蔹莓属 | 24
+10946 | 107146 | Cissus | 白粉藤属 | 17
+10946 | 124105 | Parthenocissus | 地锦属 | 11
+10946 | 132648 | Tetrastigma | 崖爬藤属 | 62
+10946 | 134649 | Vitis | 葡萄属 | 54
+10946 | 135224 | Yua | 俞藤属 | 4
+10957 | 135197 | Xyris | 黄眼草属 | 6
+10959 | 135257 | Zannichellia | 角果藻属 | 1
+10960 | 101188 | Alpinia | 山姜属 | 65
+10960 | 101395 | Amomum | 豆蔻属 | 41
+10960 | 104168 | Boesenbergia | 凹唇姜属 | 3
+10960 | 105941 | Caulokaempferia | 大苞姜属 | 1
+10960 | 105949 | Cautleya | 距药姜属 | 3
+10960 | 108706 | Curcuma | 姜黄属 | 13
+10960 | 111431 | Elettariopsis | 拟豆蔻属 | 1
+10960 | 112234 | Etlingera | 茴香砂仁属 | 3
+10960 | 113644 | Globba | 舞花姜属 | 9
+10960 | 114823 | Hedychium | 姜花属 | 37
+10960 | 115777 | Hornstedtia | 大豆蔻属 | 2
+10960 | 116904 | Kaempferia | 山柰属 | 8
+10960 | 125711 | Plagiostachys | 偏穗姜属 | 1
+10960 | 126508 | Pommereschea | 直唇姜属 | 2
+10960 | 200172 | Pyrgophyllum | 苞叶姜属 | 1
+10960 | 128458 | Rhynchanthus | 喙花姜属 | 1
+10960 | 128752 | Roscoea | 象牙参属 | 20
+10960 | 130355 | Siliquamomum | 长果姜属 | 1
+10960 | 131173 | Stahlianthus | 土田七属 | 1
+10960 | 135325 | Zingiber | 姜属 | 43
+10962 | 125245 | Phyllospadix | 虾海藻属 | 2
+10962 | 135358 | Zostera | 大叶藻属 | 5
+10963 | 132559 | Tetraena | 四合木属 | 1
+10963 | 133396 | Tribulus | 蒺藜属 | 2
+10963 | 135408 | Zygophyllum | 霸王属 | 21
+ | 10002 | Acanthaceae | 爵床科 | 35
+ | 10005 | Aceraceae | 槭树科 | 2
+ | 20008 | Acoraceae | 菖蒲科 | 1
+ | 10011 | Actinidiaceae | 猕猴桃科 | 3
+ | 10015 | Adoxaceae | 五福花科 | 4
+ | 10020 | Aizoaceae | 番杏科 | 3
+ | 10022 | Alangiaceae | 八角枫科 | 1
+ | 10025 | Alismataceae | 泽泻科 | 6
+ | 10031 | Amaranthaceae | 苋科 | 15
+ | 10032 | Amaryllidaceae | 石蒜科 | 10
+ | 10038 | Anacardiaceae | 漆树科 | 22
+ | 10039 | Ancistrocladaceae | 钩枝藤科 | 1
+ | 10047 | Annonaceae | 番荔枝科 | 24
+ | 10052 | Apiaceae | 伞形科 | 102
+ | 10053 | Apocynaceae | 夹竹桃科 | 44
+ | 10054 | Aponogetonaceae | 水蕹科 | 1
+ | 10055 | Aquifoliaceae | 冬青科 | 1
+ | 10056 | Araceae | 天南星科 | 38
+ | 10058 | Araliaceae | 五加科 | 23
+ | 10059 | Araucariaceae | 南洋杉科 | 2
+ | 10061 | Arecaceae | 棕榈科 | 18
+ | 10063 | Aristolochiaceae | 马兜铃科 | 4
+ | 10066 | Asclepiadaceae | 萝藦科 | 44
+ | 10072 | Aspleniaceae | 铁角蕨科 | 2
+ | 10074 | Asteraceae | 菊科 | 276
+ | 10078 | Athyriaceae | 蹄盖蕨科 | 5
+ | 20038 | Aucubaceae | 桃叶珊瑚科 | 1
+ | 10089 | Balanophoraceae | 蛇菰科 | 2
+ | 10092 | Balsaminaceae | 凤仙花科 | 2
+ | 10096 | Basellaceae | 落葵科 | 2
+ | 10099 | Begoniaceae | 秋海棠科 | 1
+ | 10100 | Berberidaceae | 小檗科 | 11
+ | 10101 | Betulaceae | 桦木科 | 6
+ | 20048 | Biebersteiniaceae | 熏倒牛科 | 1
+ | 10102 | Bignoniaceae | 紫葳科 | 12
+ | 10104 | Bixaceae | 红木科 | 1
+ | 10108 | Blechnaceae | 乌毛蕨科 | 8
+ | 10113 | Bombacaceae | 木棉科 | 3
+ | 10115 | Boraginaceae | 紫草科 | 47
+ | 10120 | Brassicaceae | 十字花科 | 107
+ | 20002 | Bretschneideraceae | 伯乐树科 | 1
+ | 10123 | Bromeliaceae | 凤梨科 | 1
+ | 10133 | Burmanniaceae | 水玉簪科 | 3
+ | 10134 | Burseraceae | 橄榄科 | 3
+ | 10135 | Butomaceae | 花蔺科 | 1
+ | 10136 | Buxaceae | 黄杨科 | 3
+ | 10140 | Cabombaceae | 莼菜科 | 2
+ | 10141 | Cactaceae | 仙人掌科 | 4
+ | 10143 | Callitrichaceae | 水马齿科 | 1
+ | 10148 | Calycanthaceae | 蜡梅科 | 2
+ | 10152 | Campanulaceae | 桔梗科 | 16
+ | 10154 | Cannabaceae | 大麻科 | 2
+ | 10155 | Cannaceae | 美人蕉科 | 1
+ | 10158 | Capparaceae | 山柑科 | 4
+ | 10159 | Caprifoliaceae | 忍冬科 | 5
+ | 10160 | Cardiopteridaceae | 心翼果科 | 1
+ | 10161 | Caricaceae | 番木瓜科 | 1
+ | 10162 | Carlemanniaceae | 香茜科 | 2
+ | 10166 | Caryophyllaceae | 石竹科 | 30
+ | 10167 | Casuarinaceae | 木麻黄科 | 1
+ | 10170 | Celastraceae | 卫矛科 | 14
+ | 10171 | Centrolepidaceae | 刺鳞草科 | 1
+ | 10174 | Cephalotaxaceae | 三尖杉科 | 1
+ | 10178 | Ceratophyllaceae | 金鱼藻科 | 1
+ | 10180 | Cercidiphyllaceae | 连香树科 | 1
+ | 10185 | Chenopodiaceae | 藜科 | 42
+ | 10187 | Chloranthaceae | 金粟兰科 | 3
+ | 20904 | Cibotiaceae | 金毛狗蕨科 | 1
+ | 10193 | Circaeasteraceae | 星叶草科 | 1
+ | 10194 | Cistaceae | 半日花科 | 1
+ | 10199 | Cleomaceae | 白花菜科 | 5
+ | 10200 | Clethraceae | 桤叶树科 | 1
+ | 10203 | Clusiaceae | 藤黄科 | 8
+ | 10205 | Cneoraceae | 牛筋果科 | 1
+ | 10211 | Combretaceae | 使君子科 | 6
+ | 10212 | Commelinaceae | 鸭跖草科 | 15
+ | 10214 | Connaraceae | 牛栓藤科 | 6
+ | 10216 | Convolvulaceae | 旋花科 | 20
+ | 10218 | Coriariaceae | 马桑科 | 1
+ | 10219 | Cornaceae | 山茱萸科 | 7
+ | 10220 | Corsiaceae | 白玉簪科 | 1
+ | 10224 | Costaceae | 闭鞘姜科 | 1
+ | 10225 | Crassulaceae | 景天科 | 13
+ | 10229 | Crypteroniaceae | 隐翼科 | 1
+ | 10233 | Cucurbitaceae | 葫芦科 | 35
+ | 10237 | Cupressaceae | 柏科 | 8
+ | 10240 | Cyatheaceae | 桫椤科 | 2
+ | 10241 | Cycadaceae | 苏铁科 | 1
+ | 10244 | Cymodoceaceae | 丝粉藻科 | 3
+ | 10245 | Cynomoriaceae | 锁阳科 | 1
+ | 10246 | Cyperaceae | 莎草科 | 110
+ | 20903 | Cystopteridaceae | 冷蕨科 | 4
+ | 10254 | Daphniphyllaceae | 交让木科 | 1
+ | 10256 | Davalliaceae | 骨碎补科 | 4
+ | 10262 | Dennstaedtiaceae | 碗蕨科 | 7
+ | 10265 | Diapensiaceae | 岩梅科 | 3
+ | 10267 | Dichapetalaceae | 毒鼠子科 | 1
+ | 20466 | Diervillaceae | 锦带花科 | 1
+ | 10277 | Dilleniaceae | 五桠果科 | 2
+ | 10280 | Dioscoreaceae | 薯蓣科 | 1
+ | 20095 | Dipentodontaceae | 十齿花科 | 2
+ | 20902 | Diplaziopsidaceae | 肠蕨科 | 1
+ | 10282 | Dipsacaceae | 川续断科 | 4
+ | 10283 | Dipteridaceae | 双扇蕨科 | 2
+ | 10284 | Dipterocarpaceae | 龙脑香科 | 5
+ | 10290 | Droseraceae | 茅膏菜科 | 2
+ | 10291 | Dryopteridaceae | 鳞毛蕨科 | 69
+ | 10293 | Ebenaceae | 柿树科 | 1
+ | 10298 | Elaeagnaceae | 胡颓子科 | 2
+ | 10299 | Elaeocarpaceae | 杜英科 | 2
+ | 10302 | Elatinaceae | 沟繁缕科 | 2
+ | 10313 | Ephedraceae | 麻黄科 | 1
+ | 10315 | Equisetaceae | 木贼科 | 1
+ | 10316 | Ericaceae | 杜鹃花科 | 88
+ | 10317 | Eriocaulaceae | 谷精草科 | 1
+ | 10322 | Erythroxylaceae | 古柯科 | 2
+ | 10325 | Eucommiaceae | 杜仲科 | 1
+ | 10327 | Euphorbiaceae | 大戟科 | 75
+ | 10329 | Eupteleaceae | 领春木科 | 1
+ | 10335 | Fabaceae | 豆科 | 201
+ | 10338 | Fagaceae | 壳斗科 | 7
+ | 10343 | Flacourtiaceae | 大风子科 | 12
+ | 10344 | Flagellariaceae | 须叶藤科 | 1
+ | 10349 | Frankeniaceae | 瓣鳞花科 | 1
+ | 10362 | Gentianaceae | 龙胆科 | 33
+ | 10367 | Geraniaceae | 牻牛儿苗科 | 2
+ | 10368 | Gesneriaceae | 苦苣苔科 | 59
+ | 10370 | Ginkgoaceae | 银杏科 | 1
+ | 10373 | Gleicheniaceae | 里白科 | 3
+ | 10375 | Gnetaceae | 买麻藤科 | 1
+ | 10380 | Goodeniaceae | 草海桐科 | 2
+ | 10394 | Haloragaceae | 小二仙草科 | 2
+ | 10396 | Hamamelidaceae | 金缕梅科 | 18
+ | 20143 | Helwingiaceae | 青荚叶科 | 1
+ | 10407 | Hernandiaceae | 莲叶桐科 | 2
+ | 10412 | Hippocastanaceae | 七叶树科 | 2
+ | 10414 | Hippuridaceae | 杉叶藻科 | 1
+ | 10426 | Hydrocharitaceae | 水鳖科 | 11
+ | 10428 | Hydrophyllaceae | 田基麻科 | 1
+ | 10433 | Hymenophyllaceae | 膜蕨科 | 7
+ | 10440 | Hypodematiaceae | 肿足蕨科 | 2
+ | 10447 | Icacinaceae | 茶茱萸科 | 12
+ | 10450 | Illiciaceae | 八角科 | 1
+ | 10452 | Iridaceae | 鸢尾科 | 3
+ | 20790 | Isoetaceae | 水韭科 | 
+ | 10454 | Isoëtaceae | 水韭科 | 1
+ | 10460 | Juglandaceae | 胡桃科 | 7
+ | 10462 | Juncaceae | 灯心草科 | 2
+ | 10463 | Juncaginaceae | 水麦冬科 | 1
+ | 10476 | Lamiaceae | 唇形科 | 97
+ | 10477 | Lardizabalaceae | 木通科 | 7
+ | 10479 | Lauraceae | 樟科 | 25
+ | 10482 | Lecythidaceae | 玉蕊科 | 1
+ | 10484 | Leeaceae | 火筒树科 | 1
+ | 10488 | Lemnaceae | 浮萍科 | 4
+ | 10490 | Lentibulariaceae | 狸藻科 | 2
+ | 10507 | Liliaceae | 百合科 | 58
+ | 10510 | Linaceae | 亚麻科 | 4
+ | 10511 | Lindsaeaceae | 鳞始蕨科 | 4
+ | 20472 | Linnaeaceae | 北极花科 | 6
+ | 10515 | Loganiaceae | 马钱科 | 8
+ | 10516 | Lomariopsidaceae | 藤蕨科 | 2
+ | 10520 | Loranthaceae | 桑寄生科 | 8
+ | 10521 | Lowiaceae | 兰花蕉科 | 1
+ | 10527 | Lycopodiaceae | 石松科 | 10
+ | 10528 | Lygodiaceae | 海金沙科 | 1
+ | 10529 | Lythraceae | 千屈菜科 | 10
+ | 10530 | Magnoliaceae | 木兰科 | 13
+ | 10533 | Malpighiaceae | 金虎尾科 | 4
+ | 10534 | Malvaceae | 锦葵科 | 19
+ | 10535 | Marantaceae | 竹竽科 | 4
+ | 10536 | Marattiaceae | 合囊蕨科 | 3
+ | 10539 | Marsileaceae | 蘋科 | 1
+ | 10540 | Martyniaceae | 角胡麻科 | 1
+ | 20180 | Mastixiaceae | 单室茱萸科 | 2
+ | 10554 | Melastomataceae | 野牡丹科 | 21
+ | 10555 | Meliaceae | 楝科 | 17
+ | 10561 | Menispermaceae | 防己科 | 19
+ | 10562 | Menyanthaceae | 睡菜科 | 2
+ | 20193 | Molluginaceae | 粟米草科 | 3
+ | 10583 | Moraceae | 桑科 | 9
+ | 10584 | Morinaceae | 刺参科 | 2
+ | 10585 | Moringaceae | 辣木科 | 1
+ | 10588 | Musaceae | 芭蕉科 | 3
+ | 10592 | Myoporaceae | 苦槛蓝科 | 1
+ | 10594 | Myricaceae | 杨梅科 | 1
+ | 10596 | Myristicaceae | 肉豆蔻科 | 3
+ | 10598 | Myrsinaceae | 紫金牛科 | 6
+ | 10599 | Myrtaceae | 桃金娘科 | 10
+ | 10608 | Nelumbonaceae | 莲科 | 1
+ | 10610 | Nepenthaceae | 猪笼草科 | 1
+ | 10611 | Nephrolepidaceae | 肾蕨科 | 1
+ | 20209 | Nitrariaceae | 白刺科 | 1
+ | 10617 | Nyctaginaceae | 紫茉莉科 | 6
+ | 10618 | Nymphaeaceae | 睡莲科 | 3
+ | 10619 | Nyssaceae | 蓝果树科 | 3
+ | 10620 | Ochnaceae | 金莲木科 | 3
+ | 10624 | Olacaceae | 铁青树科 | 5
+ | 10625 | Oleaceae | 木犀科 | 10
+ | 10626 | Oleandraceae | 条蕨科 | 1
